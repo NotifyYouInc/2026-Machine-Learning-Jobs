@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Grapevine, Texas, United States |
+| Location | Bentonville, Arkansas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Grapevine-TX/Senior--Data-Scientist_R-2367332-1) |
+| Posted | 2026-02-04 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2375134) |
 
 ## About This Role
 
-This machine learning engineer position at Walmart was posted on 2026-02-02.
+This machine learning engineer position at Walmart was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 
