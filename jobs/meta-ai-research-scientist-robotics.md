@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# AI Research Scientist, Robotics at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karnataka, IN |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=67730) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1331758117918513) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-04.
+This machine learning engineer position at Meta was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

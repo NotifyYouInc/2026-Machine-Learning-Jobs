@@ -1,16 +1,16 @@
-# AI software engineer intern at Intel
+# Android Software Engineer at Bjak
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Indonesia |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-software-engineer-intern_JR0280531) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/d883246e-d573-4e03-94fb-46795b311f90) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-02-04.
+This software engineer position at Bjak was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

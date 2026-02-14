@@ -1,16 +1,16 @@
-# AI software engineer intern at Intel
+# AI Engineer (m/f/n) at INPOST
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-software-engineer-intern_JR0280531) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000107723306-ai-engineer-mfn) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-02-04.
+This software engineer position at INPOST was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

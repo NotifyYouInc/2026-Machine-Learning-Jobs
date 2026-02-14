@@ -1,16 +1,16 @@
-# AI software engineer intern at Intel
+# Senior Staff Engineer at Graphcore
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Graphcore](https://scoutify.ai/companies/graphcore?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bristol, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-software-engineer-intern_JR0280531) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8408498002) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-02-04.
+This software engineer position at Graphcore was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# AI software engineer intern at Intel
+# Software Engineering Manager at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Menlo Park, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-software-engineer-intern_JR0280531) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1453487756201276) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-02-04.
+This software engineer position at Meta was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

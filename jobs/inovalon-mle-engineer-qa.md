@@ -1,16 +1,16 @@
-# AI software engineer intern at Intel
+# MLE Engineer (QA) at Inovalon
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-software-engineer-intern_JR0280531) |
+| Posted | 2026-02-07 |
+| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7539392003) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-02-04.
+This software engineer position at Inovalon was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

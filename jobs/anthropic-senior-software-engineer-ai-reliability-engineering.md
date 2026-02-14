@@ -5,12 +5,12 @@
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/4608196008) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5101169008) |
 
 ## About This Role
 
-This software engineer position at Anthropic was posted on 2026-02-03.
+This software engineer position at Anthropic was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

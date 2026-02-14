@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Senior Data Scientist at Blue Origin
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karnataka, IN |
+| Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Florida, US |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=67730) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Senior-Data-Scientist_R60083) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-04.
+This machine learning engineer position at Blue Origin was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

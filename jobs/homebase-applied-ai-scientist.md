@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Applied AI Scientist at Homebase
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karnataka, IN |
+| Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=67730) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/homebase/fcb18ead-20a7-4212-8b94-23bce73570b5) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-04.
+This machine learning engineer position at Homebase was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

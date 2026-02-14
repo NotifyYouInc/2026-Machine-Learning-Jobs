@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Applied Scientist II at UiPath
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karnataka, IN |
+| Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bucharest, București, Romania |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=67730) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/7efec871-1ce8-470a-bae1-4c2341a4723f) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-04.
+This machine learning engineer position at UiPath was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

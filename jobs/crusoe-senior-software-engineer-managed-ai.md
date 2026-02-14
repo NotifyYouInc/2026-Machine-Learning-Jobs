@@ -1,16 +1,16 @@
-# AI software engineer intern at Intel
+# Senior Software Engineer, Managed AI at Crusoe
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Crusoe](https://scoutify.ai/companies/crusoe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-software-engineer-intern_JR0280531) |
+| Posted | 2026-02-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/e726109d-5c4f-478b-a80f-cb277455484a) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-02-04.
+This software engineer position at Crusoe was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 
