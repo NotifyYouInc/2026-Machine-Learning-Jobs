@@ -1,16 +1,16 @@
-# (USA) Staff, Software Engineer at Walmart
+# Senior Staff Engineer (FastAPI) at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | India |
 | Category | Software Engineer |
 | Posted | 2026-02-07 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Staff--Software-Engineer_R-2402991-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000107884295-senior-staff-engineer-fastapi) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-07.
+This software engineer position at Nagarro was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 
