@@ -5,12 +5,12 @@
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Almaty, Almaty, Kazakhstan |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000107314986-full-stack-net-developer-ai-solutions) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000107456875-full-stack-net-developer-ai-solutions) |
 
 ## About This Role
 
-This software engineer position at Psi Cro was posted on 2026-02-04.
+This software engineer position at Psi Cro was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

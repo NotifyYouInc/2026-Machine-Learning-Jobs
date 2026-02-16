@@ -1,16 +1,16 @@
-# Staff Machine Learning Engineer, LLM - Moveworks at ServiceNow
+# Learning Enablement Partner - AI, Product, Engineering and Experience (APEX) at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mountain View, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107609391-staff-machine-learning-engineer-llm-moveworks) |
+| Location | Orlando, Florida, United States |
+| Category | Operations |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108224625-learning-enablement-partner-ai-product-engineering-and-experience-apex) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-05.
+This operations position at ServiceNow was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Machine Learning Engineer, LLM - Moveworks at ServiceNow
+# Senior Software Engineer, AI/ML, Search at Google
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107609391-staff-machine-learning-engineer-llm-moveworks) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/132296892414337734-senior-software-engineer-aiml-search?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-05.
+This software engineer position at Google was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
