@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/homebase/9e4ddfec-a157-4a33-a1f7-8132ee151e55) |
 
 ## About This Role
 
-This software engineer position at Homebase was posted on 2026-02-06.
+This devops engineer position at Homebase was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

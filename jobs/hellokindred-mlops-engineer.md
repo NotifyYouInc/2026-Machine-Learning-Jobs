@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011570386-mlops-engineer) |
 
 ## About This Role
 
-This software engineer position at HelloKindred was posted on 2026-02-06.
+This devops engineer position at HelloKindred was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

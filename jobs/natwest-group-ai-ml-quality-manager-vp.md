@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Quality-Manager--VP_R-00263559-1) |
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000107528450-consultant-senior-mlops-engineer) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-02-05.
+This devops engineer position at Talan was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

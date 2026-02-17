@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [The New York Times](https://scoutify.ai/companies/thenewyorktimes?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4655096005) |
 

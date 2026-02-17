@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Bellevue, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7589781?gh_jid=7589781) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7599857?gh_jid=7599857) |
 
 ## About This Role
 
-This software engineer position at Okta was posted on 2026-02-04.
+This software engineer position at Okta was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

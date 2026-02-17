@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Karnataka, IN |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Software-Engineer---AI-Driven-Automation---Ansible-_R-053215-1) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-02-05.
+This devops engineer position at Red Hat was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

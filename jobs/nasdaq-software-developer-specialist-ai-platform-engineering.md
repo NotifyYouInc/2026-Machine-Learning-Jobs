@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Karnataka, IN |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/India---Bangalore---Karnataka/Software-Developer-Specialist---AI-Platform-Engineering_R0025044) |
 
 ## About This Role
 
-This software engineer position at Nasdaq was posted on 2026-02-05.
+This devops engineer position at Nasdaq was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

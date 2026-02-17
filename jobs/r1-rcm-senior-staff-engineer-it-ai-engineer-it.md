@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Chennai-India/Senior-Staff-Engineer---IT--AI-Engineer---IT-_R260000000658) |
 
 ## About This Role
 
-This software engineer position at R1 Rcm was posted on 2026-02-05.
+This devops engineer position at R1 Rcm was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

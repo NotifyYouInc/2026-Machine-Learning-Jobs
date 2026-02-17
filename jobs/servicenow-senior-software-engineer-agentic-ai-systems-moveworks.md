@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107401945-senior-software-engineer-agentic-ai-systems-moveworks) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107606742-senior-software-engineer-agentic-ai-systems-moveworks) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-04.
+This software engineer position at ServiceNow was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

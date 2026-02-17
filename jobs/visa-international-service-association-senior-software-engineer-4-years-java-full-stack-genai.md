@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-08 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108000895-senior-software-engineer-4-years-java-full-stack-genai) |
 
 ## About This Role
 
-This software engineer position at Visa International Service Association was posted on 2026-02-08.
+This devops engineer position at Visa International Service Association was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000107622015-ai-automation-engineer-agentops) |
 
 ## About This Role
 
-This software engineer position at bet365 was posted on 2026-02-05.
+This devops engineer position at bet365 was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

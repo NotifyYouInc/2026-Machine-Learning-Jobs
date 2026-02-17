@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WhatNot](https://scoutify.ai/companies/whatnot?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/cb4e987c-b3ea-4117-b91c-75c61b83a7dc) |
 
 ## About This Role
 
-This software engineer position at WhatNot was posted on 2026-02-05.
+This devops engineer position at WhatNot was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

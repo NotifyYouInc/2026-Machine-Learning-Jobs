@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/Senior-AI-Platform-Engineer_R000108530) |
 
 ## About This Role
 
-This software engineer position at Guardian Life was posted on 2026-02-09.
+This devops engineer position at Guardian Life was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

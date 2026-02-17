@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NT Concepts](https://scoutify.ai/companies/ntconcepts?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ntconcepts/jobs/5792414004) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ntconcepts/jobs/5792441004) |
 
 ## About This Role
 
-This software engineer position at NT Concepts was posted on 2026-02-04.
+This software engineer position at NT Concepts was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
