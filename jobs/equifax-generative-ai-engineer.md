@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Atlanta---One-Atlantic-Center/Generative-AI-Engineer_J00174408-1) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Atlanta---One-Atlantic-Center/Generative-AI-Engineer_J00174708) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-02-02.
+This software engineer position at Equifax was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

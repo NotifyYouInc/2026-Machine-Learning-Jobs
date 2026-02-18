@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
 | Category | Program Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000107584510-research-manager-multimodal-ai) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000107784616-research-manager-multimodal-ai) |
 
 ## About This Role
 
-This program manager position at Robert Bosch was posted on 2026-02-05.
+This program manager position at Robert Bosch was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

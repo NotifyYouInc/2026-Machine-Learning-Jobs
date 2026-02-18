@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Brisbane, Queensland, Australia |
 | Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7586661?gh_jid=7586661) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7599880?gh_jid=7599880) |
 
 ## About This Role
 
-This software engineer position at Thoughtworks was posted on 2026-02-03.
+This software engineer position at Thoughtworks was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000107521565-senior-analyst-data-science) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000108151706-senior-analyst-data-science) |
 
 ## About This Role
 
-This data engineer position at METRO/MAKRO was posted on 2026-02-05.
+This data engineer position at METRO/MAKRO was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

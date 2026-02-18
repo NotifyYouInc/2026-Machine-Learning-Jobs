@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Riga, Riga, Latvia |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000107314398-full-stack-developer-ai-solutions) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000108458325-full-stack-developer-ai-solutions) |
 
 ## About This Role
 
-This software engineer position at Psi Cro was posted on 2026-02-04.
+This software engineer position at Psi Cro was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

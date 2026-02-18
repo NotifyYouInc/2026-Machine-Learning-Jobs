@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Forter](https://scoutify.ai/companies/forter?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/forter/jobs/8401424002) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/forter/jobs/8415897002) |
 
 ## About This Role
 
-This software engineer position at Forter was posted on 2026-02-03.
+This software engineer position at Forter was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
