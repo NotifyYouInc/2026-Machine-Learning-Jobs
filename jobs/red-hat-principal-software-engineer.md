@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/Principal-Software-Engineer_R-054498) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Principal-Software-Engineer_R-053389) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-02-02.
+This software engineer position at Red Hat was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

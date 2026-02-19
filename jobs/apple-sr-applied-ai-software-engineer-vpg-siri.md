@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Los Angeles, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200645852-3337/sr-applied-ai-software-engineer-vpg-siri?team=SFTWR) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646379-2605/sr-applied-ai-software-engineer-vpg-siri?team=SFTWR) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-02-09.
+This software engineer position at Apple was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

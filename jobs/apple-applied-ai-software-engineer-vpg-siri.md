@@ -1,16 +1,16 @@
-# Applied AI Software Engineer- VPG & Siri at Apple
+# Applied AI Software Engineer - VPG & Siri at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | California, US |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200645788-3401/applied-ai-software-engineer-vpg-siri?team=SFTWR) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646545-3956/applied-ai-software-engineer-vpg-siri?team=SFTWR) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-02-09.
+This software engineer position at Apple was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 
