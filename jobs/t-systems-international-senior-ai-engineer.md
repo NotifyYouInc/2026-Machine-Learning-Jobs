@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Spain |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000108156333-senior-ai-engineer) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000108441686-senior-ai-engineer) |
 
 ## About This Role
 
-This software engineer position at T-Systems International was posted on 2026-02-09.
+This software engineer position at T-Systems International was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

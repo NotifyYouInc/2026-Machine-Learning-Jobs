@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000108296122-research-scientist-multi-modal-sensing-ai) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000108580905-research-scientist-multi-modal-sensing-ai) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-02-09.
+This machine learning engineer position at Robert Bosch was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

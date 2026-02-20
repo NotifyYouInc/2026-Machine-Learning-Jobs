@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Israel |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000107334926-senior-ai-software-engineer-ai-agent-group) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109004096-senior-ai-software-engineer-ai-agent-group) |
 
 ## About This Role
 
-This software engineer position at CyberArk Software was posted on 2026-02-04.
+This software engineer position at CyberArk Software was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

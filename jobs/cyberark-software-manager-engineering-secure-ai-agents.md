@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000107774975-manager-engineering-secure-ai-agents) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000108975635-manager-engineering-secure-ai-agents) |
 
 ## About This Role
 
-This software engineer position at CyberArk Software was posted on 2026-02-06.
+This technical & solutions architect position at CyberArk Software was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

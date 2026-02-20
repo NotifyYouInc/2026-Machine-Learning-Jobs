@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000108418395-junior-data-scientist-1-year-contract-renewable) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000109130477-junior-data-scientist-1-year-contract-renewable) |
 
 ## About This Role
 
-This machine learning engineer position at Veolia was posted on 2026-02-10.
+This machine learning engineer position at Veolia was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

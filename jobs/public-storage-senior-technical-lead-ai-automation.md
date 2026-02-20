@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Glendale, Arizona, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000108293415-senior-technical-lead-ai-automation) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000108555271-senior-technical-lead-ai-automation) |
 
 ## About This Role
 
-This software engineer position at Public Storage was posted on 2026-02-09.
+This software engineer position at Public Storage was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
