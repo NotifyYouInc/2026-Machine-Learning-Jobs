@@ -1,16 +1,16 @@
-# AI Research Scientist- Advanced Driver Assistance Systems (ADAS) at Robert Bosch
+# AI Research Scientist – Advanced Driver-Assistance Systems (ADAS) at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000108629365-ai-research-scientist-advanced-driver-assistance-systems-adas) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109142855-ai-research-scientist-advanced-driver-assistance-systems-adas) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-02-10.
+This machine learning engineer position at Robert Bosch was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

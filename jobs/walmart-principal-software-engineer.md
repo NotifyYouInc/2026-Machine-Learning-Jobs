@@ -1,16 +1,16 @@
-# Principal, Software Engineer at Walmart
+# PRINCIPAL, SOFTWARE ENGINEER at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/Principal--Software-Engineer_R-2406939) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/PRINCIPAL--SOFTWARE-ENGINEER_R-2399009) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-11.
+This software engineer position at Walmart was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

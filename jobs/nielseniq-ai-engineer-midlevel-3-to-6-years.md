@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107223816-ai-engineer-midlevel-3-to-6-years) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000109238765-ai-engineer-midlevel-3-to-6-years) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-04.
+This software engineer position at NielsenIQ was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

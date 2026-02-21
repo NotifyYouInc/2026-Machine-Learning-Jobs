@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Tempe, Arizona, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8417682002) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8418706002) |
 
 ## About This Role
 
-This technical & solutions architect position at Dialpad was posted on 2026-02-10.
+This technical & solutions architect position at Dialpad was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

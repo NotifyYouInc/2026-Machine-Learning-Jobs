@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United Kingdom |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7601689&gh_jid=7601689) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7607123&gh_jid=7607123) |
 
 ## About This Role
 
-This software engineer position at Elastic was posted on 2026-02-10.
+This software engineer position at Elastic was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 
