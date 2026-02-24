@@ -1,16 +1,16 @@
-# Senior Software Engineer at AECOM
+# Sr. Python Developer at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000108980895-senior-software-engineer) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Sr-Python-Developer_JR00018048) |
 
 ## About This Role
 
-This software engineer position at AECOM was posted on 2026-02-12.
+This software engineer position at ABB was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

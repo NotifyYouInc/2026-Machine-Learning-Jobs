@@ -1,16 +1,16 @@
-# Software Development Engineer III at Expedia
+# Distinguished Scientist, Agentic Applications - Traveler Experience at Expedia
 
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-III_R-101417-1) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Distinguished-Scientist--Agentic-Applications---Traveler-Experience_R-99694) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-02-16.
+This ai / llm engineer position at Expedia was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

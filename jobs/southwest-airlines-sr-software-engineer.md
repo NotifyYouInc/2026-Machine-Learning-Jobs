@@ -1,16 +1,16 @@
-# Software Development Engineer III at Expedia
+# Sr Software Engineer at Southwest Airlines
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
+| Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Dallas, Texas, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-III_R-101417-1) |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Sr-Software-Engineer_R-2025-61114) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-02-16.
+This software engineer position at Southwest Airlines was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

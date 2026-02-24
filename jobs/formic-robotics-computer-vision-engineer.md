@@ -1,16 +1,16 @@
-# Senior Software Engineer at AECOM
+# Robotics Computer Vision Engineer at Formic
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Formic](https://scoutify.ai/companies/formic?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000108980895-senior-software-engineer) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/formic/jobs/4654814006) |
 
 ## About This Role
 
-This software engineer position at AECOM was posted on 2026-02-12.
+This software engineer position at Formic was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer at AECOM
+# Senior Software Engineer (Fullstack) at Clarion
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Clarion](https://scoutify.ai/companies/clarion?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000108980895-senior-software-engineer) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clarion/c00069fc-5d58-4108-9288-78ec9d66025f) |
 
 ## About This Role
 
-This software engineer position at AECOM was posted on 2026-02-12.
+This software engineer position at Clarion was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

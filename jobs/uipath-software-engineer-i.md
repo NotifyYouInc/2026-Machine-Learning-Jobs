@@ -1,16 +1,16 @@
-# Senior Software Engineer at AECOM
+# Software Engineer I  at UiPath
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Manchester, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000108980895-senior-software-engineer) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/10473afc-6e1e-4aa3-a9e5-a434a952fcc4) |
 
 ## About This Role
 
-This software engineer position at AECOM was posted on 2026-02-12.
+This software engineer position at UiPath was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 
