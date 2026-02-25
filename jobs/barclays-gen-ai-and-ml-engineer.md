@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Gen-AI-and-ML-Engineer_JR-0000088926) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Gen-AI-and-ML-Engineer_JR-0000089046-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-05.
+This ai / llm engineer position at Barclays was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

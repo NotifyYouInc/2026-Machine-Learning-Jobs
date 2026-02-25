@@ -6,7 +6,7 @@
 | Location | Durham, North Carolina, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000108883105-computational-biologist-deep-learning) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000109038281-computational-biologist-deep-learning) |
 
 ## About This Role
 

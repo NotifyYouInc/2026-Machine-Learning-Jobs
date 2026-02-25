@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Sr-Data-Scientist_JR0140343) |
+| Location | Mississauga, Ontario, Canada |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Mississauga-ON-CAN---2300-Meadowvale-Blvd-MC74/Sr-Data-Scientist_JR0140442) |
 
 ## About This Role
 
-This data engineer position at McKesson was posted on 2026-02-11.
+This machine learning engineer position at McKesson was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

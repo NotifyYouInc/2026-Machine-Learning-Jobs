@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8342481002?gh_jid=8342481002) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8342478002?gh_jid=8342478002) |
 
 ## About This Role
 
-This software engineer position at Point72 was posted on 2026-02-11.
+This machine learning engineer position at Point72 was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 
