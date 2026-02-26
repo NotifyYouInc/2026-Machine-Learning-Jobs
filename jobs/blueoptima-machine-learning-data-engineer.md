@@ -5,12 +5,12 @@
 | Company | [BlueOptima](https://scoutify.ai/companies/blueoptima?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
 | Category | Data Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BlueOptima/744000107794508-machine-learning-data-engineer) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BlueOptima/744000109877857-machine-learning-data-engineer) |
 
 ## About This Role
 
-This data engineer position at BlueOptima was posted on 2026-02-06.
+This data engineer position at BlueOptima was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

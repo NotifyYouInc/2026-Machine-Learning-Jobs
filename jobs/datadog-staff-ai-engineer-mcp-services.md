@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/7584905/?gh_jid=7584905) |
+| Location | Portugal |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/7627410/?gh_jid=7627410) |
 
 ## About This Role
 
-This software engineer position at Datadog was posted on 2026-02-03.
+This ai / llm engineer position at Datadog was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

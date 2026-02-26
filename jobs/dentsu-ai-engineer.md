@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Pune---Kharadi-EON-Free-Zone/AI-Engineer_R1111608-5) |
+| Location | Lisbon, Lisbon, Portugal |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Lisbon/AI-Engineer_R1115877) |
 
 ## About This Role
 
-This software engineer position at Dentsu was posted on 2026-02-03.
+This ai / llm engineer position at Dentsu was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

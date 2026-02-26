@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=77727) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93489) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-13.
+This machine learning engineer position at IBM was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 
