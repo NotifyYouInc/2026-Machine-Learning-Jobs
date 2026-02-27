@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000109689526-deep-learning-engineer-intern-4d-computer-vision-neural-rendering) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000110095554-deep-learning-engineer-intern-4d-computer-vision-neural-rendering) |
 
 ## About This Role
 
-This machine learning engineer position at Aumovio was posted on 2026-02-17.
+This machine learning engineer position at Aumovio was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

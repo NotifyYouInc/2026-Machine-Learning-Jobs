@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Data-Scientist_R-00272379-1) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Data-Scientist_R-00273468-1) |
 
 ## About This Role
 
-This machine learning engineer position at NatWest Group was posted on 2026-02-04.
+This machine learning engineer position at NatWest Group was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
