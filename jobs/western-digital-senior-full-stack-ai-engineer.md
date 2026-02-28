@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Irvine, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109770353-senior-full-stack-ai-engineer) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000110049834-senior-full-stack-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Western Digital was posted on 2026-02-17.
+This ai / llm engineer position at Western Digital was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

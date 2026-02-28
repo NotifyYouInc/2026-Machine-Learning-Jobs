@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Colorado, US |
-| Category | AI / ML Research |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Buckley-AFB-CO/Data-Scientist_R0234101) |
+| Location | San Diego, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Data-Scientist_R0234221) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-02-17.
+This machine learning engineer position at Booz Allen was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

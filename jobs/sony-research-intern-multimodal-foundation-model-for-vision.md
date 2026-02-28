@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sony](https://scoutify.ai/companies/sony?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | 3 locations |
 | Category | AI / ML Research |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Virginia/Research-Intern---Multimodal-Foundation-Model-for-Vision_JR-118266) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern--Vision-Foundation-Model-and-Generative-AI_JR-118794) |
 
 ## About This Role
 
-This ai / ml research position at Sony was posted on 2026-02-17.
+This ai / ml research position at Sony was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

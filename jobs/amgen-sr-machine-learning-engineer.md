@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Machine-Learning-Engineer_R-236582-1) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Sr-Machine-Learning-Engineer_R-236182) |
 
 ## About This Role
 
-This software engineer position at Amgen was posted on 2026-02-11.
+This machine learning engineer position at Amgen was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 
