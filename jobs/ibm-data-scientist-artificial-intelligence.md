@@ -6,7 +6,7 @@
 | Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94442) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94668) |
 
 ## About This Role
 

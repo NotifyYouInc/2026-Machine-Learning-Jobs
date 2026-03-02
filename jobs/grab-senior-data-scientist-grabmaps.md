@@ -1,16 +1,16 @@
-# AI Engineer at IFS
+# Senior Data Scientist (GrabMaps) at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000110309127-ai-engineer) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000110663919-senior-data-scientist-grabmaps) |
 
 ## About This Role
 
-This ai / llm engineer position at IFS was posted on 2026-02-20.
+This ai / llm engineer position at Grab was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff AI/ML Engineer at Sigma Computing
+# MLOps Engineer at Version 1
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Pune, Maharashtra, India |
+| Category | DevOps Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639798003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000110679465-mlops-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Sigma Computing was posted on 2026-02-23.
+This devops engineer position at Version 1 was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

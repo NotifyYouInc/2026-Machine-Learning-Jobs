@@ -6,7 +6,7 @@
 | Location | Montpellier, Occitanie, France |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000109921835-senior-data-scientist-fraud-montpellier-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000109941346-senior-data-scientist-fraud-montpellier-hf) |
 
 ## About This Role
 

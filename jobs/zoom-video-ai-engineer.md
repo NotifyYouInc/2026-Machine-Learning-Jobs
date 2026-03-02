@@ -1,16 +1,16 @@
-# AI Engineer at IFS
+# Video AI Engineer at Zoom
 
 | Field | Details |
 |-------|---------|
-| Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
+| Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000110309127-ai-engineer) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Singapore-SGP/Video-AI-Engineer_R17667-1) |
 
 ## About This Role
 
-This ai / llm engineer position at IFS was posted on 2026-02-20.
+This ai / llm engineer position at Zoom was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

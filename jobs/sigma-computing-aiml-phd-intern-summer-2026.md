@@ -1,16 +1,16 @@
-# Staff AI/ML Engineer at Sigma Computing
+# AI/ML PhD Intern (Summer 2026) at Sigma Computing
 
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Location | San Francisco, California, United States |
+| Category | AI / ML Research |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639798003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639778003) |
 
 ## About This Role
 
-This ai / llm engineer position at Sigma Computing was posted on 2026-02-23.
+This ai / ml research position at Sigma Computing was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

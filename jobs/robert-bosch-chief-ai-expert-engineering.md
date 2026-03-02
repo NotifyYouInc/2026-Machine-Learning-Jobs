@@ -1,16 +1,16 @@
-# AI Engineer at IFS
+# Chief AI Expert – Engineering at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000110309127-ai-engineer) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000110671245-chief-ai-expert-engineering) |
 
 ## About This Role
 
-This ai / llm engineer position at IFS was posted on 2026-02-20.
+This ai / llm engineer position at Robert Bosch was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

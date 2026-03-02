@@ -1,16 +1,16 @@
-# Staff AI/ML Engineer at Sigma Computing
+# Senior Research Scientist at MongoDB
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Sydney, New South Wales, Australia |
+| Category | AI / ML Research |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639798003) |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7604302) |
 
 ## About This Role
 
-This ai / llm engineer position at Sigma Computing was posted on 2026-02-23.
+This ai / ml research position at MongoDB was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
