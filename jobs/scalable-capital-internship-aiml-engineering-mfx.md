@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Berlin, State of Berlin, Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000109942005-internship-aiml-engineering-mfx) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000110695370-internship-aiml-engineering-mfx) |
 
 ## About This Role
 
-This ai / llm engineer position at Scalable Capital was posted on 2026-02-18.
+This ai / llm engineer position at Scalable Capital was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

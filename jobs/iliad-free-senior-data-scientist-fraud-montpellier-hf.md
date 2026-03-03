@@ -5,12 +5,12 @@
 | Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montpellier, Occitanie, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000109941346-senior-data-scientist-fraud-montpellier-hf) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000110389105-senior-data-scientist-fraud-montpellier-hf) |
 
 ## About This Role
 
-This machine learning engineer position at Iliad-Free was posted on 2026-02-18.
+This machine learning engineer position at Iliad-Free was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

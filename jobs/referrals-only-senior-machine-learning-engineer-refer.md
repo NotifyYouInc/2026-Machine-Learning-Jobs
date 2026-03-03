@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7588107) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7634873) |
 
 ## About This Role
 
-This software engineer position at Referrals Only was posted on 2026-02-04.
+This machine learning engineer position at Referrals Only was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

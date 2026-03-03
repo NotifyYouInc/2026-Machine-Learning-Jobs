@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---ENG---LONDON/AI-Engineer_51559560) |
+| Location | 3 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---NBL---NEWCASTLE/AI-Engineer_51559558) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-02-05.
+This ai / llm engineer position at DXC Technology was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

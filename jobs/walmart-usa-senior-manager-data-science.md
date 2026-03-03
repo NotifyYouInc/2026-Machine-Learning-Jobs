@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bentonville, Arkansas, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Senior-Manager--Data-Science_R-2413770-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Senior-Manager--Data-Science_R-2362148-1) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-12.
+This ai / llm engineer position at Walmart was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

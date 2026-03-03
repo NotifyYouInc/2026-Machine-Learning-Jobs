@@ -5,12 +5,12 @@
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/XMLNAME-2026-Summer-AI-Engineering-Intern_REQ340335) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/XMLNAME-2026-Summer-AI-Engineering-Intern_REQ343396) |
 
 ## About This Role
 
-This ai / llm engineer position at T-Mobile was posted on 2026-02-18.
+This ai / llm engineer position at T-Mobile was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
