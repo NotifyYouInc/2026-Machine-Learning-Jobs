@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/AI-Lead-Engineer_JR-0000086864) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/AI-Lead-Engineer_JR-0000086874) |
 
 ## About This Role
 
-This ai / llm engineer position at Barclays was posted on 2026-02-19.
+This ai / llm engineer position at Barclays was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

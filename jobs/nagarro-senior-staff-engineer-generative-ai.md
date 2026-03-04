@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000110150755-senior-staff-engineer-generative-ai) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000111347295-senior-staff-engineer-generative-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at Nagarro was posted on 2026-02-19.
+This ai / llm engineer position at Nagarro was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

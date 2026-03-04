@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Singapore/Business-Intelligence-Analyst--Supply-Chain-_JR-192157) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Singapore/Business-Intelligence-Analyst--Supply-Chain-_JR-192158) |
 
 ## About This Role
 
-This operations position at Vantive was posted on 2026-02-12.
+This machine learning engineer position at Vantive was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

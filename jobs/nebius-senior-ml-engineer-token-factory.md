@@ -1,16 +1,16 @@
-# Senior ML Engineer (Token Factory) at Nebius
+# Senior ML Engineer (Token Factory)  at Nebius
 
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4780713101) |
+| Location | 4 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4790283101) |
 
 ## About This Role
 
-This software engineer position at Nebius was posted on 2026-02-11.
+This ai / llm engineer position at Nebius was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

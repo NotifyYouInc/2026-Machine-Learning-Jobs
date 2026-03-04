@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93715) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95434) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-02-18.
+This ai / llm engineer position at IBM was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

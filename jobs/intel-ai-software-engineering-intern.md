@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Penang, MY |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/AI-Software-Engineering-Intern_JR0280760) |
+| Location | Gdańsk, Pomerania, Poland |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Solutions-Engineering-Intern_JR0281254) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-02-06.
+This ai / llm engineer position at Intel was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

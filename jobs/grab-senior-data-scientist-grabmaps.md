@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000110663919-senior-data-scientist-grabmaps) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000111022854-senior-data-scientist-grabmaps) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-02-23.
+This ai / llm engineer position at Grab was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

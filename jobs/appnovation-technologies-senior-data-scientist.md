@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appnovation Technologies](https://scoutify.ai/companies/appnovation-technologies?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appnovation/jobs/8406663002) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appnovation/jobs/8435225002) |
 
 ## About This Role
 
-This machine learning engineer position at Appnovation Technologies was posted on 2026-02-05.
+This machine learning engineer position at Appnovation Technologies was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

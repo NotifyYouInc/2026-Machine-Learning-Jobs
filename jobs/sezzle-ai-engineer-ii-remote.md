@@ -1,16 +1,16 @@
-# AI engineer II (Remote) at Sezzle
+# AI Engineer II (Remote) at Sezzle
 
 | Field | Details |
 |-------|---------|
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Turkey |
+| Location | India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7633986003) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7645194003) |
 
 ## About This Role
 
-This ai / llm engineer position at Sezzle was posted on 2026-02-17.
+This ai / llm engineer position at Sezzle was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

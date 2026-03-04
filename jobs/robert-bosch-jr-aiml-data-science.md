@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109922904-jr-aiml-data-science) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111157614-jr-aiml-data-science) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-02-18.
+This machine learning engineer position at Robert Bosch was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

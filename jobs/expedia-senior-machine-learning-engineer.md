@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Senior-Machine-Learning-Engineer_R-101263) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Senior-Machine-Learning-Engineer_R-101642) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-02-11.
+This machine learning engineer position at Expedia was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

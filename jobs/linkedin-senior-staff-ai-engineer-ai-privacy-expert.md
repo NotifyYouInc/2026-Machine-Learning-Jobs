@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000110014615-senior-staff-ai-engineer-ai-privacy-expert) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000111159175-senior-staff-ai-engineer-ai-privacy-expert) |
 
 ## About This Role
 
-This ai / llm engineer position at LinkedIn was posted on 2026-02-18.
+This ai / llm engineer position at LinkedIn was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

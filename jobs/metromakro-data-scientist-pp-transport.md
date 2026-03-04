@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000110738235-data-scientist-pp-transport) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000111361415-data-scientist-pp-transport) |
 
 ## About This Role
 
-This machine learning engineer position at METRO/MAKRO was posted on 2026-02-23.
+This machine learning engineer position at METRO/MAKRO was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

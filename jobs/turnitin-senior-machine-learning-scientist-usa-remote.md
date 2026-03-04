@@ -5,12 +5,12 @@
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000110437615-senior-machine-learning-scientist-usa-remote) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000111110609-senior-machine-learning-scientist-usa-remote) |
 
 ## About This Role
 
-This ai / llm engineer position at Turnitin was posted on 2026-02-20.
+This ai / llm engineer position at Turnitin was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

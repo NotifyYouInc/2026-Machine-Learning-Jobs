@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5617948004) |
+| Location | Budapest, Budapest, Hungary |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5809239004) |
 
 ## About This Role
 
-This software engineer position at Diligent Corporation was posted on 2026-02-10.
+This ai / llm engineer position at Diligent Corporation was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
