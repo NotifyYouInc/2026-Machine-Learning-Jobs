@@ -1,16 +1,16 @@
-# Machine Learning Engineer at Entain
+# Sr. Data Science Engineer, SMAI at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000111527045-machine-learning-engineer) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Sr-Data-Science-Engineer--SMAI_JR92795) |
 
 ## About This Role
 
-This machine learning engineer position at Entain was posted on 2026-02-26.
+This machine learning engineer position at Micron was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Machine Learning Engineer at Entain
+# Machine Learning Engineer, AVP at NatWest Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000111527045-machine-learning-engineer) |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Machine-Learning-Engineer--AVP_R-00273834) |
 
 ## About This Role
 
-This machine learning engineer position at Entain was posted on 2026-02-26.
+This machine learning engineer position at NatWest Group was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

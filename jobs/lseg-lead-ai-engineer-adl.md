@@ -1,16 +1,16 @@
-# Generative AI Engineer at SIA
+# Lead AI Engineer (ADL) at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | AI / LLM Engineer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000111535646-generative-ai-engineer) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/THA-Bangkok-One-Bangkok/Lead-AI-Engineer--ADL-_R0116988-1) |
 
 ## About This Role
 
-This ai / llm engineer position at SIA was posted on 2026-02-26.
+This ai / llm engineer position at LSEG was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

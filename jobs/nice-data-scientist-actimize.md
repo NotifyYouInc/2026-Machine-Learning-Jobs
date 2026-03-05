@@ -1,16 +1,16 @@
-# Machine Learning Engineer at Grab
+# Data Scientist, Actimize at NiCE
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
-| Category | DevOps Engineer |
+| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Pune, Maharashtra, India |
+| Category | Machine Learning Engineer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000111525865-machine-learning-engineer) |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4789959101?gh_jid=4789959101) |
 
 ## About This Role
 
-This devops engineer position at Grab was posted on 2026-02-26.
+This machine learning engineer position at NiCE was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

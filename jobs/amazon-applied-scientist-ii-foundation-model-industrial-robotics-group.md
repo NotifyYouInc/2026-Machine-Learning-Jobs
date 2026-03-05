@@ -1,16 +1,16 @@
-# AI Research Scientist – GenAI at Robert Bosch
+# Applied Scientist II, Foundation Model, Industrial Robotics Group at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111459261-ai-research-scientist-genai) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3189870/applied-scientist-ii-foundation-model-industrial-robotics-group) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-02-25.
+This ai / ml research position at Amazon was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

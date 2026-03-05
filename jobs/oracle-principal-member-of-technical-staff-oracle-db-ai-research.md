@@ -1,16 +1,16 @@
-# Machine Learning Engineer at Grab
+# Principal Member of Technical Staff – Oracle DB AI Research at Oracle
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
-| Category | DevOps Engineer |
+| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
+| Category | AI / LLM Engineer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000111525865-machine-learning-engineer) |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#328628) |
 
 ## About This Role
 
-This devops engineer position at Grab was posted on 2026-02-26.
+This ai / llm engineer position at Oracle was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

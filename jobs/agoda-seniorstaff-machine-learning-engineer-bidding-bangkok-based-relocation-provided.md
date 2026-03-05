@@ -1,16 +1,16 @@
-# Machine Learning Engineer at Entain
+# Senior/Staff Machine Learning Engineer - Bidding (Bangkok based, relocation provided) at Agoda
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Agoda](https://scoutify.ai/companies/agoda?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000111527045-machine-learning-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/agoda/jobs/7282375) |
 
 ## About This Role
 
-This machine learning engineer position at Entain was posted on 2026-02-26.
+This machine learning engineer position at Agoda was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

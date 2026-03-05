@@ -1,16 +1,16 @@
-# Generative AI Engineer at SIA
+# Sr. Tech Lead, GTM Applied AI & Analytics at LinkedIn
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 4 locations |
 | Category | AI / LLM Engineer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000111535646-generative-ai-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000111533753-sr-tech-lead-gtm-applied-ai-analytics) |
 
 ## About This Role
 
-This ai / llm engineer position at SIA was posted on 2026-02-26.
+This ai / llm engineer position at LinkedIn was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

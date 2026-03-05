@@ -1,16 +1,16 @@
-# Machine Learning Engineer at Entain
+# AMS CAD - ML/AI Developer Intern at Marvell
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000111527045-machine-learning-engineer) |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ho-Chi-Minh/AMS-CAD---ML-AI-Developer-Intern_2600559) |
 
 ## About This Role
 
-This machine learning engineer position at Entain was posted on 2026-02-26.
+This machine learning engineer position at Marvell was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

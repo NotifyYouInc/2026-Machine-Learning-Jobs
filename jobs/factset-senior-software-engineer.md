@@ -1,16 +1,16 @@
-# Machine Learning Engineer at Entain
+# Senior Software Engineer at FactSet
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [FactSet](https://scoutify.ai/companies/factset?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000111527045-machine-learning-engineer) |
+| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Senior-Software-Engineer_R29005-3) |
 
 ## About This Role
 
-This machine learning engineer position at Entain was posted on 2026-02-26.
+This software engineer position at FactSet was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

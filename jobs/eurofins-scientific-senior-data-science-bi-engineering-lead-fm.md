@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Oradea, Bihor County, Romania |
 | Category | Software Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000110863424-senior-data-science-bi-engineering-lead-fm) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000110863626-senior-data-science-bi-engineering-lead-fm) |
 
 ## About This Role
 

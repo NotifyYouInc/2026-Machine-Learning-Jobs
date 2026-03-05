@@ -1,16 +1,16 @@
-# AI Research Scientist – GenAI at Robert Bosch
+# AI Research Scientist- Multimodal Foundational Models  at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111459261-ai-research-scientist-genai) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111537095-ai-research-scientist-multimodal-foundational-models) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-02-25.
+This ai / ml research position at Robert Bosch was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
