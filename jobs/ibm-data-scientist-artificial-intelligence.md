@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karnataka, IN |
+| Location | India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93485) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94454) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-02-24.
+This ai / llm engineer position at IBM was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

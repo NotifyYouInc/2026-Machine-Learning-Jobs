@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Nevada, US |
+| Location | Norfolk, Virginia, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Nellis-AFB-NV/Data-Scientist_R0234643) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Norfolk-VA/Data-Scientist_R0234756) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-02-24.
+This machine learning engineer position at Booz Allen was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

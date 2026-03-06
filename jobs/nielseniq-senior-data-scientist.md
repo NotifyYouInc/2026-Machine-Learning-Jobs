@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | AI / ML Research |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111178690-senior-data-scientist) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111541705-senior-data-scientist) |
 
 ## About This Role
 
-This ai / ml research position at NielsenIQ was posted on 2026-02-24.
+This ai / llm engineer position at NielsenIQ was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

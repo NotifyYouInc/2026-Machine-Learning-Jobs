@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-II_R229492) |
+| Location | 3 locations |
+| Category | AI / ML Research |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-II_R236845-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Capital One was posted on 2026-02-18.
+This ai / ml research position at Capital One was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

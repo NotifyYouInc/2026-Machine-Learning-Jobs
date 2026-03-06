@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000111020257-lead-engineer-ai-agents-backend-platforms) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000111560136-lead-engineer-ai-agents-backend-platforms) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-02-24.
+This ai / llm engineer position at Grab was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

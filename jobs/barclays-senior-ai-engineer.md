@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-AI-Engineer_JR-0000089015) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-AI-Engineer_JR-0000089548-3) |
 
 ## About This Role
 
-This ai / llm engineer position at Barclays was posted on 2026-02-18.
+This ai / llm engineer position at Barclays was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

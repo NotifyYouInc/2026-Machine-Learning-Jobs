@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000110390272-data-scientist-image-recognition-quick-commerce) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111656335-data-scientist-image-recognition-quick-commerce) |
 
 ## About This Role
 
-This machine learning engineer position at Delivery Hero was posted on 2026-02-20.
+This machine learning engineer position at Delivery Hero was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
