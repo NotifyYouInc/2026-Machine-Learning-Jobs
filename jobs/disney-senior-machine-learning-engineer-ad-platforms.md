@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Senior-Machine-Learning-Engineer--Ad-Platforms_10142043) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Senior-Machine-Learning-Engineer--Ad-Platforms_10142078) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-02-06.
+This machine learning engineer position at Disney was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

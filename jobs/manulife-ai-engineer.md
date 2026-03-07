@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/AI-Engineer_JR25121266-3) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/AI-Engineer_JR26020634) |
 
 ## About This Role
 
-This software engineer position at Manulife was posted on 2026-02-14.
+This ai / llm engineer position at Manulife was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

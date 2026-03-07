@@ -5,12 +5,12 @@
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Maassluis, South Holland, The Netherlands |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000111318471-internship-computer-vision-machine-learning-for-autonomous-mowing-robot) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000111786974-internship-computer-vision-machine-learning-for-autonomous-mowing-robot) |
 
 ## About This Role
 
-This machine learning engineer position at Lely was posted on 2026-02-25.
+This machine learning engineer position at Lely was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

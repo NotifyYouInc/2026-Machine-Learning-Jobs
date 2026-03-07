@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011840166-head-of-corporate-ai-data-engineering) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011868461-head-of-corporate-ai-data-engineering) |
 
 ## About This Role
 
-This ai / llm engineer position at The Nielsen Company was posted on 2026-02-25.
+This ai / llm engineer position at The Nielsen Company was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

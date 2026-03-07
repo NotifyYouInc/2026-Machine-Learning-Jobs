@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Redmond, Washington, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556625289) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556755003) |
 
 ## About This Role
 

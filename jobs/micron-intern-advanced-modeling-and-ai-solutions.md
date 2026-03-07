@@ -6,7 +6,7 @@
 | Location | Boise, Idaho, United States |
 | Category | AI / LLM Engineer |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Advanced-Modeling-and-AI-Solutions_JR91776) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Advanced-Modeling-and-AI-Solutions_JR92819) |
 
 ## About This Role
 

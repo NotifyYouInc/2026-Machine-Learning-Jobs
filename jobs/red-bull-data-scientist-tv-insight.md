@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Austria |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000109894935-data-scientist-tv-insight) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000111844005-data-scientist-tv-insight) |
 
 ## About This Role
 
-This machine learning engineer position at Red Bull was posted on 2026-02-18.
+This machine learning engineer position at Red Bull was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

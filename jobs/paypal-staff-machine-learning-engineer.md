@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Staff-Machine-Learning-Engineer_R0135002-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Staff-Machine-Learning-Engineer_R0134933-1) |
 
 ## About This Role
 
-This machine learning engineer position at PayPal was posted on 2026-02-25.
+This ai / llm engineer position at PayPal was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

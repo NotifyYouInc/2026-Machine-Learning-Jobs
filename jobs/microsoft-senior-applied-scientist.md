@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556752142) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556803912) |
 
 ## About This Role
 
-This machine learning engineer position at Microsoft was posted on 2026-02-25.
+This machine learning engineer position at Microsoft was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

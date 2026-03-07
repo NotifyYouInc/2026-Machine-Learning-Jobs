@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 4 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Data-Science-Analyst_R25-6210) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bogota-Colombia/Data-Science-Analyst_R26-785) |
 
 ## About This Role
 
-This machine learning engineer position at Rockwell Automation was posted on 2026-02-24.
+This machine learning engineer position at Rockwell Automation was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

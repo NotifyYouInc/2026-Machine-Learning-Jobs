@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000110862545-scientifique-des-donnees-canada-analytics-team) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000111857966-scientifique-des-donnees-canada-analytics-team) |
 
 ## About This Role
 
-This machine learning engineer position at Ubisoft was posted on 2026-02-23.
+This machine learning engineer position at Ubisoft was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
