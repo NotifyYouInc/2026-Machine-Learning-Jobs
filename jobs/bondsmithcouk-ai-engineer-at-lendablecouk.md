@@ -1,16 +1,16 @@
-# AI ENGINEER (F/M/D) at Ignitis Grupe
+# AI Engineer at Lendable.co.uk at Bondsmith.co.uk
 
 | Field | Details |
 |-------|---------|
-| Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Company | [Bondsmith.co.uk](https://scoutify.ai/companies/bondsmith-co-uk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000112086497-ai-engineer-fmd) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jack-jill-external-ats/3e5ae713-3c60-4d7b-9a27-2c842b2fee9f) |
 
 ## About This Role
 
-This ai / llm engineer position at Ignitis Grupe was posted on 2026-03-02.
+This ai / llm engineer position at Bondsmith.co.uk was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

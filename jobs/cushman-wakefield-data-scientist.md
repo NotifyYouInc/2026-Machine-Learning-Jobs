@@ -1,16 +1,16 @@
-# AI Engineer - FDE (Forward Deployed Engineer) at Databricks
+# Data Scientist at Cushman & Wakefield
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | California, US |
+| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002) |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Data-Scientist_R307496-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Databricks was posted on 2026-03-01.
+This ai / llm engineer position at Cushman & Wakefield was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

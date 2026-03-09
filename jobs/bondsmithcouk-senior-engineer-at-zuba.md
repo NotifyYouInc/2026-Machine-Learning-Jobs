@@ -1,16 +1,16 @@
-# AI ENGINEER (F/M/D) at Ignitis Grupe
+# Senior Engineer at Zuba at Bondsmith.co.uk
 
 | Field | Details |
 |-------|---------|
-| Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Company | [Bondsmith.co.uk](https://scoutify.ai/companies/bondsmith-co-uk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000112086497-ai-engineer-fmd) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jack-jill-external-ats/158030a1-c2c8-40c9-8867-e65d4b0ac161) |
 
 ## About This Role
 
-This ai / llm engineer position at Ignitis Grupe was posted on 2026-03-02.
+This ai / llm engineer position at Bondsmith.co.uk was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

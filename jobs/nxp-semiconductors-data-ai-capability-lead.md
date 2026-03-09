@@ -1,16 +1,16 @@
-# AI Engineer - FDE (Forward Deployed Engineer) at Databricks
+# Data & AI Capability Lead at NXP Semiconductors
 
 | Field | Details |
 |-------|---------|
-| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | California, US |
+| Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Karnataka, IN |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002) |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Data---AI-Capability-Lead_R-10061967) |
 
 ## About This Role
 
-This ai / llm engineer position at Databricks was posted on 2026-03-01.
+This ai / llm engineer position at NXP Semiconductors was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

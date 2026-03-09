@@ -1,16 +1,16 @@
-# AI ENGINEER (F/M/D) at Ignitis Grupe
+# 智能座舱智能体专家/高级工程师_XC at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000112086497-ai-engineer-fmd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112085289-xc) |
 
 ## About This Role
 
-This ai / llm engineer position at Ignitis Grupe was posted on 2026-03-02.
+This ai / llm engineer position at Robert Bosch was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

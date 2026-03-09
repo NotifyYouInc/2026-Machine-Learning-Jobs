@@ -1,16 +1,16 @@
-# Senior Applied Scientist - M365 Copilot at Microsoft
+# Staff Machine Learning Engineer  at Cresta
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Company | [Cresta](https://scoutify.ai/companies/cresta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556813691) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/4741284008) |
 
 ## About This Role
 
-This ai / llm engineer position at Microsoft was posted on 2026-02-27.
+This ai / llm engineer position at Cresta was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

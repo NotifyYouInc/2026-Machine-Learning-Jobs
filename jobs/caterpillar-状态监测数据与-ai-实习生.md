@@ -1,16 +1,16 @@
-# AI ENGINEER (F/M/D) at Ignitis Grupe
+# 状态监测、数据与 AI 实习生 at Caterpillar
 
 | Field | Details |
 |-------|---------|
-| Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Wuxi, Jiangsu, China |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000112086497-ai-engineer-fmd) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/HVAC-System-1D-Simulation-Intern_R0000335381) |
 
 ## About This Role
 
-This ai / llm engineer position at Ignitis Grupe was posted on 2026-03-02.
+This ai / llm engineer position at Caterpillar was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

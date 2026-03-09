@@ -1,4 +1,4 @@
-# Machine Learning Engineer 2 at Comcast
+# Engineer 1 - Machine Learning at Comcast
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Chennai, Tamil Nadu, India |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Machine-Learning-Engineer-2_R427459) |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-1---Machine-Learning_R431940) |
 
 ## About This Role
 

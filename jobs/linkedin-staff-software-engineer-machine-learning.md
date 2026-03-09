@@ -1,16 +1,16 @@
-# AI ENGINEER (F/M/D) at Ignitis Grupe
+# Staff Software Engineer, Machine Learning at LinkedIn
 
 | Field | Details |
 |-------|---------|
-| Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000112086497-ai-engineer-fmd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000112074257-staff-software-engineer-machine-learning) |
 
 ## About This Role
 
-This ai / llm engineer position at Ignitis Grupe was posted on 2026-03-02.
+This ai / llm engineer position at LinkedIn was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

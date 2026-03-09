@@ -1,16 +1,16 @@
-# Machine Learning Engineer 2 at Comcast
+# Data Science Consultant - 2 (ML Algorithms, Python, SQL) at Blue Yonder
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | India |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Machine-Learning-Engineer-2_R427459) |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Data-Science-Consultant---2--ML-Algorithms--Python--SQL-_260147) |
 
 ## About This Role
 
-This machine learning engineer position at Comcast was posted on 2026-03-02.
+This machine learning engineer position at Blue Yonder was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

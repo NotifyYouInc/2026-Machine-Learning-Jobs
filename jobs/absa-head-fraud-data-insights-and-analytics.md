@@ -1,16 +1,16 @@
-# Machine Learning Engineer 2 at Comcast
+# Head: Fraud Data Insights and Analytics at Absa
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | South Africa |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Machine-Learning-Engineer-2_R427459) |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Sandton/Head--Fraud-Data-Insights-and-Analytics_R-15984357-1) |
 
 ## About This Role
 
-This machine learning engineer position at Comcast was posted on 2026-03-02.
+This machine learning engineer position at Absa was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
