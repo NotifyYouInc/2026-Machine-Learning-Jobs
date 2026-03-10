@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000107249605-senior-machine-learning-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000112116764-senior-machine-learning-engineer) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-02-04.
+This ai / llm engineer position at LinkedIn was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | London, England, United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1922660798150827) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/3250422131797159) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-02-26.
+This ai / ml research position at Meta was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

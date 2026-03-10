@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PermitFlow](https://scoutify.ai/companies/permitflow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/permitflow/ea4af044-51dd-4235-a925-a87680fc854a) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/permitflow/08b96a9a-b344-42cc-8c69-a1c1e0babb90) |
 
 ## About This Role
 
-This software engineer position at PermitFlow was posted on 2026-02-07.
+This ai / llm engineer position at PermitFlow was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

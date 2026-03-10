@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | AI / ML Research |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Manager--Research-Engineering--Foundational-Research-_JREQ198602) |
+| Location | London, England, United Kingdom |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Manager--Research-Engineering--Foundational-Research-_JREQ198844) |
 
 ## About This Role
 
-This ai / ml research position at Thomson Reuters was posted on 2026-02-26.
+This machine learning engineer position at Thomson Reuters was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

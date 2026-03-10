@@ -1,16 +1,16 @@
-# Senior Gen AI Developer - Vice President at Citigroup
+# Senior Gen AI Developer -Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Irving, Texas, United States |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Gen-AI-Developer---Vice-President_25928018) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Senior-Gen-AI-Developer--Vice-President_26940656) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-02-17.
+This ai / llm engineer position at Citigroup was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

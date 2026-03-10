@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boulder, Colorado, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Machine-Learning-Engineer_JR-0104464) |
+| Location | Toronto, Ontario, Canada |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Machine-Learning-Engineer_JR-0102681) |
 
 ## About This Role
 
-This ai / llm engineer position at Workday was posted on 2026-02-26.
+This machine learning engineer position at Workday was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

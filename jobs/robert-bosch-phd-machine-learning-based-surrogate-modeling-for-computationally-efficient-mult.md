@@ -1,16 +1,16 @@
-# PhD - Machine Learning-based Surrogate Modeling for Computationally Efficient Multiphysics Simulation  at Robert Bosch
+# PhD - Machine Learning-based Surrogate Modeling for Computationally Efficient Multiphysics Simulation at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Renningen, Baden-Wurttemberg, Germany |
 | Category | AI / ML Research |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000110187548-phd-machine-learning-based-surrogate-modeling-for-computationally-efficient-multiphysics-simulation) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112166877-phd-machine-learning-based-surrogate-modeling-for-computationally-efficient-multiphysics-simulation) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-02-19.
+This ai / ml research position at Robert Bosch was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

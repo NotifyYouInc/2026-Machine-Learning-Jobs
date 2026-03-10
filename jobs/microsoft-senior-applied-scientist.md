@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556803912) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556756175) |
 
 ## About This Role
 

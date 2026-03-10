@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111541705-senior-data-scientist) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111788562-senior-data-scientist) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-02-26.
+This ai / llm engineer position at NielsenIQ was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

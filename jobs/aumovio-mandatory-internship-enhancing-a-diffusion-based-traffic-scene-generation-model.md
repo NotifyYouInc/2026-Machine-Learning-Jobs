@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | AI / ML Research |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000110795405-mandatory-internship-enhancing-a-diffusion-based-traffic-scene-generation-model-for-closed-loop-simulation-ref5865m) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000112164707-mandatory-internship-enhancing-a-diffusion-based-traffic-scene-generation-model-for-closed-loop-simulation-ref5865m) |
 
 ## About This Role
 
-This ai / ml research position at Aumovio was posted on 2026-02-23.
+This ai / ml research position at Aumovio was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

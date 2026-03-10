@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Marseille, Provence-Alpes-Côte d'Azur, France |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000111098925-developpeur-ia-hf) |
+| Location | Paris, Île-de-France, France |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000112229717-developpeur-ia-hf) |
 
 ## About This Role
 
-This machine learning engineer position at CITECH was posted on 2026-02-24.
+This ai / llm engineer position at CITECH was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

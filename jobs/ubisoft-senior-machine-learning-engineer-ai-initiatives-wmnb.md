@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000111564115-senior-machine-learning-engineer-ai-initiatives-wmnb) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000112172497-senior-machine-learning-engineer-ai-initiatives-wmnb) |
 
 ## About This Role
 
-This ai / llm engineer position at Ubisoft was posted on 2026-02-26.
+This ai / llm engineer position at Ubisoft was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
