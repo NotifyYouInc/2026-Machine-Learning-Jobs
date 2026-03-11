@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000110847005-scientifique-recherche-et-developpement-la-forge) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000112447381-scientifique-recherche-et-developpement-la-forge) |
 
 ## About This Role
 
-This ai / ml research position at Ubisoft was posted on 2026-02-23.
+This ai / ml research position at Ubisoft was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

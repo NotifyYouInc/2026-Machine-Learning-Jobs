@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Program Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Director--Machine-Learning-Science_R-101884-1) |
+| Location | San Jose, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Director--Machine-Learning-Science_R-99423-1) |
 
 ## About This Role
 
-This program manager position at Expedia was posted on 2026-02-05.
+This machine learning engineer position at Expedia was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

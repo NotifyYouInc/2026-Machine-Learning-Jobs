@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000111620251-stage-de-fin-detudes-consultante-data-science-ia) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000112371368-stage-de-fin-detudes-consultante-data-science-ia) |
 
 ## About This Role
 
-This ai / llm engineer position at SIA was posted on 2026-02-26.
+This ai / llm engineer position at SIA was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
