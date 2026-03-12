@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Data-Scientist_REQ-10109570) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Data-Scientist_REQ-10110657) |
 
 ## About This Role
 
-This machine learning engineer position at ING was posted on 2026-02-25.
+This machine learning engineer position at ING was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

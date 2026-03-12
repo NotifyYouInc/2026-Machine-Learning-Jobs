@@ -1,16 +1,16 @@
-# R&D Internship at Intuitive Surgical
+# R&D Internship  at Intuitive Surgical
 
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Switzerland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000111578426-rd-internship) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000112674134-rd-internship) |
 
 ## About This Role
 
-This machine learning engineer position at Intuitive Surgical was posted on 2026-02-26.
+This machine learning engineer position at Intuitive Surgical was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

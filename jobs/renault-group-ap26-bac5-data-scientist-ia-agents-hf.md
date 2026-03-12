@@ -5,12 +5,12 @@
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Guyancourt, Île-de-France, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Guyancourt/AP26---BAC-5---Data-Scientist-IA---Agents--H-F-_JOBREQ_50248010) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Guyancourt/AP26---BAC-5---Data-Scientist-IA---Agents--H-F-_JOBREQ_50249781) |
 
 ## About This Role
 
-This ai / llm engineer position at Renault Group was posted on 2026-03-02.
+This ai / llm engineer position at Renault Group was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

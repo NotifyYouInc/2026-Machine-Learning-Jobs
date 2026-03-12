@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanghai---Shanghai-Tower-A/Sr-Manager--MCICC_R387657) |
+| Location | Shanghai, Shanghai, China |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanghai---Shanghai-Tower-A/Sr-Manager--MCICC_R387656-2) |
 
 ## About This Role
 
-This machine learning engineer position at Merck was posted on 2026-03-02.
+This ai / llm engineer position at Merck was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

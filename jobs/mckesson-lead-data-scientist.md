@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Mississauga, Ontario, Canada |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Lead-Data-Scientist_JR0140517) |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Lead-Data-Scientist_JR0143769-1) |
 
 ## About This Role
 

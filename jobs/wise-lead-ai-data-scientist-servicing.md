@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000112147206-lead-ai-data-scientist-servicing) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000112699685-lead-ai-data-scientist-servicing) |
 
 ## About This Role
 
-This ai / llm engineer position at WISE was posted on 2026-03-02.
+This ai / llm engineer position at WISE was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

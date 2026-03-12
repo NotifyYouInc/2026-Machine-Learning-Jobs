@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore |
-| Category | Data Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Data-Scientist_JR87985) |
+| Location | Boise, Idaho, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Data-Scientist_JR93535) |
 
 ## About This Role
 
-This data engineer position at Micron was posted on 2026-02-04.
+This machine learning engineer position at Micron was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

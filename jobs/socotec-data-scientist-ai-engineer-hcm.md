@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vietnam |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000111040227-data-scientist-ai-engineer-hcm) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000112818085-data-scientist-ai-engineer-hcm) |
 
 ## About This Role
 
-This ai / llm engineer position at SOCOTEC was posted on 2026-02-24.
+This machine learning engineer position at SOCOTEC was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

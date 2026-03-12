@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cerence](https://scoutify.ai/companies/cerence?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Hinjewadi-Pune/Senior-Research-Scientist_R0005773) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Aachen/Senior-Research-Scientist_R0005726) |
 
 ## About This Role
 
-This ai / llm engineer position at Cerence was posted on 2026-02-25.
+This machine learning engineer position at Cerence was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 
