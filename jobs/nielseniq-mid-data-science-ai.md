@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112312956-mid-data-science-ai) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112707092-mid-data-science-ai) |
 
 ## About This Role
 
-This machine learning engineer position at NielsenIQ was posted on 2026-03-03.
+This machine learning engineer position at NielsenIQ was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

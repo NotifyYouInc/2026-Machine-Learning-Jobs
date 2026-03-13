@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Financial Crimes & AML |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000111034205-director-of-data-science-fincrime) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000113005807-director-of-data-science-fincrime) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-02-24.
+This financial crimes & aml position at WISE was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

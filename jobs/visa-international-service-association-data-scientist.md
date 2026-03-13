@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Foster City, California, United States |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112182958-data-scientist) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112853113-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Visa International Service Association was posted on 2026-03-02.
+This machine learning engineer position at Visa International Service Association was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

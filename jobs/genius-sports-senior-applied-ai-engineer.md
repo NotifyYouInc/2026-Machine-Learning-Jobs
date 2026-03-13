@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genius Sports](https://scoutify.ai/companies/genius-sports?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/geniussports/jobs/7621212003?gh_jid=7621212003) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/geniussports/jobs/7655015003?gh_jid=7655015003) |
 
 ## About This Role
 
-This software engineer position at Genius Sports was posted on 2026-02-05.
+This ai / llm engineer position at Genius Sports was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
