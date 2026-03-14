@@ -1,16 +1,16 @@
-# Data Science Sr. Analyst (Hybrid) at Securian Financial Group
+# Data Science Sr Analyst (Hybrid) at Securian Financial Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Securian Financial Group](https://scoutify.ai/companies/hq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Saint Paul, Minnesota, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Data-Science-Sr-Analyst--Hybrid-_R-010491) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Data-Science-Sr-Analyst--Hybrid-_R-010522) |
 
 ## About This Role
 
-This machine learning engineer position at Securian Financial Group was posted on 2026-02-19.
+This machine learning engineer position at Securian Financial Group was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

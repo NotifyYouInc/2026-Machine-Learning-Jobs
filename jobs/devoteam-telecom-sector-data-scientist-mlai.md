@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000111603015-telecom-sector-data-scientist-mlai) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000113248607-telecom-sector-data-scientist-mlai) |
 
 ## About This Role
 
-This machine learning engineer position at Devoteam was posted on 2026-02-26.
+This machine learning engineer position at Devoteam was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

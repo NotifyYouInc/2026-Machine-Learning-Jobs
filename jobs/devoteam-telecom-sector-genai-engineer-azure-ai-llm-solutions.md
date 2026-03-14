@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000111352398-telecom-sector-genai-engineer-azure-ai-llm-solutions) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000113248427-telecom-sector-genai-engineer-azure-ai-llm-solutions) |
 
 ## About This Role
 
-This ai / llm engineer position at Devoteam was posted on 2026-02-25.
+This ai / llm engineer position at Devoteam was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111904565-vca-ai-knowledge-and-data-operations-sr-manager) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113229460-vca-ai-knowledge-and-data-operations-sr-manager) |
 
 ## About This Role
 
-This ai / llm engineer position at Visa International Service Association was posted on 2026-02-27.
+This ai / llm engineer position at Visa International Service Association was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

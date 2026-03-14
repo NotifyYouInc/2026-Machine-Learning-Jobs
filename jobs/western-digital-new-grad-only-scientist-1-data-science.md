@@ -6,7 +6,7 @@
 | Location | Thailand |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000112556762-new-grad-only-scientist-1-data-science) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000112556961-new-grad-only-scientist-1-data-science) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | AI / ML Research |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/25766888559672059) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1884811572142821) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-02-17.
+This ai / ml research position at Meta was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

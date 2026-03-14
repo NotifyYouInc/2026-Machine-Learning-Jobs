@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Norfolk, Virginia, United States |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Norfolk-VA/Data-Scientist_R0235012) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Scientist_R0235317) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-03-02.
+This machine learning engineer position at Booz Allen was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

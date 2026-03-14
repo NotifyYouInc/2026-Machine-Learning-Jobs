@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Senior-AI-Engineer_RQ105906) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Senior-AI-Engineer_RQ106060) |
 
 ## About This Role
 
-This software engineer position at BP was posted on 2026-02-03.
+This ai / llm engineer position at BP was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

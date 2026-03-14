@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Charleston, South Carolina, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/Artificial-Intelligence---Machine-Learning-Engineer--Junior_R0234572) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/Artificial-Intelligence---Machine-Learning-Engineer--Junior_R0235305) |
 
 ## About This Role
 
-This ai / llm engineer position at Booz Allen was posted on 2026-02-23.
+This machine learning engineer position at Booz Allen was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
