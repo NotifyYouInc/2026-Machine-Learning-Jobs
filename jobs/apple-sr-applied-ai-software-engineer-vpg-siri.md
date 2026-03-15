@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | California, US |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646382-3956/sr-applied-ai-software-engineer-vpg-siri?team=SFTWR) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200650612-3401/sr-applied-ai-software-engineer-vpg-siri?team=SFTWR) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-02-13.
+This software engineer position at Apple was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 
