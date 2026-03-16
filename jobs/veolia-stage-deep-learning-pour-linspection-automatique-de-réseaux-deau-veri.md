@@ -6,7 +6,7 @@
 | Location | Maisons-Laffitte, Île-de-France, France |
 | Category | AI / ML Research |
 | Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112617467-stage-deep-learning-pour-linspection-automatique-de-reseaux-deau-veri) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112627128-stage-deep-learning-pour-linspection-automatique-de-reseaux-deau-veri) |
 
 ## About This Role
 

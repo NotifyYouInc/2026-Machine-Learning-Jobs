@@ -1,16 +1,16 @@
-# Senior AI/ML Engineer at Sigma Computing
+# Data/Information Management Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656896003) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Data-Information-Management-Analyst_26942006) |
 
 ## About This Role
 
-This ai / llm engineer position at Sigma Computing was posted on 2026-03-09.
+This ai / llm engineer position at Citigroup was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

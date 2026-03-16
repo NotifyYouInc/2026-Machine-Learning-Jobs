@@ -1,16 +1,16 @@
-# Staff AI/ML Engineer at Sigma Computing
+# Machine Learning Engineer (After-sales Experience) - TikTok E-commerce Governance at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656899003) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7614005132382488837/detail) |
 
 ## About This Role
 
-This machine learning engineer position at Sigma Computing was posted on 2026-03-09.
+This machine learning engineer position at TikTok was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

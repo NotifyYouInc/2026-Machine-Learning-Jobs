@@ -6,7 +6,7 @@
 | Location | Aubervilliers, Île-de-France, France |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112613364-stage-deep-learning-pour-la-detection-et-le-suivi-de-camions) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112626088-stage-deep-learning-pour-la-detection-et-le-suivi-de-camions) |
 
 ## About This Role
 

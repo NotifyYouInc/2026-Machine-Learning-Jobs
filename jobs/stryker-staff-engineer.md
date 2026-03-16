@@ -1,16 +1,16 @@
-# Senior Applied Scientist at Microsoft
+# Staff Engineer at Stryker
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556745375) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bengaluru-India/Staff-Engineer_R558704) |
 
 ## About This Role
 
-This machine learning engineer position at Microsoft was posted on 2026-03-08.
+This ai / llm engineer position at Stryker was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

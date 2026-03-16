@@ -1,16 +1,16 @@
-# Staff AI/ML Engineer at Sigma Computing
+# Principal Machine Learning Engineer - Maps Search at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Cupertino, California, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656899003) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200650654-0836/principal-machine-learning-engineer-maps-search?team=SFTWR) |
 
 ## About This Role
 
-This machine learning engineer position at Sigma Computing was posted on 2026-03-09.
+This machine learning engineer position at Apple was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

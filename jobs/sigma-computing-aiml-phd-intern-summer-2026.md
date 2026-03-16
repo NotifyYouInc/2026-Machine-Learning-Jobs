@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639778003) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656900003) |
 
 ## About This Role
 
-This ai / ml research position at Sigma Computing was posted on 2026-02-23.
+This ai / llm engineer position at Sigma Computing was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

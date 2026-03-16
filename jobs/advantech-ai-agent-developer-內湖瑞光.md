@@ -1,16 +1,16 @@
-# Senior AI/ML Engineer at Sigma Computing
+# AI Agent Developer (內湖瑞光) at Advantech
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Advantech](https://scoutify.ai/companies/advantech-global-solutions-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656896003) |
+| Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/Taipei_Neihu/AI-Agent-Developer---_JR202603030) |
 
 ## About This Role
 
-This ai / llm engineer position at Sigma Computing was posted on 2026-03-09.
+This ai / llm engineer position at Advantech was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Maisons-Laffitte, Île-de-France, France |
 | Category | AI / ML Research |
 | Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112617522-stage-deep-learning-robuste-aux-labels-bruites-application-a-lidentification-automatique-de-defauts-au-sein-des-reseaux-deaux-usees) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112625365-stage-deep-learning-robuste-aux-labels-bruites-application-a-lidentification-automatique-de-defauts-au-sein-des-reseaux-deaux-usees) |
 
 ## About This Role
 
