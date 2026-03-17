@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paramus, New Jersey, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000110454092-ai-engineering-intern-llm) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000113472647-ai-engineering-intern-llm) |
 
 ## About This Role
 
-This ai / llm engineer position at Veolia was posted on 2026-02-20.
+This ai / llm engineer position at Veolia was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

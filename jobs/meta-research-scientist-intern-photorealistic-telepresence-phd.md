@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | California, US |
 | Category | AI / ML Research |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/781407917810511) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2022109075207025) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-02-19.
+This ai / ml research position at Meta was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111570351-machine-learning-engineer) |
+| Location | Stockholm, Stockholm, Sweden |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113446477-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Visa International Service Association was posted on 2026-02-26.
+This ai / llm engineer position at Visa International Service Association was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

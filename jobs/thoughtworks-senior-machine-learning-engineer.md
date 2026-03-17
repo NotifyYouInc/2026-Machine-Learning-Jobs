@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Brisbane, Queensland, Australia |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7599880?gh_jid=7599880) |
+| Location | India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7653188?gh_jid=7653188) |
 
 ## About This Role
 
-This software engineer position at Thoughtworks was posted on 2026-02-10.
+This machine learning engineer position at Thoughtworks was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/United-States/Senior-Machine-Learning-Engineer--REMOTE-_R012818) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/United-States/Senior-Machine-Engineer--REMOTE-_R011754) |
 
 ## About This Role
 
-This ai / llm engineer position at SailPoint Technologies was posted on 2026-02-19.
+This machine learning engineer position at SailPoint Technologies was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

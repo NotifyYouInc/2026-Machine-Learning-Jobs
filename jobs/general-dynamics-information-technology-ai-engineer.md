@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Virginia, US |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer_RQ215010-1) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/AI-Engineer_RQ216141-1) |
 
 ## About This Role
 
-This ai / llm engineer position at General Dynamics Information Technology was posted on 2026-02-20.
+This ai / llm engineer position at General Dynamics Information Technology was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

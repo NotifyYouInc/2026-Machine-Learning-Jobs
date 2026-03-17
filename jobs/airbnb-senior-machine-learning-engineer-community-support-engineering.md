@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer, Community Support Engineering  at Airbnb
+# Senior Machine Learning Engineer, Community Support Engineering at Airbnb
 
 | Field | Details |
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://careers.airbnb.com/positions/7560504?gh_jid=7560504) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7693033?gh_jid=7693033) |
 
 ## About This Role
 
-This ai / llm engineer position at Airbnb was posted on 2026-02-24.
+This ai / llm engineer position at Airbnb was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

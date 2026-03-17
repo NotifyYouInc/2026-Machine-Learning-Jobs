@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hungary |
 | Category | Robotics Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Remote---Poland/Senior-AI---Computer-Vision-Engineer--Robotics--ROS-_J2440552) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Remote---Ukraine/Senior-AI---Computer-Vision-Engineer--Robotics--ROS-_J2442597) |
 
 ## About This Role
 
-This robotics engineer position at Jabil was posted on 2026-02-19.
+This robotics engineer position at Jabil was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

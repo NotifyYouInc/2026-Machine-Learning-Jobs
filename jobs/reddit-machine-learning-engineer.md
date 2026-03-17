@@ -1,16 +1,16 @@
-# Machine Learning Engineer at Reddit
+# Machine Learning Engineer  at Reddit
 
 | Field | Details |
 |-------|---------|
 | Company | [Reddit](https://scoutify.ai/companies/reddit?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/7580374) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/7697512) |
 
 ## About This Role
 
-This software engineer position at Reddit was posted on 2026-02-02.
+This machine learning engineer position at Reddit was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

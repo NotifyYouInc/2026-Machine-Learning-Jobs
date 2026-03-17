@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Minnetonka, Minnesota, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Minnetonka-MN/Senior-Data-Scientist_R0069696) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Data-Scientist_R0070287) |
 
 ## About This Role
 
-This machine learning engineer position at Huntington Bancshares was posted on 2026-02-27.
+This machine learning engineer position at Huntington Bancshares was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
