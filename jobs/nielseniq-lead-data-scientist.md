@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vadodara, Gujarat, India |
-| Category | AI / ML Research |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113153923-lead-data-scientist) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113474793-lead-data-scientist) |
 
 ## About This Role
 
-This ai / ml research position at NielsenIQ was posted on 2026-03-06.
+This machine learning engineer position at NielsenIQ was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

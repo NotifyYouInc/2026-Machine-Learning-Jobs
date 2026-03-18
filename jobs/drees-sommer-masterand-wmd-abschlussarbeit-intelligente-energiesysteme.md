@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Germany |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000112685215-masterand-wmd-abschlussarbeit-intelligente-energiesysteme) |
+| Category | AI / ML Research |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000113685164-masterand-wmd-abschlussarbeit-intelligente-energiesysteme) |
 
 ## About This Role
 
-This machine learning engineer position at Drees & Sommer was posted on 2026-03-04.
+This ai / ml research position at Drees & Sommer was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

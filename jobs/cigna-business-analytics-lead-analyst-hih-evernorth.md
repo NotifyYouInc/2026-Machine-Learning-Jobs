@@ -1,16 +1,16 @@
-# Business Analytics Lead Analyst - HIH - Evernorth at Cigna
+# Business_Analytics_Lead_Analyst - HIH - Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Business-Analytics-Lead-Analyst---HIH---Evernorth_25017218) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Business-Analytics-Lead-Analyst---HIH---Evernorth_26000773) |
 
 ## About This Role
 
-This data engineer position at Cigna was posted on 2026-02-12.
+This machine learning engineer position at Cigna was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

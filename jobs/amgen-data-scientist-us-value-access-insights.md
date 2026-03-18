@@ -1,16 +1,16 @@
-# Data Scientist (US Value & Access Insights) at Amgen
+# Data Scientist  (US Value & Access Insights) at Amgen
 
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Scientist--US-Value---Access-Insights-_R-221060) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Scientist---US-Value---Access-Insights-_R-234707) |
 
 ## About This Role
 
-This machine learning engineer position at Amgen was posted on 2026-02-26.
+This machine learning engineer position at Amgen was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

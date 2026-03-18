@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Lead-Data-Scientist_R-269705-1) |
+| Location | Pune, Maharashtra, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Data-Scientist_R-272649-1) |
 
 ## About This Role
 
-This machine learning engineer position at Mastercard was posted on 2026-02-05.
+This ai / llm engineer position at Mastercard was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

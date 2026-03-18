@@ -1,16 +1,16 @@
-# SR DATA SCIENTIST at Micron
+# Sr Data Scientist at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore |
+| Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Data-Scientist_JR80959) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Sr-Data-Scientist_JR93242) |
 
 ## About This Role
 
-This machine learning engineer position at Micron was posted on 2026-02-24.
+This machine learning engineer position at Micron was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
