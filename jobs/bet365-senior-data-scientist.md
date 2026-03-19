@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000109756075-senior-data-scientist) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000114063116-senior-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at bet365 was posted on 2026-02-17.
+This machine learning engineer position at bet365 was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

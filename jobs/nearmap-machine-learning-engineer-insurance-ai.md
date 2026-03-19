@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Lehi, Utah, United States |
+| Location | Carlsbad, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000112750652-machine-learning-engineer-insurance-ai) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000114151719-machine-learning-engineer-insurance-ai) |
 
 ## About This Role
 
-This machine learning engineer position at Nearmap was posted on 2026-03-04.
+This machine learning engineer position at Nearmap was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

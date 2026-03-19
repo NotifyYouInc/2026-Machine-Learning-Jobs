@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sony](https://scoutify.ai/companies/sony?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | AI / ML Research |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Beijing/Wireless-researcher_JR-118809) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Beijing/Wireless-researcher_JR-118837-2) |
 
 ## About This Role
 
-This ai / ml research position at Sony was posted on 2026-02-25.
+This machine learning engineer position at Sony was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 
