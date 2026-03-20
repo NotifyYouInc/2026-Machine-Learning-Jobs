@@ -5,12 +5,12 @@
 | Company | [Premier](https://scoutify.ai/companies/premierinc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Remote/Data-Science-Intern_R0008058) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Remote/Data-Science-Intern_R0008057) |
 
 ## About This Role
 
-This machine learning engineer position at Premier was posted on 2026-02-18.
+This machine learning engineer position at Premier was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

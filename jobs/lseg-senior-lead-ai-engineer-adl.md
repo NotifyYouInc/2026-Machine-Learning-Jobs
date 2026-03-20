@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/THA-Bangkok-One-Bangkok/Senior-Lead-AI-Engineer--ADL-_R0116986-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/THA-Bangkok-One-Bangkok/Senior-Lead-AI-Engineer--ADL-_R0116989-1) |
 
 ## About This Role
 
-This ai / llm engineer position at LSEG was posted on 2026-02-26.
+This ai / llm engineer position at LSEG was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

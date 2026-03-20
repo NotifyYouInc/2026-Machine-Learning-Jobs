@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113169668-mandatory-internship-automating-high-speed-pcb-material-databases-using-ai-and-data-engineering) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114318538-mandatory-internship-automating-high-speed-pcb-material-databases-using-ai-and-data-engineering) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-03-06.
+This ai / llm engineer position at Robert Bosch was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

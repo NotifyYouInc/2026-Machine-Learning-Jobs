@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Haryana, IN |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Data-Information-Management-Analyst_26942006) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Data-Information-Management-Analyst_26945460) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-03-09.
+This ai / llm engineer position at Citigroup was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

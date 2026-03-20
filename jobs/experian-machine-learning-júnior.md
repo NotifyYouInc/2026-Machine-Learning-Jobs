@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | São Carlos, São Paulo, Brazil |
+| Location | Brazil |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000112499866-machine-learning-junior) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000114469666-machine-learning-junior) |
 
 ## About This Role
 
-This ai / llm engineer position at Experian was posted on 2026-03-03.
+This ai / llm engineer position at Experian was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Senior-AI-Engineer---Python--RAG--Agentic-AI--ADK--MCP--GCP--Vertex-AI--IBM-Watsox_R26007385) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Senior-AI-Engineer---Python--RAG--Agentic-AI--ADK--MCP--GCP--Vertex-AI--IBM-Watsox_R26007389) |
 
 ## About This Role
 
-This ai / llm engineer position at United Parcel Service (UPS) was posted on 2026-03-09.
+This ai / llm engineer position at United Parcel Service (UPS) was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

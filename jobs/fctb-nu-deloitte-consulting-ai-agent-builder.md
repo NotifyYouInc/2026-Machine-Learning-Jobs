@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000113539467-ai-agent-builder) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000114355407-ai-agent-builder) |
 
 ## About This Role
 
-This ai / llm engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-03-09.
+This ai / llm engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

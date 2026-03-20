@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | San Jose, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Machine-Learning-Engineer_R165061) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Machine-Learning-Engineer_R166620) |
 
 ## About This Role
 
-This ai / llm engineer position at Adobe was posted on 2026-02-25.
+This ai / llm engineer position at Adobe was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
