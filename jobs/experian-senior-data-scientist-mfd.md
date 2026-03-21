@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000113673068-senior-data-scientist-mfd) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000114624987-senior-data-scientist-mfd) |
 
 ## About This Role
 
-This machine learning engineer position at Experian was posted on 2026-03-10.
+This machine learning engineer position at Experian was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

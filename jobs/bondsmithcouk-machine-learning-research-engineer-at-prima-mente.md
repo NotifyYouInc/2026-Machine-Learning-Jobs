@@ -5,12 +5,12 @@
 | Company | [Bondsmith.co.uk](https://scoutify.ai/companies/bondsmith-co-uk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jack-jill-external-ats/9c0933c0-f15c-4d52-8fea-2d4b359dfb45) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jack-jill-external-ats/7e3c0529-f3da-41df-8fee-b2e9da567212) |
 
 ## About This Role
 
-This ai / ml research position at Bondsmith.co.uk was posted on 2026-02-27.
+This ai / ml research position at Bondsmith.co.uk was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

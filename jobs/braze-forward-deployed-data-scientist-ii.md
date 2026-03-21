@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Brazil |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7653344?gh_jid=7653344) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7668561?gh_jid=7668561) |
 
 ## About This Role
 
-This machine learning engineer position at Braze was posted on 2026-03-03.
+This machine learning engineer position at Braze was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

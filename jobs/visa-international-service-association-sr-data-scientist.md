@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Foster City, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112466462-sr-data-scientist) |
+| Location | Washington, District of Columbia, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000114667382-sr-data-scientist) |
 
 ## About This Role
 
-This ai / llm engineer position at Visa International Service Association was posted on 2026-03-03.
+This machine learning engineer position at Visa International Service Association was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
