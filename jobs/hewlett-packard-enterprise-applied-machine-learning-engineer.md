@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Houston-Texas-United-States-of-America/Applied-Machine-Learning-Engineer_1201797) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Houston-Texas-United-States-of-America/Applied-Machine-Learning-Engineer_1204584-1) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-02-03.
+This machine learning engineer position at Hewlett Packard Enterprise was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 
