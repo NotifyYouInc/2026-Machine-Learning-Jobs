@@ -1,16 +1,16 @@
-# Machine Learning Lead Analyst - HIH - Evernorth at Cigna
+# Senior AI Models Engineer at Heidi Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Heidi Health](https://scoutify.ai/companies/heidihealth.com.au?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-15 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Lead-Analyst---HIH---Evernorth_25016979) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/99f0a483-51bf-45e2-87e6-fee6060eb53c) |
 
 ## About This Role
 
-This ai / llm engineer position at Cigna was posted on 2026-03-15.
+This ai / llm engineer position at Heidi Health was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Member of Technical Staff at Pure Storage
+# Applied Scientist at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Santa Clara, California, United States |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Jose, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7681099) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Applied-Scientist_R165818) |
 
 ## About This Role
 
-This ai / llm engineer position at Pure Storage was posted on 2026-03-10.
+This ai / llm engineer position at Adobe was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

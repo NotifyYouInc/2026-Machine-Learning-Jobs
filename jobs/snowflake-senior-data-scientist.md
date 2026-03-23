@@ -1,16 +1,16 @@
-# Machine Learning Engineer at Booz Allen
+# Senior Data Scientist at Snowflake
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Menlo Park, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Machine-Learning-Engineer_R0235634) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/6663b7b9-1b7e-47f1-af58-724e3dcb601c) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-03-11.
+This machine learning engineer position at Snowflake was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

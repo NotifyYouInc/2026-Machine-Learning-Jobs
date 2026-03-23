@@ -1,16 +1,16 @@
-# Machine Learning Engineer at Booz Allen
+# AI工具开发工程师_BCSC at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Wuxi, Jiangsu, China |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Machine-Learning-Engineer_R0235634) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114893077-ai-bcsc) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-03-11.
+This machine learning engineer position at Robert Bosch was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
