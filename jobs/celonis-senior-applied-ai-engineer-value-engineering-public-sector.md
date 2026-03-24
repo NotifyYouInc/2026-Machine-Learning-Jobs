@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7624602003?gh_jid=7624602003) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7662611003?gh_jid=7662611003) |
 
 ## About This Role
 
-This ai / llm engineer position at Celonis was posted on 2026-03-10.
+This ai / llm engineer position at Celonis was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

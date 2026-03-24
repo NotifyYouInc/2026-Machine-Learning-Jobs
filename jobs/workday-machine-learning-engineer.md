@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Machine-Learning-Engineer_JR-0102681) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Machine-Learning-Engineer_JR-0105110-1) |
 
 ## About This Role
 
-This machine learning engineer position at Workday was posted on 2026-03-02.
+This machine learning engineer position at Workday was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

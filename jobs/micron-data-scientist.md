@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Singapore |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Data-Scientist_JR93535) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Data-Scientist_JR91902) |
 
 ## About This Role
 
-This machine learning engineer position at Micron was posted on 2026-03-04.
+This machine learning engineer position at Micron was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

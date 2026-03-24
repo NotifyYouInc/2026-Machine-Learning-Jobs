@@ -1,16 +1,16 @@
-# Scientist 3, Data Science at Western Digital
+# Scientist 3, Data Science  at Western Digital
 
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000113918154-scientist-3-data-science) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000114890627-scientist-3-data-science) |
 
 ## About This Role
 
-This machine learning engineer position at Western Digital was posted on 2026-03-11.
+This machine learning engineer position at Western Digital was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

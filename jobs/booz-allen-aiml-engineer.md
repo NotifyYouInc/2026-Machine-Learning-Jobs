@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Maryland, US |
+| Location | Norfolk, Virginia, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/AI-ML-Engineer_R0234369-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Norfolk-VA/AI-ML-Engineer_R0236032) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-02-20.
+This machine learning engineer position at Booz Allen was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
