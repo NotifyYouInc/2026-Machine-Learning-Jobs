@@ -5,12 +5,12 @@
 | Company | [University of Notre Dame](https://scoutify.ai/companies/universityofnotredame?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Indiana, US |
 | Category | AI / ML Research |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990011963642-postdoctoral-research-associate) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990012192016-postdoctoral-research-associate) |
 
 ## About This Role
 
-This ai / ml research position at University of Notre Dame was posted on 2026-03-04.
+This ai / ml research position at University of Notre Dame was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

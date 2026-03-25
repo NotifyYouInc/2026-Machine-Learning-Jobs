@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Senior-Machine-Learning-Developer--MLOps-_JR2025486935-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Senior-Machine-Learning-Developer--MLOps-_JR2026501236) |
 
 ## About This Role
 
-This ai / llm engineer position at Boeing was posted on 2026-02-18.
+This ai / llm engineer position at Boeing was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

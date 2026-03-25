@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Poland |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Deep-Learning-Engineer---LLM-and-VLM-Model-Compression_JR2013011) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Deep-Learning-Engineer---LLM-and-VLM-Model-Compression_JR2014941) |
 
 ## About This Role
 
-This machine learning engineer position at Nvidia was posted on 2026-03-10.
+This machine learning engineer position at Nvidia was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

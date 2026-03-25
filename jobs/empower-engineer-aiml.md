@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Karnataka, IN |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Engineer-AI-ML_R0055845) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Engineer-AI-ML_R0055840-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Empower was posted on 2026-03-12.
+This ai / llm engineer position at Empower was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

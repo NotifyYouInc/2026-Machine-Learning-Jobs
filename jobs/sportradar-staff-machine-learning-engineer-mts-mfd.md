@@ -5,12 +5,12 @@
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ljubljana, Ljubljana, Slovenia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000111666868-staff-machine-learning-engineer-mts-mfd) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000115200327-staff-machine-learning-engineer-mts-mfd) |
 
 ## About This Role
 
-This machine learning engineer position at Sportradar was posted on 2026-02-26.
+This machine learning engineer position at Sportradar was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

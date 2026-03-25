@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | San Jose, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R166334) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R166678) |
 
 ## About This Role
 
-This machine learning engineer position at Adobe was posted on 2026-03-06.
+This machine learning engineer position at Adobe was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

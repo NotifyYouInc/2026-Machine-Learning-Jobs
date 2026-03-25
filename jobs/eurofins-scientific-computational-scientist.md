@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000113774332-computational-scientist) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000115291117-computational-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Eurofins Scientific was posted on 2026-03-10.
+This machine learning engineer position at Eurofins Scientific was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

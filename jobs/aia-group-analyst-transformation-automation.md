@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Strategy & Operations |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-AIA-Digital-Malaysia/Analyst--Transformation-Automation_JR-64526-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-AIA-Digital-Malaysia/Analyst--Transformation-Automation_JR-65078-2) |
 
 ## About This Role
 
-This strategy & operations position at AIA Group was posted on 2026-02-25.
+This strategy & operations position at AIA Group was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

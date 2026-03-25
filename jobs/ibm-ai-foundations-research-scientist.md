@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | Karnataka, IN |
 | Category | AI / ML Research |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97798) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102116) |
 
 ## About This Role
 
-This ai / ml research position at IBM was posted on 2026-03-03.
+This ai / ml research position at IBM was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

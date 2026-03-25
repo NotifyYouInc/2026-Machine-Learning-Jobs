@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-OK-Tinker-AFB/AI-ML-SME_322758) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/AI-ML-SME_323334) |
 
 ## About This Role
 
-This machine learning engineer position at CACI was posted on 2026-03-04.
+This machine learning engineer position at CACI was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

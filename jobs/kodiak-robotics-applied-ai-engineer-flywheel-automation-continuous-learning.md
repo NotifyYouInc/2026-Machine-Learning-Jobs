@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kodiak Robotics](https://scoutify.ai/companies/kodiak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | California, US |
+| Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/kodiak/jobs/4005932009) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/kodiak/jobs/4185289009) |
 
 ## About This Role
 
-This ai / llm engineer position at Kodiak Robotics was posted on 2026-02-24.
+This ai / llm engineer position at Kodiak Robotics was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

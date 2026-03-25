@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Titusville, Florida, United States |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Principal-Data-Scientist_R-062283-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Principal-Data-Scientist_R-056102-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Johnson & Johnson was posted on 2026-03-12.
+This ai / llm engineer position at Johnson & Johnson was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
