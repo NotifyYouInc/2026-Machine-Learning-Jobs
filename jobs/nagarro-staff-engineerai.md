@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000113982253-staff-engineerai) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000115579357-staff-engineerai) |
 
 ## About This Role
 
-This ai / llm engineer position at Nagarro was posted on 2026-03-11.
+This ai / llm engineer position at Nagarro was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

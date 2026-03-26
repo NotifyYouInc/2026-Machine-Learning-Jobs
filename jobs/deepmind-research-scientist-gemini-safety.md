@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DeepMind](https://scoutify.ai/companies/deepmind?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mountain View, California, United States |
+| Location | Switzerland |
 | Category | AI / ML Research |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/deepmind/jobs/7421111) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/deepmind/jobs/7731944) |
 
 ## About This Role
 
-This ai / ml research position at DeepMind was posted on 2026-03-12.
+This ai / ml research position at DeepMind was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

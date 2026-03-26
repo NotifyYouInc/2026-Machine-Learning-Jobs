@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heidi Health](https://scoutify.ai/companies/heidihealth.com.au?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Sydney, New South Wales, Australia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/8e5ef876-3636-4dbc-8314-00f569fa2474) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/b96b26e5-1378-43b3-9f33-ce8e70c6af1e) |
 
 ## About This Role
 
-This ai / llm engineer position at Heidi Health was posted on 2026-03-02.
+This ai / llm engineer position at Heidi Health was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

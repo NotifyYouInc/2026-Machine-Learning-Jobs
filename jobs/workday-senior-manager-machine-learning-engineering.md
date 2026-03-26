@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boulder, Colorado, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Senior-Manager--Machine-Learning-Engineering_JR-0102671) |
+| Location | Not specified |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Senior-Manager--Machine-Learning-Engineering_JR-0105311) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-02-12.
+This ai / llm engineer position at Workday was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

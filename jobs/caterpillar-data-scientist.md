@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karnataka, IN |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Data-Scientist_R0000350407) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Data-Scientist_R0000358080) |
 
 ## About This Role
 
-This ai / llm engineer position at Caterpillar was posted on 2026-02-18.
+This machine learning engineer position at Caterpillar was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

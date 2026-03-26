@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114083446-expert-ia-agentique-solutions-et-expertises-nantes) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000115446720-expert-ia-agentique-solutions-et-expertises-nantes) |
 
 ## About This Role
 
-This ai / llm engineer position at Sopra Steria was posted on 2026-03-11.
+This ai / llm engineer position at Sopra Steria was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

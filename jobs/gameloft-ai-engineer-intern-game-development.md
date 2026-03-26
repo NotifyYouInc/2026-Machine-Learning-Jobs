@@ -5,12 +5,12 @@
 | Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000113117824-ai-engineer-intern-game-development) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000115581982-ai-engineer-intern-game-development) |
 
 ## About This Role
 
-This ai / llm engineer position at Gameloft was posted on 2026-03-06.
+This ai / llm engineer position at Gameloft was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

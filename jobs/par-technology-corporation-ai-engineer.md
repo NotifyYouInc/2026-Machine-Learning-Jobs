@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PAR Technology Corporation](https://scoutify.ai/companies/par-technology-corporation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/par%20technology/cb44fa5f-34e8-4a0d-8638-fa77ac3afe87) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/par%20technology/fc0dfba5-6c5f-4506-86ed-41d22426e719) |
 
 ## About This Role
 
-This ai / llm engineer position at PAR Technology Corporation was posted on 2026-03-11.
+This ai / llm engineer position at PAR Technology Corporation was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

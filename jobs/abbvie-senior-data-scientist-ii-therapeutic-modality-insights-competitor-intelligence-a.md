@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012133370-senior-data-scientist-ii-therapeutic-modality-insights-competitor-intelligence-all-genders) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012206106-senior-data-scientist-ii-therapeutic-modality-insights-competitor-intelligence-all-genders) |
 
 ## About This Role
 
-This ai / llm engineer position at AbbVie was posted on 2026-03-13.
+This ai / llm engineer position at AbbVie was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

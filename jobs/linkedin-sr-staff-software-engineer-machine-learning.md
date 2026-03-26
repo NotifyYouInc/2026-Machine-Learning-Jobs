@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000113125890-sr-staff-software-engineer-machine-learning) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115592847-sr-staff-software-engineer-machine-learning) |
 
 ## About This Role
 
-This ai / llm engineer position at LinkedIn was posted on 2026-03-06.
+This ai / llm engineer position at LinkedIn was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

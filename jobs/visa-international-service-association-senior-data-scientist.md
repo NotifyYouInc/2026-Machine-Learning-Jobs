@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111400994-senior-data-scientist) |
+| Location | Almaty, Almaty, Kazakhstan |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000115400437-senior-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Visa International Service Association was posted on 2026-02-25.
+This ai / llm engineer position at Visa International Service Association was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
