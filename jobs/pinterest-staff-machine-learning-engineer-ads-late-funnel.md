@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7012050) |
+| Location | 3 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7679644) |
 
 ## About This Role
 
-This software engineer position at Pinterest was posted on 2026-02-05.
+This machine learning engineer position at Pinterest was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sok](https://scoutify.ai/companies/sok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Helsinki, Uusimaa, Finland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://sok.wd502.myworkdayjobs.com/s-ryhman-avoimet-tyopaikat/job/SOK/Data-Scientist_R-36505) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://sok.wd502.myworkdayjobs.com/s-ryhman-avoimet-tyopaikat/job/SOK/Data-Scientist_R-37227) |
 
 ## About This Role
 
-This machine learning engineer position at Sok was posted on 2026-02-05.
+This machine learning engineer position at Sok was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

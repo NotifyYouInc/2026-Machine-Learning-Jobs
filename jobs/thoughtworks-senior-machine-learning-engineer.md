@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7653188?gh_jid=7653188) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7735678?gh_jid=7735678) |
 
 ## About This Role
 
-This machine learning engineer position at Thoughtworks was posted on 2026-03-09.
+This machine learning engineer position at Thoughtworks was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

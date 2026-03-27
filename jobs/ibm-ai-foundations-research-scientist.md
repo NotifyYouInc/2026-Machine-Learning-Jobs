@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karnataka, IN |
+| Location | Cambridge, Massachusetts, United States |
 | Category | AI / ML Research |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102116) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102115) |
 
 ## About This Role
 

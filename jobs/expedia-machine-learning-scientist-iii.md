@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Machine-Learning-Scientist-III_R-99636) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Machine-Learning-Scientist-III_R-104108) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-02-19.
+This ai / llm engineer position at Expedia was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115166560-senior-data-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115165918-senior-data-scientist) |
 
 ## About This Role
 

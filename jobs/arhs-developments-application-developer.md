@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Valletta, Valletta, Malta |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000115039067-application-developer) |
+| Category | Software Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000115220842-application-developer) |
 
 ## About This Role
 
-This ai / llm engineer position at ARHS Developments was posted on 2026-03-16.
+This software engineer position at ARHS Developments was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

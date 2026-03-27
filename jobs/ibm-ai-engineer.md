@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Waterford, Munster, Ireland |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91101) |
+| Location | United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104351) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-03.
+This ai / llm engineer position at IBM was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

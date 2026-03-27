@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Automation Anywhere](https://scoutify.ai/companies/automation-anywhere?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Vadodara, Gujarat, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/Bengaluru-India/AI-Engineer_JR1266) |
+| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/Vadodara-India/AI-Engineer_JR1259) |
 
 ## About This Role
 

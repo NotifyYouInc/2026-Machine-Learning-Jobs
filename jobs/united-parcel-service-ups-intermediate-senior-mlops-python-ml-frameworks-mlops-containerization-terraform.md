@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Intermediate---Senior---MLOps---Python--ML-Frameworks--MLOps--Containerization--Terraform--GCP--Vertex-AI--IBM-Watsonx_R26002816) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Intermediate---Senior---MLOps---Python--ML-Frameworks--MLOps--Containerization--Terraform--GCP--Vertex-AI--IBM-Watsonx_R26002818) |
 
 ## About This Role
 
-This machine learning engineer position at United Parcel Service (UPS) was posted on 2026-03-17.
+This machine learning engineer position at United Parcel Service (UPS) was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

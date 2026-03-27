@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Quantitative-Analytics-Specialist_R-524962) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Quantitative-Analytics-Specialist_R-528520) |
 
 ## About This Role
 
-This machine learning engineer position at Wells Fargo was posted on 2026-03-04.
+This ai / llm engineer position at Wells Fargo was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Richardson, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Senior-Machine-Learning---AI-Software-Engineer_JR2026495833-2) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Senior-Machine-Learning---AI-Software-Engineer_JR2026501811-1) |
 
 ## About This Role
 
-This software engineer position at Boeing was posted on 2026-02-24.
+This software engineer position at Boeing was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

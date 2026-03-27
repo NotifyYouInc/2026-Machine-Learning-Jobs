@@ -1,16 +1,16 @@
-# Lead AI Research Engineer at Ensemble Health Partners
+# Lead, AI Research Engineer at Ensemble Health Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Senior-Engineer--Data-Science_R036015) |
+| Category | AI / ML Research |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/AI-Engineer_R035992) |
 
 ## About This Role
 
-This ai / llm engineer position at Ensemble Health Partners was posted on 2026-03-10.
+This ai / ml research position at Ensemble Health Partners was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
