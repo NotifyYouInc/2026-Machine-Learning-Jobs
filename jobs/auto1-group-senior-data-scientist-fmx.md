@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Madrid, Madrid, Spain |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000115268002-senior-data-scientist-fmx) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000115902727-senior-data-scientist-fmx) |
 
 ## About This Role
 
-This machine learning engineer position at AUTO1 Group was posted on 2026-03-17.
+This machine learning engineer position at AUTO1 Group was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

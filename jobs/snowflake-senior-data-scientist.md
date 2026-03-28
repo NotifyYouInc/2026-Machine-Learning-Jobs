@@ -5,12 +5,12 @@
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Menlo Park, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/6663b7b9-1b7e-47f1-af58-724e3dcb601c) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/02b4dbeb-2fef-4838-9d79-922330f08d58) |
 
 ## About This Role
 
-This machine learning engineer position at Snowflake was posted on 2026-03-16.
+This machine learning engineer position at Snowflake was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

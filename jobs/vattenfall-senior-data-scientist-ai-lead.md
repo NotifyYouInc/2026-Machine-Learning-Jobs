@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000112615267-senior-data-scientist-ai-lead) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000115859337-senior-data-scientist-ai-lead) |
 
 ## About This Role
 
-This machine learning engineer position at Vattenfall was posted on 2026-03-04.
+This ai / llm engineer position at Vattenfall was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

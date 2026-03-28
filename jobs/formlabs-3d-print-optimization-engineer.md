@@ -5,12 +5,12 @@
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Somerville, Massachusetts, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://careers.formlabs.com/job/7651899/apply/?gh_jid=7651899) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://careers.formlabs.com/job/7739380/apply/?gh_jid=7739380) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Formlabs was posted on 2026-02-24.
+This electrical / hardware engineer position at Formlabs was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

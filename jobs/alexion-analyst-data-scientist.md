@@ -5,12 +5,12 @@
 | Company | [Alexion](https://scoutify.ai/companies/astrazeneca?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/India---Bangalore/Analyst---Data-Scientist_R-240244) |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/India---Bangalore/Analyst---Data-Scientist_R-248533) |
 
 ## About This Role
 
-This machine learning engineer position at Alexion was posted on 2026-03-17.
+This machine learning engineer position at Alexion was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

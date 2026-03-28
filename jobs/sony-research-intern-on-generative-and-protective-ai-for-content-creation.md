@@ -5,12 +5,12 @@
 | Company | [Sony](https://scoutify.ai/companies/sony?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118897) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961) |
 
 ## About This Role
 
-This ai / ml research position at Sony was posted on 2026-03-06.
+This ai / ml research position at Sony was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

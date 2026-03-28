@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000115170624-senior-data-scientist) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000115720707-senior-data-scientist) |
 
 ## About This Role
 
-This ai / llm engineer position at Freshworks CRM was posted on 2026-03-17.
+This ai / llm engineer position at Freshworks CRM was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

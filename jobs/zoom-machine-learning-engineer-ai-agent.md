@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Seattle, Washington, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-Learning-Engineer---AI-Agent_R18559) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-Learning-Engineer---AI-Agent_R18831-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Zoom was posted on 2026-02-18.
+This ai / llm engineer position at Zoom was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
