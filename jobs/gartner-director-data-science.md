@@ -1,16 +1,16 @@
-# Intern – ML/AI Engineer (Product Engineering, STPG) at Micron
+# Director, Data Science at Gartner
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore |
+| Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 3 locations |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---ML-AI-Engineer--Product-Engineering--STPG-_JR93102) |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Director--Data-Science_108588) |
 
 ## About This Role
 
-This ai / llm engineer position at Micron was posted on 2026-03-22.
+This ai / llm engineer position at Gartner was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

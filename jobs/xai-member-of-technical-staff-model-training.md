@@ -1,16 +1,16 @@
-# Intern – ML/AI Engineer (Product Engineering, STPG) at Micron
+# Member of Technical Staff - Model Training at xAI
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore |
+| Company | [xAI](https://scoutify.ai/companies/twitter?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 4 locations |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---ML-AI-Engineer--Product-Engineering--STPG-_JR93102) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xai/jobs/5086324007) |
 
 ## About This Role
 
-This ai / llm engineer position at Micron was posted on 2026-03-22.
+This ai / llm engineer position at xAI was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 
