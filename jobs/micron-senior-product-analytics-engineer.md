@@ -1,16 +1,16 @@
-# Senior Data Scientist (Integrity) at Grab
+# Senior Product Analytics Engineer at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116099167-senior-data-scientist-integrity) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Senior-Product-Analytics-Engineer_JR94346) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-03-23.
+This ai / llm engineer position at Micron was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

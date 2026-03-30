@@ -1,16 +1,16 @@
-# Data Scientist at Commonwealth Bank of Australia
+# Advanced Analytics Manager at Commonwealth Bank of Australia
 
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | AI / LLM Engineer |
+| Location | Karnataka, IN |
+| Category | Machine Learning Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Data-Scientist_REQ249084) |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Advanced-Analytics-Manager_REQ253192-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Commonwealth Bank of Australia was posted on 2026-03-23.
+This machine learning engineer position at Commonwealth Bank of Australia was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

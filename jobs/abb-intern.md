@@ -1,16 +1,16 @@
-# Senior Data Scientist (Integrity) at Grab
+# Intern at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Hangzhou, Zhejiang, China |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116099167-senior-data-scientist-integrity) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hangzhou-Zhejiang-China/Intern_JR00029490-4) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-03-23.
+This ai / llm engineer position at ABB was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

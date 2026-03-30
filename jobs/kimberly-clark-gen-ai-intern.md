@@ -1,16 +1,16 @@
-# Senior Data Scientist (Integrity) at Grab
+# Gen AI - Intern at Kimberly-Clark
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Kimberly-Clark](https://scoutify.ai/companies/kimberly-clark?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116099167-senior-data-scientist-integrity) |
+| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/IT-Centre-Bengaluru-GDTC/Gen-AI---Intern_884516-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-03-23.
+This ai / llm engineer position at Kimberly-Clark was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

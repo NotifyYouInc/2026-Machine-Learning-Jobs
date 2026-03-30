@@ -1,16 +1,16 @@
-# Senior Data Scientist (Integrity) at Grab
+# Lead Engineer - Machine Learning at GE Aerospace
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116099167-senior-data-scientist-integrity) |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bengaluru/Lead-Engineer---Machine-Learning_R5031313-2) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-03-23.
+This ai / llm engineer position at GE Aerospace was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist-Advanced Analytics at IBM
+# Data Science Manager at mavens
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Company | [mavens](https://scoutify.ai/companies/mavens?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
+| Category | Machine Learning Engineer |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93033) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mavenscareers/jobs/5834178004) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-03-22.
+This machine learning engineer position at mavens was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

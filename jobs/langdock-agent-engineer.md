@@ -1,16 +1,16 @@
-# Senior Data Scientist (Integrity) at Grab
+# Agent Engineer at Langdock
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Langdock](https://scoutify.ai/companies/langdock?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116099167-senior-data-scientist-integrity) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/langdock/8a0d0cca-982d-4e6a-ada9-5efc024c55d9) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-03-23.
+This ai / llm engineer position at Langdock was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

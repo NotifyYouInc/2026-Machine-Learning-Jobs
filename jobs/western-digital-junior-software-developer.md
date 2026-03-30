@@ -1,16 +1,16 @@
-# Scientist 1, Data Science at Western Digital
+# Junior Software Developer at Western Digital
 
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Thailand |
-| Category | Machine Learning Engineer |
+| Location | Shenzhen, Guangdong, China |
+| Category | Software Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000116096377-scientist-1-data-science) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000116096237-junior-software-developer) |
 
 ## About This Role
 
-This machine learning engineer position at Western Digital was posted on 2026-03-23.
+This software engineer position at Western Digital was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

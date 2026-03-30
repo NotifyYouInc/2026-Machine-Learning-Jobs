@@ -1,16 +1,16 @@
-# Scientist 1, Data Science at Western Digital
+# Senior ML Engineer at ShyftLabs
 
 | Field | Details |
 |-------|---------|
-| Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Thailand |
+| Company | [ShyftLabs](https://scoutify.ai/companies/shyftlabs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000116096377-scientist-1-data-science) |
+| Apply | [View on company site](https://jobs.lever.co/shyftlabs/2fe623a7-2f6f-48b3-8fe9-73302da5dd88) |
 
 ## About This Role
 
-This machine learning engineer position at Western Digital was posted on 2026-03-23.
+This machine learning engineer position at ShyftLabs was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

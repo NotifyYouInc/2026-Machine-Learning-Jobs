@@ -1,16 +1,16 @@
-# Senior Data Scientist (Integrity) at Grab
+# AI - Sr Group Manager at METRO/MAKRO
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116099167-senior-data-scientist-integrity) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000116104318-ai-sr-group-manager) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-03-23.
+This ai / llm engineer position at METRO/MAKRO was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
