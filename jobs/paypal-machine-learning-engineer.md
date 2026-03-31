@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | 5 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Machine-Learning-Engineer_R0134783-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Senior-Machine-Learning-Engineer_R0126902-1) |
 
 ## About This Role
 
-This machine learning engineer position at PayPal was posted on 2026-02-17.
+This machine learning engineer position at PayPal was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

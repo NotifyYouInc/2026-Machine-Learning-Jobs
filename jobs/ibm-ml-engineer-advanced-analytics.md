@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Karnataka, IN |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102476) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102471) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-03-18.
+This machine learning engineer position at IBM was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

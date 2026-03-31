@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Montréal, Quebec, Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/AI-Developer-II--Intermediate-_R150369) |
+| Location | Quebec, CA |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/AI-Developer-Senior_R152337) |
 
 ## About This Role
 
-This machine learning engineer position at Intact was posted on 2026-02-23.
+This ai / llm engineer position at Intact was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

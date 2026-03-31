@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vietnam |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113976377-rd-ai-engineer) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116325994-rd-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-03-11.
+This ai / llm engineer position at Robert Bosch was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
