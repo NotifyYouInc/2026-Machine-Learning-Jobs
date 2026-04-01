@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Redmond, Washington, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556834134) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556851176) |
 
 ## About This Role
 
-This ai / llm engineer position at Microsoft was posted on 2026-03-11.
+This ai / llm engineer position at Microsoft was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

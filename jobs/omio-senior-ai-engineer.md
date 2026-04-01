@@ -5,12 +5,12 @@
 | Company | [Omio](https://scoutify.ai/companies/omio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Omio1/744000112844743-senior-ai-engineer) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Omio1/744000116328257-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Omio was posted on 2026-03-05.
+This ai / llm engineer position at Omio was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

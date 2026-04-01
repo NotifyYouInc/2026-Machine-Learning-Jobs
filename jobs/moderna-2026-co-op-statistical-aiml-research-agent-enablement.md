@@ -5,12 +5,12 @@
 | Company | [Moderna](https://scoutify.ai/companies/modernatx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2026-Co-op--Statistical-AI-ML-Research---Agent-Enablement_R18941) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/325-Binney-St---Cambridge---USA---MA/XMLNAME-2026-Co-op--Statistical-AI-ML-Research---Agent-Enablement_R18939) |
 
 ## About This Role
 
-This ai / llm engineer position at Moderna was posted on 2026-03-12.
+This ai / llm engineer position at Moderna was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

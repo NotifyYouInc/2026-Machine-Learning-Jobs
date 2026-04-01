@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115156357-chief-ai-expert-engineering) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116357257-chief-ai-expert-engineering) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-03-17.
+This ai / llm engineer position at Robert Bosch was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
