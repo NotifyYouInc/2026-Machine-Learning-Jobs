@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bellevue, Washington, United States |
-| Category | UX Researcher |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1807518976538281) |
+| Category | AI / ML Research |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1955426332047476) |
 
 ## About This Role
 
-This ux researcher position at Meta was posted on 2026-02-18.
+This ai / ml research position at Meta was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

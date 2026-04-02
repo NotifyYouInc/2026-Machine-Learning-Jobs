@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Reforma, Chiapas, Mexico |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Senior-Data-Scientist-II_R97427) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Mexico/Senior-Data-Scientist-II_R111151) |
 
 ## About This Role
 
-This ai / llm engineer position at LexisNexis Risk Solutions was posted on 2026-02-26.
+This ai / llm engineer position at LexisNexis Risk Solutions was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

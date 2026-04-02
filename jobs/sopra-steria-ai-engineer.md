@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Tunis, Tunis Governorate, Tunisia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000112871842-ai-engineer) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116630965-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Sopra Steria was posted on 2026-03-05.
+This ai / llm engineer position at Sopra Steria was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

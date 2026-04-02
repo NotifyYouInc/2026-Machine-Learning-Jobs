@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Senior-AI-Engineer_R00285582) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Senior-AI-Engineer_R00289257) |
 
 ## About This Role
 
-This software engineer position at Ecolab was posted on 2026-02-06.
+This ai / llm engineer position at Ecolab was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

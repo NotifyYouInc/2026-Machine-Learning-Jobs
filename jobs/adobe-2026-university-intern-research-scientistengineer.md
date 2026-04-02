@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Jose, California, United States |
+| Location | London, England, United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Intern---Research-Scientist-Engineer_R163894) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2026-University-Intern---Research-Scientist-Engineer_R160521) |
 
 ## About This Role
 
-This ai / ml research position at Adobe was posted on 2026-02-19.
+This ai / ml research position at Adobe was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

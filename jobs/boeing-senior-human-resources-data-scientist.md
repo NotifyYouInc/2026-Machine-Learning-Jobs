@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Senior-Human-Resources-Data-Scientist_JR2026496179-1) |
+| Location | Arlington, Texas, United States |
+| Category | Human Resources / People Ops |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Senior-Human-Resources-Data-Scientist_JR2026502644-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Boeing was posted on 2026-03-05.
+This human resources / people ops position at Boeing was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

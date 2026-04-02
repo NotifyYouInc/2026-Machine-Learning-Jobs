@@ -5,12 +5,12 @@
 | Company | [McGill University](https://scoutify.ai/companies/mcgill?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Macdonald-Eng-Bldg/Research-Assistant-2_JR0000074365) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/UQAM--Pavillon-des-Sciences-Biologiques/Research-Assistant-2_JR0000074726) |
 
 ## About This Role
 
-This ai / ml research position at McGill University was posted on 2026-03-10.
+This ai / ml research position at McGill University was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

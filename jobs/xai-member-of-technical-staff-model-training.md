@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [xAI](https://scoutify.ai/companies/twitter?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xai/jobs/5086324007) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xai/jobs/5086969007) |
 
 ## About This Role
 
-This ai / llm engineer position at xAI was posted on 2026-03-22.
+This ai / llm engineer position at xAI was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

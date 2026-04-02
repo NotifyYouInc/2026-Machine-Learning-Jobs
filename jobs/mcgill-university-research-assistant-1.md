@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [McGill University](https://scoutify.ai/companies/mcgill?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McConnell-Eng-Bldg/Research-Assistant-1_JR0000074120) |
+| Category | AI / ML Research |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McConnell-Eng-Bldg/Research-Assistant-1_JR0000074665) |
 
 ## About This Role
 
-This ai / llm engineer position at McGill University was posted on 2026-02-27.
+This ai / ml research position at McGill University was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000109315923-principal-staff-ai-engineer-premium-ai) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116706123-principal-staff-ai-engineer-premium-ai) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-02-13.
+This ai / llm engineer position at LinkedIn was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

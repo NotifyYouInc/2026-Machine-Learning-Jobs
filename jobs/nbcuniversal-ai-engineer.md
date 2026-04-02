@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000115679067-ai-engineer) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000116710571-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at NBCUniversal was posted on 2026-03-19.
+This ai / llm engineer position at NBCUniversal was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

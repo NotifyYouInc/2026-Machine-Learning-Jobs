@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00177071) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00179205) |
 
 ## About This Role
 
-This machine learning engineer position at Leidos was posted on 2026-02-26.
+This machine learning engineer position at Leidos was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

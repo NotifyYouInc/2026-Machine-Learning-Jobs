@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Mountain View, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115539722-sr-staff-ai-engineer-genai-safety) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116657796-sr-staff-ai-engineer-genai-safety) |
 
 ## About This Role
 
-This ai / llm engineer position at LinkedIn was posted on 2026-03-18.
+This ai / llm engineer position at LinkedIn was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

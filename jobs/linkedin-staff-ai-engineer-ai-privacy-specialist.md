@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115539687-staff-ai-engineer-ai-privacy-specialist) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116658967-staff-ai-engineer-ai-privacy-specialist) |
 
 ## About This Role
 
-This ai / llm engineer position at LinkedIn was posted on 2026-03-18.
+This ai / llm engineer position at LinkedIn was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

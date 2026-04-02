@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990012252646-senior-researcher-organizational-behavior) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990012268226-senior-researcher-organizational-behavior) |
 
 ## About This Role
 
-This ai / ml research position at Harvard University was posted on 2026-03-20.
+This ai / ml research position at Harvard University was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

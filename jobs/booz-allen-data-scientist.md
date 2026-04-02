@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Scientist_R0235317) |
+| Location | McLean, Virginia, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Scientist_R0236797) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-03-06.
+This ai / llm engineer position at Booz Allen was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

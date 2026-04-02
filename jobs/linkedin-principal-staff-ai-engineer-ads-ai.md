@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000107418968-principal-staff-ai-engineer-ads-ai) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116659753-principal-staff-ai-engineer-ads-ai) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-02-05.
+This ai / llm engineer position at LinkedIn was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 
