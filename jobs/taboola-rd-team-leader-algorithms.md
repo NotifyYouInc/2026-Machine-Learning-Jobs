@@ -5,12 +5,12 @@
 | Company | [Taboola](https://scoutify.ai/companies/taboola?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://www.taboola.com/careers/job/7621833?gh_jid=7621833) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://www.taboola.com/careers/job/7621831?gh_jid=7621831) |
 
 ## About This Role
 
-This machine learning engineer position at Taboola was posted on 2026-03-12.
+This machine learning engineer position at Taboola was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

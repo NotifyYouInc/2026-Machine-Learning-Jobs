@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Viridien](https://scoutify.ai/companies/cgg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Houston, Texas, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Singapore-Singapore/Head-of-Applied-AI---Products_JR101200) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Head-of-Applied-AI---Products_JR101217) |
 
 ## About This Role
 
-This ai / llm engineer position at Viridien was posted on 2026-03-23.
+This ai / llm engineer position at Viridien was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

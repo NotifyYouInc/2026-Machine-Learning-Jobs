@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New Taipei City, Taipei, Taiwan |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/134319735037665990-senior-ai-engineer-computer-vision-and-applied-ml?sort_by=date&page=1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/99654349080142534-senior-ai-engineer-computer-vision-and-applied-ml?sort_by=date&page=1) |
 
 ## About This Role
 
-This ai / llm engineer position at Google was posted on 2026-02-23.
+This ai / llm engineer position at Google was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

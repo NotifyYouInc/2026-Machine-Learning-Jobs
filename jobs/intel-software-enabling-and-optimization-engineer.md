@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Penang, MY |
-| Category | Developer Relations |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Software-Enabling-and-Optimization-Engineer_JR0281129) |
+| Category | Software Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Software-Enabling-and-Optimization-Engineer_JR0282351) |
 
 ## About This Role
 
-This developer relations position at Intel was posted on 2026-02-23.
+This software engineer position at Intel was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

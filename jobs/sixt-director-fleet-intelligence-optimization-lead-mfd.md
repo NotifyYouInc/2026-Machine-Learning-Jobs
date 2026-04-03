@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000109713270-director-fleet-intelligence-optimization-lead-mfd) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000116908604-director-fleet-intelligence-optimization-lead-mfd) |
 
 ## About This Role
 
-This machine learning engineer position at Sixt was posted on 2026-02-17.
+This machine learning engineer position at Sixt was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Machine-Learning-Engineer_R0135663-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Machine-Learning-Engineer_R0135322-1) |
 
 ## About This Role
 
-This machine learning engineer position at PayPal was posted on 2026-03-23.
+This machine learning engineer position at PayPal was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

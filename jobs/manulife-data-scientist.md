@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Boston-Massachusetts/Data-Scientist_JR26012014-3) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Data-Scientist_JR26031317) |
 
 ## About This Role
 
-This ai / llm engineer position at Manulife was posted on 2026-02-27.
+This ai / llm engineer position at Manulife was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
