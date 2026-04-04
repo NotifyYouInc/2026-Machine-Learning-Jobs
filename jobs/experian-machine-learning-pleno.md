@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brazil |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000114468697-machine-learning-pleno) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117318119-machine-learning-pleno) |
 
 ## About This Role
 
-This ai / llm engineer position at Experian was posted on 2026-03-12.
+This ai / llm engineer position at Experian was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

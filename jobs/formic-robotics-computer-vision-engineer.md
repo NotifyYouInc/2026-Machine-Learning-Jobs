@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Formic](https://scoutify.ai/companies/formic?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/formic/jobs/4654814006) |
+| Category | Robotics Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/formic/jobs/4667580006) |
 
 ## About This Role
 
-This software engineer position at Formic was posted on 2026-02-16.
+This robotics engineer position at Formic was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

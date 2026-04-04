@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/111030171259019974-senior-staff-research-scientist-google-research?sort_by=date&page=1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/119055214572380870-senior-staff-research-scientist-google-research?sort_by=date&page=1) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-03-26.
+This ai / ml research position at Google was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

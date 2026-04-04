@@ -5,12 +5,12 @@
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000111583465-senior-data-scientist) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000117248578-senior-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Vattenfall was posted on 2026-02-26.
+This machine learning engineer position at Vattenfall was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

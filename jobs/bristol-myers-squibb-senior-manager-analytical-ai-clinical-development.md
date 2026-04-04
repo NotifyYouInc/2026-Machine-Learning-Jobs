@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Senior-Manager--Analytical-AI-Clinical-Development_R1600410) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Senior-Manager--Analytical-AI-Clinical-Development_R1600409) |
 
 ## About This Role
 
-This machine learning engineer position at Bristol-Myers Squibb was posted on 2026-03-24.
+This machine learning engineer position at Bristol-Myers Squibb was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

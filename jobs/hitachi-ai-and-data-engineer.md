@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/AI-and-Data-Engineer_R0119603-2) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/AI-and-Data-Engineer_R0124622-2) |
 
 ## About This Role
 
-This software engineer position at Hitachi was posted on 2026-02-09.
+This ai / llm engineer position at Hitachi was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

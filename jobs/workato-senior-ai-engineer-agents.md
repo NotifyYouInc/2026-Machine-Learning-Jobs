@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8304750002) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8480362002) |
 
 ## About This Role
 
-This software engineer position at Workato was posted on 2026-02-05.
+This ai / llm engineer position at Workato was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
