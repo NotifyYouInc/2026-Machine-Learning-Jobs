@@ -1,16 +1,16 @@
-# Machine Learning Engineer 4 at Adobe
+# TDA Transformation AI Product, Principal at AIA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Not specified |
 | Category | AI / ML Research |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-4_R166657-1) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Hong-Kong-HK-AIA-Hong-Kong--Macau/TDA-Transformation-AI-Product--Principal_JR-65311) |
 
 ## About This Role
 
-This ai / ml research position at Adobe was posted on 2026-03-30.
+This ai / ml research position at AIA Group was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

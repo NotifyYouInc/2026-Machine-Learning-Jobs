@@ -1,16 +1,16 @@
-# Engineer 2 - Machine Learning at Comcast
+# AI Internship at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bangkok, TH |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2---Machine-Learning_R429293) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Thungmahamek-Bangkok-Thailand/AI-Internship_JR00029748-1) |
 
 ## About This Role
 
-This machine learning engineer position at Comcast was posted on 2026-03-30.
+This machine learning engineer position at ABB was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

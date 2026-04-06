@@ -1,16 +1,16 @@
-# Machine Learning Engineer 4 at Adobe
+# Senior Applied Science Manager, Traffic Quality at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-4_R166657-1) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10378763/senior-applied-science-manager-traffic-quality) |
 
 ## About This Role
 
-This ai / ml research position at Adobe was posted on 2026-03-30.
+This ai / ml research position at Amazon was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

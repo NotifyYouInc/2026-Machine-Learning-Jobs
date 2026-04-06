@@ -5,12 +5,12 @@
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000116532237-ai-engineer) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000117219498-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Dr. Reddy's Laboratories was posted on 2026-03-25.
+This ai / llm engineer position at Dr. Reddy's Laboratories was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

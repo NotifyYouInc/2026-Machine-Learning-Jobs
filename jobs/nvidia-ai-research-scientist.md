@@ -1,16 +1,16 @@
-# Machine Learning Engineer 4 at Adobe
+# AI Research Scientist at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Singapore, Singapore |
 | Category | AI / ML Research |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-4_R166657-1) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/AI-Research-Scientist_JR2015372) |
 
 ## About This Role
 
-This ai / ml research position at Adobe was posted on 2026-03-30.
+This ai / ml research position at Nvidia was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
