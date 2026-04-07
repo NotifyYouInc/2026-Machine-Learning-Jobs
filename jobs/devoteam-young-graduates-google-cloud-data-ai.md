@@ -1,16 +1,16 @@
-# Young Graduates - Google Cloud, Data & AI at Devoteam
+# Young Graduates – Google Cloud, Data & AI at Devoteam
 
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Belgium |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000116014097-young-graduates-google-cloud-data-ai) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000117577139-young-graduates-google-cloud-data-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at Devoteam was posted on 2026-03-21.
+This ai / llm engineer position at Devoteam was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

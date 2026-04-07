@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Salt-Lake-City-Utah-Holladay/Senior-Data-Scientist_R-273343-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Senior-Data-Scientist_R-261219) |
 
 ## About This Role
 
-This machine learning engineer position at Mastercard was posted on 2026-03-24.
+This machine learning engineer position at Mastercard was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

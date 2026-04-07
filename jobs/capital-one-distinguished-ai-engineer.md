@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Distinguished-AI-Engineer_R237097-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/Distinguished-AI-Engineer_R239417-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Capital One was posted on 2026-03-02.
+This ai / llm engineer position at Capital One was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | North Chicago, Illinois, United States |
+| Location | Irvine, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012275077-director-feasibility-start-up-analytics-data-science-analytics) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012374516-director-feasibility-start-up-analytics-data-science-analytics) |
 
 ## About This Role
 
-This machine learning engineer position at AbbVie was posted on 2026-03-23.
+This machine learning engineer position at AbbVie was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

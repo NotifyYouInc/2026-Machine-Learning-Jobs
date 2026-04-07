@@ -1,16 +1,16 @@
-# Applied AI Engineer (Value Engineering)  at Celonis
+# Applied AI Engineer (Value Engineering) at Celonis
 
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7635270003?gh_jid=7635270003) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/6094048003?gh_jid=6094048003) |
 
 ## About This Role
 
-This ai / llm engineer position at Celonis was posted on 2026-03-10.
+This ai / llm engineer position at Celonis was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

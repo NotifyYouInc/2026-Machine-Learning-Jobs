@@ -5,12 +5,12 @@
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7747636) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7747638) |
 
 ## About This Role
 
-This ai / llm engineer position at Stripe was posted on 2026-03-25.
+This ai / llm engineer position at Stripe was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

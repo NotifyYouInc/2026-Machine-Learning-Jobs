@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Karnataka, IN |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Data-Scientist_REQ249084) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Data-Scientist_REQ256121) |
 
 ## About This Role
 
-This ai / llm engineer position at Commonwealth Bank of Australia was posted on 2026-03-23.
+This ai / llm engineer position at Commonwealth Bank of Australia was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

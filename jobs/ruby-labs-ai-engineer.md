@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Ukraine |
+| Location | Not specified |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/0087c17a-505e-43b8-a07d-99285ca9c2e7) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/19d7a5d4-4938-4b4e-80d6-42d475c72393) |
 
 ## About This Role
 
-This ai / llm engineer position at Ruby Labs was posted on 2026-03-04.
+This ai / llm engineer position at Ruby Labs was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

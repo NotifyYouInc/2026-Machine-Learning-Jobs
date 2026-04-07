@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Warren, Michigan, United States |
 | Category | AI / ML Research |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Researcher---Senior-Researcher---Autonomous-Vehicle-Research_JR-202603053) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Researcher---Senior-Researcher---Autonomous-Vehicle-Research_JR-202607110) |
 
 ## About This Role
 
-This ai / ml research position at General Motors was posted on 2026-02-26.
+This ai / ml research position at General Motors was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Senior-AI-Engineer--AVP_R0412548-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Senior-AI-Engineer--AVP_R0412546) |
 
 ## About This Role
 
-This ai / llm engineer position at Deutsche Bank was posted on 2026-03-11.
+This ai / llm engineer position at Deutsche Bank was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

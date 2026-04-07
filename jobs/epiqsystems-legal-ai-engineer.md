@@ -5,12 +5,12 @@
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Backend-Software-Engineer_R0032404) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Legal-AI-Engineer_R0033378) |
 
 ## About This Role
 
-This ai / llm engineer position at Epiqsystems was posted on 2026-02-25.
+This ai / llm engineer position at Epiqsystems was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

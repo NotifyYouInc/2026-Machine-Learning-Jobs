@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Limerick, Munster, Ireland |
-| Category | Robotics Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Staff-AI--ML--Robotics-Engineer----Environmental-Perception_R260376) |
+| Category | AI / ML Research |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Staff-AI--ML--Robotics-Engineer----Environmental-Perception_R260368-1) |
 
 ## About This Role
 
-This robotics engineer position at Analog Devices was posted on 2026-03-02.
+This ai / ml research position at Analog Devices was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist, (AI/ML) – Visa Consulting and Analytics at Visa International Service Association
+# Data Scientist, AI/ML – Visa Consulting and Analytics at Visa International Service Association
 
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Ashburn, Virginia, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113249187-data-scientist-aiml-visa-consulting-and-analytics) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000117737677-data-scientist-aiml-visa-consulting-and-analytics) |
 
 ## About This Role
 
-This ai / llm engineer position at Visa International Service Association was posted on 2026-03-06.
+This ai / llm engineer position at Visa International Service Association was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

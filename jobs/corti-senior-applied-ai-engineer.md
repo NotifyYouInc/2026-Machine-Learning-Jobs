@@ -5,12 +5,12 @@
 | Company | [Corti](https://scoutify.ai/companies/corti?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Copenhagen, Capital Region, Denmark |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/corti/1a0514bd-5925-42a4-8965-8bdcddb4293a) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/corti/53b8f494-4375-44e1-88ee-d644dbafaba6) |
 
 ## About This Role
 
-This ai / llm engineer position at Corti was posted on 2026-03-18.
+This ai / llm engineer position at Corti was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

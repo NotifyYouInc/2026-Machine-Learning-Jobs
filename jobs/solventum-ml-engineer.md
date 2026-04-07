@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pennsylvania, US |
+| Location | Dublin, Leinster, Ireland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Pennsylvania/ML-Engineer_R01128267) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/IR-Dublin/ML-Engineer_R01128493-1) |
 
 ## About This Role
 
-This machine learning engineer position at Solventum was posted on 2026-02-24.
+This machine learning engineer position at Solventum was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

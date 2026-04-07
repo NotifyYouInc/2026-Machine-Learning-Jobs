@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Minneapolis, Minnesota, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Minneapolis-MN/Senior-Data-Scientist-III_R110286) |
+| Location | Alpharetta, Georgia, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Senior-Data-Scientist-III_R110722) |
 
 ## About This Role
 
-This ai / llm engineer position at ChoicePoint was posted on 2026-03-12.
+This machine learning engineer position at ChoicePoint was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IN-Senior Associate_ AI/ML Engineer __ Data & Analytics _ Advisory _Bangalore at PwC
+# IN_Senior Associate_ AI/ML Engineer __ Data & Analytics _ Advisory _Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--AI-ML-Engineer----Data---Analytics---Advisory--Bangalore_705579WD-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--AI-ML-Engineer----Data---Analytics---Advisory--Bangalore_717428WD-1) |
 
 ## About This Role
 
-This software engineer position at PwC was posted on 2026-02-12.
+This ai / llm engineer position at PwC was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

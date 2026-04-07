@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/ML-AI-Engineer-II-2_R-265794) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/ML-AI-Engineer-II-2_R-274049) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-02-13.
+This ai / llm engineer position at Mastercard was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

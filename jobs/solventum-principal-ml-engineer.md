@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Dublin, Leinster, Ireland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Pennsylvania/Principal-ML-Engineer_R01128254) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/IR-Dublin/Principal-ML-Engineer_R01128492) |
 
 ## About This Role
 
-This machine learning engineer position at Solventum was posted on 2026-02-19.
+This machine learning engineer position at Solventum was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

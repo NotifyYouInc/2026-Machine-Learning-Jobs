@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000116879259-machine-learning-ai-engineer-senior-to-principal-level) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000116880887-machine-learning-ai-engineer-senior-to-principal-level) |
 
 ## About This Role
 
