@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rocket Lab](https://scoutify.ai/companies/rocketlab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Long Beach, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rocketlab/jobs/7677595003) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rocketlab/jobs/7684275003) |
 
 ## About This Role
 
-This machine learning engineer position at Rocket Lab was posted on 2026-03-24.
+This machine learning engineer position at Rocket Lab was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

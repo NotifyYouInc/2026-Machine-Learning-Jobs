@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Porto Alegre, Rio Grande do Sul, Brazil |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7378858?gh_jid=7378858) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7264551?gh_jid=7264551) |
 
 ## About This Role
 
-This machine learning engineer position at Thoughtworks was posted on 2026-03-26.
+This machine learning engineer position at Thoughtworks was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

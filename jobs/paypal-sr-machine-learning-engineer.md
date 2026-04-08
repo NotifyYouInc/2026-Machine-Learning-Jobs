@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Machine-Learning-Engineer_R0135320-1) |
+| Location | San Jose, California, United States |
+| Category | AI / ML Research |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0134114-1) |
 
 ## About This Role
 
-This machine learning engineer position at PayPal was posted on 2026-03-26.
+This ai / ml research position at PayPal was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

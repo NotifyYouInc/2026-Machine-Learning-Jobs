@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Applied-Scientist_JREQ198441-3) |
+| Location | 12 locations |
+| Category | AI / ML Research |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Applied-Scientist_JREQ198519-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Thomson Reuters was posted on 2026-02-17.
+This ai / ml research position at Thomson Reuters was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

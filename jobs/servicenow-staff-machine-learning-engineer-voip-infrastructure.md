@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000116983627-staff-machine-learning-engineer-voip-infrastructure) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117703458-staff-machine-learning-engineer-voip-infrastructure) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-03-26.
+This software engineer position at ServiceNow was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

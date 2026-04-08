@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 5 locations |
+| Location | San Francisco, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://sofi.com/careers/job/7677714003?gh_jid=7677714003) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://sofi.com/careers/job/7682540003?gh_jid=7682540003) |
 
 ## About This Role
 
-This machine learning engineer position at SoFi was posted on 2026-03-25.
+This machine learning engineer position at SoFi was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

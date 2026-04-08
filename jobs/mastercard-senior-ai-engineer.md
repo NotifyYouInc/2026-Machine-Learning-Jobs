@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Location | India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Senior-AI-Engineer_R-272578) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-AI-Engineer_R-273561) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-03-05.
+This ai / llm engineer position at Mastercard was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 
