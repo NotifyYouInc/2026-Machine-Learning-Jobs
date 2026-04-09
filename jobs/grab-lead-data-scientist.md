@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000110167931-lead-data-scientist) |
+| Category | AI / ML Research |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000118320218-lead-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Grab was posted on 2026-02-19.
+This ai / ml research position at Grab was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

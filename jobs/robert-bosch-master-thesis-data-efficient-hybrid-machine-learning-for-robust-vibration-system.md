@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Renningen, Baden-Wurttemberg, Germany |
 | Category | AI / ML Research |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117252013-master-thesis-data-efficient-hybrid-machine-learning-for-robust-vibration-system-prediction) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117642007-master-thesis-data-efficient-hybrid-machine-learning-for-robust-vibration-system-prediction) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-03-27.
+This ai / ml research position at Robert Bosch was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

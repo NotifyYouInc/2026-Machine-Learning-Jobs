@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | AI / ML Research |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000111056484-stage-intelligence-artificielle-transformation-digitale-hf) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000118089697-stage-intelligence-artificielle-transformation-digitale-hf) |
 
 ## About This Role
 
-This ai / ml research position at Devoteam was posted on 2026-02-24.
+This ai / ml research position at Devoteam was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New Jersey, US |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-115-South-Jefferson-Rd-Campus-Whippany/AI-Engineer_JR-0000084655) |
+| Location | Glasgow, Scotland, United Kingdom |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Engineer_JR-0000093368) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-04.
+This ai / llm engineer position at Barclays was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

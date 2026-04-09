@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109841613-research-engineer-advanced-driver-assistance-systems-adas) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118253205-research-engineer-advanced-driver-assistance-systems-adas) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-02-18.
+This ai / ml research position at Robert Bosch was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

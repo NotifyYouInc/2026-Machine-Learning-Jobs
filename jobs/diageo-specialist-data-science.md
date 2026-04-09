@@ -5,12 +5,12 @@
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangalore-India/Specialist--Data-Science_JR1123292) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangalore-India/Specialist--Data-Science_JR1123482) |
 
 ## About This Role
 
-This machine learning engineer position at Diageo was posted on 2026-02-25.
+This machine learning engineer position at Diageo was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

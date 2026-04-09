@@ -5,12 +5,12 @@
 | Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-AI-_JR5542) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-AI-_JR7154) |
 
 ## About This Role
 
-This machine learning engineer position at CTBC Financial Holding was posted on 2026-03-10.
+This machine learning engineer position at CTBC Financial Holding was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

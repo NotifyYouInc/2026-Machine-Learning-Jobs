@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sweden |
+| Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000117296842-examensarbete-bildanalys-med-kansligt-material-ai) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000117664339-examensarbete-bildanalys-med-kansligt-material-ai) |
 
 ## About This Role
 
-This machine learning engineer position at Vattenfall was posted on 2026-03-27.
+This machine learning engineer position at Vattenfall was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karnataka, IN |
+| Location | Pune, Maharashtra, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/AI-Lead--VP_R0425658) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Full-Stack-Engineer--VP_R0359065) |
 
 ## About This Role
 
-This machine learning engineer position at Deutsche Bank was posted on 2026-02-17.
+This machine learning engineer position at Deutsche Bank was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

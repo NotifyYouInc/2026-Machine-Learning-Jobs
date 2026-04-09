@@ -5,12 +5,12 @@
 | Company | [Rockstar Games](https://scoutify.ai/companies/rockstar-games?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Leeds, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rockstargames/jobs/7638025003) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rockstargames/jobs/7638027003) |
 
 ## About This Role
 
-This machine learning engineer position at Rockstar Games was posted on 2026-02-24.
+This machine learning engineer position at Rockstar Games was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

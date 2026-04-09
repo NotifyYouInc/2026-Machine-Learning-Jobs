@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karachi, Sindh, Pakistan |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Pakistan---Sindh---Karachi/Data-Scientist_436591) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Data-Scientist_433639) |
 
 ## About This Role
 
-This machine learning engineer position at GSK was posted on 2026-03-03.
+This machine learning engineer position at GSK was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

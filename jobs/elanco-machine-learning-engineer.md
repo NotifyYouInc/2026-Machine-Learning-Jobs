@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elanco](https://scoutify.ai/companies/elanco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Hook, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Machine-Learning-Engineer_R0023448-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/UK---Hook/Machine-Learning-Engineer_R0023433-1) |
 
 ## About This Role
 
-This machine learning engineer position at Elanco was posted on 2026-02-25.
+This machine learning engineer position at Elanco was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
