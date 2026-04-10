@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pleasanton, California, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-Machine-Learning-Engineer_JR-0104012) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Machine-Learning-Engineer_JR-0105191-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Workday was posted on 2026-03-04.
+This ai / llm engineer position at Workday was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

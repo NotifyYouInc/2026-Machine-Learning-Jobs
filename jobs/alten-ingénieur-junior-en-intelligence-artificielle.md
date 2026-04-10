@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
+| Location | Morocco |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000110391607-ingenieur-junior-en-intelligence-artificielle) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000118372317-ingenieur-junior-en-intelligence-artificielle) |
 
 ## About This Role
 
-This machine learning engineer position at ALTEN was posted on 2026-02-20.
+This machine learning engineer position at ALTEN was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

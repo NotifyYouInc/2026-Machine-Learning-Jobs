@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Thailand |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000112808386-intern-ai-engineering-studying-bachelor-degree) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000118357371-intern-ai-engineering-studying-bachelor-degree) |
 
 ## About This Role
 
-This ai / llm engineer position at Western Digital was posted on 2026-03-05.
+This ai / llm engineer position at Western Digital was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

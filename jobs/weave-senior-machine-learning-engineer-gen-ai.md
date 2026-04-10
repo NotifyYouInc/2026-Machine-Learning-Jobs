@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Weave](https://scoutify.ai/companies/weave?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Location | Lehi, Utah, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/weave/2518c1b8-3ffc-40e5-a968-c013e760c3f5) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/weave/df4c4089-56e1-4055-849e-3e7b13933cbc) |
 
 ## About This Role
 
-This ai / llm engineer position at Weave was posted on 2026-03-10.
+This ai / llm engineer position at Weave was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

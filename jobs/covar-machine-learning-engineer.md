@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CoVar](https://scoutify.ai/companies/covar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Durham, North Carolina, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/covar/jobs/4021592007) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/covar/jobs/5097883007) |
 
 ## About This Role
 
-This software engineer position at CoVar was posted on 2026-02-16.
+This machine learning engineer position at CoVar was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

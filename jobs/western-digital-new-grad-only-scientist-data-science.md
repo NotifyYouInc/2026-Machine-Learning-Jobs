@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Thailand |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000112578636-new-grad-only-scientist-data-science) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000118351682-new-grad-only-scientist-data-science) |
 
 ## About This Role
 
-This machine learning engineer position at Western Digital was posted on 2026-03-04.
+This machine learning engineer position at Western Digital was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

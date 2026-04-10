@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hildesheim, Lower Saxony, Germany |
 | Category | AI / ML Research |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000110164424-master-thesis-ai-based-keypoint-refinement-for-autonomous-driving) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118379937-master-thesis-ai-based-keypoint-refinement-for-autonomous-driving) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-02-19.
+This ai / ml research position at Robert Bosch was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

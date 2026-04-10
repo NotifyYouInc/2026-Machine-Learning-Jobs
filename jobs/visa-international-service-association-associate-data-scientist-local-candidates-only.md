@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ashburn, Virginia, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000115712613-associate-data-scientist-local-candidates-only) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000118491295-associate-data-scientist-local-candidates-only) |
 
 ## About This Role
 
-This ai / llm engineer position at Visa International Service Association was posted on 2026-03-19.
+This ai / llm engineer position at Visa International Service Association was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Not specified |
 | Category | AI / ML Research |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Senior-Applied-Scientist_JREQ199572-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Applied-Scientist_JREQ198518-1) |
 
 ## About This Role
 
-This ai / ml research position at Thomson Reuters was posted on 2026-03-30.
+This ai / ml research position at Thomson Reuters was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000113695617-senior-data-scientist) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000118365695-senior-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Delivery Hero was posted on 2026-03-10.
+This machine learning engineer position at Delivery Hero was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

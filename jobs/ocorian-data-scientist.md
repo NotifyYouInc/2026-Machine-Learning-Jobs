@@ -5,12 +5,12 @@
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000116982577-data-scientist) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000118463848-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Ocorian was posted on 2026-03-26.
+This machine learning engineer position at Ocorian was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

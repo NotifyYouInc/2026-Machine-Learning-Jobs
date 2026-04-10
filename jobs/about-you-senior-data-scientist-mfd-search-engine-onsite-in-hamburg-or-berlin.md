@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000110411276-senior-data-scientist-mfd-search-engine-onsite-in-hamburg-or-berlin) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000118361329-senior-data-scientist-mfd-search-engine-onsite-in-hamburg-or-berlin) |
 
 ## About This Role
 
-This machine learning engineer position at About You was posted on 2026-02-20.
+This machine learning engineer position at About You was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

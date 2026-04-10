@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Location | Toronto, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-AI-Engineer_R-273561) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Senior-AI-Engineer_R-274540-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-03-31.
+This ai / llm engineer position at Mastercard was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

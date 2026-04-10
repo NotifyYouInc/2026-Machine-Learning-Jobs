@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New Jersey, US |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117758112-sr-gen-ai-engineer) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118010120-sr-gen-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Woongjin was posted on 2026-03-30.
+This ai / llm engineer position at Woongjin was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Vietnam |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114563397-bd-senior-artificial-inteligence-developer-1-year-contractor) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118329787-bd-senior-artificial-inteligence-developer-1-year-contractor) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-03-13.
+This ai / llm engineer position at Robert Bosch was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
