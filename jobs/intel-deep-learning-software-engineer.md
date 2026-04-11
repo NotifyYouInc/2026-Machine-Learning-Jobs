@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Deep-Learning-Software-Engineer_JR0278464) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Deep-Learning-Software-Engineer_JR0282523) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-03-01.
+This software engineer position at Intel was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

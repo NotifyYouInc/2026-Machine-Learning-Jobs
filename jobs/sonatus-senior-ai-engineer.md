@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sonatus](https://scoutify.ai/companies/sonatus?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Dublin, Leinster, Ireland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonatus/jobs/5094270007) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonatus/jobs/5094274007) |
 
 ## About This Role
 
-This ai / llm engineer position at Sonatus was posted on 2026-03-31.
+This ai / llm engineer position at Sonatus was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

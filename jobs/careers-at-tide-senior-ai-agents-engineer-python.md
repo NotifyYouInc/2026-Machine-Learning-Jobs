@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Serbia |
+| Location | Hyderabad, Telangana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7686138003) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7687754003) |
 
 ## About This Role
 
-This ai / llm engineer position at Careers at Tide was posted on 2026-04-01.
+This ai / llm engineer position at Careers at Tide was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

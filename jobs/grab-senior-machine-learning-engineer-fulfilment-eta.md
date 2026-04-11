@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000112362557-senior-machine-learning-engineer-fulfilment-eta) |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000118694967-senior-machine-learning-engineer-fulfilment-eta) |
 
 ## About This Role
 
-This machine learning engineer position at Grab was posted on 2026-03-03.
+This machine learning engineer position at Grab was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

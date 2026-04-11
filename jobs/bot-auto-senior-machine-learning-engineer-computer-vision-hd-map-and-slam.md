@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bot Auto](https://scoutify.ai/companies/botauto?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Robotics Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-04-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/botauto/jobs/5174982008) |
 
 ## About This Role
 
-This robotics engineer position at Bot Auto was posted on 2026-04-02.
+This ai / ml research position at Bot Auto was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

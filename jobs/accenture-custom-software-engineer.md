@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5318532-S1939614-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Custom-Software-Engineer_ATCI-5472647-S2001329-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-03-31.
+This ai / llm engineer position at Accenture was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

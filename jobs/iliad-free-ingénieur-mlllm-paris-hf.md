@@ -6,7 +6,7 @@
 | Location | Paris, Île-de-France, France |
 | Category | AI / LLM Engineer |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000118144097-ingenieur-mlllm-paris-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000118164831-ingenieur-mlllm-paris-hf) |
 
 ## About This Role
 
