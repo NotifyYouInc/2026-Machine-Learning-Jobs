@@ -1,16 +1,16 @@
-# Research Scientist at R1 Rcm
+# Research Scientist - CTRL Labs at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | AI / ML Research |
 | Posted | 2026-04-04 |
-| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Remote-USA/Research-Scientist_R250000011121-2) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/663257266800310) |
 
 ## About This Role
 
-This ai / ml research position at R1 Rcm was posted on 2026-04-04.
+This ai / ml research position at Meta was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

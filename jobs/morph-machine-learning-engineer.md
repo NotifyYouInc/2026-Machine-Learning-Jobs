@@ -1,16 +1,16 @@
-# AI/ML Computational Science Manager at Accenture
+# Machine Learning Engineer at Morph
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Morph](https://scoutify.ai/companies/morph?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/San-Francisco-415-Mission-Street-Corp/AI-ML-Computational-Science-Manager_R00322701-1) |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/morph/jobs/Cm0w5Od-machine-learning-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-03.
+This ai / llm engineer position at Morph was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 
