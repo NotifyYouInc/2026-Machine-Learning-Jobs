@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116303217-director-simulation-and-evaluation-autonomous-driving) |
+| Category | AI / ML Research |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118827267-director-simulation-and-evaluation-autonomous-driving) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-03-24.
+This ai / ml research position at Robert Bosch was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

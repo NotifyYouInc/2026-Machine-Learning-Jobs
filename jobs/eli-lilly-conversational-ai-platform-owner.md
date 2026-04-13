@@ -1,16 +1,16 @@
-# Principal Applied Scientist at Microsoft
+# Conversational AI Platform Owner at Eli Lilly
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556750270) |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/IN-Lilly-Bengaluru/Conversational-AI-Platform-Owner_R-103706) |
 
 ## About This Role
 
-This security engineer position at Microsoft was posted on 2026-04-06.
+This ai / llm engineer position at Eli Lilly was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Machine Learning Engineer at Manulife
+# ML Intern at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | India |
 | Category | Machine Learning Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Machine-Learning-Engineer_JR26011916-3) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/ML-Intern_R0118342-1) |
 
 ## About This Role
 
-This machine learning engineer position at Manulife was posted on 2026-04-06.
+This machine learning engineer position at LSEG was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

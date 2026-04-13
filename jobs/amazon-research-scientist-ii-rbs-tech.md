@@ -1,16 +1,16 @@
-# Principal Applied Scientist at Microsoft
+# Research Scientist II, RBS Tech at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556750270) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10383644/research-scientist-ii-rbs-tech) |
 
 ## About This Role
 
-This security engineer position at Microsoft was posted on 2026-04-06.
+This ai / ml research position at Amazon was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
