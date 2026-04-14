@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Principal Research Scientist I -  Cell/Mol Bio at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Worcester, Massachusetts, United States |
 | Category | AI / ML Research |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108322) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012466836-principal-research-scientist-i-cellmol-bio) |
 
 ## About This Role
 
-This ai / ml research position at IBM was posted on 2026-04-06.
+This ai / ml research position at AbbVie was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

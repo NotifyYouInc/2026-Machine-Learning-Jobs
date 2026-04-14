@@ -1,16 +1,16 @@
-# Sr. Gen AI Engineer at Woongjin
+# AI Infra Engineer  at Perplexity AI
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New Jersey, US |
+| Company | [Perplexity AI](https://scoutify.ai/companies/perplexity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118507723-sr-gen-ai-engineer) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e) |
 
 ## About This Role
 
-This ai / llm engineer position at Woongjin was posted on 2026-04-02.
+This ai / llm engineer position at Perplexity AI was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

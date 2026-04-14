@@ -1,16 +1,16 @@
-# Software Engineer at NielsenIQ
+# ML Ops Infrastructure Engineer at Deepgram
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
+| Company | [Deepgram](https://scoutify.ai/companies/deepgram?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
+| Category | DevOps Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000118857747-software-engineer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deepgram/7ced4c1f-4126-44fe-9cf1-da427a9e4e3e) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-04-06.
+This devops engineer position at Deepgram was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

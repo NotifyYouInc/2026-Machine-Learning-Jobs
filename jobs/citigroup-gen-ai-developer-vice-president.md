@@ -1,16 +1,16 @@
-# Software Engineer at NielsenIQ
+# Gen AI Developer - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Irving, Texas, United States |
 | Category | AI / LLM Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000118857747-software-engineer) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Gen-AI-Developer---Vice-President_26952567) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-04-06.
+This ai / llm engineer position at Citigroup was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

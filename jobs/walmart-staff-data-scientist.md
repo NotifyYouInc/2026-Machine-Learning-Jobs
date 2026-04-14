@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Staff--Data-Scientist_R-2463953-1) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Hoboken-NJ/Staff--Data-Scientist_R-2456583) |
 
 ## About This Role
 
-This ai / ml research position at Walmart was posted on 2026-04-01.
+This machine learning engineer position at Walmart was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

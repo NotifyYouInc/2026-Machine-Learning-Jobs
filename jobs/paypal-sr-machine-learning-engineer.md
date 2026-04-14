@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Jose, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0135858-1) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Dublin-County-Dublin-Ireland/Sr-Machine-Learning-Engineer_R0133894-1) |
 
 ## About This Role
 
-This ai / llm engineer position at PayPal was posted on 2026-04-01.
+This machine learning engineer position at PayPal was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

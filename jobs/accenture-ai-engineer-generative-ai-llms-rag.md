@@ -1,16 +1,16 @@
-# AI / ML Engineer at Accenture
+# AI Engineer – Generative AI / LLMs / RAG at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5507757-S2010394-1) |
+| Location | Cluj-Napoca, Cluj County, Romania |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cluj-Napoca/AI-Engineer---Generative-AI---LLMs---RAG_R00323768) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-04-02.
+This ai / llm engineer position at Accenture was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

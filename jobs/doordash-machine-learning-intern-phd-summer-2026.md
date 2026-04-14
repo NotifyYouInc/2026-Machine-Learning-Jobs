@@ -1,16 +1,16 @@
-# Machine Learning Engineer at PayPal
+# Machine Learning Intern (PhD) - Summer 2026 at DoorDash
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 3 locations |
 | Category | Machine Learning Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Machine-Learning-Engineer_R0135741-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/7264631) |
 
 ## About This Role
 
-This machine learning engineer position at PayPal was posted on 2026-04-06.
+This machine learning engineer position at DoorDash was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

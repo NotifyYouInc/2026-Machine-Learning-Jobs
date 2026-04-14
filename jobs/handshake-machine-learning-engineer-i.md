@@ -1,16 +1,16 @@
-# Machine Learning Engineer at PayPal
+# Machine Learning Engineer I at Handshake
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Handshake](https://scoutify.ai/companies/handshake?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Machine-Learning-Engineer_R0135741-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70) |
 
 ## About This Role
 
-This machine learning engineer position at PayPal was posted on 2026-04-06.
+This machine learning engineer position at Handshake was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000118235677-senior-data-scientist) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000118426597-senior-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Northwestern Medicine was posted on 2026-04-01.
+This machine learning engineer position at Northwestern Medicine was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

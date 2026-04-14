@@ -1,16 +1,16 @@
-# Machine Learning Engineer at PayPal
+# Senior AI Data Scientist at CACI
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Machine-Learning-Engineer_R0135741-1) |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Senior-AI-Data-Scientist_323982) |
 
 ## About This Role
 
-This machine learning engineer position at PayPal was posted on 2026-04-06.
+This machine learning engineer position at CACI was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

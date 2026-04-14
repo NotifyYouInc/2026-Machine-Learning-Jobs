@@ -1,16 +1,16 @@
-# Sr. Gen AI Engineer at Woongjin
+# Senior AI Engineer at Cadence Solutions
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New Jersey, US |
+| Company | [Cadence Solutions](https://scoutify.ai/companies/cadencesolutions?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118507723-sr-gen-ai-engineer) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cadencesolutions/jobs/4670103006) |
 
 ## About This Role
 
-This ai / llm engineer position at Woongjin was posted on 2026-04-02.
+This ai / llm engineer position at Cadence Solutions was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

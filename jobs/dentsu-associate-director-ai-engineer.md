@@ -1,16 +1,16 @@
-# Software Engineer at NielsenIQ
+# Associate Director, AI Engineer at Dentsu
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | New York, US |
 | Category | AI / LLM Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000118857747-software-engineer) |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/New-York---150-E-42nd/Associate-Director--AI-Engineer_R1117614) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-04-06.
+This ai / llm engineer position at Dentsu was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

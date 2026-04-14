@@ -1,16 +1,16 @@
-# Software Engineer at NielsenIQ
+# Engineer - AI Platforms at Cardinal Health
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | AI / LLM Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000118857747-software-engineer) |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Engineer---AI-Platforms_20178102) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-04-06.
+This ai / llm engineer position at Cardinal Health was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

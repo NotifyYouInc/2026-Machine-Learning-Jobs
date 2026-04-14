@@ -1,16 +1,16 @@
-# Sr. Gen AI Engineer at Woongjin
+# AI Engineer Intern, Database Performance Knowledge at Actian
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New Jersey, US |
+| Company | [Actian](https://scoutify.ai/companies/actian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118507723-sr-gen-ai-engineer) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.lever.co/actian/6638beee-45f5-46ac-9dc1-fbde7f1b5310) |
 
 ## About This Role
 
-This ai / llm engineer position at Woongjin was posted on 2026-04-02.
+This ai / llm engineer position at Actian was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

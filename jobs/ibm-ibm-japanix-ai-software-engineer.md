@@ -1,16 +1,16 @@
-# Sr. Gen AI Engineer at Woongjin
+# [IBM Japan:iX] AI Software Engineer at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New Jersey, US |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118507723-sr-gen-ai-engineer) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=47949) |
 
 ## About This Role
 
-This ai / llm engineer position at Woongjin was posted on 2026-04-02.
+This ai / llm engineer position at IBM was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

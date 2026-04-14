@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sonatus](https://scoutify.ai/companies/sonatus?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Sunnyvale, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonatus/jobs/5094274007) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonatus/jobs/5096599007) |
 
 ## About This Role
 
-This ai / llm engineer position at Sonatus was posted on 2026-04-01.
+This ai / llm engineer position at Sonatus was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

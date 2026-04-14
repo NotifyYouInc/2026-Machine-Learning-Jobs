@@ -1,16 +1,16 @@
-# AIML  Engineer at A.P. Moller - Maersk
+# Principal AI Architect at GE HealthCare
 
 | Field | Details |
 |-------|---------|
-| Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/AIML--Engineer_R177343-1) |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Principal-AI-Architect_R4039071-1) |
 
 ## About This Role
 
-This machine learning engineer position at A.P. Moller - Maersk was posted on 2026-04-06.
+This ai / ml research position at GE HealthCare was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

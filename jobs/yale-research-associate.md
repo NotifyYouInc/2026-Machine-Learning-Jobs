@@ -1,16 +1,16 @@
-# Software Engineer at NielsenIQ
+# Research Associate at Yale
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
+| Company | [Yale](https://scoutify.ai/companies/yale?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
+| Category | AI / ML Research |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000118857747-software-engineer) |
+| Apply | [View on company site](https://yale.wd1.myworkdayjobs.com/temporary_career_site/job/Outside-of-Connecticut/Research-Associate_133840WD) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-04-06.
+This ai / ml research position at Yale was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Research Assistant at RMIT
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [RMIT](https://scoutify.ai/companies/rmit?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | AI / ML Research |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108322) |
+| Apply | [View on company site](https://rmit.wd3.myworkdayjobs.com/rmit_jobs/job/Ho-Chi-Minh-City/Research-Assistant_JR47252) |
 
 ## About This Role
 
-This ai / ml research position at IBM was posted on 2026-04-06.
+This ai / ml research position at RMIT was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

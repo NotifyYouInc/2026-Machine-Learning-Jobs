@@ -1,16 +1,16 @@
-# Software Engineer at NielsenIQ
+#  Research Scientist at DeepMind
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
+| Company | [DeepMind](https://scoutify.ai/companies/deepmind?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Mountain View, California, United States |
+| Category | AI / ML Research |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000118857747-software-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/deepmind/jobs/7655786) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-04-06.
+This ai / ml research position at DeepMind was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
