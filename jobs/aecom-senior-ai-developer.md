@@ -1,16 +1,16 @@
-# Senior_AI_developer at Robert Bosch
+# Senior AI Developer at AECOM
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
-| Category | AI / ML Research |
+| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000119053130-senior-ai-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000119210352-senior-ai-developer) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-04-07.
+This ai / llm engineer position at AECOM was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

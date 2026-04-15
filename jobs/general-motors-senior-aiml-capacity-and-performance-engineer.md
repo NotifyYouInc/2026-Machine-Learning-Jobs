@@ -1,4 +1,4 @@
-# Senior AI/ML Engineer, AV Pipelines & Lineage at General Motors
+# Senior AI/ML Capacity and Performance Engineer at General Motors
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Machine Learning Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-AI-ML-Engineer--AV-Pipelines---Lineage_JR-202607867) |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-AI-ML-Capacity-and-Performance-Engineer_JR-202607049) |
 
 ## About This Role
 

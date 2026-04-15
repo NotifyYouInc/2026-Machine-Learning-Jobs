@@ -1,16 +1,16 @@
-# AI and ML Engineer at Booz Allen
+# AI Sorcerer at Anduril
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Costa Mesa, California, United States |
 | Category | AI / ML Research |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-and-ML-Engineer_R0237256) |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5101597007?gh_jid=5101597007) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-04-07.
+This ai / ml research position at Anduril was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

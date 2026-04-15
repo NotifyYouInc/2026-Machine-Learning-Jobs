@@ -1,16 +1,16 @@
-# AI and ML Engineer at Booz Allen
+# Senior Research Scientist - NLP at Yahoo
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Company | [Yahoo](https://scoutify.ai/companies/yahoo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Not specified |
 | Category | AI / ML Research |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-and-ML-Engineer_R0237256) |
+| Apply | [View on company site](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Senior-Research-Scientist---NLP_JR0027039-1) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-04-07.
+This ai / ml research position at Yahoo was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# AI and ML Engineer at Booz Allen
+# Scientific Curator at Harvard University
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Cambridge, Massachusetts, United States |
 | Category | AI / ML Research |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-and-ML-Engineer_R0237256) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990012492176-scientific-curator) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-04-07.
+This ai / ml research position at Harvard University was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# GenAI Tech Lead - Senior Vice President at Citigroup
+# Principal Software Engineer, CoreAI Workload Engines at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Engineering Manager |
+| Category | AI / LLM Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/GenAI-Tech-Lead---Senior-Vice-President_26948956) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556857254) |
 
 ## About This Role
 
-This engineering manager position at Citigroup was posted on 2026-04-07.
+This ai / llm engineer position at Microsoft was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

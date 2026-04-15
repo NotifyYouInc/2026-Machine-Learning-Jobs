@@ -1,16 +1,16 @@
-# AI and ML Engineer at Booz Allen
+# Speech research (Intern) at Centific
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Redmond, Washington, United States |
 | Category | AI / ML Research |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-and-ML-Engineer_R0237256) |
+| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-research--Intern-_JR106879-1) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-04-07.
+This ai / ml research position at Centific was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

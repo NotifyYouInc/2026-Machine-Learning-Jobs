@@ -1,16 +1,16 @@
-# AI and ML Engineer at Booz Allen
+# Senior Research Scientist at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | New York, US |
 | Category | AI / ML Research |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-and-ML-Engineer_R0237256) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107376) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-04-07.
+This ai / ml research position at IBM was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

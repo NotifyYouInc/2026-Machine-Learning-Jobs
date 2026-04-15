@@ -1,16 +1,16 @@
-# Senior AI/ML Engineer, AV Pipelines & Lineage at General Motors
+# Machine Learning Engineer at AeroVironment
 
 | Field | Details |
 |-------|---------|
-| Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Machine Learning Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-AI-ML-Engineer--AV-Pipelines---Lineage_JR-202607867) |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Centreville-VA/Machine-Learning-Engineer_7437) |
 
 ## About This Role
 
-This machine learning engineer position at General Motors was posted on 2026-04-07.
+This machine learning engineer position at AeroVironment was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

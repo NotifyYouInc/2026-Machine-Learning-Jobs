@@ -1,16 +1,16 @@
-# AI Engineer at Centific
+# Global AI Prompting Engineer PGTR at Hitachi
 
 | Field | Details |
 |-------|---------|
-| Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 3 locations |
 | Category | AI / LLM Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Engineer_JR106989) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Zurich-Switzerland/Global-AI-Prompting-Engineer-PGTR_R0121156) |
 
 ## About This Role
 
-This ai / llm engineer position at Centific was posted on 2026-04-07.
+This ai / llm engineer position at Hitachi was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

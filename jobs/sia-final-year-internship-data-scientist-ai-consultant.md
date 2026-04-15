@@ -1,16 +1,16 @@
-# AI and ML Engineer at Booz Allen
+# Final year internship - Data Scientist & AI Consultant at SIA
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | AI / ML Research |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-and-ML-Engineer_R0237256) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000119161622-final-year-internship-data-scientist-ai-consultant) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-04-07.
+This ai / ml research position at SIA was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

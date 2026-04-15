@@ -1,16 +1,16 @@
-# Senior AI/ML Engineer, AV Pipelines & Lineage at General Motors
+# Machine Learning Scientist 5 - Ad Ranking at Netflix
 
 | Field | Details |
 |-------|---------|
-| Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Netflix](https://scoutify.ai/companies/netflix?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Machine Learning Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-AI-ML-Engineer--AV-Pipelines---Lineage_JR-202607867) |
+| Apply | [View on company site](https://netflix.wd1.myworkdayjobs.com/Netflix/job/USA---Remote/Machine-Learning-Scientist-5---Ad-Ranking_JR39909) |
 
 ## About This Role
 
-This machine learning engineer position at General Motors was posted on 2026-04-07.
+This machine learning engineer position at Netflix was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

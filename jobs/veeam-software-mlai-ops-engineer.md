@@ -1,16 +1,16 @@
-# Senior_AI_developer at Robert Bosch
+# ML/AI Ops Engineer at Veeam Software
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
-| Category | AI / ML Research |
+| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Costa Rica |
+| Category | Data Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000119053130-senior-ai-developer) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744588101) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-04-07.
+This data engineer position at Veeam Software was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

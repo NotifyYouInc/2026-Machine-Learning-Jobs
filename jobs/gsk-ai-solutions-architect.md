@@ -1,16 +1,16 @@
-# GenAI Tech Lead - Senior Vice President at Citigroup
+# AI Solutions Architect at GSK
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Engineering Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/GenAI-Tech-Lead---Senior-Vice-President_26948956) |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Durham-Blackwell-Street/AI-Solutions-Architect_428290) |
 
 ## About This Role
 
-This engineering manager position at Citigroup was posted on 2026-04-07.
+This technical & solutions architect position at GSK was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

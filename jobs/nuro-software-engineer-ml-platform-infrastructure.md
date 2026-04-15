@@ -1,16 +1,16 @@
-# Senior_AI_developer at Robert Bosch
+# Software Engineer, ML Platform Infrastructure at Nuro
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
-| Category | AI / ML Research |
+| Company | [Nuro](https://scoutify.ai/companies/nuro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Mountain View, California, United States |
+| Category | Software Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000119053130-senior-ai-developer) |
+| Apply | [View on company site](https://nuro.ai/careersitem?gh_jid=7786771) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-04-07.
+This software engineer position at Nuro was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Applied Researcher I (AI Foundations, LLM Core and Agentic AI) at Capital One
+# Senior Solutions Architect, Generative AI Specialist at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
 | Category | AI / ML Research |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations--LLM-Core-and-Agentic-AI-_R240034-1) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Generative-AI-Specialist_JR2015644) |
 
 ## About This Role
 
-This ai / ml research position at Capital One was posted on 2026-04-07.
+This ai / ml research position at Nvidia was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

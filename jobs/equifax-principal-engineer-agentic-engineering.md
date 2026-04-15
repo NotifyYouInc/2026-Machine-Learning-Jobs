@@ -1,16 +1,16 @@
-# AI Engineer at Centific
+# Principal Engineer, Agentic Engineering at Equifax
 
 | Field | Details |
 |-------|---------|
-| Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Engineer_JR106989) |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Missouri---St-Louis---Lackland/Principal-Engineer--Agentic-Engineering_J00175612) |
 
 ## About This Role
 
-This ai / llm engineer position at Centific was posted on 2026-04-07.
+This ai / llm engineer position at Equifax was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

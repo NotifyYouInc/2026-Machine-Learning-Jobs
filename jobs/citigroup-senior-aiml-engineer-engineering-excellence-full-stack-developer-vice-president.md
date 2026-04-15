@@ -1,16 +1,16 @@
-# GenAI Tech Lead - Senior Vice President at Citigroup
+# Senior AI/ML Engineer - Engineering Excellence (Full Stack Developer) Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Engineering Manager |
+| Location | Jacksonville, Florida, United States |
+| Category | Software Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/GenAI-Tech-Lead---Senior-Vice-President_26948956) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Senior-AI-ML-Engineer---Engineering-Excellence--Full-Stack-Developer--Vice-President_26951762) |
 
 ## About This Role
 
-This engineering manager position at Citigroup was posted on 2026-04-07.
+This software engineer position at Citigroup was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
