@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Large-Language-Model-Architect_ATCI-5349448-S1949065-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5349449-S1949064-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-03.
+This ai / llm engineer position at Accenture was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

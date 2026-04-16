@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Tunis, Tunis Governorate, Tunisia |
+| Location | Oslo, Oslo, Norway |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116630965-ai-engineer) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000119355505-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Sopra Steria was posted on 2026-03-25.
+This ai / llm engineer position at Sopra Steria was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

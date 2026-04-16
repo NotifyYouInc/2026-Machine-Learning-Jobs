@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Los Angeles, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Game-Research---Development-Intern--Engine-Research_R107040) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R105487-1) |
 
 ## About This Role
 
-This ai / ml research position at Tencent was posted on 2026-03-06.
+This ai / ml research position at Tencent was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

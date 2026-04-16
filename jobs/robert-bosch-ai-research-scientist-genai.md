@@ -1,16 +1,16 @@
-# AI Research Scientist- GenAI at Robert Bosch
+# AI Research Scientist - GenAI at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116473758-ai-research-scientist-genai) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000119485987-ai-research-scientist-genai) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-03-24.
+This ai / ml research position at Robert Bosch was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

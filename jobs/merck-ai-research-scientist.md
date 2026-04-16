@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Prague, Prague, Czechia |
 | Category | AI / ML Research |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-Five/AI-Research-Scientist_R373329) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-Five/AI-Research-Scientist_R393101-1) |
 
 ## About This Role
 
-This ai / ml research position at Merck was posted on 2026-03-11.
+This ai / ml research position at Merck was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

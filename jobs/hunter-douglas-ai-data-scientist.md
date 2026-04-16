@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hunter Douglas](https://scoutify.ai/companies/hunter-douglas?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Broomfield, Colorado, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7660541003?gh_jid=7660541003) |
+| Category | AI / ML Research |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7694009003?gh_jid=7694009003) |
 
 ## About This Role
 
-This ai / llm engineer position at Hunter Douglas was posted on 2026-03-10.
+This ai / ml research position at Hunter Douglas was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

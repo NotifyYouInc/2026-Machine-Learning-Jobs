@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7661730003?gh_jid=7661730003) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7592945003?gh_jid=7592945003) |
 
 ## About This Role
 
-This ai / llm engineer position at Celonis was posted on 2026-03-11.
+This ai / llm engineer position at Celonis was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

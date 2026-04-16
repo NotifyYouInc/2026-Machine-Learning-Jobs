@@ -5,12 +5,12 @@
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000114363247-genesys-ai-specialist) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000119407402-genesys-ai-specialist) |
 
 ## About This Role
 
-This ai / llm engineer position at Lions Candle-Dispatch Solution was posted on 2026-03-12.
+This ai / llm engineer position at Lions Candle-Dispatch Solution was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

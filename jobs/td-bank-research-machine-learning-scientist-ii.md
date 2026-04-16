@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Research-Machine-Learning-Scientist-II_R_1470127-1) |
+| Category | AI / ML Research |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Research-Machine-Learning-Scientist-II_R_1483052) |
 
 ## About This Role
 
-This machine learning engineer position at TD Bank was posted on 2026-02-24.
+This ai / ml research position at TD Bank was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Toronto---MSO/Machine-Learning-Engineer_R-053060-2) |
+| Location | Boston, Massachusetts, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/Machine-Learning-Engineer_R-053072) |
 
 ## About This Role
 
-This ai / llm engineer position at Red Hat was posted on 2026-03-18.
+This machine learning engineer position at Red Hat was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

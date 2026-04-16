@@ -1,0 +1,22 @@
+# Senior Robotics Research Engineer, Robotics and AI for Drug Discovery at Nvidia
+
+| Field | Details |
+|-------|---------|
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Santa Clara, California, United States |
+| Category | AI / ML Research |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Research-Engineer--Robotics-and-AI-for-Drug-Discovery_JR2016068) |
+
+## About This Role
+
+This ai / ml research position at Nvidia was posted on 2026-04-08.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

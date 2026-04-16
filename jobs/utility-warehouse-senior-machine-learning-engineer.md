@@ -5,12 +5,12 @@
 | Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000118113257-senior-machine-learning-engineer) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000119327577-senior-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Utility Warehouse was posted on 2026-04-01.
+This machine learning engineer position at Utility Warehouse was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 
