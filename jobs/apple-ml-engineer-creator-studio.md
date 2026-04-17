@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Diego, California, United States |
-| Category | Software Engineer |
+| Location | Not specified |
+| Category | Machine Learning Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646141-3543/ml-engineer-creator-studio?team=SFTWR) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646237/ml-engineer-creator-studio) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-02-10.
+This machine learning engineer position at Apple was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

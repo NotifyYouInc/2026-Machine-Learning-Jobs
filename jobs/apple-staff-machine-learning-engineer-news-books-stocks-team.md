@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cupertino, California, United States |
+| Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200647421-0836/staff-machine-learning-engineer-news-books-stocks-team?team=SFTWR) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200647772/staff-machine-learning-engineer-news-books-stocks-team) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-02-18.
+This machine learning engineer position at Apple was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 
