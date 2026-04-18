@@ -1,16 +1,16 @@
-# Machine Learning Engineer, Photos at Apple
+# Machine Learning Engineer, Photos  at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200649397/machine-learning-engineer-photos) |
+| Posted | 2025-09-29 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200622883/machine-learning-engineer-photos) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-03-18.
+This machine learning engineer position at Apple was posted on 2025-09-29.
 
 ## Get Real-Time Alerts
 

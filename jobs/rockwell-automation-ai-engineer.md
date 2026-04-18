@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Katowice, Silesia, Poland |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/AI-Engineer_R26-2269) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bogota-Colombia/AI-Engineer_R26-2270) |
 
 ## About This Role
 
-This ai / llm engineer position at Rockwell Automation was posted on 2026-04-03.
+This ai / llm engineer position at Rockwell Automation was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

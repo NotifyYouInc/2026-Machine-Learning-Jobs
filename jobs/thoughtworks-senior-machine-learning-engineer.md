@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7735678?gh_jid=7735678) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7719535?gh_jid=7719535) |
 
 ## About This Role
 
-This machine learning engineer position at Thoughtworks was posted on 2026-03-19.
+This machine learning engineer position at Thoughtworks was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

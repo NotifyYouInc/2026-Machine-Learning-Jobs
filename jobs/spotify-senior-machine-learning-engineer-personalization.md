@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer - Personalization at Spotify
+# Senior Machine Learning Engineer, Personalization at Spotify
 
 | Field | Details |
 |-------|---------|
 | Company | [Spotify](https://scoutify.ai/companies/spotify?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.lever.co/spotify/a05a32fd-477a-4aed-a7d6-b4515d7032a5) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.lever.co/spotify/b2123f20-234d-439d-8048-0fac5afa4564) |
 
 ## About This Role
 
-This machine learning engineer position at Spotify was posted on 2026-03-18.
+This machine learning engineer position at Spotify was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200632534/machine-learning-video-processing-algorithm-engineer) |
+| Posted | 2026-01-07 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200632586/machine-learning-video-processing-algorithm-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-03-23.
+This machine learning engineer position at Apple was posted on 2026-01-07.
 
 ## Get Real-Time Alerts
 

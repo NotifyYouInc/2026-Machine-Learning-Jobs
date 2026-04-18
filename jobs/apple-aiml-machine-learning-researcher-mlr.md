@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | AI / ML Research |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200577866/aiml-machine-learning-researcher-mlr) |
+| Posted | 2025-10-24 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200616876/aiml-machine-learning-researcher-mlr) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2026-04-02.
+This ai / ml research position at Apple was posted on 2025-10-24.
 
 ## Get Real-Time Alerts
 

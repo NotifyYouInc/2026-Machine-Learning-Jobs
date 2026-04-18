@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200655812/machine-learning-compiler-engineer) |
+| Posted | 2025-10-31 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200629662/machine-learning-compiler-engineer) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-04-03.
+This software engineer position at Apple was posted on 2025-10-31.
 
 ## Get Real-Time Alerts
 

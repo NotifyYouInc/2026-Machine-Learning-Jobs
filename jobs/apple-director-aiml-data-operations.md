@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | AI / ML Research |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200625639/director-aiml-data-operations) |
+| Posted | 2025-11-05 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200625491/director-aiml-data-operations) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2026-03-04.
+This ai / ml research position at Apple was posted on 2025-11-05.
 
 ## Get Real-Time Alerts
 

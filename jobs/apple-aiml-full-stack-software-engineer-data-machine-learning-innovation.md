@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200656176/aiml-full-stack-software-engineer-data-machine-learning-innovation) |
+| Posted | 2025-07-25 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200613972/aiml-full-stack-software-engineer-data-machine-learning-innovation) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-04-09.
+This software engineer position at Apple was posted on 2025-07-25.
 
 ## Get Real-Time Alerts
 

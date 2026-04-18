@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200613281/apple-neural-engine-performance-and-power-engineer) |
+| Posted | 2025-08-23 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200617651/apple-neural-engine-performance-and-power-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-03-06.
+This electrical / hardware engineer position at Apple was posted on 2025-08-23.
 
 ## Get Real-Time Alerts
 

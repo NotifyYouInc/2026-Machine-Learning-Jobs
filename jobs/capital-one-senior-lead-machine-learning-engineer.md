@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | New York, US |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Lead-Machine-Learning-Engineer_R237038-2) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Lead-Machine-Learning-Engineer_R240313-1) |
 
 ## About This Role
 
-This machine learning engineer position at Capital One was posted on 2026-03-04.
+This machine learning engineer position at Capital One was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

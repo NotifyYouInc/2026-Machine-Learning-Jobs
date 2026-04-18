@@ -5,12 +5,12 @@
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5813799004) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5839102004) |
 
 ## About This Role
 
-This machine learning engineer position at Sony Interactive Entertainment was posted on 2026-03-02.
+This machine learning engineer position at Sony Interactive Entertainment was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

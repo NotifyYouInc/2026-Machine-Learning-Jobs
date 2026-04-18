@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Lead-AI-Engineer_J00175845) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Lead-AI-Engineer_J00175736-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Equifax was posted on 2026-04-08.
+This ai / llm engineer position at Equifax was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
