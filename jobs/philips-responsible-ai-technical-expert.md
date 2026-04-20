@@ -1,16 +1,16 @@
-# Applied AI Scientist - Multimodal Intelligence at Apple
+# Responsible AI Technical Expert at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | India |
 | Category | AI / ML Research |
-| Posted | 2025-12-11 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200636334/applied-ai-scientist-multimodal-intelligence) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Responsible-AI-Technical-Expert_566472-1) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2025-12-11.
+This ai / ml research position at Philips was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

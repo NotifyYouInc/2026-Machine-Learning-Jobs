@@ -1,16 +1,16 @@
-# LLM Model Developer at Accenture
+# AI × ドキュメント構造・生成エンジニア at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Kodaira, Tokyo, Japan |
 | Category | AI / LLM Engineer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/LLM-Model-Developer_ATCI-5459135-S2005102-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000120278974-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-13.
+This ai / llm engineer position at Renesas Electronics was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

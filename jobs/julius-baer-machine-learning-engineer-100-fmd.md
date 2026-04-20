@@ -1,16 +1,16 @@
-# Senior Applied Scientist at Microsoft
+# Machine Learning Engineer 100% (f/m/d) at Julius Baer
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Switzerland |
 | Category | Machine Learning Engineer |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556642907) |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Machine-Learning-Engineer-100---f-m-d-_r-18064-2) |
 
 ## About This Role
 
-This machine learning engineer position at Microsoft was posted on 2026-04-12.
+This machine learning engineer position at Julius Baer was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

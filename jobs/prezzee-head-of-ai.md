@@ -1,16 +1,16 @@
-# Applied AI Scientist - Multimodal Intelligence at Apple
+# Head of AI   at Prezzee
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Company | [Prezzee](https://scoutify.ai/companies/prezzee?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | AI / ML Research |
-| Posted | 2025-12-11 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200636334/applied-ai-scientist-multimodal-intelligence) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/prezzee/jobs/4659732006) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2025-12-11.
+This ai / ml research position at Prezzee was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

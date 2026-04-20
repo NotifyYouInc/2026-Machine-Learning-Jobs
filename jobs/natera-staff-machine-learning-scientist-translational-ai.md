@@ -1,16 +1,16 @@
-# Applied AI Scientist - Multimodal Intelligence at Apple
+# Staff Machine Learning Scientist - Translational AI at Natera
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | AI / ML Research |
-| Posted | 2025-12-11 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200636334/applied-ai-scientist-multimodal-intelligence) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5812936004) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2025-12-11.
+This ai / ml research position at Natera was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

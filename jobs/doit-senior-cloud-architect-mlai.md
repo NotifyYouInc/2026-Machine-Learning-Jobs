@@ -1,16 +1,16 @@
-# Senior Applied Scientist at Microsoft
+# Senior Cloud Architect, ML/AI at DoiT
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | Machine Learning Engineer |
+| Company | [DoiT](https://scoutify.ai/companies/doit?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Estonia |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556642907) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7693782003) |
 
 ## About This Role
 
-This machine learning engineer position at Microsoft was posted on 2026-04-12.
+This technical & solutions architect position at DoiT was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

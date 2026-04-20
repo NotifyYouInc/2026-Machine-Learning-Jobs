@@ -1,16 +1,16 @@
-# LLM Model Developer at Accenture
+# OpenAI Engineer at Known at Bondsmith.co.uk
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Bondsmith.co.uk](https://scoutify.ai/companies/bondsmith-co-uk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/LLM-Model-Developer_ATCI-5459135-S2005102-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jack-jill-external-ats/720c1e6f-531a-48b2-b013-d61619bdc044) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-13.
+This ai / llm engineer position at Bondsmith.co.uk was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Applied AI Scientist - Multimodal Intelligence at Apple
+# Clinical Strategy Intern  at Ataraxis Ai
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Company | [Ataraxis Ai](https://scoutify.ai/companies/ataraxis-ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | New York, US |
 | Category | AI / ML Research |
-| Posted | 2025-12-11 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200636334/applied-ai-scientist-multimodal-intelligence) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ataraxis-ai/35f095f5-f9bb-4471-87e4-43080e12c431) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2025-12-11.
+This ai / ml research position at Ataraxis Ai was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

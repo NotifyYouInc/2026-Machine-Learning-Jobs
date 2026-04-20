@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# AI Context Engineer at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vadodara, Gujarat, India |
-| Category | AI / ML Research |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120304954-lead-data-scientist) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R167115) |
 
 ## About This Role
 
-This ai / ml research position at NielsenIQ was posted on 2026-04-13.
+This ai / llm engineer position at Adobe was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

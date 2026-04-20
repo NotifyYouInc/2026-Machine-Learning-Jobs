@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer - AI Enablement (AU remote) at Canva
+# Staff Machine Learning Engineer - TrainingOps at Twelve Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Twelve Labs](https://scoutify.ai/companies/twelve-labs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Machine Learning Engineer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000991885-senior-machine-learning-engineer-ai-enablement-au-remote) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/twelve-labs/e9d7966e-d29c-44ae-b507-a649af9e349b) |
 
 ## About This Role
 
-This machine learning engineer position at Canva was posted on 2026-04-13.
+This machine learning engineer position at Twelve Labs was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# Software Engineer, AI Agent at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vadodara, Gujarat, India |
-| Category | AI / ML Research |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Jose, California, United States |
+| Category | AI / LLM Engineer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120304954-lead-data-scientist) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7626968373985429765/detail) |
 
 ## About This Role
 
-This ai / ml research position at NielsenIQ was posted on 2026-04-13.
+This ai / llm engineer position at TikTok was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

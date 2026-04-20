@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer - AI Enablement (AU remote) at Canva
+# Computational Chemist at Applied Materials
 
 | Field | Details |
 |-------|---------|
-| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | India |
 | Category | Machine Learning Engineer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000991885-senior-machine-learning-engineer-ai-enablement-au-remote) |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Computational-Chemist_R2615549-1) |
 
 ## About This Role
 
-This machine learning engineer position at Canva was posted on 2026-04-13.
+This machine learning engineer position at Applied Materials was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
