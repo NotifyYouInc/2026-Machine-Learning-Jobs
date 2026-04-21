@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000118548367-ai-engineer) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000120396608-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at METRO/MAKRO was posted on 2026-04-03.
+This ai / llm engineer position at METRO/MAKRO was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

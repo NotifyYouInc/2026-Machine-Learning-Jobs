@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200645454/soc-power-analysis-and-optimization-engineer) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657339/soc-power-analysis-and-optimization-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-02-05.
+This semiconductor / chip design position at Apple was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

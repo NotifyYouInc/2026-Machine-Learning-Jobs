@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2025-11-11 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200631414/machine-learning-engineer-siri-speech) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657149/machine-learning-engineer-siri-speech) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2025-11-11.
+This machine learning engineer position at Apple was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

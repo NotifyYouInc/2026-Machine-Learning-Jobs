@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/126611037540491974-staff-ai-research-engineer-large-user-models?sort_by=date&page=1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfOnZYx2gUiGUtZWa7HVpEHwktqdChz-_4QJqZVoeMjbEjsACxwdTCnZ80Erj27JrBpz1Q4wb1e5rKmDBlwmJ-2k_7JT2H7QOTegxuo3pWZSwrLXsuNLbna-Sv0_zA%3D%3D_V2&loc=US&title=Staff+AI+Research+Engineer) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-02-25.
+This ai / ml research position at Google was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

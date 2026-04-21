@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Toronto-Canada/Senior-AI-ML-Engineer_175367) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Senior-AI-ML-Engineer_176445) |
 
 ## About This Role
 
-This machine learning engineer position at Vanguard was posted on 2026-02-19.
+This machine learning engineer position at Vanguard was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

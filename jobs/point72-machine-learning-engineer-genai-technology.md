@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8392982002?gh_jid=8392982002) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8392983002?gh_jid=8392983002) |
 
 ## About This Role
 
-This machine learning engineer position at Point72 was posted on 2026-02-26.
+This machine learning engineer position at Point72 was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

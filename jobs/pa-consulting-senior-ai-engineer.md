@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000109288795-senior-ai-engineer) |
+| Location | London, England, United Kingdom |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000120547417-senior-ai-engineer) |
 
 ## About This Role
 
-This software engineer position at PA Consulting was posted on 2026-02-13.
+This ai / llm engineer position at PA Consulting was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

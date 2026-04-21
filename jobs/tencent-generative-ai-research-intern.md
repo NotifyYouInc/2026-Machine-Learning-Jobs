@@ -5,12 +5,12 @@
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / ML Research |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Generative-AI-Research-Intern_R106919) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Generative-AI-Research-Intern_R107308) |
 
 ## About This Role
 
-This ai / ml research position at Tencent was posted on 2026-02-24.
+This ai / ml research position at Tencent was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

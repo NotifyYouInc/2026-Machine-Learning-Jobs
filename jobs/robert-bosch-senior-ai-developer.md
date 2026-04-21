@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | AI / ML Research |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000119053130-senior-ai-developer) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000120323347-senior-ai-developer) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-04-07.
+This ai / ml research position at Robert Bosch was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | AI / ML Research |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/137660042772914886-senior-staff-research-scientist-app-and-ecosystem-trust?sort_by=date&page=1) |
+| Category | Security Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ6C1G3_mCybHfR36eSpXA6tJUasxTOVbEch6-0G1UfqEjoACxwdTIjJSOH5BlGT4cgzd0Jl0FIrsGmo_PyHBp8dgfy5eukSX6lJHeNdZYqb9D__iGt_cBxNbLdk_V2&loc=SG&title=Senior+Staff+Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-02-20.
+This security engineer position at Google was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
