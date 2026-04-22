@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Large-Language-Model-Architect_ATCI-5210927-S1911183-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5349365-S2013064-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-10.
+This ai / llm engineer position at Accenture was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

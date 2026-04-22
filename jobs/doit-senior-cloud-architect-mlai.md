@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [DoiT](https://scoutify.ai/companies/doit?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Estonia |
+| Location | Sweden |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7693782003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7693783003) |
 
 ## About This Role
 

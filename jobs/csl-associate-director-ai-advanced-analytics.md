@@ -1,16 +1,16 @@
-# Associate Director,  AI & Advanced Analytics at CSL
+# Associate Director, AI & Advanced Analytics at CSL
 
 | Field | Details |
 |-------|---------|
 | Company | [CSL](https://scoutify.ai/companies/csl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Associate-Director---AI---Advanced-Analytics_R-263434) |
+| Category | AI / ML Research |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-GB-Berkshire-Maidenhead-CSL-Behring/Associate-Director--AI---Advanced-Analytics_R-263433) |
 
 ## About This Role
 
-This machine learning engineer position at CSL was posted on 2026-03-19.
+This ai / ml research position at CSL was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

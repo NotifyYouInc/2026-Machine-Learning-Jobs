@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior--Researcher_R107089) |
+| Category | AI / ML Research |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior--Researcher_R107311-1) |
 
 ## About This Role
 
-This machine learning engineer position at Tencent was posted on 2026-03-12.
+This ai / ml research position at Tencent was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

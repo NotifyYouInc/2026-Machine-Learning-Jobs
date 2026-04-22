@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000112121619-senior-machine-learning-engineer) |
+| Location | Australia |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000120830207-senior-machine-learning-engineer) |
 
 ## About This Role
 
-This software engineer position at Nearmap was posted on 2026-03-02.
+This machine learning engineer position at Nearmap was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

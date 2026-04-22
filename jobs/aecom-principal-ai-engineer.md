@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120055057-principal-ai-engineer) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120527627-principal-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at AECOM was posted on 2026-04-10.
+This ai / llm engineer position at AECOM was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

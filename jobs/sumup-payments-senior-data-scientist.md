@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SumUp Payments](https://scoutify.ai/companies/sumup-payments?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://sumup.com/careers/positions/8403894002?gh_jid=8403894002) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://sumup.com/careers/positions/8459126002?gh_jid=8459126002) |
 
 ## About This Role
 
-This machine learning engineer position at SumUp Payments was posted on 2026-03-03.
+This machine learning engineer position at SumUp Payments was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

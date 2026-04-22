@@ -1,16 +1,16 @@
-# AI and Experience Orchestration Director at Genesys
+# AI and Experience Orchestration Director at Genesys
 
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | AI / ML Research |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/London-Flexible/Sr-AI-and-Experience-Orchestration-Director_JR109560-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Amsterdam-Flexible/AI-and-Experience-Orchestration-Director_JR110713-1) |
 
 ## About This Role
 
-This ai / ml research position at Genesys was posted on 2026-04-08.
+This ai / ml research position at Genesys was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

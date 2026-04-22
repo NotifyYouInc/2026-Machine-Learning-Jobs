@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Staff--Data-Scientist_R-2463783) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Staff--Data-Scientist_R-2431396) |
 
 ## About This Role
 
-This machine learning engineer position at Walmart was posted on 2026-04-02.
+This machine learning engineer position at Walmart was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

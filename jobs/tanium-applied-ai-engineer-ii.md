@@ -1,16 +1,16 @@
-# Applied AI Engineer II at Tanium
+# Applied AI Engineer II  at Tanium
 
 | Field | Details |
 |-------|---------|
 | Company | [Tanium](https://scoutify.ai/companies/tanium?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://www.tanium.com/careers/7685463?gh_jid=7685463) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tanium/jobs/7800318) |
 
 ## About This Role
 
-This ai / llm engineer position at Tanium was posted on 2026-03-06.
+This ai / llm engineer position at Tanium was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Algorithm-Engineer_JR0280285) |
+| Category | AI / ML Research |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Algorithm-Engineer_JR0282889) |
 
 ## About This Role
 
-This machine learning engineer position at Intel was posted on 2026-02-26.
+This ai / ml research position at Intel was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
