@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Application-Support-Engineer_ATCI-5490971-S2002792-1) |
+| Category | Technical Support Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Application-Support-Engineer_ATCI-5489647-S2014291-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-03.
+This technical support engineer position at Accenture was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

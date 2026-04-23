@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Dallas-Infomart-Office-DAI/Sr-Machine-Learning-Engineer--MLE-_JR-159818) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Sr-Machine-Learning-Engineer--MLE-_JR-159809-1) |
 
 ## About This Role
 
-This machine learning engineer position at Equinix was posted on 2026-04-10.
+This machine learning engineer position at Equinix was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

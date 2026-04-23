@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [C.H. Robinson](https://scoutify.ai/companies/chrobinson?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cork, Munster, Ireland |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Cork-Ireland/Senior-Machine-Learning-Engineer_R46960) |
+| Location | Chicago, Illinois, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Minnesota-Remote/Senior-Machine-Learning-Engineer_R47749) |
 
 ## About This Role
 
-This software engineer position at C.H. Robinson was posted on 2026-02-12.
+This machine learning engineer position at C.H. Robinson was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/AI-Engineer--full-stack-_36934) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/AI-Engineer--full-stack-_38263) |
 
 ## About This Role
 
-This ai / llm engineer position at Guidehouse was posted on 2026-04-07.
+This ai / llm engineer position at Guidehouse was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

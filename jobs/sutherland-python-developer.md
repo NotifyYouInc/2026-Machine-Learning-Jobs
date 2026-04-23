@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000112339888-python-developer) |
+| Category | Software Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000120894258-python-developer) |
 
 ## About This Role
 
-This ai / llm engineer position at Sutherland was posted on 2026-03-03.
+This software engineer position at Sutherland was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

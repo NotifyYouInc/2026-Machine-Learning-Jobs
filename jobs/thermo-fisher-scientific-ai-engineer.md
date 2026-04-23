@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | North Carolina, US |
-| Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/AI-Engineer_R-01328367) |
+| Location | Suzhou, Jiangsu, China |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Jiangsu-China/AI-Engineer_R-01349438) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-02-16.
+This ai / llm engineer position at Thermo Fisher Scientific was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

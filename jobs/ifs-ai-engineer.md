@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000110309127-ai-engineer) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000121011958-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at IFS was posted on 2026-02-20.
+This ai / llm engineer position at IFS was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

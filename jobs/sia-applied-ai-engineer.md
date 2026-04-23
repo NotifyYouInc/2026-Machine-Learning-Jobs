@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000120012207-applied-ai-engineer) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000120921482-applied-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at SIA was posted on 2026-04-10.
+This ai / llm engineer position at SIA was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

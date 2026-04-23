@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/AI-Engineer_R41496) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/AI-Engineer_R48893) |
 
 ## About This Role
 
-This software engineer position at FirstRand was posted on 2026-02-12.
+This ai / llm engineer position at FirstRand was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

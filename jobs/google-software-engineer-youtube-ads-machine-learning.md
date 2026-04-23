@@ -1,16 +1,16 @@
-# Software Engineer, YouTube Ads Machine Learning at Google
+# Software Engineer, YouTube Ads, Machine Learning at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/77190000990397126-software-engineer-youtube-ads-machine-learning?sort_by=date&page=1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckS-C8ThG8oXwfD1YSjtdSqrKnNoN8-7I5fTvlA8cBEGmEjsACxwdTHQgj04rjM8OpruDjLD3D1_w-7ODZFYamY_gv8AqUQVFZIvkDSRJl_WkDnbxm0lSJM9__zXafw%3D%3D_V2&loc=US&title=Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-13.
+This software engineer position at Google was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

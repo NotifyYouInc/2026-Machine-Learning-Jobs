@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Bristol, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000120547417-senior-ai-engineer) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000120922973-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at PA Consulting was posted on 2026-04-13.
+This ai / llm engineer position at PA Consulting was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
