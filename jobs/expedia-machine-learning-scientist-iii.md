@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Machine-Learning-Scientist-III_R-103955-1) |
+| Location | India |
+| Category | AI / ML Research |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Machine-Learning-Scientist-III_R-105038) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-03-20.
+This ai / ml research position at Expedia was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

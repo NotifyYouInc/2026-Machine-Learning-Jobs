@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Yerevan, Yerevan, Armenia |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4652035006) |
+| Location | New York, US |
+| Category | AI / ML Research |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4673986006) |
 
 ## About This Role
 
-This software engineer position at WorldQuant was posted on 2026-02-06.
+This ai / ml research position at WorldQuant was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

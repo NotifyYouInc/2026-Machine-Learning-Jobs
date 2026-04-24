@@ -5,12 +5,12 @@
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Menlo Park, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/811308951542139) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1648976066135378) |
 
 ## About This Role
 
-This machine learning engineer position at Meta was posted on 2026-04-10.
+This machine learning engineer position at Meta was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

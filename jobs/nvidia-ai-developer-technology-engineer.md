@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Germany |
 | Category | AI / ML Research |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Remote/AI-Developer-Technology-Engineer_JR1976952) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/AI-Developer-Technology-Engineer_JR2016527-1) |
 
 ## About This Role
 
-This ai / ml research position at Nvidia was posted on 2026-03-25.
+This ai / ml research position at Nvidia was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

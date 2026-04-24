@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000116695917-principal-machine-learning-engineer-voip-infrastructure) |
+| Location | Chicago, Illinois, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000121283305-principal-machine-learning-engineer-voip-infrastructure) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-03-25.
+This machine learning engineer position at ServiceNow was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

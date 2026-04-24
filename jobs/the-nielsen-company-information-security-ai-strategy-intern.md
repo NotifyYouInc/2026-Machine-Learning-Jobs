@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York, US |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012579416-information-security-ai-strategy-intern) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012633456-information-security-ai-strategy-intern) |
 
 ## About This Role
 
-This security engineer position at The Nielsen Company was posted on 2026-04-13.
+This security engineer position at The Nielsen Company was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

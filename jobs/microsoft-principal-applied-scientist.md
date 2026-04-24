@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556858620) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556642414) |
 
 ## About This Role
 
-This ai / ml research position at Microsoft was posted on 2026-04-14.
+This ai / ml research position at Microsoft was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

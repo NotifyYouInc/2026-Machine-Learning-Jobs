@@ -5,12 +5,12 @@
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Guyancourt, Île-de-France, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Guyancourt/AP26---BAC-4---Developpeur-IA--H-F-_JOBREQ_50249859) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Guyancourt/AP26---BAC-4---Developpeur-IA--H-F-_JOBREQ_50252625) |
 
 ## About This Role
 
-This machine learning engineer position at Renault Group was posted on 2026-02-26.
+This machine learning engineer position at Renault Group was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

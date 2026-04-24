@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York, US |
+| Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/815572344861595) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/950098077597575) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-02-25.
+This ai / ml research position at Meta was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
