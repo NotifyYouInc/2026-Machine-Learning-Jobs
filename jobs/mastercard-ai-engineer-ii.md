@@ -1,16 +1,16 @@
-# AI Engineer II at Mastercard
+# AI engineer II at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Location | Dublin, Leinster, Ireland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/AI-Engineer-II_R-272944) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/AI-engineer-II_R-275694) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-03-10.
+This ai / llm engineer position at Mastercard was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

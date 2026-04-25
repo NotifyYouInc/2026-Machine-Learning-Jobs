@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Karnataka, IN |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Engineer-AI-ML_R0055846) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Engineer-AI-ML_R0058084) |
 
 ## About This Role
 
-This machine learning engineer position at Empower was posted on 2026-03-24.
+This machine learning engineer position at Empower was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

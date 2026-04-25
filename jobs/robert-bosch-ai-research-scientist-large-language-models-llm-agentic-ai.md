@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112246837-ai-research-scientist-large-language-models-llm-agentic-ai) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121522987-ai-research-scientist-large-language-models-llm-agentic-ai) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-03-02.
+This ai / ml research position at Robert Bosch was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

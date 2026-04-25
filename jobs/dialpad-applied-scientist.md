@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Kitchener, Ontario, Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8397119002) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | AI / ML Research |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8508615002) |
 
 ## About This Role
 
-This machine learning engineer position at Dialpad was posted on 2026-02-02.
+This ai / ml research position at Dialpad was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

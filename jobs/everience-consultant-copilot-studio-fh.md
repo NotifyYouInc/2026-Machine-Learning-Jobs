@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | AI / ML Research |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000120937747-consultant-copilot-studio-fh) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000121358797-consultant-copilot-studio-fh) |
 
 ## About This Role
 
-This ai / ml research position at Everience was posted on 2026-04-15.
+This ai / ml research position at Everience was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

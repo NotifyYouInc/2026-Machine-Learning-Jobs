@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | El Segundo, California, United States |
+| Location | San Antonio, Texas, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/AI-Engineer_R0236323) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/AI-Engineer_R0238124) |
 
 ## About This Role
 
-This ai / llm engineer position at Booz Allen was posted on 2026-03-19.
+This ai / llm engineer position at Booz Allen was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

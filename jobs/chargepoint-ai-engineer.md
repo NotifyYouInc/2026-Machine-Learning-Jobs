@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChargePoint](https://scoutify.ai/companies/chargepoint?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.chargepoint.com/about/opportunities/job/?gh_jid=8429191002) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://www.chargepoint.com/about/opportunities/job/?gh_jid=8511589002) |
 
 ## About This Role
 
-This ai / llm engineer position at ChargePoint was posted on 2026-04-15.
+This ai / llm engineer position at ChargePoint was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

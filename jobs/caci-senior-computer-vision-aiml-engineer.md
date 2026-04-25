@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-PA-Philadelphia/Senior-Computer-Vision-AI-ML-Engineer_324309) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-PA-Philadelphia/Senior-Computer-Vision-AI-ML-Engineer_325061) |
 
 ## About This Role
 
-This ai / ml research position at CACI was posted on 2026-04-03.
+This ai / ml research position at CACI was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

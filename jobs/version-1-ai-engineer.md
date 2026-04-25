@@ -1,16 +1,16 @@
-# AI Engineer at Version 1
+# AI Engineer  at Version 1
 
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000111816156-ai-engineer) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000121363123-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Version 1 was posted on 2026-02-27.
+This ai / llm engineer position at Version 1 was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

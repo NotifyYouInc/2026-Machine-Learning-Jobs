@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Arlington-1201-Wilson-Corp/AI-Native-Software-Engineer_R00325208) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/AI-Native-Software-Engineer_R00324154) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-15.
+This ai / llm engineer position at Accenture was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

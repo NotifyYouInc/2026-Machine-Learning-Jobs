@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Jose, California, United States |
+| Location | Madrid, Madrid, Spain |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/San-Jose-Plaza-Real-Cariari/LLM-Full-Stack-Engineer_14302408) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Madrid-Torre-Chamartin/LLM-Full-Stack-Engineer_14251002) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-15.
+This ai / llm engineer position at Accenture was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

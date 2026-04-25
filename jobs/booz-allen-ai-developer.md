@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-Developer_R0234665) |
+| Location | San Antonio, Texas, United States |
+| Category | AI / ML Research |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/AI-Developer_R0238125) |
 
 ## About This Role
 
-This ai / llm engineer position at Booz Allen was posted on 2026-03-04.
+This ai / ml research position at Booz Allen was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

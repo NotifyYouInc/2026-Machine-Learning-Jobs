@@ -5,12 +5,12 @@
 | Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000118164831-ingenieur-mlllm-paris-hf) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000121369250-ingenieur-mlllm-paris-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at Iliad-Free was posted on 2026-04-01.
+This ai / llm engineer position at Iliad-Free was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

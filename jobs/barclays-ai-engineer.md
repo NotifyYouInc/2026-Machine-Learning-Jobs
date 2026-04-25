@@ -1,16 +1,16 @@
-# AI Engineer at Barclays
+# AI engineer at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | Northampton, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Engineer_JR-0000093368) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/AI-engineer_JR-0000097684) |
 
 ## About This Role
 
-This ai / llm engineer position at Barclays was posted on 2026-04-01.
+This ai / llm engineer position at Barclays was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

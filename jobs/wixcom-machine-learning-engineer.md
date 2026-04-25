@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000114058501-machine-learning-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000121398408-machine-learning-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Wix.com was posted on 2026-03-11.
+This machine learning engineer position at Wix.com was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
