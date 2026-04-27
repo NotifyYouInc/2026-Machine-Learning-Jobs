@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Member-of-Technical-Staff--MTS---Machine-Learning--SMAI_JR90425) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Member-of-Technical-Staff--MTS---Machine-Learning--SMAI_JR90424-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Micron was posted on 2026-04-01.
+This machine learning engineer position at Micron was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

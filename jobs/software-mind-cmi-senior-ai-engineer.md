@@ -1,16 +1,16 @@
-# Senior AI Engineer at Tryjeeves
+# [CMI] Senior AI Engineer at Software Mind
 
 | Field | Details |
 |-------|---------|
-| Company | [Tryjeeves](https://scoutify.ai/companies/tryjeeves?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Brazil |
+| Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Poland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.lever.co/tryjeeves/2f00206f-6091-4eed-8b5f-1325afdbfe30) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000121683127-cmi-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Tryjeeves was posted on 2026-04-16.
+This ai / llm engineer position at Software Mind was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

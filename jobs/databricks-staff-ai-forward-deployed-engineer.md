@@ -1,16 +1,16 @@
-# Senior AI Engineer at Tryjeeves
+# Staff AI Forward Deployed Engineer at Databricks
 
 | Field | Details |
 |-------|---------|
-| Company | [Tryjeeves](https://scoutify.ai/companies/tryjeeves?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Brazil |
+| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.lever.co/tryjeeves/2f00206f-6091-4eed-8b5f-1325afdbfe30) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8503080002) |
 
 ## About This Role
 
-This ai / llm engineer position at Tryjeeves was posted on 2026-04-16.
+This ai / llm engineer position at Databricks was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

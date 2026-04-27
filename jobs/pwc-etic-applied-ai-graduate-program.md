@@ -1,16 +1,16 @@
-# IN_Associate_AI Engineer_GCC_Advisory_Bangalore at PwC
+# ETIC, Applied AI - Graduate Program at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Location | Cairo, Cairo, Egypt |
+| Category | Leadership Development Program |
 | Posted | 2026-04-19 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Associate-Robotic-Process-Automation--RPA--GCC-Advisory-Bangalore_715717WD-2) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo/ETIC--Applied-AI---Graduate-Program_688507WD) |
 
 ## About This Role
 
-This ai / llm engineer position at PwC was posted on 2026-04-19.
+This leadership development program position at PwC was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

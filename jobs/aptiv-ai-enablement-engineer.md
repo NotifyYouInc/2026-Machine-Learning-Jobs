@@ -1,16 +1,16 @@
-# Senior AI Engineer at Tryjeeves
+# AI Enablement Engineer at Aptiv
 
 | Field | Details |
 |-------|---------|
-| Company | [Tryjeeves](https://scoutify.ai/companies/tryjeeves?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Brazil |
+| Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Changshu, Jiangsu, China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.lever.co/tryjeeves/2f00206f-6091-4eed-8b5f-1325afdbfe30) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Changshu-China/AI-Enablement-Engineer_J000696096) |
 
 ## About This Role
 
-This ai / llm engineer position at Tryjeeves was posted on 2026-04-16.
+This ai / llm engineer position at Aptiv was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

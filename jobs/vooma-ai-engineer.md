@@ -1,16 +1,16 @@
-# Senior AI Engineer at Tryjeeves
+# AI Engineer at Vooma
 
 | Field | Details |
 |-------|---------|
-| Company | [Tryjeeves](https://scoutify.ai/companies/tryjeeves?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Brazil |
+| Company | [Vooma](https://scoutify.ai/companies/vooma-vooma?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.lever.co/tryjeeves/2f00206f-6091-4eed-8b5f-1325afdbfe30) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vooma/5396e567-964c-46f7-b798-f41688e6c220) |
 
 ## About This Role
 
-This ai / llm engineer position at Tryjeeves was posted on 2026-04-16.
+This ai / llm engineer position at Vooma was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
