@@ -5,12 +5,12 @@
 | Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-AI-AI-Application-Engineer-_JR6927-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-AI-AI-Application-Engineer-_JR7297) |
 
 ## About This Role
 
-This ai / llm engineer position at CTBC Financial Holding was posted on 2026-03-23.
+This ai / llm engineer position at CTBC Financial Holding was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

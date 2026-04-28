@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000109214585-senior-staff-engineer-data-science) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121749556-senior-staff-engineer-data-science) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-02-13.
+This software engineer position at Nagarro was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

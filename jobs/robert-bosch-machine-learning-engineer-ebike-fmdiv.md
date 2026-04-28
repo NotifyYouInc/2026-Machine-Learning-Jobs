@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Braga, Braga, Portugal |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113783298-machine-learning-engineer-ebike-fmdiv) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121792447-machine-learning-engineer-ebike-fmdiv) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-03-10.
+This machine learning engineer position at Robert Bosch was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

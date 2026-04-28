@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Espoo, Uusimaa, Finland |
 | Category | AI / ML Research |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000121434397-ai-impact-lead) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000121682537-ai-impact-lead) |
 
 ## About This Role
 
-This ai / ml research position at Konecranes was posted on 2026-04-17.
+This ai / ml research position at Konecranes was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

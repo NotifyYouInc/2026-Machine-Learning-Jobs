@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000108800466-applied-ai-engineer) |
+| Location | Dallas, Texas, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000121834717-applied-ai-engineer) |
 
 ## About This Role
 
-This software engineer position at SOCOTEC was posted on 2026-02-11.
+This ai / llm engineer position at SOCOTEC was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

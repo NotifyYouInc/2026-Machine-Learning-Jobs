@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / ML Research |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001000264-eg-ai-consultant-lead) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001010396-eg-ai-consultant-lead) |
 
 ## About This Role
 
-This ai / ml research position at NCS was posted on 2026-04-15.
+This ai / ml research position at NCS was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

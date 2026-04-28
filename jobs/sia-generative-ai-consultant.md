@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | AI / LLM Engineer |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000121490907-generative-ai-consultant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000121504002-generative-ai-consultant) |
 
 ## About This Role
 

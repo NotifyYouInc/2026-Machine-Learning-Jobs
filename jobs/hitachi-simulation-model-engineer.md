@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ludvika, Dalarna, Sweden |
-| Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Simulation-Model-Engineer_R0106207) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Simulation-Model-Engineer_R0124102-1) |
 
 ## About This Role
 
-This software engineer position at Hitachi was posted on 2026-03-26.
+This electrical / hardware engineer position at Hitachi was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

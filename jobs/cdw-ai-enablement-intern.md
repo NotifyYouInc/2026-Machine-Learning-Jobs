@@ -5,12 +5,12 @@
 | Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Toronto---West-Mall---ON/AI-Enablement-Intern_R26_00001521) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Toronto---West-Mall---ON/AI-Enablement-Intern_R26_00001522) |
 
 ## About This Role
 
-This ai / ml research position at CDW was posted on 2026-04-16.
+This ai / ml research position at CDW was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

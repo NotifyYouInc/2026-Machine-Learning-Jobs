@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Kitchener, Ontario, Canada |
 | Category | AI / ML Research |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8508615002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8512128002) |
 
 ## About This Role
 

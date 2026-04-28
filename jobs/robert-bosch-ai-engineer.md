@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Thailand |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000119926691-ai-engineer) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121713708-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-04-10.
+This ai / llm engineer position at Robert Bosch was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

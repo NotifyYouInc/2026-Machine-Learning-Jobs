@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Jiangsu-China/AI-Engineer_R-01349438) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/AI-Engineer_R-01348309) |
 
 ## About This Role
 
-This ai / llm engineer position at Thermo Fisher Scientific was posted on 2026-04-15.
+This ai / llm engineer position at Thermo Fisher Scientific was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

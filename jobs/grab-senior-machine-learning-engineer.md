@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000121135877-senior-machine-learning-engineer) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000121639307-senior-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Grab was posted on 2026-04-16.
+This machine learning engineer position at Grab was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

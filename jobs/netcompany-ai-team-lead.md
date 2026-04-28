@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Thessaloníki, Central Macedonia, Greece |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000111596521-ai-team-lead) |
+| Location | Athens, Attica, Greece |
+| Category | AI / ML Research |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000121803897-ai-team-lead) |
 
 ## About This Role
 
-This ai / llm engineer position at Netcompany was posted on 2026-02-26.
+This ai / ml research position at Netcompany was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
