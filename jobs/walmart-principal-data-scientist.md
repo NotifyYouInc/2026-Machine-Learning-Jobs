@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Hoboken-NJ/Principal--Data-Scientist_R-2456582) |
+| Location | Bentonville, Arkansas, United States |
+| Category | AI / ML Research |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Principal--Data-Scientist_R-2474546-1) |
 
 ## About This Role
 
-This machine learning engineer position at Walmart was posted on 2026-04-02.
+This ai / ml research position at Walmart was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

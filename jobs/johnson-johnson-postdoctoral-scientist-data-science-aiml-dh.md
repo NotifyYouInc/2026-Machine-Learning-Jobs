@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | Neuss, North Rhine-Westphalia, Germany |
 | Category | AI / ML Research |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-Scientist-Data-Science-AI-ML---DH_R-060722-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Neuss-North-Rhine-Westphalia-Germany/Postdoctoral-Scientist-Data-Science-AI-ML---DH_R-071295-1) |
 
 ## About This Role
 
-This ai / ml research position at Johnson & Johnson was posted on 2026-02-25.
+This ai / ml research position at Johnson & Johnson was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

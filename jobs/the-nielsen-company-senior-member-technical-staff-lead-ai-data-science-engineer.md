@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012007656-senior-member-technical-staff-lead-ai-data-science-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012719453-senior-member-technical-staff-lead-ai-data-science-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at The Nielsen Company was posted on 2026-03-06.
+This machine learning engineer position at The Nielsen Company was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

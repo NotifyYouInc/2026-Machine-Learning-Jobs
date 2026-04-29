@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Switzerland |
+| Location | Zürich, Zurich, Switzerland |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/111117098712736454-software-engineer-iii-aiml-youtube-shopping?sort_by=date&page=1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYnBvzmZiSUkRanTEYA-Lmuf8xtxXgM_BBWru9Bm4Es7EjsACxwdTGxn7iJwieNpWPS_9CzLuD5avG10F3ErNBiJXbiWAaYW5sE6XgyUGj5-QltZvOMsJnKp6spG2g%3D%3D_V2&loc=CH&title=Software+Engineer+III) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-12.
+This software engineer position at Google was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

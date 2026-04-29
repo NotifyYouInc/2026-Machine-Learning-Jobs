@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Poland |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000121699517-wza-senior-applied-scientist) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000121957957-wza-senior-applied-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Software Mind was posted on 2026-04-20.
+This machine learning engineer position at Software Mind was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

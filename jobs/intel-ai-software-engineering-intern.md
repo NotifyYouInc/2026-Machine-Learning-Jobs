@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Solutions-Engineering-Intern_JR0281254) |
+| Location | Shanghai, Shanghai, China |
+| Category | AI / ML Research |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineering-Intern_JR0283192) |
 
 ## About This Role
 
-This ai / llm engineer position at Intel was posted on 2026-02-25.
+This ai / ml research position at Intel was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

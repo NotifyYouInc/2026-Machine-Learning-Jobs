@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000113406818-senior-ai-product-research-engineer-consultant) |
+| Location | New York City, New York, United States |
+| Category | AI / ML Research |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000122170547-senior-ai-product-research-engineer-consultant) |
 
 ## About This Role
 
-This ai / llm engineer position at Version 1 was posted on 2026-03-09.
+This ai / ml research position at Version 1 was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

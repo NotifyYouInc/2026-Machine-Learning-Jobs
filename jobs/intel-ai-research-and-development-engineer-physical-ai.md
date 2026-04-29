@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Netherlands/AI-Research-and-Development-Engineer--Physical-AI-_JR0283168) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-United-Kingdom/AI-Research-and-Development-Engineer--Physical-AI-_JR0283172) |
 
 ## About This Role
 
-This ai / ml research position at Intel was posted on 2026-04-20.
+This ai / ml research position at Intel was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

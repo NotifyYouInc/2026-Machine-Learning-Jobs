@@ -5,12 +5,12 @@
 | Company | [Moderna](https://scoutify.ai/companies/modernatx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Principal-Scientist--Protein-Design_R18998) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Principal-Scientist--Protein-Design_R19115) |
 
 ## About This Role
 
-This ai / ml research position at Moderna was posted on 2026-03-26.
+This ai / ml research position at Moderna was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

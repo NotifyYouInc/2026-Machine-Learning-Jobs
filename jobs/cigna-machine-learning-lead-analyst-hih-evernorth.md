@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Lead-Analyst---HIH---Evernorth_25016979) |
+| Category | Learning & Development |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Lead-Analyst---HIH---Evernorth_26003826) |
 
 ## About This Role
 
-This ai / llm engineer position at Cigna was posted on 2026-03-15.
+This learning & development position at Cigna was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

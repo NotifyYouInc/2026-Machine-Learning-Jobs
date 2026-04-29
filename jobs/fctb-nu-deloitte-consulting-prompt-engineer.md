@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000113661652-prompt-engineer) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000122006557-prompt-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-03-10.
+This ai / llm engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

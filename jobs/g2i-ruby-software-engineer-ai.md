@@ -5,12 +5,12 @@
 | Company | [G2I](https://scoutify.ai/companies/g2i?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Miami, Florida, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/g2i/b15eb205-6e0a-4e92-be81-26a64955e935) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/g2i/9a7a43ea-5a43-4b96-941c-7991add5ebd5) |
 
 ## About This Role
 
-This ai / llm engineer position at G2I was posted on 2026-04-16.
+This ai / llm engineer position at G2I was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

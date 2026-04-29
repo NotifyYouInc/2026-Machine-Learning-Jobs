@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [1&1 Drillisch](https://scoutify.ai/companies/1-1-drillisch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Bucharest, București, Romania |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ionos/jobs/4843480101) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ionos/jobs/4847079101) |
 
 ## About This Role
 
-This ai / llm engineer position at 1&1 Drillisch was posted on 2026-04-17.
+This ai / llm engineer position at 1&1 Drillisch was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

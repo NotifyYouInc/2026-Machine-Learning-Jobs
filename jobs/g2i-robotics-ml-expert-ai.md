@@ -5,12 +5,12 @@
 | Company | [G2I](https://scoutify.ai/companies/g2i?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Miami, Florida, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/g2i/70af10fc-3e57-47ea-a370-8d89d5820b30) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/g2i/22d6b48c-d29b-4541-98ea-317e88a0b2e0) |
 
 ## About This Role
 
-This robotics engineer position at G2I was posted on 2026-04-17.
+This robotics engineer position at G2I was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
