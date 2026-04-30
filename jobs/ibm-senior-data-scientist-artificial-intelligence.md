@@ -1,16 +1,16 @@
-# Senior Data Scientist Artificial Intelligence at IBM
+# Senior Data Scientist - Artificial Intelligence at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104746) |
+| Location | Romania |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111544) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-03-24.
+This machine learning engineer position at IBM was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

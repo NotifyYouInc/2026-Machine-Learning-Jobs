@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bhubaneswar, Odisha, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bhubaneswar/AI---ML-Engineer_ATCI-5531954-S2016371) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5040725-S1867673-1) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-04-20.
+This machine learning engineer position at Accenture was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

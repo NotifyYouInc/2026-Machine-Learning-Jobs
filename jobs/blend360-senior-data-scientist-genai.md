@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | AI / ML Research |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000122032747-senior-data-scientist-genai) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000122203508-senior-data-scientist-genai) |
 
 ## About This Role
 
-This ai / ml research position at Blend360 was posted on 2026-04-21.
+This ai / ml research position at Blend360 was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

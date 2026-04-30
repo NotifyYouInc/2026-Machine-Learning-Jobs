@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Senior-Machine-Learning-Scientist_R-104116-1) |
+| Location | Seattle, Washington, United States |
+| Category | AI / ML Research |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Machine-Learning-Scientist_R-105192) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-03-18.
+This ai / ml research position at Expedia was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

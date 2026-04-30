@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Algorithm-Developer_R2617386) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HsinchuTWN/Algorithm-Developer_R2520203) |
 
 ## About This Role
 
-This machine learning engineer position at Applied Materials was posted on 2026-04-17.
+This machine learning engineer position at Applied Materials was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Guatemala City, Guatemala, Guatemala |
+| Location | Argentina |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.lever.co/distro/de96fef8-d522-4a43-8541-bfe7d117c0ee) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.lever.co/distro/39f519e6-99e5-443a-95d1-ca99776beb2b) |
 
 ## About This Role
 
-This ai / llm engineer position at Distro was posted on 2026-03-20.
+This ai / llm engineer position at Distro was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

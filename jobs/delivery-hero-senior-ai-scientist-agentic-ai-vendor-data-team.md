@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | AI / ML Research |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000120479322-senior-ai-scientist-agentic-ai-vendor-data-team) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000122296653-senior-ai-scientist-agentic-ai-vendor-data-team) |
 
 ## About This Role
 
-This ai / ml research position at Delivery Hero was posted on 2026-04-13.
+This ai / ml research position at Delivery Hero was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

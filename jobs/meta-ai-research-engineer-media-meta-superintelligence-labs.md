@@ -5,12 +5,12 @@
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Menlo Park, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1372820631269920) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1943984976330610) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-03-27.
+This ai / ml research position at Meta was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

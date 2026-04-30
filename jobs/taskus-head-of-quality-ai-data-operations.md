@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Colombia |
+| Location | United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Colombia---Remote/Head-of-Quality--AI-Data-Operations_R_2604_5225-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/USA---Remote/Head-of-Quality--AI-Data-Operations_R_2604_4934) |
 
 ## About This Role
 
-This ai / ml research position at TaskUs was posted on 2026-04-14.
+This ai / ml research position at TaskUs was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

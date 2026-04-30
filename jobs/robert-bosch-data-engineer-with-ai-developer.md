@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121964296-data-engineer-with-ai-developer) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000122168642-data-engineer-with-ai-developer) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-04-21.
+This data engineer position at Robert Bosch was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | AI / ML Research |
 | Posted | 2026-04-21 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PCT/AI-ML-Scientist_R-22663) |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PCT/AI-ML-Scientist---Operational-Twinning---Healthcare-Optimization_R-28204-2) |
 
 ## About This Role
 

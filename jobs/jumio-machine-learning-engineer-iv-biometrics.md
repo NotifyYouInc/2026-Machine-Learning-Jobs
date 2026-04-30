@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jumio](https://scoutify.ai/companies/jumio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karnataka, IN |
+| Location | Montréal, Quebec, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/jumio/jobs/4664041005) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/jumio/jobs/4685786005) |
 
 ## About This Role
 
-This machine learning engineer position at Jumio was posted on 2026-02-23.
+This machine learning engineer position at Jumio was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
