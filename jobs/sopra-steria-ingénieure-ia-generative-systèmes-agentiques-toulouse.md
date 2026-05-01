@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Colomiers, Occitanie, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000118367066-ingenieure-ia-generative-systemes-agentiques-toulouse) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000122398544-ingenieure-ia-generative-systemes-agentiques-toulouse) |
 
 ## About This Role
 
-This ai / llm engineer position at Sopra Steria was posted on 2026-04-02.
+This ai / llm engineer position at Sopra Steria was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# AI engineer at Barclays
+# AI Engineer at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Northampton, England, United Kingdom |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/AI-engineer_JR-0000097684) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/London-Luke-Street-Eagle-Lab/AI-Conversational-Designer_JR-0000084666) |
 
 ## About This Role
 
-This ai / llm engineer position at Barclays was posted on 2026-04-17.
+This ai / llm engineer position at Barclays was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

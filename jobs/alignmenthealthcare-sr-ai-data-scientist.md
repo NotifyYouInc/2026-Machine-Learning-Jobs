@@ -5,12 +5,12 @@
 | Company | [Alignmenthealthcare](https://scoutify.ai/companies/alignmenthealthcare?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://alignmenthealthcare.wd12.myworkdayjobs.com/ahc_external/job/Anywhere-in-the-US/Sr-AI---Data-Scientist_R1941) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://alignmenthealthcare.wd12.myworkdayjobs.com/ahc_external/job/Anywhere-in-the-US/Sr-AI---Data-Scientist_R1943) |
 
 ## About This Role
 
-This ai / ml research position at Alignmenthealthcare was posted on 2026-04-13.
+This ai / ml research position at Alignmenthealthcare was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

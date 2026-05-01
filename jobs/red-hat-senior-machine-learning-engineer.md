@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Toronto---MSO/Senior-Machine-Learning-Engineer_R-053059-1) |
+| Location | Boston, Massachusetts, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/Senior-Machine-Learning-Engineer_R-053078) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-02-03.
+This machine learning engineer position at Red Hat was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

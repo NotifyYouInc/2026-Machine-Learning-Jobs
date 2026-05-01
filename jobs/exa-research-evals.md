@@ -1,0 +1,22 @@
+# Research, Evals at Exa
+
+| Field | Details |
+|-------|---------|
+| Company | [Exa](https://scoutify.ai/companies/exa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Francisco, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2025-10-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/exa/9c45a74e-d507-482a-bc0e-da2f464c9767) |
+
+## About This Role
+
+This machine learning engineer position at Exa was posted on 2025-10-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

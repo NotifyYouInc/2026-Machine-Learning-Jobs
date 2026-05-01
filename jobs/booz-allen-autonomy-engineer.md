@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Honolulu, Hawaii, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Autonomy-Engineer_R0238069) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Autonomy-Engineer_R0238540) |
 
 ## About This Role
 
-This robotics engineer position at Booz Allen was posted on 2026-04-17.
+This robotics engineer position at Booz Allen was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

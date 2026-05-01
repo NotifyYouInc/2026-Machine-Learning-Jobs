@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ridgefield Park, New Jersey, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000122136377-sr-gen-ai-engineer) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000122284095-sr-gen-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Woongjin was posted on 2026-04-21.
+This ai / llm engineer position at Woongjin was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

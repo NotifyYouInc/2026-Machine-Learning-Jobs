@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exa](https://scoutify.ai/companies/exa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Switzerland |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/exa/1c9d0849-59f8-4a4b-bdd9-25a066993213) |
+| Location | San Francisco, California, United States |
+| Category | AI / ML Research |
+| Posted | 2025-06-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/exa/fcebd301-b473-40dc-b733-362883ac1f37) |
 
 ## About This Role
 
-This machine learning engineer position at Exa was posted on 2026-03-03.
+This ai / ml research position at Exa was posted on 2025-06-26.
 
 ## Get Real-Time Alerts
 

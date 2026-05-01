@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R105487-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344-1) |
 
 ## About This Role
 
-This ai / ml research position at Tencent was posted on 2026-04-08.
+This machine learning engineer position at Tencent was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

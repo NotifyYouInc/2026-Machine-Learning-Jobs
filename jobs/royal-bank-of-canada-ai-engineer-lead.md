@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/AI-Engineer-Lead_R-0000155750) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/AI-Engineer-Lead_R-0000167312-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Royal Bank of Canada was posted on 2026-03-30.
+This ai / llm engineer position at Royal Bank of Canada was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

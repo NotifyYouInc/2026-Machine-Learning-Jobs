@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7818860) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7845723) |
 
 ## About This Role
 
-This ai / llm engineer position at Capco was posted on 2026-04-15.
+This ai / llm engineer position at Capco was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

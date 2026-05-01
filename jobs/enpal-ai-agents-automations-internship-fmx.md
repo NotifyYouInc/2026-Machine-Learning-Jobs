@@ -5,12 +5,12 @@
 | Company | [enpal](https://scoutify.ai/companies/enpal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | AI / ML Research |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/94ef4634-650b-471a-a657-2ba9ed5a910c) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/04a4eabe-88f2-4e0a-aa2f-7e4d6081c98b) |
 
 ## About This Role
 
-This ai / ml research position at enpal was posted on 2026-04-21.
+This ai / ml research position at enpal was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

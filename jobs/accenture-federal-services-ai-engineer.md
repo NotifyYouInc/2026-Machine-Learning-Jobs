@@ -1,16 +1,16 @@
-# AI Engineer at Accenture Federal Services
+# AI Engineer  at Accenture Federal Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Arlington, Texas, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4673164006?gh_jid=4673164006) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4675388006?gh_jid=4675388006) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture Federal Services was posted on 2026-04-17.
+This ai / llm engineer position at Accenture Federal Services was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

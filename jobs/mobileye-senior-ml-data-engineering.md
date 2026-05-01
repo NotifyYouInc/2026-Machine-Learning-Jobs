@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mobileye](https://scoutify.ai/companies/mobileye?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Jerusalem, Jerusalem, Israel |
+| Location | Ramat Gan, Tel Aviv, Israel |
 | Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.eu.lever.co/mobileye/25f2cd2f-fbac-4101-b913-045cdc4458a3) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.eu.lever.co/mobileye/5d044c94-826e-4685-853f-b70069e3f0a9) |
 
 ## About This Role
 
-This data engineer position at Mobileye was posted on 2026-04-16.
+This data engineer position at Mobileye was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

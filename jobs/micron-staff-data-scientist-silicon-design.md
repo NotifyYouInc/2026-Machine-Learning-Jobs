@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Data-Scientist-Silicon-Design_JR96983) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Data-Scientist-Silicon-Design_JR97592) |
 
 ## About This Role
 
-This machine learning engineer position at Micron was posted on 2026-04-03.
+This machine learning engineer position at Micron was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

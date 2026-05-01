@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---2026_JR2016444) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---2026_JR2016445) |
 
 ## About This Role
 
-This machine learning engineer position at Nvidia was posted on 2026-04-20.
+This machine learning engineer position at Nvidia was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

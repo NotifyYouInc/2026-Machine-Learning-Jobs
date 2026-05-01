@@ -5,12 +5,12 @@
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/XMLNAME--Sr--AI-Engineer_R0009509) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/XMLNAME--Sr--AI-Engineer_R0009569) |
 
 ## About This Role
 
-This ai / llm engineer position at Trend Micro was posted on 2026-04-15.
+This ai / llm engineer position at Trend Micro was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

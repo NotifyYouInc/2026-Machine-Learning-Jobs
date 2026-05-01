@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118276626-research-scientist-end-to-end-planning-in-autonomous-systems) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000122520842-research-scientist-end-to-end-planning-in-autonomous-systems) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-04-01.
+This ai / ml research position at Robert Bosch was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
