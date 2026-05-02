@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Striveworks](https://scoutify.ai/companies/striveworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Schofield Barracks, Hawaii, United States |
+| Location | Austin, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/striveworks/jobs/7711045003) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/striveworks/jobs/7713741003) |
 
 ## About This Role
 
-This machine learning engineer position at Striveworks was posted on 2026-04-23.
+This machine learning engineer position at Striveworks was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

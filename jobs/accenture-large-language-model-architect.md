@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Large-Language-Model-Architect_ATCI-5100189-S1887803) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Large-Language-Model-Architect_ATCI-5349307-S1949037-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-22.
+This ai / llm engineer position at Accenture was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

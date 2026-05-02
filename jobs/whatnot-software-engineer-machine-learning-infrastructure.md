@@ -5,12 +5,12 @@
 | Company | [WhatNot](https://scoutify.ai/companies/whatnot?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/5b592753-40a8-405e-8ced-35c311ff1354) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/221a1379-09e0-4836-a49f-d37f6066731c) |
 
 ## About This Role
 
-This software engineer position at WhatNot was posted on 2026-04-22.
+This software engineer position at WhatNot was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

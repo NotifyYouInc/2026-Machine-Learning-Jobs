@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R162027) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R160428) |
 
 ## About This Role
 
-This machine learning engineer position at Adobe was posted on 2026-04-08.
+This machine learning engineer position at Adobe was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

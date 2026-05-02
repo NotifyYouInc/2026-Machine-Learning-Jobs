@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Lisbon/AI-Engineer_R1115877) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Bhartiya-City-Block-1/AI-Engineer_R1114817-6) |
 
 ## About This Role
 
-This ai / llm engineer position at Dentsu was posted on 2026-02-18.
+This ai / llm engineer position at Dentsu was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

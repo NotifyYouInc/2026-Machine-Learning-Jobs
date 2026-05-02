@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000108135565-ai-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000122698740-ai-engineer) |
 
 ## About This Role
 
-This software engineer position at Syngenta was posted on 2026-02-09.
+This ai / llm engineer position at Syngenta was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

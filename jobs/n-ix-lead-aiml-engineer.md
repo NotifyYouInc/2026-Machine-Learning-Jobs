@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ukraine |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4830570101?gh_jid=4830570101) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4846917101?gh_jid=4846917101) |
 
 ## About This Role
 
-This ai / llm engineer position at N-iX was posted on 2026-04-08.
+This machine learning engineer position at N-iX was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

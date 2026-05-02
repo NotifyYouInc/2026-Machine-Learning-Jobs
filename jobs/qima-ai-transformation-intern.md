@@ -5,12 +5,12 @@
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | AI / ML Research |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000120301617-ai-transformation-intern) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000122640940-ai-transformation-intern) |
 
 ## About This Role
 
-This ai / ml research position at QIMA was posted on 2026-04-13.
+This ai / ml research position at QIMA was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

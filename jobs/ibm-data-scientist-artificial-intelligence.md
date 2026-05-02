@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Kolkata, West Bengal, India |
 | Category | AI / ML Research |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99806) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110863) |
 
 ## About This Role
 

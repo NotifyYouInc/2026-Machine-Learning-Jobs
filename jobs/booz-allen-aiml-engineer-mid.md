@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Herndon-VA/AI-ML-Engineer--Mid_R0234116-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-ML-Engineer--Mid_R0238611) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-02-17.
+This machine learning engineer position at Booz Allen was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

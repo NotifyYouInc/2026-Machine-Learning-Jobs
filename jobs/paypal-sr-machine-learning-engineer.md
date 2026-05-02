@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Tel-Aviv-Tel-Aviv-District-Israel/Sr-Machine-Learning-Engineer_R0134337-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Berlin-Berlin-Germany/Sr-Machine-Learning-Engineer_R0136162-1) |
 
 ## About This Role
 
-This machine learning engineer position at PayPal was posted on 2026-04-23.
+This machine learning engineer position at PayPal was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

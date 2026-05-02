@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New Jersey, US |
+| Location | Englewood Cliffs, New Jersey, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000121795372-sr-eq-research-analyst-ai-platform) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000122669869-sr-eq-research-analyst-ai-platform) |
 
 ## About This Role
 
-This ai / ml research position at Versant was posted on 2026-04-20.
+This ai / ml research position at Versant was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Paralleldomain](https://scoutify.ai/companies/paralleldomain?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Karlsruhe, Baden-Wurttemberg, Germany |
 | Category | Data Engineer |
 | Posted | 2026-01-12 |
-| Apply | [View on company site](https://jobs.lever.co/paralleldomain/2ed52646-3073-472d-b593-f6095326e5f0) |
+| Apply | [View on company site](https://jobs.lever.co/paralleldomain/2fecbeb8-6281-44a0-9455-1d3dbf8fd477) |
 
 ## About This Role
 
