@@ -1,16 +1,16 @@
-# AI Engineer at ShyftLabs
+# Senior AI/ML Engineer at N-iX
 
 | Field | Details |
 |-------|---------|
-| Company | [ShyftLabs](https://scoutify.ai/companies/shyftlabs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | AI / LLM Engineer |
+| Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Ukraine |
+| Category | Machine Learning Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.lever.co/shyftlabs/418986b9-005c-42e0-b2af-cebad636893a) |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4847591101?gh_jid=4847591101) |
 
 ## About This Role
 
-This ai / llm engineer position at ShyftLabs was posted on 2026-04-27.
+This machine learning engineer position at N-iX was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

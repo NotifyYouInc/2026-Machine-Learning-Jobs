@@ -1,16 +1,16 @@
-# AI Engineer at ShyftLabs
+# AI Engineer at dunnhumby
 
 | Field | Details |
 |-------|---------|
-| Company | [ShyftLabs](https://scoutify.ai/companies/shyftlabs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.lever.co/shyftlabs/418986b9-005c-42e0-b2af-cebad636893a) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7685633003) |
 
 ## About This Role
 
-This ai / llm engineer position at ShyftLabs was posted on 2026-04-27.
+This ai / llm engineer position at dunnhumby was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# AI Engineer at ShyftLabs
+# AI Back End Engineer at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [ShyftLabs](https://scoutify.ai/companies/shyftlabs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.lever.co/shyftlabs/418986b9-005c-42e0-b2af-cebad636893a) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110507) |
 
 ## About This Role
 
-This ai / llm engineer position at ShyftLabs was posted on 2026-04-27.
+This ai / llm engineer position at IBM was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

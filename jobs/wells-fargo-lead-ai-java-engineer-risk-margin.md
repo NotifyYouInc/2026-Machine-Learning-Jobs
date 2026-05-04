@@ -1,16 +1,16 @@
-# AI Engineer at ShyftLabs
+# Lead AI Java Engineer –Risk & Margin at Wells Fargo
 
 | Field | Details |
 |-------|---------|
-| Company | [ShyftLabs](https://scoutify.ai/companies/shyftlabs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.lever.co/shyftlabs/418986b9-005c-42e0-b2af-cebad636893a) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ISELIN-NJ/Lead-AI-Java-Engineer--Risk---Margin_R-540067) |
 
 ## About This Role
 
-This ai / llm engineer position at ShyftLabs was posted on 2026-04-27.
+This ai / llm engineer position at Wells Fargo was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

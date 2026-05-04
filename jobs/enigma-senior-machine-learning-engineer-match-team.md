@@ -1,16 +1,16 @@
-# Applied AI Engineer at Unframe
+# Senior Machine Learning Engineer, Match Team at Enigma
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Israel |
-| Category | AI / LLM Engineer |
+| Company | [Enigma](https://scoutify.ai/companies/enigma?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
 | Posted | 2026-04-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4850420101) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/enigmaio/jobs/7807194) |
 
 ## About This Role
 
-This ai / llm engineer position at Unframe was posted on 2026-04-26.
+This machine learning engineer position at Enigma was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

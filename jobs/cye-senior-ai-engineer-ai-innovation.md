@@ -1,16 +1,16 @@
-# AI Engineer at ShyftLabs
+# Senior AI Engineer (AI & Innovation) at CYE
 
 | Field | Details |
 |-------|---------|
-| Company | [ShyftLabs](https://scoutify.ai/companies/shyftlabs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Company | [CYE](https://scoutify.ai/companies/cye?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Herzliya, Tel Aviv, Israel |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.lever.co/shyftlabs/418986b9-005c-42e0-b2af-cebad636893a) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://jobs.lever.co/CYE/ba6f695a-5512-4fcb-bcb0-aa7d42c9c6c4) |
 
 ## About This Role
 
-This ai / llm engineer position at ShyftLabs was posted on 2026-04-27.
+This ai / llm engineer position at CYE was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 
