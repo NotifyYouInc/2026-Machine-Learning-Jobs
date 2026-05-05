@@ -5,12 +5,12 @@
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000122377679-ai-engineer-fm) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000123126979-ai-engineer-fm) |
 
 ## About This Role
 
-This ai / llm engineer position at QIMA was posted on 2026-04-23.
+This ai / llm engineer position at QIMA was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

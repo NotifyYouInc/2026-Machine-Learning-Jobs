@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bentonville, Arkansas, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2433680) |
+| Location | Sunnyvale, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior--Data-Scientist_R-2468946-1) |
 
 ## About This Role
 
-This ai / ml research position at Walmart was posted on 2026-04-03.
+This machine learning engineer position at Walmart was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

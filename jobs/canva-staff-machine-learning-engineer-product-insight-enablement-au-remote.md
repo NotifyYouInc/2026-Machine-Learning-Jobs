@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001021122-staff-machine-learning-engineer-product-insight-enablement-au-remote) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001028463-staff-machine-learning-engineer-product-insight-enablement-au-remote) |
 
 ## About This Role
 
-This machine learning engineer position at Canva was posted on 2026-04-23.
+This machine learning engineer position at Canva was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

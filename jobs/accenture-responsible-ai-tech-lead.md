@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Pune, Maharashtra, India |
 | Category | AI / ML Research |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Responsible-AI-Tech-Lead_ATCI-5493305-S2007085) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Responsible-AI-Tech-Lead_ATCI-5235076-S2019013) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-04-22.
+This ai / ml research position at Accenture was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

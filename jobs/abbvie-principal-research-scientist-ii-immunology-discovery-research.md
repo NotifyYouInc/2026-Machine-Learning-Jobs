@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Worcester, Massachusetts, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012769136-principal-research-scientist-ii-immunology-discovery-research) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012836169-principal-research-scientist-ii-immunology-discovery-research) |
 
 ## About This Role
 
-This ai / ml research position at AbbVie was posted on 2026-04-22.
+This ai / ml research position at AbbVie was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

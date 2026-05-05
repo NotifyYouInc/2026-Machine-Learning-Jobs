@@ -1,16 +1,16 @@
-# Data Scientist (AI Deployment) at Braze
+# Data Scientist, AI Deployment at Braze
 
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Brazil |
+| Location | Toronto, Ontario, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7641274?gh_jid=7641274) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7833776?gh_jid=7833776) |
 
 ## About This Role
 
-This machine learning engineer position at Braze was posted on 2026-03-02.
+This machine learning engineer position at Braze was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

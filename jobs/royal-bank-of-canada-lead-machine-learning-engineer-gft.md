@@ -1,16 +1,16 @@
-# Lead Machine Learning Engineer, GFT at Royal Bank of Canada
+# Lead, Machine Learning Engineer, GFT at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Machine-Learning-Engineer--GFT_R-0000167413-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/Lead--Machine-Learning-Engineer--GFT_R-0000169006) |
 
 ## About This Role
 
-This machine learning engineer position at Royal Bank of Canada was posted on 2026-04-20.
+This machine learning engineer position at Royal Bank of Canada was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

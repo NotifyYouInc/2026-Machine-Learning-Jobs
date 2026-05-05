@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108868275-senior-staff-machine-learning-engineer-gai-search-platform-moveworks) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123268654-senior-staff-machine-learning-engineer-gai-search-platform-moveworks) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-11.
+This ai / llm engineer position at ServiceNow was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Clifford Chance](https://scoutify.ai/companies/cliffordchance?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000116549397-ai-engineer-manager-level) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000123137755-ai-engineer-manager-level) |
 
 ## About This Role
 
-This ai / llm engineer position at Clifford Chance was posted on 2026-03-25.
+This ai / llm engineer position at Clifford Chance was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / ML Research |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8497095002) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8509545002) |
 
 ## About This Role
 
-This ai / ml research position at Workato was posted on 2026-04-17.
+This ai / ml research position at Workato was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

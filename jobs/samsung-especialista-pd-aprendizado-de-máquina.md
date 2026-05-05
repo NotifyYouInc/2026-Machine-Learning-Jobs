@@ -5,12 +5,12 @@
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Campinas, São Paulo, Brazil |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Parque-dos-Resedas-Campinas-Brazil/Especialista-P-D---Aprendizado-de-Mquina_R116280) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Parque-dos-Resedas-Campinas-Brazil/Especialista-P-D---Aprendizado-de-Mquina_R116150-1) |
 
 ## About This Role
 
-This machine learning engineer position at Samsung was posted on 2026-04-13.
+This machine learning engineer position at Samsung was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
