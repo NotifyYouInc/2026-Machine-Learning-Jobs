@@ -5,12 +5,12 @@
 | Company | [Photoroom](https://scoutify.ai/companies/photoroom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | AI / ML Research |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/photoroom/84e389f2-846f-4f96-9765-c6a6d4b6830f) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/photoroom/2f9452fa-7756-4a6a-89a5-1b5264799cc7) |
 
 ## About This Role
 
-This ai / ml research position at Photoroom was posted on 2026-03-09.
+This ai / ml research position at Photoroom was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Poland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4847996101?gh_jid=4847996101) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4852949101?gh_jid=4852949101) |
 
 ## About This Role
 
-This ai / llm engineer position at N-iX was posted on 2026-04-23.
+This ai / llm engineer position at N-iX was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

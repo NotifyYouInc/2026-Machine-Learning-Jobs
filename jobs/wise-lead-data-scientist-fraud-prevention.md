@@ -1,16 +1,16 @@
-# Lead Data Scientist - Fraud Prevention at WISE
+# Lead Data Scientist - Fraud Prevention  at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Trust & Safety |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000112699033-lead-data-scientist-fraud-prevention) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000123409759-lead-data-scientist-fraud-prevention) |
 
 ## About This Role
 
-This trust & safety position at WISE was posted on 2026-03-04.
+This trust & safety position at WISE was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

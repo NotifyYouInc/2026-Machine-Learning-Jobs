@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000107449725-senior-applied-data-scientist) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000123384160-senior-applied-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at SIA was posted on 2026-02-05.
+This machine learning engineer position at SIA was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Reutlingen, Baden-Wurttemberg, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121747937-praktikum-in-der-temperaturschatzung-mit-neuronalen-netzen-im-ebike) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123464226-praktikum-in-der-temperaturschatzung-mit-neuronalen-netzen-im-ebike) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-04-20.
+This machine learning engineer position at Robert Bosch was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

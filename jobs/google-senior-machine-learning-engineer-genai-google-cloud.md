@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/127398293234688710-senior-machine-learning-engineer-genai-google-cloud?sort_by=date&page=1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcD2GdGLqwjt9MRZvXvptV7eNguhwaGOJCsXrCaPojuJEjsACxwdTHoh2-QoERUhOy0E6YMoJhV3go0BD51LKvwQ3h0Fv6Bkr1teEofVSmYjfwBCahuoUzJbJ1T4bw%3D%3D_V2&loc=PL&title=Senior+Machine+Learning+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-09.
+This ai / llm engineer position at Google was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

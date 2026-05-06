@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5114450007) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5049434007) |
 
 ## About This Role
 
-This software engineer position at Zscaler was posted on 2026-04-20.
+This machine learning engineer position at Zscaler was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

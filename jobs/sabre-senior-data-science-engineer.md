@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Krakow-Maopolskie-Poland/Senior-Data-Science-Engineer_JR107682) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Mexico-City-Mexico-City-Mexico/Senior-Data-Science-Engineer_JR107833) |
 
 ## About This Role
 
-This machine learning engineer position at Sabre was posted on 2026-04-17.
+This machine learning engineer position at Sabre was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

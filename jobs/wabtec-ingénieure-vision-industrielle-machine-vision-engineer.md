@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012657212-ingenieure-vision-industrielle-machine-vision-engineer) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012857146-ingenieure-vision-industrielle-machine-vision-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Wabtec was posted on 2026-04-17.
+This machine learning engineer position at Wabtec was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000953597-eg-tech-lead) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001031290-eg-tech-lead) |
 
 ## About This Role
 
-This software engineer position at NCS was posted on 2026-03-24.
+This technical & solutions architect position at NCS was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

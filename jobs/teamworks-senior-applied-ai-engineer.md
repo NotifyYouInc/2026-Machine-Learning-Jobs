@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teamworks](https://scoutify.ai/companies/teamworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Noblesville, Indiana, United States |
+| Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/teamworks/95037952-be0c-4261-9f7a-554d26ff7482) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/teamworks/2564b994-e9ce-4aa1-8400-9f143c79b635) |
 
 ## About This Role
 
-This ai / llm engineer position at Teamworks was posted on 2026-04-15.
+This ai / llm engineer position at Teamworks was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

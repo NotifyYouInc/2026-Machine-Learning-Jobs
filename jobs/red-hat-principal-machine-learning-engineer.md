@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Principal-Machine-Learning-Engineer_R-053702-1) |
+| Location | Raleigh, North Carolina, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Principal-Machine-Learning-Engineer_R-053077) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-02-11.
+This machine learning engineer position at Red Hat was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

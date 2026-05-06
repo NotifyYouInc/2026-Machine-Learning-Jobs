@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Awetomaton](https://scoutify.ai/companies/awetomaton?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boulder, Colorado, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/awetomaton/jobs/5108367008) |
+| Location | Beavercreek, Ohio, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/awetomaton/jobs/5176159008) |
 
 ## About This Role
 
-This software engineer position at Awetomaton was posted on 2026-02-04.
+This machine learning engineer position at Awetomaton was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

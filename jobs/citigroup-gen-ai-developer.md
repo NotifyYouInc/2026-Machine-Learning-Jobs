@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Gen-AI-Developer_26943564) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Gen-AI-Developer_26931822) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-03-09.
+This ai / llm engineer position at Citigroup was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

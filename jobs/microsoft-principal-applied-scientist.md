@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Barcelona, Catalonia, Spain |
 | Category | AI / ML Research |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556642414) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556857549) |
 
 ## About This Role
 
-This ai / ml research position at Microsoft was posted on 2026-04-16.
+This ai / ml research position at Microsoft was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

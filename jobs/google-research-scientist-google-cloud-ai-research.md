@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckadB6ynVKvx0ALhlnQVsbXjLinDRsfq-9ZDQo7V0j9eNEjsACxwdTO3vnQzSBzw4lSlskotfYIYpiWD2NSjk-WcoY6jpVZUCuyL-Yeq0igRzZT771Kvb3tgp8Hp5Kg%3D%3D_V2&loc=US&title=Research+Scientist) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ6I6yqY_ZSKl22EUWuOiifzq2QvVwlr8CLWKdLpoRo5EjsACxwdTAcRSgP8zBgM8lCNQORRcXdKKnlNbNKvd3IdduaEjpXrLJJFyOL7LnYMbRO3Zbz5mEBGGXK7hA%3D%3D_V2&loc=US&title=Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-04-20.
+This ai / ml research position at Google was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
