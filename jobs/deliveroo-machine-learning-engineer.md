@@ -5,12 +5,12 @@
 | Company | [Deliveroo](https://scoutify.ai/companies/deliveroo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/deliveroo/b6fe663b-93f1-42cf-b2ed-36b8e887c785) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deliveroo/4e9da2a7-a8ef-4d58-a55b-89557af35e90) |
 
 ## About This Role
 
-This machine learning engineer position at Deliveroo was posted on 2026-02-25.
+This machine learning engineer position at Deliveroo was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

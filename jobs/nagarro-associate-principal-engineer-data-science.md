@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000113104879-associate-principal-engineer-data-science) |
+| Location | India |
+| Category | Software Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000123620284-associate-principal-engineer-data-science) |
 
 ## About This Role
 
-This ai / llm engineer position at Nagarro was posted on 2026-03-06.
+This software engineer position at Nagarro was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

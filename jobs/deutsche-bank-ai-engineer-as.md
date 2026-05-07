@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Testing-Automation--AS_R0416898) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/AI-Engineer--AS_R0434053) |
 
 ## About This Role
 
-This ai / llm engineer position at Deutsche Bank was posted on 2026-04-09.
+This ai / llm engineer position at Deutsche Bank was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | AI / ML Research |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108441) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112448) |
 
 ## About This Role
 
-This ai / ml research position at IBM was posted on 2026-04-13.
+This ai / ml research position at IBM was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

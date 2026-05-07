@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Irving, Texas, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Gen-AI-ML-Engineer--VP_26950092) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Gen-AI-ML-Engineer--AVP_26956622) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-04-01.
+This machine learning engineer position at Citigroup was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Data Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/AI---ML-Engineer_ATCI-5284994-S1931506-1) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Data-Engineer_ATCI-4437916-S1733125-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-24.
+This machine learning engineer position at Accenture was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

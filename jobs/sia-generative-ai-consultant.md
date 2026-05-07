@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000122320259-generative-ai-consultant) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000123752008-generative-ai-consultant) |
 
 ## About This Role
 
-This ai / llm engineer position at SIA was posted on 2026-04-22.
+This ai / llm engineer position at SIA was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

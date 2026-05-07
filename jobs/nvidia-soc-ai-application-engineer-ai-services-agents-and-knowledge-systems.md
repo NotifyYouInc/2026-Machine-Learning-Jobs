@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | Shanghai, Shanghai, China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/SOC-AI-Application-Engineer---AI-Services--Agents-and-Knowledge-Systems_JR2016498) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/SOC-AI-Application-Engineer---AI-Services--Agents-and-Knowledge-Systems_JR2017063) |
 
 ## About This Role
 
-This ai / llm engineer position at Nvidia was posted on 2026-04-16.
+This ai / llm engineer position at Nvidia was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

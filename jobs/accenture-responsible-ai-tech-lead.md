@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | AI / ML Research |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Responsible-AI-Tech-Lead_ATCI-5235076-S2019013) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Responsible-AI-Tech-Lead_ATCI-5271861-S2019488-1) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-04-27.
+This ai / ml research position at Accenture was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

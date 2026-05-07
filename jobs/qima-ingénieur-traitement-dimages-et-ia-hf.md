@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | AI / ML Research |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000118329663-ingenieur-traitement-dimages-et-ia-hf) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000123677914-ingenieur-traitement-dimages-et-ia-hf) |
 
 ## About This Role
 
-This ai / ml research position at QIMA was posted on 2026-04-02.
+This machine learning engineer position at QIMA was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

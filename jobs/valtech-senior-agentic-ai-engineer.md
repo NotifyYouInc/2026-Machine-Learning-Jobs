@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Argentina |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4848056101) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4855083101) |
 
 ## About This Role
 
-This ai / llm engineer position at Valtech was posted on 2026-04-22.
+This ai / llm engineer position at Valtech was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

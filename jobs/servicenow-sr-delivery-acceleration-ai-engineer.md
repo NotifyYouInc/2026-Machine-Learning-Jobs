@@ -1,16 +1,16 @@
-#  Sr. Delivery Acceleration AI Engineer at ServiceNow
+# Sr. Delivery Acceleration AI Engineer at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Austin, Texas, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000121810284-sr-delivery-acceleration-ai-engineer) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123783779-sr-delivery-acceleration-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-04-20.
+This ai / llm engineer position at ServiceNow was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

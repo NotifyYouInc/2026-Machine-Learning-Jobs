@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boothwyn, Pennsylvania, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122521859-energy-market-optimization-engineer) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123769930-energy-market-optimization-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Veolia was posted on 2026-04-23.
+This machine learning engineer position at Veolia was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lexington, Kentucky, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Lexington-KY/Computer-Vision-and-Artificial-Intelligence-Research-Engineer_J2440336) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Lexington-KY/Computer-Vision-and-Artificial-Intelligence-Research-Engineer_J2448378) |
 
 ## About This Role
 
-This ai / ml research position at Jabil was posted on 2026-03-24.
+This ai / ml research position at Jabil was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
