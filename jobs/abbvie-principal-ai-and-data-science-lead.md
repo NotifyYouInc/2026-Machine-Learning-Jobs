@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New Jersey, US |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012273566-principal-ai-and-data-science-lead) |
+| Location | North Chicago, Illinois, United States |
+| Category | AI / ML Research |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012909140-principal-ai-and-data-science-lead) |
 
 ## About This Role
 
-This ai / llm engineer position at AbbVie was posted on 2026-03-23.
+This ai / ml research position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012810524-senior-principal-research-scientist-computational-drug-discovery-optimization-team-lead) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012924307-senior-principal-research-scientist-computational-drug-discovery-optimization-team-lead) |
 
 ## About This Role
 
-This ai / ml research position at AbbVie was posted on 2026-04-24.
+This ai / ml research position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

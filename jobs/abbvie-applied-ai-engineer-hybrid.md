@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Chicago, Illinois, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012794542-applied-ai-engineer-hybrid) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012905906-applied-ai-engineer-hybrid) |
 
 ## About This Role
 
-This ai / llm engineer position at AbbVie was posted on 2026-04-23.
+This ai / llm engineer position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

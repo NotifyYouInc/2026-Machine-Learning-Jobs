@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Location | United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a534aafa-4739-4937-814f-cfbb2f5788ae) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/5a595e3b-a7da-41d7-bba5-a15e92716f16) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-11.
+This software engineer position at Bjak was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

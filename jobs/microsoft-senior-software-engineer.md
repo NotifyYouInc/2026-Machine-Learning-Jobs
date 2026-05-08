@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556857277) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556861700) |
 
 ## About This Role
 
-This ai / llm engineer position at Microsoft was posted on 2026-04-09.
+This software engineer position at Microsoft was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Senior-Python-Java-Engineer---AI-ML-Platforms--AVP_R0419912) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Senior-Python-Java-Engineer---AI-ML-Platforms--AVP_R0434029-1) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-02-20.
+This software engineer position at Deutsche Bank was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

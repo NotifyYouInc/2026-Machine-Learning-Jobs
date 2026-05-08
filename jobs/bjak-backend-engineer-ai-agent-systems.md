@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Location | United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/bfc5684c-184e-4bbf-863e-6c729c461e97) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/2075e624-9a00-485a-ae7f-ceba1d5cae4c) |
 
 ## About This Role
 
-This ai / llm engineer position at Bjak was posted on 2026-04-11.
+This ai / llm engineer position at Bjak was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

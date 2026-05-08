@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medeloop](https://scoutify.ai/companies/medeloop?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/medeloop/jobs/4218700009) |
+| Location | San Francisco, California, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/medeloop/jobs/4236722009) |
 
 ## About This Role
 
-This machine learning engineer position at Medeloop was posted on 2026-04-22.
+This ai / llm engineer position at Medeloop was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

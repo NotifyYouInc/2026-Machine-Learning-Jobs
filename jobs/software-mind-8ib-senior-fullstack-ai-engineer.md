@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000123319177-8ib-senior-fullstack-ai-engineer) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000123836497-8ib-senior-fullstack-ai-engineer) |
 
 ## About This Role
 
-This software engineer position at Software Mind was posted on 2026-04-28.
+This software engineer position at Software Mind was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Location | United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/56f522c4-b903-45ea-bb08-952b74641b56) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8a4051ed-ff24-4a2b-b0a4-b44c8af2e814) |
 
 ## About This Role
 
-This machine learning engineer position at Bjak was posted on 2026-04-11.
+This machine learning engineer position at Bjak was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

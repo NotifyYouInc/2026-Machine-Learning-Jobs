@@ -1,16 +1,16 @@
-# Senior Data Platform Developer, AI Platform at Geotab
+# Senior Data Platform Developer - AI Platform at Geotab
 
 | Field | Details |
 |-------|---------|
 | Company | [Geotab](https://scoutify.ai/companies/geotab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Oakville, Ontario, Canada |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/geotab/jobs/4822604008) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/geotab/jobs/5200044008) |
 
 ## About This Role
 
-This data engineer position at Geotab was posted on 2026-04-08.
+This data engineer position at Geotab was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

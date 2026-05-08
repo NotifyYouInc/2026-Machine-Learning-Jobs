@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Jose, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | AI / ML Research |
 | Posted | 2026-04-29 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7633597487467776309/detail) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7633601975876880645/detail) |
 
 ## About This Role
 

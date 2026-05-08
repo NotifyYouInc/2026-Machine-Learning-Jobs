@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Houston, Texas, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-LONDON-245-HAMMERSMITH-ROAD/AI-Engineer_R163613-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON---6760-Concord-Park/AI-Engineer_R163615-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Baker Hughes was posted on 2026-04-28.
+This ai / llm engineer position at Baker Hughes was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

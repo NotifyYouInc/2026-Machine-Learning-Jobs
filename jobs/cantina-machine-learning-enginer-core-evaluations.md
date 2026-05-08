@@ -5,12 +5,12 @@
 | Company | [Cantina](https://scoutify.ai/companies/cantina?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/cantina/7baafbb6-0c57-4b0f-b5dd-9ec568b985b4) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cantina/7be9f110-9fc9-47ff-84e8-d3869ff76f73) |
 
 ## About This Role
 
-This machine learning engineer position at Cantina was posted on 2026-04-28.
+This machine learning engineer position at Cantina was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

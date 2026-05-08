@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | China |
+| Location | United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c48a8c9f-b7ca-4c7d-ad90-d8964d27c52f) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/6a3eb32c-48b9-421a-8f2f-368013c6f77b) |
 
 ## About This Role
 
-This ai / llm engineer position at Bjak was posted on 2026-04-15.
+This ai / llm engineer position at Bjak was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

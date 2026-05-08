@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000117605787-senior-ai-automation-engineer-6-years-generative-ai-agentic-ai-llms-python-apis-mcp) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000123929824-senior-ai-automation-engineer-6-years-generative-ai-agentic-ai-llms-python-apis-mcp) |
 
 ## About This Role
 
-This ai / llm engineer position at Western Digital was posted on 2026-03-30.
+This ai / llm engineer position at Western Digital was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

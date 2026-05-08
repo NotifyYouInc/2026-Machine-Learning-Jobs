@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123381010-intern-multimodal-sensing-for-smart-home-applications) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123578836-intern-multimodal-sensing-for-smart-home-applications) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-04-28.
+This machine learning engineer position at Robert Bosch was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

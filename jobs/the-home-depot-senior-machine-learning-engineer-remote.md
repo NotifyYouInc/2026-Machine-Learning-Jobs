@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Georgia, US |
+| Location | Florida, US |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Senior-Machine-Learning-Engineer--Remote-_Req169235) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/FLORIDA---VIRTUAL---FL01/Senior-Machine-Learning-Engineer--Remote-_Req178702) |
 
 ## About This Role
 
-This machine learning engineer position at The Home Depot was posted on 2026-02-25.
+This machine learning engineer position at The Home Depot was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
