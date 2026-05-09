@@ -6,7 +6,7 @@
 | Location | Renningen, Baden-Wurttemberg, Germany |
 | Category | AI / ML Research |
 | Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123608789-research-engineer-neuro-symbolic-ai-mulitmodal-assistant-systems-fmdiv) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123753820-research-engineer-neuro-symbolic-ai-mulitmodal-assistant-systems-fmdiv) |
 
 ## About This Role
 

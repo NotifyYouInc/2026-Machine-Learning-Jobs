@@ -5,12 +5,12 @@
 | Company | [Granum](https://scoutify.ai/companies/granum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Canada |
 | Category | AI / ML Research |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/granum/jobs/8497993002) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/granum/jobs/8533249002) |
 
 ## About This Role
 
-This ai / ml research position at Granum was posted on 2026-04-08.
+This ai / ml research position at Granum was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

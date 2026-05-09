@@ -5,12 +5,12 @@
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Seattle-WA/Research-Intern-Fellow_R0033609) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Seattle-WA/Research-Intern-Fellow_R0034250) |
 
 ## About This Role
 
-This ai / ml research position at Epiqsystems was posted on 2026-03-04.
+This ai / ml research position at Epiqsystems was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

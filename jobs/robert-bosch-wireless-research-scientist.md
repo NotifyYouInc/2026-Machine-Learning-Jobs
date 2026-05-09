@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117966438-wireless-research-scientist) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000124172949-wireless-research-scientist) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-03-31.
+This ai / ml research position at Robert Bosch was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

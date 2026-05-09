@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Applied-Scientist_P749233) |
+| Category | AI / ML Research |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Applied-Scientist_P750046-1) |
 
 ## About This Role
 
-This machine learning engineer position at Zillow was posted on 2026-02-25.
+This ai / ml research position at Zillow was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
