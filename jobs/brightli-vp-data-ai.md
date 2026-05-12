@@ -1,16 +1,16 @@
-# Responsible AI Tech Lead at Accenture
+# VP Data & AI at Brightli
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Brightli](https://scoutify.ai/companies/brightli?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Springfield, Missouri, United States |
 | Category | AI / ML Research |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Responsible-AI-Tech-Lead_ATCI-5416270-S1969747-1) |
+| Apply | [View on company site](https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Springfield-MO/VP-Data---AI_R-24239) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-05-05.
+This ai / ml research position at Brightli was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

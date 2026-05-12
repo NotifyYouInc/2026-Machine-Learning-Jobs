@@ -1,16 +1,16 @@
-# AI Transformation Intern at QIMA
+# Senior Machine Learning Engineer, GenAI Security at Reddit
 
 | Field | Details |
 |-------|---------|
-| Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | AI / ML Research |
+| Company | [Reddit](https://scoutify.ai/companies/reddit?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
+| Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000124564989-ai-transformation-intern) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/7891887) |
 
 ## About This Role
 
-This ai / ml research position at QIMA was posted on 2026-05-05.
+This security engineer position at Reddit was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

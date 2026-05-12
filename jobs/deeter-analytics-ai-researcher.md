@@ -1,16 +1,16 @@
-# Senior AI Developer at Santex
+# AI Researcher at Deeter Analytics
 
 | Field | Details |
 |-------|---------|
-| Company | [Santex](https://scoutify.ai/companies/santex?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Córdoba, Cordoba, Argentina |
+| Company | [Deeter Analytics](https://scoutify.ai/companies/deeter-analytics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Not specified |
 | Category | AI / ML Research |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/santex/jobs/8392531002) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deeter-analytics/1798b0b5-fb0d-4035-8621-aaf34644b2e2) |
 
 ## About This Role
 
-This ai / ml research position at Santex was posted on 2026-05-04.
+This ai / ml research position at Deeter Analytics was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

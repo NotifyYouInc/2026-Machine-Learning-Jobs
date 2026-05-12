@@ -1,16 +1,16 @@
-# Senior AI Developer at Santex
+# Senior AI Developer at Osedea
 
 | Field | Details |
 |-------|---------|
-| Company | [Santex](https://scoutify.ai/companies/santex?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Córdoba, Cordoba, Argentina |
+| Company | [Osedea](https://scoutify.ai/companies/osedea?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/santex/jobs/8392531002) |
+| Posted | 2026-01-23 |
+| Apply | [View on company site](https://jobs.lever.co/osedea/5ae3c310-6399-4a73-9b12-0c72e9808eed) |
 
 ## About This Role
 
-This ai / ml research position at Santex was posted on 2026-05-04.
+This ai / ml research position at Osedea was posted on 2026-01-23.
 
 ## Get Real-Time Alerts
 

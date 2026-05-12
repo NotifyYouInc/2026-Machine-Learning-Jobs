@@ -1,16 +1,16 @@
-# Senior Gen AI Developer at Citigroup
+# Senior AI/Automation Software Engineer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Software Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Gen-AI-Developer_26955870) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Senior-AI-Automation-Software-Engineer_26957570) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-05-05.
+This software engineer position at Citigroup was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

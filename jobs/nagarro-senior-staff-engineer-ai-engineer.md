@@ -1,16 +1,16 @@
-# Senior AI Developer at Santex
+# Senior Staff Engineer - AI Engineer at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [Santex](https://scoutify.ai/companies/santex?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Córdoba, Cordoba, Argentina |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | AI / ML Research |
 | Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/santex/jobs/8392531002) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000124520810-senior-staff-engineer-ai-engineer) |
 
 ## About This Role
 
-This ai / ml research position at Santex was posted on 2026-05-04.
+This ai / ml research position at Nagarro was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

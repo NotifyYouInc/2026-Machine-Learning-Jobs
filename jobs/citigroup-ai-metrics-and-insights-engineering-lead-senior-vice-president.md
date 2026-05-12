@@ -1,16 +1,16 @@
-# Senior Gen AI Developer at Citigroup
+# AI, Metrics and Insights Engineering Lead - Senior Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Gen-AI-Developer_26955870) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/AI--Metrics-and-Insights-Engineering-Lead---Senior-Vice-President_26957862) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-05-05.
+This ai / ml research position at Citigroup was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

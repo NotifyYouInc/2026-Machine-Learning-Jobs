@@ -1,16 +1,16 @@
-# Sr Machine Learning Engineer at Disney
+# Summer Internship, Image Processor Intern at Logitech
 
 | Field | Details |
 |-------|---------|
-| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Company | [Logitech](https://scoutify.ai/companies/logitech?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Machine Learning Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Sr-Machine-Learning-Engineer_10147760) |
+| Apply | [View on company site](https://logitech.wd5.myworkdayjobs.com/logitech/job/Hsinchu-Taiwan/Summer-Internship--Image-Processor-Intern_146091) |
 
 ## About This Role
 
-This machine learning engineer position at Disney was posted on 2026-05-05.
+This machine learning engineer position at Logitech was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

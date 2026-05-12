@@ -1,16 +1,16 @@
-# Agentic-Workflow MLE at Prophecy
+# Senior Staff AI Engineer at XPENG
 
 | Field | Details |
 |-------|---------|
-| Company | [Prophecy](https://scoutify.ai/companies/prophecy?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [XPENG](https://scoutify.ai/companies/xpeng?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Santa Clara, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/prophecysimpledatalabs/jobs/5125696007) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xpengmotors/jobs/8535404002) |
 
 ## About This Role
 
-This ai / llm engineer position at Prophecy was posted on 2026-05-04.
+This ai / llm engineer position at XPENG was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

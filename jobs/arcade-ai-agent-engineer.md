@@ -1,16 +1,16 @@
-# Agentic-Workflow MLE at Prophecy
+# Agent Engineer at Arcade Ai
 
 | Field | Details |
 |-------|---------|
-| Company | [Prophecy](https://scoutify.ai/companies/prophecy?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Arcade Ai](https://scoutify.ai/companies/arcade-ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/prophecysimpledatalabs/jobs/5125696007) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/arcade-ai/380c2162-63ea-4dfb-a6f0-495785c284dd) |
 
 ## About This Role
 
-This ai / llm engineer position at Prophecy was posted on 2026-05-04.
+This ai / llm engineer position at Arcade Ai was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

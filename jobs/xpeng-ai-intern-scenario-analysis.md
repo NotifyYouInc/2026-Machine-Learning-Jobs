@@ -1,16 +1,16 @@
-# Responsible AI Tech Lead at Accenture
+# AI Intern – Scenario Analysis at XPENG
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [XPENG](https://scoutify.ai/companies/xpeng?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Santa Clara, California, United States |
 | Category | AI / ML Research |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Responsible-AI-Tech-Lead_ATCI-5416270-S1969747-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xpengmotors/jobs/8535406002) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-05-05.
+This ai / ml research position at XPENG was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

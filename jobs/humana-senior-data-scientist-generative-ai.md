@@ -1,16 +1,16 @@
-# Responsible AI Tech Lead at Accenture
+# Senior Data Scientist – Generative AI at Humana
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | AI / ML Research |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Responsible-AI-Tech-Lead_ATCI-5416270-S1969747-1) |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Data-Scientist---Generative-AI_R-414015) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-05-05.
+This ai / ml research position at Humana was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

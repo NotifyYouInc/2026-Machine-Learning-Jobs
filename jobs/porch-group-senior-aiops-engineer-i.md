@@ -1,16 +1,16 @@
-# AI Transformation Intern at QIMA
+# Senior AIOps Engineer I at Porch Group
 
 | Field | Details |
 |-------|---------|
-| Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | AI / ML Research |
+| Company | [Porch Group](https://scoutify.ai/companies/porch-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | India |
+| Category | DevOps Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000124564989-ai-transformation-intern) |
+| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/IN-Remote/Senior-AIOps-Engineer-I_JR101237) |
 
 ## About This Role
 
-This ai / ml research position at QIMA was posted on 2026-05-05.
+This devops engineer position at Porch Group was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

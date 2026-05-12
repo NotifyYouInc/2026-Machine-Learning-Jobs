@@ -1,16 +1,16 @@
-# Responsible AI Tech Lead at Accenture
+# Staff Engineer, Systems HPC at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | AI / ML Research |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Responsible-AI-Tech-Lead_ATCI-5416270-S1969747-1) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Engineer--Systems-HPC_JR100300-1) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-05-05.
+This ai / ml research position at Micron was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Machine Learning Engineer at Disney
+# Développeur.euse IA senior at Osedea
 
 | Field | Details |
 |-------|---------|
-| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Company | [Osedea](https://scoutify.ai/companies/osedea?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Sr-Machine-Learning-Engineer_10147760) |
+| Posted | 2026-01-23 |
+| Apply | [View on company site](https://jobs.lever.co/osedea/bed000ca-99f4-40f1-866e-383125eea98f) |
 
 ## About This Role
 
-This machine learning engineer position at Disney was posted on 2026-05-05.
+This machine learning engineer position at Osedea was posted on 2026-01-23.
 
 ## Get Real-Time Alerts
 
