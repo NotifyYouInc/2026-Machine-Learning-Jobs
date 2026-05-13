@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baselayer](https://scoutify.ai/companies/baselayer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/baselayer/jobs/5175946008) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/baselayer/jobs/5209309008) |
 
 ## About This Role
 
-This ai / llm engineer position at Baselayer was posted on 2026-04-03.
+This machine learning engineer position at Baselayer was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

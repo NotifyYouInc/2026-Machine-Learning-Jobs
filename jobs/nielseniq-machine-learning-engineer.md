@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vadodara, Gujarat, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113651649-machine-learning-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000124817359-machine-learning-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-03-10.
+This machine learning engineer position at NielsenIQ was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

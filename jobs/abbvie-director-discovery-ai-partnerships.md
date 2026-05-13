@@ -6,7 +6,7 @@
 | Location | South San Francisco, California, United States |
 | Category | Business Development |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012891446-director-discovery-ai-partnerships) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012913663-director-discovery-ai-partnerships) |
 
 ## About This Role
 

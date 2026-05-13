@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000121450356-ai-platform-owner) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000124646959-ai-platform-owner) |
 
 ## About This Role
 
-This ai / ml research position at Legal & General was posted on 2026-04-17.
+This ai / ml research position at Legal & General was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

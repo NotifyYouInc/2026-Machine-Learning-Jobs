@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bogota-Colombia/AI-Engineer_R26-2270) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/AI-Engineer_R26-2977-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Rockwell Automation was posted on 2026-04-10.
+This ai / llm engineer position at Rockwell Automation was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

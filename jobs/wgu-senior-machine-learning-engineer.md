@@ -5,12 +5,12 @@
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Raleigh-NC/Senior-Machine-Learning-Engineer_JR-025030) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Raleigh-NC/Senior-Machine-Learning-Engineer_JR-025031) |
 
 ## About This Role
 
-This machine learning engineer position at WGU was posted on 2026-04-28.
+This machine learning engineer position at WGU was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

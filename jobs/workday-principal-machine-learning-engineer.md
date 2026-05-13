@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Machine-Learning-Engineer_JR-0105191-1) |
+| Location | New York City, New York, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-NY-New-York-City/Principal-Machine-Learning-Engineer_JR-0106721) |
 
 ## About This Role
 
-This ai / llm engineer position at Workday was posted on 2026-04-02.
+This machine learning engineer position at Workday was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

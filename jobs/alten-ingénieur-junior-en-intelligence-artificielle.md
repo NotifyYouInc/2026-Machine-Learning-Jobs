@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Morocco |
+| Location | Fes, Fès-Meknès, Morocco |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000118372317-ingenieur-junior-en-intelligence-artificielle) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000124617896-ingenieur-junior-en-intelligence-artificielle) |
 
 ## About This Role
 
-This machine learning engineer position at ALTEN was posted on 2026-04-02.
+This machine learning engineer position at ALTEN was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

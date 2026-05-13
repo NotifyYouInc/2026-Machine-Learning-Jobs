@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Sydney-NSW-Australia/Generative-AI-Engineer_JR_044096-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/SG-Galaxis/Generative-AI-Engineer_JR_044095-1) |
 
 ## About This Role
 
-This ai / llm engineer position at ResMed was posted on 2026-03-17.
+This ai / llm engineer position at ResMed was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

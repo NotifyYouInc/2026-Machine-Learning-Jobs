@@ -6,7 +6,7 @@
 | Location | Irvine, California, United States |
 | Category | AI / ML Research |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012892626-principal-research-scientist-i) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012904649-principal-research-scientist-i) |
 
 ## About This Role
 

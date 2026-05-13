@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/AI-ML-Engineer_51578886) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/AI-ML-Engineer_51579274) |
 
 ## About This Role
 
-This machine learning engineer position at DXC Technology was posted on 2026-04-23.
+This machine learning engineer position at DXC Technology was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

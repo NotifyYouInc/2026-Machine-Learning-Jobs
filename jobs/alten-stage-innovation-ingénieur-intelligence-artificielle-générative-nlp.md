@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | Sèvres, Île-de-France, France |
 | Category | AI / ML Research |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000123878305-stage-innovation-ingenieur-intelligence-artificielle-generative-nlp) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000124603818-stage-innovation-ingenieur-intelligence-artificielle-generative-nlp) |
 
 ## About This Role
 
-This ai / ml research position at ALTEN was posted on 2026-04-30.
+This ai / ml research position at ALTEN was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

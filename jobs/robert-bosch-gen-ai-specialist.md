@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123418113-gen-ai-specialist) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000124607014-gen-ai-specialist) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-04-28.
+This ai / ml research position at Robert Bosch was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bellevue/AI-Engineer_R4039182-2) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/AI-Engineer_R4040595) |
 
 ## About This Role
 
-This ai / llm engineer position at GE HealthCare was posted on 2026-04-20.
+This ai / llm engineer position at GE HealthCare was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
