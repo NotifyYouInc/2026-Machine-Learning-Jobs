@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Machine-Learning-Research-Team-Lead_R-0000141357) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Machine-Learning-Research-Team-Lead_R-0000168762) |
 
 ## About This Role
 
-This ai / ml research position at Royal Bank of Canada was posted on 2026-03-13.
+This ai / ml research position at Royal Bank of Canada was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

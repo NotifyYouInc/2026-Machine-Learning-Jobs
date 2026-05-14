@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Brazil |
-| Category | AI / ML Research |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckd3oo27vprdmdC8GE8bqzac4OGW83MchWr2zzeFSEl1zEjsACxwdTBBog11gKrOLTOzv1OkaYUIb_8ew4r7Nz5kQV_lDfFaxA_vJe-_5HYOesHrqa2D4caNrfvYiBg%3D%3D_V2&loc=BR&title=Forward+Deployed+Engineer+III) |
+| Location | Tel Aviv, Tel Aviv, Israel |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTOxzBdR_fBJal_1OUX_92XzPvjy_v7QU59Ee8QWzI-uEjsACxwdTG94vCiJBDfzgjkck3iUp4MrWFIMt-AYVNct574otdEibZnNhCdFTTIW4-o3xseBEVw6oM2uLQ%3D%3D_V2&loc=IL&title=Forward+Deployed+Engineer+III) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-04-13.
+This ai / llm engineer position at Google was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

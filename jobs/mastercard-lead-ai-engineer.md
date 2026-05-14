@@ -1,16 +1,16 @@
-# Lead AI engineer at Mastercard
+# Lead AI Engineer at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Lead-AI-engineer_R-275718) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Lead-AI-Engineer_R-277460) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-04-17.
+This ai / llm engineer position at Mastercard was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

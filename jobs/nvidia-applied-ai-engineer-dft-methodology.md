@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Applied-AI-Engineer---DFT-Methodology_JR2016673) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Applied-AI-Engineer---DFT-Methodology_JR2017068) |
 
 ## About This Role
 
-This ai / llm engineer position at Nvidia was posted on 2026-04-20.
+This ai / llm engineer position at Nvidia was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

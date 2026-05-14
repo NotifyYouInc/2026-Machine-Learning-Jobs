@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7585066?gh_jid=7585066) |
+| Location | Lima, Lima Province, Peru |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7394902?gh_jid=7394902) |
 
 ## About This Role
 
-This software engineer position at Thoughtworks was posted on 2026-02-12.
+This machine learning engineer position at Thoughtworks was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

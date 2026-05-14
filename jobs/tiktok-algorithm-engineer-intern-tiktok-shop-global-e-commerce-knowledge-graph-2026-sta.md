@@ -1,16 +1,16 @@
-# Algorithm Engineer Intern (TikTok Shop Global E-Commerce, Knowledge Graph) - 2026 Start (BS/MS) at TikTok
+# Algorithm Engineer Intern (TikTok Shop Global E-Commerce, Knowledge Graph) - 2026 Start (PhD) at TikTok
 
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7532123012494051592/detail) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7532069808562374930/detail) |
 
 ## About This Role
 
-This machine learning engineer position at TikTok was posted on 2026-04-22.
+This machine learning engineer position at TikTok was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

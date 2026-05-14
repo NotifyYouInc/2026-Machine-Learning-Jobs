@@ -5,12 +5,12 @@
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/Senior-Machine-Learning-Engineer_R-053078) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/Senior-Machine-Learning-Engineer_R-057175-1) |
 
 ## About This Role
 
-This machine learning engineer position at Red Hat was posted on 2026-04-23.
+This machine learning engineer position at Red Hat was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

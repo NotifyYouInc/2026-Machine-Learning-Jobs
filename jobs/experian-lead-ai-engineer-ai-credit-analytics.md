@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123799899-lead-ai-engineer-ai-credit-analytics) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000124977259-lead-ai-engineer-ai-credit-analytics) |
 
 ## About This Role
 
-This ai / llm engineer position at Experian was posted on 2026-04-29.
+This ai / llm engineer position at Experian was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

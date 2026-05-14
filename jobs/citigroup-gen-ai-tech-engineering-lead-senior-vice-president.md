@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Gen-AI-Tech-Engineering-Lead---Senior-Vice-President_26947422) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Gen-AI-Tech-Engineering-Lead---Senior-Vice-President_26960797) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-03-30.
+This ai / llm engineer position at Citigroup was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

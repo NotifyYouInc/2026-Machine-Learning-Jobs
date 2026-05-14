@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Switzerland |
+| Location | Zürich, Zurich, Switzerland |
 | Category | AI / ML Research |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUgiaC4n7iTxcZnBuVly2zXxmFmDPOf1JMEvSe0y44-nEjsACxwdTIa2yRS5Q0XGwTu-YLgY6Bnc4McIAC5Xfn4MEeejIUftzm4yPBXyaSGrKaMeCUnzpgmw8ZX48A%3D%3D_V2&loc=CH&title=Research+Scientist) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVWsHrjp-mNtinWAakrMZfZJKWNFi_dANgEQ3N1aPWSBEjsACxwdTKZE8I6ZZZ6f5ykIS_ic4HywouFWlvUdUxO3QfqrMt1QJvDbzgVmDF1gNBlw8rEyZYiDM1XXig%3D%3D_V2&loc=CH&title=Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-04-15.
+This ai / ml research position at Google was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

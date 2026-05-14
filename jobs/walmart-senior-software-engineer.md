@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PW-II/SENIOR--SOFTWARE-ENGINEER_R-2387333-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/SENIOR--SOFTWARE-ENGINEER_R-2455178) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-06.
+This ai / llm engineer position at Walmart was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

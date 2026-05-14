@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000109927225-mlops-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000124823980-mlops-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Syngenta was posted on 2026-02-18.
+This devops engineer position at Syngenta was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
