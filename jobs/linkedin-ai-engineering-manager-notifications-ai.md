@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Mountain View, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116313967-ai-engineering-manager-notifications-ai) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000125228859-ai-engineering-manager-notifications-ai) |
 
 ## About This Role
 
-This engineering manager position at LinkedIn was posted on 2026-03-24.
+This engineering manager position at LinkedIn was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

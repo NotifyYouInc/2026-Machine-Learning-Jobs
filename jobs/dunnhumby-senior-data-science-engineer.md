@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7664445003) |
+| Category | Data Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7711358003) |
 
 ## About This Role
 
-This machine learning engineer position at dunnhumby was posted on 2026-04-03.
+This data engineer position at dunnhumby was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

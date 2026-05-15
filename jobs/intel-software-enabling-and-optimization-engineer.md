@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Malaysia |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Software-Enabling-and-Optimization-Engineer_JR0283451) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Software-Enabling-and-Optimization-Engineer_JR0283760) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-04-24.
+This software engineer position at Intel was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

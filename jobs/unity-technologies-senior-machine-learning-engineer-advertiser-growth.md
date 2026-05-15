@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unity Technologies](https://scoutify.ai/companies/unity-technologies?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://unity.com/careers/positions/7605880?gh_jid=7605880) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://unity.com/careers/positions/7904332?gh_jid=7904332) |
 
 ## About This Role
 
-This software engineer position at Unity Technologies was posted on 2026-04-24.
+This machine learning engineer position at Unity Technologies was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

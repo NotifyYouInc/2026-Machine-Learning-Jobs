@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Zagreb, Zagreb, Croatia |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/108435596011020998-senior-software-engineer-generative-ai-learnx?sort_by=date&page=1) |
+| Category | AI / ML Research |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU8qfchS5x0ttz9LQ3t3BniTEd5xcXlDl1f6GxMUo9m5EjsACxwdTICMwfAUR4veH0vuMi6SZQeFvXA8hFJGXjH36W5-TyfzJPeRISK6SHjo7LvNoacVl6RttCB6cQ%3D%3D_V2&loc=HR&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-12.
+This ai / ml research position at Google was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

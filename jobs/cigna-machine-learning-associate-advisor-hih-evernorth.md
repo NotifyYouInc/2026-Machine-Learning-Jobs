@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Advisor---HIH---Evernorth_26003827) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Advisor---HIH---Evernorth_26005672) |
 
 ## About This Role
 
-This machine learning engineer position at Cigna was posted on 2026-05-06.
+This machine learning engineer position at Cigna was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

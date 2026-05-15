@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/AI-Engineer_J00176125-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CAN---Montreal/AI-Engineer_J00176904) |
 
 ## About This Role
 
-This ai / llm engineer position at Equifax was posted on 2026-04-02.
+This ai / llm engineer position at Equifax was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parloa](https://scoutify.ai/companies/parloa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/parloa/jobs/4785260101) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/parloa/jobs/4861871101) |
 
 ## About This Role
 
-This ai / ml research position at Parloa was posted on 2026-04-13.
+This ai / ml research position at Parloa was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

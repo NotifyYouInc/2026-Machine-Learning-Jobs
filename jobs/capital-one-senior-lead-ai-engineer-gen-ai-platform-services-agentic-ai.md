@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Cambridge-MA/Senior-Lead-AI-Engineer--Gen-AI-Platform-Services--Agentic-AI-_R239936-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Senior-Lead-AI-Engineer--Gen-AI-Platform-Services--Agentic-AI-_R242213-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Capital One was posted on 2026-04-07.
+This ai / llm engineer position at Capital One was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

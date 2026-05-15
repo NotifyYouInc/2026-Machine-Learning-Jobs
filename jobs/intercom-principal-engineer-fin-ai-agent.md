@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intercom](https://scoutify.ai/companies/intercom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/7725837) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/7742203) |
 
 ## About This Role
 
-This ai / llm engineer position at Intercom was posted on 2026-03-26.
+This ai / llm engineer position at Intercom was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

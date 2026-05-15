@@ -5,12 +5,12 @@
 | Company | [webAI](https://scoutify.ai/companies/webai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Austin, Texas, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/webai/08cf92fa-21af-453c-b1b9-d5fb7f25a9ce) |
+| Posted | 2025-12-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/webai/ae55a0c3-7c11-43f3-a158-ca9dffbf3064) |
 
 ## About This Role
 
-This ai / ml research position at webAI was posted on 2026-04-22.
+This ai / ml research position at webAI was posted on 2025-12-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-AI-Engineer---Silicon-Co-Design-Group_JR2016228) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-AI-Engineer---Silicon-Co-Design-Group_JR2017301) |
 
 ## About This Role
 
-This ai / llm engineer position at Nvidia was posted on 2026-04-13.
+This ai / llm engineer position at Nvidia was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

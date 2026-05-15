@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | Engineering Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R167015) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-5_R168224-1) |
 
 ## About This Role
 
-This engineering manager position at Adobe was posted on 2026-03-24.
+This machine learning engineer position at Adobe was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

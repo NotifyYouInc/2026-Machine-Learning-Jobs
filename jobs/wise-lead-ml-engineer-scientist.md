@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000123479079-lead-ml-engineer-scientist) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000125122779-lead-ml-engineer-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at WISE was posted on 2026-04-28.
+This machine learning engineer position at WISE was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

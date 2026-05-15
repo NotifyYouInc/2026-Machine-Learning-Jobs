@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-NY-New-York-City/Principal-Machine-Learning-Engineer_JR-0106721) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Principal-Machine-Learning-Engineer_JR-0107128) |
 
 ## About This Role
 
-This machine learning engineer position at Workday was posted on 2026-05-05.
+This machine learning engineer position at Workday was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
