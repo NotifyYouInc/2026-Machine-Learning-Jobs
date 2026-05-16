@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/AI-ML-Engineer---Assistant-Manager_R-784383) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/AI-ML-Engineer---Assistant-Manager_R-789838) |
 
 ## About This Role
 
-This ai / llm engineer position at State Street was posted on 2026-02-17.
+This machine learning engineer position at State Street was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

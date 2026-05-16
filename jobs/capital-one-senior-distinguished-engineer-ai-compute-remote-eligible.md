@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/Senior-Distinguished-Engineer--AI-Compute--Remote-Eligible-_R240930-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/Senior-Distinguished-Engineer--AI-Compute--Remote-Eligible-_R242185-1) |
 
 ## About This Role
 
-This ai / ml research position at Capital One was posted on 2026-04-21.
+This ai / ml research position at Capital One was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

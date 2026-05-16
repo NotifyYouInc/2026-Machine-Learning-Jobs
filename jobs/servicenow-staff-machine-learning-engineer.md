@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110113385-staff-machine-learning-engineer) |
+| Location | Toronto, Ontario, Canada |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000125365783-staff-machine-learning-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-02-19.
+This machine learning engineer position at ServiceNow was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/AI-Engineer_R26-2977-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/AI-Engineer_R26-2976) |
 
 ## About This Role
 
-This ai / llm engineer position at Rockwell Automation was posted on 2026-05-06.
+This ai / llm engineer position at Rockwell Automation was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

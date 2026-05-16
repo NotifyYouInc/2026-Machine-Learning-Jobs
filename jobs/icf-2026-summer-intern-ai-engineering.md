@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--AI-Engineering_R2601362) |
+| Category | AI / ML Research |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--AI-Engineering_R2601656) |
 
 ## About This Role
 
-This ai / llm engineer position at ICF was posted on 2026-04-21.
+This ai / ml research position at ICF was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Louisiana State University](https://scoutify.ai/companies/louisiana-state-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Baton Rouge, Louisiana, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://lsu.wd1.myworkdayjobs.com/lsu/job/0149-EB-Doran-Hall-Ag-Engineering/Postdoctoral-Researcher_R00114864) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://lsu.wd1.myworkdayjobs.com/lsu/job/2235-Energy-Coast-and-Environment-Building/Postdoctoral-Researcher_R00115195) |
 
 ## About This Role
 
-This ai / ml research position at Louisiana State University was posted on 2026-04-29.
+This ai / ml research position at Louisiana State University was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

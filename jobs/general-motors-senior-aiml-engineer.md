@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-AI-ML-Engineer_JR-202602563-1) |
+| Location | Sunnyvale, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-AI-ML-Engineer_JR-202609267) |
 
 ## About This Role
 
-This machine learning engineer position at General Motors was posted on 2026-03-03.
+This software engineer position at General Motors was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
