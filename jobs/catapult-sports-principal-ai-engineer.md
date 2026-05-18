@@ -1,16 +1,16 @@
-# [BD] Senior Artificial Inteligence Developer at Robert Bosch
+# Principal AI Engineer at Catapult Sports
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vietnam |
+| Company | [Catapult Sports](https://scoutify.ai/companies/catapult-sports?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | AI / LLM Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125692303-bd-senior-artificial-inteligence-developer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/catapultsports/jobs/7902420) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-05-11.
+This ai / llm engineer position at Catapult Sports was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

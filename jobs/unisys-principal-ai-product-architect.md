@@ -1,16 +1,16 @@
-# Principal AI Architect - Product and Framework at Robert Bosch
+# Principal AI Product Architect at Unisys
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125718812-principal-ai-architect-product-and-framework) |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Principal-AI-Product-Architect_REQ572389) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-05-11.
+This ai / ml research position at Unisys was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

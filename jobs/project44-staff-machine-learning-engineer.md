@@ -1,16 +1,16 @@
-# Machine Learning Engineer at NielsenIQ
+# Staff Machine Learning Engineer at project44
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Company | [project44](https://scoutify.ai/companies/project44?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125731083-machine-learning-engineer) |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/project44/jobs/7757960) |
 
 ## About This Role
 
-This machine learning engineer position at NielsenIQ was posted on 2026-05-11.
+This machine learning engineer position at project44 was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

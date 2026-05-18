@@ -1,16 +1,16 @@
-# AI Engineer at NielsenIQ
+# Agentic AI Engineer (IS Team) at Cato Networks
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Israel |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125746279-ai-engineer) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4863034101?gh_jid=4863034101) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-05-11.
+This ai / llm engineer position at Cato Networks was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

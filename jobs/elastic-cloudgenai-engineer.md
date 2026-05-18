@@ -1,16 +1,16 @@
-# AI Engineer at NielsenIQ
+# Cloud/GenAI Engineer at Elastic
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125746279-ai-engineer) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7889677&gh_jid=7889677) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-05-11.
+This ai / llm engineer position at Elastic was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

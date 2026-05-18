@@ -1,16 +1,16 @@
-# Engineer 2 - Machine Learning at Comcast
+# Deep Learning Algorithm Engineer - REM Semantics at Mobileye
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Mobileye](https://scoutify.ai/companies/mobileye?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Jerusalem, Jerusalem, Israel |
 | Category | Machine Learning Engineer |
 | Posted | 2026-05-10 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2---Machine-Learning_R436536) |
+| Apply | [View on company site](https://jobs.eu.lever.co/mobileye/3f688c83-654a-49c2-aa7e-d2636adfc6b0) |
 
 ## About This Role
 
-This machine learning engineer position at Comcast was posted on 2026-05-10.
+This machine learning engineer position at Mobileye was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

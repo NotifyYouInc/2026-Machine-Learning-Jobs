@@ -1,16 +1,16 @@
-# [BD] Senior Artificial Inteligence Developer at Robert Bosch
+# AI Engineer Student Advisor at Kaleris
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vietnam |
+| Company | [Kaleris](https://scoutify.ai/companies/kaleris?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Alpharetta, Georgia, United States |
 | Category | AI / LLM Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125692303-bd-senior-artificial-inteligence-developer) |
+| Apply | [View on company site](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/Alpharetta---HQ/AI-Engineer-Student-Advisor_R-100540) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-05-11.
+This ai / llm engineer position at Kaleris was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

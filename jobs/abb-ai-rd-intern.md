@@ -1,16 +1,16 @@
-# Principal AI Architect - Product and Framework at Robert Bosch
+# AI R&D Intern at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | AI / ML Research |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125718812-principal-ai-architect-product-and-framework) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/AI-R-D-Intern_JR00034436) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-05-11.
+This ai / ml research position at ABB was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

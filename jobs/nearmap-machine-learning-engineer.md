@@ -1,16 +1,16 @@
-# Engineer 2 - Machine Learning at Comcast
+# Machine Learning Engineer at Nearmap
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Carlsbad, California, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-05-10 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2---Machine-Learning_R436536) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000125617209-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Comcast was posted on 2026-05-10.
+This machine learning engineer position at Nearmap was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

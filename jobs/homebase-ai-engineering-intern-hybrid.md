@@ -1,16 +1,16 @@
-# [BD] Senior Artificial Inteligence Developer at Robert Bosch
+# AI Engineering Intern (Hybrid) at Homebase
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vietnam |
+| Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125692303-bd-senior-artificial-inteligence-developer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/homebase/b61bc585-57bf-4918-8154-b8be27ff5a5e) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-05-11.
+This ai / llm engineer position at Homebase was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

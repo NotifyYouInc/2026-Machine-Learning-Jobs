@@ -6,7 +6,7 @@
 | Location | Boston, Massachusetts, United States |
 | Category | AI / ML Research |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413119/applied-scientist-aws-automated-reasoning) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413162/applied-scientist-aws-automated-reasoning) |
 
 ## About This Role
 

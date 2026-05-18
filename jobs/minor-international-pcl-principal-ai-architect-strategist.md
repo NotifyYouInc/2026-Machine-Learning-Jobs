@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Minor International PCL](https://scoutify.ai/companies/minorinternationalpcl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Queensland, AU |
+| Location | Maroochydore, Queensland, Australia |
 | Category | AI / ML Research |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000125026671-principal-ai-architect-strategist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000125028219-principal-ai-architect-strategist) |
 
 ## About This Role
 

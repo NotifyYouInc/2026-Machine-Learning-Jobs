@@ -1,16 +1,16 @@
-# AI Engineer at NielsenIQ
+# Senior AI Engineer at Klearnow
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Company | [Klearnow](https://scoutify.ai/companies/klearnow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | California, US |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125746279-ai-engineer) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://jobs.lever.co/klearnow/0facc87f-1b33-49b1-b1f3-c189d1990718) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-05-11.
+This ai / llm engineer position at Klearnow was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

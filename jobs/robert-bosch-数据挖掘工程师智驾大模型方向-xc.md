@@ -1,16 +1,16 @@
-# Principal AI Architect - Product and Framework at Robert Bosch
+# 数据挖掘工程师(智驾大模型方向)_XC at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
-| Category | AI / ML Research |
+| Location | Shanghai, Shanghai, China |
+| Category | Data Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125718812-principal-ai-architect-product-and-framework) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125697049-xc) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-05-11.
+This data engineer position at Robert Bosch was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

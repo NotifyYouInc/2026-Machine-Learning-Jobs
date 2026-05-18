@@ -1,16 +1,16 @@
-# [BD] Senior Artificial Inteligence Developer at Robert Bosch
+# Senior AI Product Engineer at Trucksmarter
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vietnam |
+| Company | [Trucksmarter](https://scoutify.ai/companies/trucksmarter?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125692303-bd-senior-artificial-inteligence-developer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/trucksmarter/46cfee36-edfe-4ed3-9d52-2bca636c9718) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-05-11.
+This ai / llm engineer position at Trucksmarter was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

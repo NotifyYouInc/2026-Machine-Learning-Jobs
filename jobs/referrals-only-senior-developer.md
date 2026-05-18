@@ -1,16 +1,16 @@
-# [BD] Senior Artificial Inteligence Developer at Robert Bosch
+# Senior Developer at Referrals Only
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vietnam |
+| Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125692303-bd-senior-artificial-inteligence-developer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7785138) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-05-11.
+This ai / llm engineer position at Referrals Only was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

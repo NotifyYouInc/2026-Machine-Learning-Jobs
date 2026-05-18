@@ -1,16 +1,16 @@
-# AI Engineer at NielsenIQ
+# ML Engineer [Ads] at Toss
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Machine Learning Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125746279-ai-engineer) |
+| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=6543804003) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-05-11.
+This machine learning engineer position at Toss was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
