@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | San Francisco, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.airbnb.com/positions/7700249?gh_jid=7700249) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7899867?gh_jid=7899867) |
 
 ## About This Role
 
-This machine learning engineer position at Airbnb was posted on 2026-03-12.
+This machine learning engineer position at Airbnb was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

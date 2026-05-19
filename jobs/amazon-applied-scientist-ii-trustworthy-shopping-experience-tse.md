@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3203980/applied-scientist-ii-trustworthy-shopping-experience-tse) |
+| Category | AI / ML Research |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10416660/applied-scientist-ii-trustworthy-shopping-experience-tse) |
 
 ## About This Role
 
-This ai / llm engineer position at Amazon was posted on 2026-03-13.
+This ai / ml research position at Amazon was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

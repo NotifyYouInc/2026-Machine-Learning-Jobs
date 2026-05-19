@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Rennes, Brittany, France |
+| Location | Toulouse, Occitanie, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000124678340-stage-innovation-ingenieur-intelligence-artificielle-computer-vision) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000125844769-stage-innovation-ingenieur-intelligence-artificielle-computer-vision) |
 
 ## About This Role
 
-This machine learning engineer position at ALTEN was posted on 2026-05-05.
+This machine learning engineer position at ALTEN was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

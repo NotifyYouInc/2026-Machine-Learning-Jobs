@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Hartford, Connecticut, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000120557977-senior-staff-machine-learning-engineer) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000125945029-senior-staff-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at ServiceNow was posted on 2026-04-13.
+This machine learning engineer position at ServiceNow was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

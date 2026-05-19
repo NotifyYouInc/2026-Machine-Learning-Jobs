@@ -1,12 +1,12 @@
-# Senior Software Engineer - AI Foundations at Toast
+# Senior Software Engineer (AI Foundations) at Toast
 
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-05-08 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7835831) |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7850003) |
 
 ## About This Role
 

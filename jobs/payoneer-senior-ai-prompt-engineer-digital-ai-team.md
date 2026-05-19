@@ -5,12 +5,12 @@
 | Company | [Payoneer](https://scoutify.ai/companies/payoneer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Herzliya, Tel Aviv, Israel |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://www.payoneer.com/careers/position/7731646/?gh_jid=7731646) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.payoneer.com/careers/position/7709758/?gh_jid=7709758) |
 
 ## About This Role
 
-This ai / llm engineer position at Payoneer was posted on 2026-03-30.
+This ai / llm engineer position at Payoneer was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

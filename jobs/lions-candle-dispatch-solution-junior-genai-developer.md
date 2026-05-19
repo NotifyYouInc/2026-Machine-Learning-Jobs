@@ -5,12 +5,12 @@
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000121990637-junior-genai-developer) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000125835825-junior-genai-developer) |
 
 ## About This Role
 
-This ai / llm engineer position at Lions Candle-Dispatch Solution was posted on 2026-04-21.
+This ai / llm engineer position at Lions Candle-Dispatch Solution was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

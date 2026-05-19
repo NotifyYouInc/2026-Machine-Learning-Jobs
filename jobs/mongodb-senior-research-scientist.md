@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Palo Alto, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7604302) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7891161) |
 
 ## About This Role
 
-This ai / ml research position at MongoDB was posted on 2026-02-23.
+This ai / ml research position at MongoDB was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Staff-Engineer--Artificial-Intelligence_R-01346770) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Staff-Engineer--Artificial-Intelligence_R-01352080) |
 
 ## About This Role
 
-This ai / llm engineer position at Thermo Fisher Scientific was posted on 2026-03-24.
+This ai / llm engineer position at Thermo Fisher Scientific was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

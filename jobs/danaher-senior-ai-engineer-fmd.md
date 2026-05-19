@@ -5,12 +5,12 @@
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Krakow-Poland/Senior-AI-Engineer--f-m-d-_R1308022) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Krakow-Poland/Senior-AI-Engineer--f-m-d-_R1310464) |
 
 ## About This Role
 
-This ai / llm engineer position at Danaher was posted on 2026-04-14.
+This ai / llm engineer position at Danaher was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

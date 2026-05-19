@@ -5,12 +5,12 @@
 | Company | [Universidad del Valle de Guatemala](https://scoutify.ai/companies/universidaddelvalledeguatemala?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Guatemala City, Guatemala, Guatemala |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversidadDelValleDeGuatemala/744000115287067-ingeniero-especializado-en-ia) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversidadDelValleDeGuatemala/744000125882039-ingeniero-especializado-en-ia) |
 
 ## About This Role
 
-This machine learning engineer position at Universidad del Valle de Guatemala was posted on 2026-03-17.
+This machine learning engineer position at Universidad del Valle de Guatemala was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

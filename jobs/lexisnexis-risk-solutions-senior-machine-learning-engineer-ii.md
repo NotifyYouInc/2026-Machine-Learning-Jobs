@@ -5,12 +5,12 @@
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Shanghai/Senior-Machine-Learning-Engineer-II_R110664-2) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Shanghai/Senior-Machine-Learning-Engineer-II_R110588) |
 
 ## About This Role
 
-This machine learning engineer position at LexisNexis Risk Solutions was posted on 2026-04-13.
+This machine learning engineer position at LexisNexis Risk Solutions was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Solna, Stockholm, Sweden |
+| Location | Trondheim, Trøndelag, Norway |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000123866019-ai-engineer-tieto-banktech-mfd) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000125996576-ai-engineer-tieto-banktech-mfd) |
 
 ## About This Role
 
-This ai / llm engineer position at Tietoevry was posted on 2026-04-30.
+This ai / llm engineer position at Tietoevry was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

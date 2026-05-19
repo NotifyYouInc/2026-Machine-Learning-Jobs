@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GenBio AI](https://scoutify.ai/companies/genbio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Location | Palo Alto, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.lever.co/genbio/de893e32-71f6-42d0-adab-b3e963cfcf34) |
+| Posted | 2025-01-10 |
+| Apply | [View on company site](https://jobs.lever.co/genbio/7037a809-2f60-4e2a-b329-37cd922a8da7) |
 
 ## About This Role
 
-This ai / ml research position at GenBio AI was posted on 2026-04-23.
+This ai / ml research position at GenBio AI was posted on 2025-01-10.
 
 ## Get Real-Time Alerts
 
