@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Huntsville, Alabama, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/4695436007?gh_jid=4695436007) |
+| Location | Broomfield, Colorado, United States |
+| Category | AI / ML Research |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5047082007?gh_jid=5047082007) |
 
 ## About This Role
 
-This machine learning engineer position at Anduril was posted on 2026-03-20.
+This ai / ml research position at Anduril was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

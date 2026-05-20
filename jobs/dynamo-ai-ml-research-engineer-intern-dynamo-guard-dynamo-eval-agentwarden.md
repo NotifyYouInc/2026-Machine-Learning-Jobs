@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dynamo AI](https://scoutify.ai/companies/dynamo-ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-01 |
+| Location | 4 locations |
+| Category | AI / ML Research |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/dynamo-ai/jobs/bUcFnbU-ml-research-engineer-intern-dynamo-guard-dynamo-eval-agentwarden) |
 
 ## About This Role
 
-This ai / llm engineer position at Dynamo AI was posted on 2026-03-01.
+This ai / ml research position at Dynamo AI was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

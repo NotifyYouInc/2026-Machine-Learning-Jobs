@@ -1,16 +1,16 @@
-# Machine Learning Engineer - LLM Evals + Observability  at Glean
+# Machine Learning Engineer, LLM Evals & Observability at Glean
 
 | Field | Details |
 |-------|---------|
 | Company | [Glean](https://scoutify.ai/companies/gleanwork?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gleanwork/jobs/4669417005) |
+| Location | Mountain View, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gleanwork/jobs/4694716005) |
 
 ## About This Role
 
-This ai / llm engineer position at Glean was posted on 2026-03-05.
+This machine learning engineer position at Glean was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Moog](https://scoutify.ai/companies/moog?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Buffalo, New York, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-17396-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-17563) |
 
 ## About This Role
 
-This ai / ml research position at Moog was posted on 2026-04-23.
+This ai / ml research position at Moog was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

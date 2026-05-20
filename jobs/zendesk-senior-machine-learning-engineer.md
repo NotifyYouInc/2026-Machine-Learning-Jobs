@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Lisbon-Portugal/Senior-Machine-Learning-Engineer_R34642) |
+| Location | New South Wales, AU |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-Victoria-Australia/Senior-Machine-Learning-Engineer_R34851) |
 
 ## About This Role
 
-This ai / llm engineer position at Zendesk was posted on 2026-05-11.
+This machine learning engineer position at Zendesk was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

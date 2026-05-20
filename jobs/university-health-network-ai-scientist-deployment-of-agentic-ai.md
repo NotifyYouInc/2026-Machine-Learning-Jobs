@@ -5,12 +5,12 @@
 | Company | [University Health Network](https://scoutify.ai/companies/universityhealthnetwork?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000125402887-ai-scientist-deployment-of-agentic-ai) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000125924758-ai-scientist-deployment-of-agentic-ai) |
 
 ## About This Role
 
-This ai / ml research position at University Health Network was posted on 2026-05-08.
+This ai / ml research position at University Health Network was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

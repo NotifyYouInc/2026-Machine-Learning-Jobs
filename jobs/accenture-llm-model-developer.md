@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bogota-Carrera-7/LLM-Model-Developer_14043483) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/LLM-Model-Developer_ATCI-5350549-S2003315) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-05-06.
+This ai / llm engineer position at Accenture was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

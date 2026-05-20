@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Shanghai/Machine-Learning-Engineer-Lead_R110583) |
+| Location | Raleigh, North Carolina, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Machine-Learning-Engineer-Lead_R111796) |
 
 ## About This Role
 
-This ai / llm engineer position at LexisNexis Risk Solutions was posted on 2026-03-20.
+This machine learning engineer position at LexisNexis Risk Solutions was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

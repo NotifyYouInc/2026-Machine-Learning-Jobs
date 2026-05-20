@@ -5,12 +5,12 @@
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Lead-Operations-Research-Scientist_R0000433683) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Lead-Operations-Research-Scientist_R0000437531) |
 
 ## About This Role
 
-This ai / ml research position at Target was posted on 2026-04-28.
+This ai / ml research position at Target was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

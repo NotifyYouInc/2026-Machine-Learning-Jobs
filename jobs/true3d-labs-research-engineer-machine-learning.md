@@ -5,12 +5,12 @@
 | Company | [True3D Labs](https://scoutify.ai/companies/true3d-labs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-25 |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/true3d-labs/jobs/lGhYqPr-research-engineer-machine-learning) |
 
 ## About This Role
 
-This ai / ml research position at True3D Labs was posted on 2026-03-25.
+This ai / ml research position at True3D Labs was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

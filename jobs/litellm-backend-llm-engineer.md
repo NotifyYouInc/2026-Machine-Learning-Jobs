@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LiteLLM](https://scoutify.ai/companies/litellm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/litellm/jobs/ZTVs0sR-backend-llm-engineer) |
 
 ## About This Role
 
-This software engineer position at LiteLLM was posted on 2026-02-04.
+This ai / llm engineer position at LiteLLM was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

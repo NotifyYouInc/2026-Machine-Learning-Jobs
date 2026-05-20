@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SurveyMonkey](https://scoutify.ai/companies/surveymonkey?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/surveymonkey/jobs/7775257) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/surveymonkey/jobs/7916846) |
 
 ## About This Role
 
-This software engineer position at SurveyMonkey was posted on 2026-04-27.
+This software engineer position at SurveyMonkey was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

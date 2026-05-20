@@ -5,12 +5,12 @@
 | Company | [StackAV](https://scoutify.ai/companies/stackav?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/stackav/jobs/5129840007) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/stackav/jobs/5135418007) |
 
 ## About This Role
 
-This software engineer position at StackAV was posted on 2026-05-05.
+This software engineer position at StackAV was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

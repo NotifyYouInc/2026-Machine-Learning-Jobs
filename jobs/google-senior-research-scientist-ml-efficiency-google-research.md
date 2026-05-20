@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/126870334379827910-senior-research-scientist-ml-efficiency-google-research?sort_by=date&page=1) |
+| Category | AI / ML Research |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfZi0a_lyklwAbum25KwiW6HvVKHnsrGLsB6XqRpDUFzEjsACxwdTD3VTaHP258hP0sKXaOEyV4S0P4N1AUJjVb1WeJwnqxH1AxKoh-wNyDIcxJEbdeJXDbJ9XVVcQ%3D%3D_V2&loc=SG&title=Senior+Research+Scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Google was posted on 2026-02-13.
+This ai / ml research position at Google was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

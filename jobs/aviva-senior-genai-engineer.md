@@ -5,12 +5,12 @@
 | Company | [Aviva](https://scoutify.ai/companies/aviva?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Senior-GenAI-Engineer_R-168466) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Senior-GenAI-Engineer_R-168667) |
 
 ## About This Role
 
-This ai / llm engineer position at Aviva was posted on 2026-05-06.
+This ai / llm engineer position at Aviva was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

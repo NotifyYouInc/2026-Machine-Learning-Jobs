@@ -5,12 +5,12 @@
 | Company | [Aspen Skiing Company](https://scoutify.ai/companies/aspenskiingcompany?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000118213407-ai-engineer) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000126174318-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Aspen Skiing Company was posted on 2026-04-01.
+This ai / llm engineer position at Aspen Skiing Company was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

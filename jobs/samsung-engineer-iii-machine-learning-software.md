@@ -5,12 +5,12 @@
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Engineer-III--Machine-Learning-Software_R116428) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Engineer-III--Machine-Learning-Software_R117114) |
 
 ## About This Role
 
-This machine learning engineer position at Samsung was posted on 2026-04-14.
+This machine learning engineer position at Samsung was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# AI Software Engineer (SWE-2) at Leidos
+
+| Field | Details |
+|-------|---------|
+| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Maryland, US |
+| Category | AI / ML Research |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/AI-Software-Engineer--SWE-2-_R-00183078) |
+
+## About This Role
+
+This ai / ml research position at Leidos was posted on 2026-05-12.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | AI / ML Research |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000122437687-ai-research-team-lead) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000126237088-ai-research-team-lead) |
 
 ## About This Role
 
-This ai / ml research position at Wix.com was posted on 2026-04-23.
+This ai / ml research position at Wix.com was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

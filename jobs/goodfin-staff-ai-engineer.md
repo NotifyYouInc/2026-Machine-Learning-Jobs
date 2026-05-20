@@ -5,12 +5,12 @@
 | Company | [goodfin](https://scoutify.ai/companies/goodfin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-04 |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/goodfin/jobs/TWZ9MRF-staff-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at goodfin was posted on 2026-04-04.
+This ai / llm engineer position at goodfin was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
