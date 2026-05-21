@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Chile |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7709927003) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7733470003) |
 
 ## About This Role
 
-This ai / llm engineer position at Sezzle was posted on 2026-04-21.
+This ai / llm engineer position at Sezzle was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

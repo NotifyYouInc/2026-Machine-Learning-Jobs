@@ -1,16 +1,16 @@
-# Research Advisor - Human Frontier Collective at Scale AI
+# Research Advisor - Human Frontier Collective  at Scale AI
 
 | Field | Details |
 |-------|---------|
 | Company | [Scale AI](https://scoutify.ai/companies/scaleai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4693078005) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4695042005) |
 
 ## About This Role
 
-This ai / ml research position at Scale AI was posted on 2026-05-08.
+This ai / ml research position at Scale AI was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

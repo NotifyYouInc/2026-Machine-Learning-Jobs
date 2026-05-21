@@ -5,12 +5,12 @@
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ukraine |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4846917101?gh_jid=4846917101) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4865728101?gh_jid=4865728101) |
 
 ## About This Role
 
-This machine learning engineer position at N-iX was posted on 2026-04-24.
+This machine learning engineer position at N-iX was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

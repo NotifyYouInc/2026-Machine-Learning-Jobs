@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hartford, Connecticut, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000125945029-senior-staff-machine-learning-engineer) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000126289914-senior-staff-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at ServiceNow was posted on 2026-05-11.
+This machine learning engineer position at ServiceNow was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

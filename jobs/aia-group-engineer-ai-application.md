@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-M-Plaza/Engineer--AI-Application_JR-65194-1) |
+| Location | China |
+| Category | AI / ML Research |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Engineer--AI-Application_JR-66601-1) |
 
 ## About This Role
 
-This machine learning engineer position at AIA Group was posted on 2026-03-27.
+This ai / ml research position at AIA Group was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

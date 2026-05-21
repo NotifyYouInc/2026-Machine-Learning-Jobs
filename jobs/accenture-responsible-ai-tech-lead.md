@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Responsible-AI-Tech-Lead_ATCI-5549766-S2020815-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Responsible-AI-Tech-Lead_ATCI-5555258-S2021499-1) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-05-11.
+This ai / ml research position at Accenture was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

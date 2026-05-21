@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wüest Partner](https://scoutify.ai/companies/westpartner?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/wuestpartner/744000114359387-senior-data-science-ai-engineer-mwd-80-100) |
+| Location | Zürich, Zurich, Switzerland |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/wuestpartner/744000126324429-senior-data-science-ai-engineer-mwd-80-100) |
 
 ## About This Role
 
-This ai / llm engineer position at Wüest Partner was posted on 2026-03-12.
+This machine learning engineer position at Wüest Partner was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

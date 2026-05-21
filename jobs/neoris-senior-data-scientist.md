@@ -1,16 +1,16 @@
-# Senior Data Scientist at Neoris
+# Senior Data Scientist  at Neoris
 
 | Field | Details |
 |-------|---------|
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Colombia |
+| Location | México, MX |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4766678101) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4849415101) |
 
 ## About This Role
 
-This machine learning engineer position at Neoris was posted on 2026-02-10.
+This machine learning engineer position at Neoris was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

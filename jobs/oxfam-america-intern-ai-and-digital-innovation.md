@@ -5,12 +5,12 @@
 | Company | [Oxfam America](https://scoutify.ai/companies/oxfam-america?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/oxfamamerica2/744000125934469-intern-ai-and-digital-innovation) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/oxfamamerica2/744000126379905-intern-ai-and-digital-innovation) |
 
 ## About This Role
 
-This ai / ml research position at Oxfam America was posted on 2026-05-11.
+This ai / ml research position at Oxfam America was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Terex](https://scoutify.ai/companies/terex?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-TX-Austin/AI-Engineer-III_REQ-11566-1) |
+| Location | Austin, Texas, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-TX-Austin/AI-Engineer-III_REQ-12843) |
 
 ## About This Role
 
-This software engineer position at Terex was posted on 2026-02-04.
+This ai / llm engineer position at Terex was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

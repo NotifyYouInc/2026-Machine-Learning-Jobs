@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Peakflo](https://scoutify.ai/companies/peakflo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-05 |
+| Location | India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/peakflo/jobs/I4Ehwpd-machine-learning-ml-engineer-intern-paid-india-remote) |
 
 ## About This Role
 
-This ai / llm engineer position at Peakflo was posted on 2026-03-05.
+This machine learning engineer position at Peakflo was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

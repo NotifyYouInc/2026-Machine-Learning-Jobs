@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Toronto-40-King-St-W-Corp/AI-Forward-Deployed-Engineering_R00326717) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Toronto-40-King-St-W-Corp/AI-Forward-Deployed-Engineering_R00330294) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-21.
+This ai / llm engineer position at Accenture was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
