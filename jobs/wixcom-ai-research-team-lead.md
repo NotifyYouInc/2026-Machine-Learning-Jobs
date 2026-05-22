@@ -6,7 +6,7 @@
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | AI / ML Research |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000126237088-ai-research-team-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000126275998-ai-research-team-lead) |
 
 ## About This Role
 

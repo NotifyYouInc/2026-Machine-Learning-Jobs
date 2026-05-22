@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 7 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---California/Senior-Software-Engineer--Autonomy-Evaluation_JR-202603115) |
+| Location | Sunnyvale, California, United States |
+| Category | Robotics Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-Software-Engineer--Autonomy-Evaluation_JR-202610982) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-02-11.
+This robotics engineer position at General Motors was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

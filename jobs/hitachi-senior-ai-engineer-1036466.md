@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Lisbon-Lisbon-Portugal/Senior-AI-Engineer--1036466-_R01036466-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Lisbon-Lisbon-Portugal/Senior-AI-Engineer--1036466-_R0130452) |
 
 ## About This Role
 
-This ai / llm engineer position at Hitachi was posted on 2026-03-25.
+This ai / llm engineer position at Hitachi was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

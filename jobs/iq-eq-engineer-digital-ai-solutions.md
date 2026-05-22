@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000124568710-engineer-digital-ai-solutions) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000126524164-engineer-digital-ai-solutions) |
 
 ## About This Role
 
-This software engineer position at IQ-EQ was posted on 2026-05-05.
+This machine learning engineer position at IQ-EQ was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

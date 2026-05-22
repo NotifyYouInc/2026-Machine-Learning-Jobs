@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead-Machine-Learning-Engineer_R241992) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead-Machine-Learning-Engineer_R242383) |
 
 ## About This Role
 
-This machine learning engineer position at Capital One was posted on 2026-05-06.
+This machine learning engineer position at Capital One was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

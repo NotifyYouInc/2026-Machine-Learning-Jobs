@@ -5,12 +5,12 @@
 | Company | [Klick](https://scoutify.ai/companies/klick?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/klick1/744000123318792-applied-ai-developer) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/klick1/744000126574299-applied-ai-developer) |
 
 ## About This Role
 
-This ai / llm engineer position at Klick was posted on 2026-04-27.
+This ai / llm engineer position at Klick was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

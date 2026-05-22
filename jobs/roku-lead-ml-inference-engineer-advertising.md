@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Austin, Texas, United States |
+| Location | San Jose, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/7469332?gh_jid=7469332) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/7927836?gh_jid=7927836) |
 
 ## About This Role
 
-This machine learning engineer position at Roku was posted on 2026-04-23.
+This machine learning engineer position at Roku was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

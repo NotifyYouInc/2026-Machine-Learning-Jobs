@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Engineer--Machine-Learning-Engineering_REQ333624-3) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Engineer--Machine-Learning-Engineering_REQ355359) |
 
 ## About This Role
 
-This ai / llm engineer position at T-Mobile was posted on 2026-02-20.
+This machine learning engineer position at T-Mobile was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

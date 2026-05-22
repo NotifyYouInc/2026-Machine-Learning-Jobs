@@ -6,7 +6,7 @@
 | Location | Israel |
 | Category | AI / ML Research |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000126228609-platform-manager-ai-transformation) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000126343918-platform-manager-ai-transformation) |
 
 ## About This Role
 

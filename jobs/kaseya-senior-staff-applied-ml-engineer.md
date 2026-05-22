@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Location | Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5968645004/?gh_jid=5968645004) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5824989004/?gh_jid=5824989004) |
 
 ## About This Role
 
-This machine learning engineer position at Kaseya was posted on 2026-04-28.
+This machine learning engineer position at Kaseya was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

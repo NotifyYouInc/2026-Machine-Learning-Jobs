@@ -1,16 +1,16 @@
-# AI engineer II at Mastercard
+# AI Engineer II at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Budapest, Budapest, Hungary |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/AI-engineer-II_R-275694) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Budapest-Hungary/AI-Engineer-II_R-278131) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-04-17.
+This ai / llm engineer position at Mastercard was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Gurugram-Haryana/Specialist---Gen-AI-Development_JR00122854) |
+| Location | 2 locations |
+| Category | AI / ML Research |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Gurugram-Haryana/Specialist---Gen-AI-Development_JR00123194) |
 
 ## About This Role
 
-This ai / llm engineer position at Sun Life Financial was posted on 2026-04-17.
+This ai / ml research position at Sun Life Financial was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bilbao, Basque Country, Spain |
-| Category | AI / ML Research |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000121736773-ia-developer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000126489054-ia-developer) |
 
 ## About This Role
 
-This ai / ml research position at Inetum was posted on 2026-04-20.
+This machine learning engineer position at Inetum was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
