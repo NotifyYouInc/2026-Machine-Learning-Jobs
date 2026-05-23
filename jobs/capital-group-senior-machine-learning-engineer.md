@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Seattle/Senior-Machine-Learning-Engineer_JR6528-1) |
+| Location | Irvine, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/Senior-Machine-Learning-Engineer_JR6355-1) |
 
 ## About This Role
 
-This software engineer position at Capital Group was posted on 2026-04-16.
+This machine learning engineer position at Capital Group was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

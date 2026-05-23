@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Reforma, Chiapas, Mexico |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Mexico/Senior-Data-Scientist-II_R111151) |
+| Location | Toronto, Ontario, Canada |
+| Category | AI / ML Research |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Toronto/Senior-Data-Scientist-II_R112008-1) |
 
 ## About This Role
 
-This ai / llm engineer position at LexisNexis Risk Solutions was posted on 2026-03-25.
+This ai / ml research position at LexisNexis Risk Solutions was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

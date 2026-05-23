@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smartsheet](https://scoutify.ai/companies/smartsheet?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smartsheet/jobs/7873872) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smartsheet/jobs/7930145) |
 
 ## About This Role
 
-This ai / llm engineer position at Smartsheet was posted on 2026-05-01.
+This ai / llm engineer position at Smartsheet was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

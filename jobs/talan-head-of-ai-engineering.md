@@ -6,7 +6,7 @@
 | Location | Switzerland |
 | Category | Engineering Manager |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000126337754-head-of-ai-engineering) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000126385559-head-of-ai-engineering) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Provectus](https://scoutify.ai/companies/provectus?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Medellín, Antioquia, Colombia |
 | Category | AI / ML Research |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.lever.co/provectus/7d7e1f3c-fb93-4de3-8fc7-cb2f326b988e) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.lever.co/provectus/33fc1187-6470-4eb6-8487-2cddc2c20a9b) |
 
 ## About This Role
 
-This ai / ml research position at Provectus was posted on 2026-04-30.
+This ai / ml research position at Provectus was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

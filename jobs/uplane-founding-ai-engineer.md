@@ -5,12 +5,12 @@
 | Company | [Uplane](https://scoutify.ai/companies/yc-uplane?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/uplane/jobs/BbKZahU-founding-ai-engineer) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/uplane/jobs/BaynVdO-founding-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Uplane was posted on 2026-05-13.
+This ai / llm engineer position at Uplane was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

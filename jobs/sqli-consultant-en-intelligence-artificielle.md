@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SQLI](https://scoutify.ai/companies/sqli?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000117360758-consultant-en-intelligence-artificielle) |
+| Category | AI / ML Research |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000126669499-consultant-en-intelligence-artificielle) |
 
 ## About This Role
 
-This machine learning engineer position at SQLI was posted on 2026-03-27.
+This ai / ml research position at SQLI was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

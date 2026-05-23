@@ -5,12 +5,12 @@
 | Company | [Levio](https://scoutify.ai/companies/levio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/levio/jobs/8538484002) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/levio/jobs/8551632002) |
 
 ## About This Role
 
-This ai / llm engineer position at Levio was posted on 2026-05-07.
+This ai / llm engineer position at Levio was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7871809) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7931249) |
 
 ## About This Role
 
-This machine learning engineer position at Coupang was posted on 2026-04-30.
+This machine learning engineer position at Coupang was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

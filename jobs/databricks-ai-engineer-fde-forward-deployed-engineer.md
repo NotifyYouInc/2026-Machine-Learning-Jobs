@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002) |
 
 ## About This Role
 
-This ai / llm engineer position at Databricks was posted on 2026-05-13.
+This ai / llm engineer position at Databricks was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

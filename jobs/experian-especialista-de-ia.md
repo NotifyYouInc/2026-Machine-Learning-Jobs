@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | AI / ML Research |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000124669639-especialista-de-ia) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126749480-especialista-de-ia) |
 
 ## About This Role
 
-This ai / ml research position at Experian was posted on 2026-05-05.
+This ai / ml research position at Experian was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

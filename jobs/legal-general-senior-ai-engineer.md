@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cardiff, Wales, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000126337612-senior-ai-engineer) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000126669844-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Legal & General was posted on 2026-05-13.
+This ai / llm engineer position at Legal & General was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

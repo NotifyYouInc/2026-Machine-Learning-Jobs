@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8532681002) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002) |
 
 ## About This Role
 
-This ai / ml research position at Databricks was posted on 2026-05-01.
+This ai / ml research position at Databricks was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

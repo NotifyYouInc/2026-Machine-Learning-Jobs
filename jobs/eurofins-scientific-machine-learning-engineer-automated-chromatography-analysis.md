@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000122056433-machine-learning-engineer-automated-chromatography-analysis) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000126711099-machine-learning-engineer-automated-chromatography-analysis) |
 
 ## About This Role
 
-This machine learning engineer position at Eurofins Scientific was posted on 2026-04-21.
+This machine learning engineer position at Eurofins Scientific was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

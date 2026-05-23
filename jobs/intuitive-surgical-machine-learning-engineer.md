@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Peachtree Corners, Georgia, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000124937022-machine-learning-engineer) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000126766019-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Intuitive Surgical was posted on 2026-05-06.
+This machine learning engineer position at Intuitive Surgical was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

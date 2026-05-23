@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Menlo Park, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1615030889533579) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1400306948797056) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-04-22.
+This ai / ml research position at Meta was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

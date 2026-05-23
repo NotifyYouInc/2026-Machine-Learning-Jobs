@@ -1,16 +1,16 @@
-# Principal Engineer, Agentic Engineering at Equifax
+# Principal Engineer - Agentic Engineering at Equifax
 
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Missouri---St-Louis---Lackland/Principal-Engineer--Agentic-Engineering_J00175612) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Principal-Engineer---Agentic-Engineering_J00176913) |
 
 ## About This Role
 
-This ai / llm engineer position at Equifax was posted on 2026-04-07.
+This ai / llm engineer position at Equifax was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

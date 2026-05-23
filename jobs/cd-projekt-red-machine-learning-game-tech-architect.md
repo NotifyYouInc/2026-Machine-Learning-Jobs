@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CD PROJEKT RED](https://scoutify.ai/companies/cd-projekt-red?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Montréal, Quebec, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cdprojektred/744000124702359-machine-learning-game-tech-architect) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cdprojektred/744000126656239-machine-learning-game-tech-architect) |
 
 ## About This Role
 
-This machine learning engineer position at CD PROJEKT RED was posted on 2026-05-05.
+This machine learning engineer position at CD PROJEKT RED was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
