@@ -1,16 +1,16 @@
-# Research Assistant at RMIT
+# Principal AI Researcher at Workday
 
 | Field | Details |
 |-------|---------|
-| Company | [RMIT](https://scoutify.ai/companies/rmit?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 3 locations |
 | Category | AI / ML Research |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://rmit.wd3.myworkdayjobs.com/rmit_jobs/job/Ho-Chi-Minh-City/Research-Assistant_JR48066) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-AI-Researcher_JR-0107313) |
 
 ## About This Role
 
-This ai / ml research position at RMIT was posted on 2026-05-17.
+This ai / ml research position at Workday was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

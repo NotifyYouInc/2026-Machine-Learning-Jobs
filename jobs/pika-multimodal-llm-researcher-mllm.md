@@ -1,16 +1,16 @@
-# Research Assistant at RMIT
+# Multimodal LLM Researcher (MLLM) at Pika
 
 | Field | Details |
 |-------|---------|
-| Company | [RMIT](https://scoutify.ai/companies/rmit?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Company | [Pika](https://scoutify.ai/companies/pika?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Palo Alto, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://rmit.wd3.myworkdayjobs.com/rmit_jobs/job/Ho-Chi-Minh-City/Research-Assistant_JR48066) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pika/d3993c91-4dd5-4868-8108-4e9b78133e7b) |
 
 ## About This Role
 
-This ai / ml research position at RMIT was posted on 2026-05-17.
+This ai / ml research position at Pika was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

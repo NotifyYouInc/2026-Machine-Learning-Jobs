@@ -1,16 +1,16 @@
-# Staff AI Engineer at LinkedIn
+# Applied AI Engineer at Console
 
 | Field | Details |
 |-------|---------|
-| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
+| Company | [Console](https://scoutify.ai/companies/console?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000126741658-staff-ai-engineer) |
+| Posted | 2025-08-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/console/a6ea34ca-0018-4983-9600-fb56d0c3260f) |
 
 ## About This Role
 
-This ai / llm engineer position at LinkedIn was posted on 2026-05-15.
+This ai / llm engineer position at Console was posted on 2025-08-12.
 
 ## Get Real-Time Alerts
 
