@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior-Data-Scientist_JR93574) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior-Data-Scientist_JR99898) |
 
 ## About This Role
 
-This ai / llm engineer position at Micron was posted on 2026-03-13.
+This machine learning engineer position at Micron was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

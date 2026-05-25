@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000124814613-applied-computer-vision-engineer-data-driven-development) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126925694-applied-computer-vision-engineer-data-driven-development) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-05-06.
+This machine learning engineer position at Robert Bosch was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

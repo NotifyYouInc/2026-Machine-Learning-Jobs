@@ -5,12 +5,12 @@
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000116575047-associate-engineer-agentic-ai-developer) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000126909282-associate-engineer-agentic-ai-developer) |
 
 ## About This Role
 
-This ai / llm engineer position at Sutherland was posted on 2026-03-25.
+This ai / llm engineer position at Sutherland was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Pasadena, Texas, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1060575989215299) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/968722059080516) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-03-27.
+This ai / ml research position at Meta was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

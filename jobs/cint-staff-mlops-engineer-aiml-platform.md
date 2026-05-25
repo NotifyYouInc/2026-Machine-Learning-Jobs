@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United Kingdom |
+| Location | Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000126457429-staff-mlops-engineer-aiml-platform) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000126680699-staff-mlops-engineer-aiml-platform) |
 
 ## About This Role
 
-This machine learning engineer position at Cint was posted on 2026-05-14.
+This machine learning engineer position at Cint was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

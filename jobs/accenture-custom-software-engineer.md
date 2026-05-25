@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Application-Developer_ATCI-5107776-S1893809-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Custom-Software-Engineer_ATCI-5477080-S2001651-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-29.
+This ai / llm engineer position at Accenture was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

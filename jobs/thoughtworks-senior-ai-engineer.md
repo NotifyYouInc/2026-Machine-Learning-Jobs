@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Location | Melbourne, Victoria, Australia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7920268?gh_jid=7920268) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7920279?gh_jid=7920279) |
 
 ## About This Role
 
-This ai / llm engineer position at Thoughtworks was posted on 2026-05-14.
+This ai / llm engineer position at Thoughtworks was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

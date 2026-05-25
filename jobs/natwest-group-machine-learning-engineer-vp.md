@@ -5,12 +5,12 @@
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Machine-Learning-Engineer--VP_R-00274246) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Machine-Learning-Engineer--VP_R-00277043) |
 
 ## About This Role
 
-This machine learning engineer position at NatWest Group was posted on 2026-03-02.
+This machine learning engineer position at NatWest Group was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

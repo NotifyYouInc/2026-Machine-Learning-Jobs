@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Scientist_R7332) |
+| Category | AI / ML Research |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Scientist_R7744) |
 
 ## About This Role
 
-This machine learning engineer position at CAI was posted on 2026-03-13.
+This ai / ml research position at CAI was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

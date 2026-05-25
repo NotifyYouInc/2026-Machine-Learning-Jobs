@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University of Sydney](https://scoutify.ai/companies/university-of-sydney?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Camperdown, New South Wales, Australia |
+| Location | Darlington, Western Australia, Australia |
 | Category | AI / ML Research |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/Camperdown-Campus/Postdoctoral-Research-Associate_0150561) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/Darlington-Campus/Postdoctoral-Research-Associate_0151255-1) |
 
 ## About This Role
 
-This ai / ml research position at University of Sydney was posted on 2026-04-23.
+This ai / ml research position at University of Sydney was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

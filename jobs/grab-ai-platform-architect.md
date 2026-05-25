@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | AI / ML Research |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000121935227-ai-platform-architect) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126903369-ai-platform-architect) |
 
 ## About This Role
 
-This ai / ml research position at Grab was posted on 2026-04-21.
+This ai / ml research position at Grab was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

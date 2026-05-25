@@ -6,7 +6,7 @@
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | AI / LLM Engineer |
 | Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000126464155-principal-ai-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000126486719-principal-ai-engineer) |
 
 ## About This Role
 

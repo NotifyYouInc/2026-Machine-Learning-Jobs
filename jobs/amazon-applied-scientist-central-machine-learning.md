@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10377873/applied-scientist-central-machine-learning) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422061/applied-scientist-central-machine-learning) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-03-27.
+This machine learning engineer position at Amazon was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
