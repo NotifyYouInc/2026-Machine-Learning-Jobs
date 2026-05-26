@@ -1,16 +1,16 @@
-# Python + AI  Developer at Jade Global
+# Python + AI Developer at Jade Global
 
 | Field | Details |
 |-------|---------|
 | Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Python---AI--Developer_R-104291) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Python---AI-Developer_R-105139) |
 
 ## About This Role
 
-This software engineer position at Jade Global was posted on 2026-05-14.
+This software engineer position at Jade Global was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

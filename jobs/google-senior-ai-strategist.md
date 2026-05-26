@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | AI / ML Research |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ2ZuT9LVJXLCKmkSO3Km9W4A1m7gqd13z8tqVx2xH2vEjsACxwdTOjk9GcGke1bybIraGbflbqkOoehTlZCdj8shjsgX-GBDKzmYfQuS3E8L-bBq8dYBvsBjAiMDg%3D%3D_V2&loc=IN&title=Senior+AI+Strategist) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckX6sU49gJhZnUkgm8legrf3wIDtxNzLr3mIm139SjAtkEjsACxwdTIX9hmSAmB7M3CqbNsHU2A9S37KjvumA4g-6jhdhWNQmDg1WIhoFbLqN5GOibVoX00iiHls0KA%3D%3D_V2&loc=IN&title=Senior+AI+Strategist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-05-14.
+This ai / ml research position at Google was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

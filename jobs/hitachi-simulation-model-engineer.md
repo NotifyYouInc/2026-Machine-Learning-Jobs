@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Ludvika, Dalarna, Sweden |
+| Location | 2 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Simulation-Model-Engineer_R0124102-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Simulation-Model-Engineer_R0118890) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-04-20.
+This electrical / hardware engineer position at Hitachi was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

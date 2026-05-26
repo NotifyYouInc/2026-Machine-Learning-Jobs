@@ -5,12 +5,12 @@
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001036217-senior-ai-engineer-google-cloud-platform-gcp-contract-or-permanent) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001086315-senior-ai-engineer-google-cloud-platform-gcp-contract-or-permanent) |
 
 ## About This Role
 
-This ai / llm engineer position at NCS Australia was posted on 2026-04-30.
+This ai / llm engineer position at NCS Australia was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

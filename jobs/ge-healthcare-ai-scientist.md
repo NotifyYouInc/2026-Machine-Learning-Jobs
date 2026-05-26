@@ -5,12 +5,12 @@
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/AI-Scientist_R4040023-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/AI-Scientist_R4025439) |
 
 ## About This Role
 
-This ai / ml research position at GE HealthCare was posted on 2026-04-28.
+This ai / ml research position at GE HealthCare was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

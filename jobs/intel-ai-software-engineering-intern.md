@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Gdańsk, Pomerania, Poland |
 | Category | AI / ML Research |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineering-Intern_JR0283713) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0284012) |
 
 ## About This Role
 
-This ai / ml research position at Intel was posted on 2026-05-07.
+This ai / ml research position at Intel was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

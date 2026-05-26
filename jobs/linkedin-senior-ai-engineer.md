@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Mountain View, California, United States |
 | Category | AI / LLM Engineer |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000126619394-senior-ai-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000126741479-senior-ai-engineer) |
 
 ## About This Role
 

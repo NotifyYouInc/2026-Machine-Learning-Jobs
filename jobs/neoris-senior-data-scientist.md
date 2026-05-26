@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | México, MX |
+| Location | Colombia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4849415101) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4865364101) |
 
 ## About This Role
 
-This machine learning engineer position at Neoris was posted on 2026-05-13.
+This machine learning engineer position at Neoris was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

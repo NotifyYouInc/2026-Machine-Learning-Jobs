@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Distinguished-AI-Engineer_R240934-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Distinguished-AI-Engineer_R242789-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Capital One was posted on 2026-04-21.
+This ai / llm engineer position at Capital One was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

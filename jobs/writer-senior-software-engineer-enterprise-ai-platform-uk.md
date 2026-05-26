@@ -5,12 +5,12 @@
 | Company | [Writer](https://scoutify.ai/companies/writer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/writer/9747a588-7475-4418-87b5-6b1ddde30947) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/writer/58d767c0-c5d4-4883-8f5e-d9774f888e88) |
 
 ## About This Role
 
-This ai / llm engineer position at Writer was posted on 2026-04-16.
+This ai / llm engineer position at Writer was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Forward Deployed Engineering Intern (AI Agent) at Cresta
+# Forward Deployed Engineering Intern (AI Agent)  at Cresta
 
 | Field | Details |
 |-------|---------|
 | Company | [Cresta](https://scoutify.ai/companies/cresta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/5106468008) |
+| Location | Toronto, Ontario, Canada |
+| Category | AI / ML Research |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/5102116008) |
 
 ## About This Role
 
-This software engineer position at Cresta was posted on 2026-02-03.
+This ai / ml research position at Cresta was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

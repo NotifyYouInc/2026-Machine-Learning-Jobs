@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | France |
+| Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000117656427-specialiste-ia-experimente-cdi) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000126947400-specialiste-ia-experimente-cdi) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN was posted on 2026-03-30.
+This ai / llm engineer position at ALTEN was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
