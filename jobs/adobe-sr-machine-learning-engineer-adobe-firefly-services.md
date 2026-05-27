@@ -1,16 +1,16 @@
-# Sr. Machine Learning Engineer, Adobe Firefly Services at Adobe
+# Sr Machine Learning Engineer, Adobe Firefly Services at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Sr-Machine-Learning-Engineer--Adobe-Firefly-Services_R163933) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Machine-Learning-Engineer--Adobe-Firefly-Services_R168917) |
 
 ## About This Role
 
-This ai / llm engineer position at Adobe was posted on 2026-02-20.
+This machine learning engineer position at Adobe was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

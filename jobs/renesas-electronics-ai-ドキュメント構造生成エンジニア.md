@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kodaira, Tokyo, Japan |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000120278974-ai) |
+| Category | Technical Writer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000127362499-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at Renesas Electronics was posted on 2026-04-13.
+This technical writer position at Renesas Electronics was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

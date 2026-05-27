@@ -1,16 +1,16 @@
-# Infrastructure and MLOps Engineer  at Graphcore
+# Infrastructure and MLOps Engineer at Graphcore
 
 | Field | Details |
 |-------|---------|
 | Company | [Graphcore](https://scoutify.ai/companies/graphcore?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bristol, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8420380002) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8556044002) |
 
 ## About This Role
 
-This devops engineer position at Graphcore was posted on 2026-02-12.
+This devops engineer position at Graphcore was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

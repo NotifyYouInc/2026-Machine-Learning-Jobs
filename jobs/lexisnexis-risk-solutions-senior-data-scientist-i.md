@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Senior-Data-Scientist-I_R97435) |
+| Location | 2 locations |
+| Category | AI / ML Research |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Gurgaon/Senior-Data-Scientist-I_R112809-1) |
 
 ## About This Role
 
-This machine learning engineer position at LexisNexis Risk Solutions was posted on 2026-03-09.
+This ai / ml research position at LexisNexis Risk Solutions was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/AI-Engineer_R26-2976) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bengaluru-India/AI-Engineer_R26-1942) |
 
 ## About This Role
 
-This ai / llm engineer position at Rockwell Automation was posted on 2026-05-08.
+This ai / llm engineer position at Rockwell Automation was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

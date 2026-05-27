@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Location | Dresden, Saxony, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Machine-Learning-Engineer-for-Digital-Manufacturing_JR-2601710) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Dresden/Machine-Learning-Engineer-for-Digital-Manufacturing_JR-2601893) |
 
 ## About This Role
 
-This machine learning engineer position at GlobalFoundries was posted on 2026-05-14.
+This machine learning engineer position at GlobalFoundries was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

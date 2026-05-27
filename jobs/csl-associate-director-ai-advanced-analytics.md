@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CSL](https://scoutify.ai/companies/csl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | AI / ML Research |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-GB-Berkshire-Maidenhead-CSL-Behring/Associate-Director--AI---Advanced-Analytics_R-263433) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Associate-Director--AI---Advanced-Analytics_R-279491) |
 
 ## About This Role
 
-This ai / ml research position at CSL was posted on 2026-04-14.
+This ai / ml research position at CSL was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

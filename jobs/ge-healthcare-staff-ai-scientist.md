@@ -5,12 +5,12 @@
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Staff-AI-Scientist_R4041007-2) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Staff-AI-Scientist_R4041011-1) |
 
 ## About This Role
 
-This ai / ml research position at GE HealthCare was posted on 2026-05-12.
+This ai / ml research position at GE HealthCare was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Barcelona, Catalonia, Spain |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Product-Development-AI-Engineer_JREQ135572) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Spain---Barcelona/Senior-Product-Development-AI-Engineer_JREQ135663) |
 
 ## About This Role
 
-This ai / llm engineer position at Clarivate was posted on 2026-05-11.
+This ai / llm engineer position at Clarivate was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

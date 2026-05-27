@@ -5,12 +5,12 @@
 | Company | [MGM Resorts International](https://scoutify.ai/companies/mgm-resorts-international?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Home-Office---US-NV/AI-Commercial---ML-Ops-Engineer_274763) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Home-Office---US-NV/AI-Commercial---ML-Ops-Engineer_275510) |
 
 ## About This Role
 
-This machine learning engineer position at MGM Resorts International was posted on 2026-04-27.
+This machine learning engineer position at MGM Resorts International was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

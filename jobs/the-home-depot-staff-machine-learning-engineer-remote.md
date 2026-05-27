@@ -1,16 +1,16 @@
-# Staff Machine Learning Engineer (Remote) at The Home Depot
+# Staff Machine Learning Engineer (REMOTE) at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Georgia, US |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Staff-Machine-Learning-Engineer--Remote-_Req169249) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Staff-Machine-Learning-Engineer--REMOTE-_Req180823) |
 
 ## About This Role
 
-This machine learning engineer position at The Home Depot was posted on 2026-02-25.
+This machine learning engineer position at The Home Depot was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Bild AI](https://scoutify.ai/companies/bild-ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-ai-engineer) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/bild-ai/jobs/Q1T0Imf-founding-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Bild AI was posted on 2026-05-12.
+This ai / llm engineer position at Bild AI was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Brownhealth](https://scoutify.ai/companies/brownhealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Providence, Rhode Island, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Rhode-Island-Hospital/Post-Doctoral-Rsrch-Assoc_JR-108414) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Brown-University-Health/Post-Doctoral-Rsrch-Assoc_JR-109727-1) |
 
 ## About This Role
 
-This ai / ml research position at Brownhealth was posted on 2026-04-10.
+This ai / ml research position at Brownhealth was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

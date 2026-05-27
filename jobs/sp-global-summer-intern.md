@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Islamabad, Islamabad, Pakistan |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Islamabad-PK/Summer-Intern_325708-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Summer-Intern_323204-1) |
 
 ## About This Role
 
-This ai / llm engineer position at S&P Global was posted on 2026-03-17.
+This machine learning engineer position at S&P Global was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

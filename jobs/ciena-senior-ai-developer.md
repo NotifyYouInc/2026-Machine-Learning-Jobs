@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Pune/Senior-AI-Developer_R030852) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Senior-AI-Developer_R030968) |
 
 ## About This Role
 
-This ai / llm engineer position at Ciena was posted on 2026-05-11.
+This ai / llm engineer position at Ciena was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
