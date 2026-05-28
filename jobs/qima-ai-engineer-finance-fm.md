@@ -5,12 +5,12 @@
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cebu City, Central Visayas, Philippines |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000126454439-ai-engineer-finance-fm) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000127576169-ai-engineer-finance-fm) |
 
 ## About This Role
 
-This ai / llm engineer position at QIMA was posted on 2026-05-14.
+This ai / llm engineer position at QIMA was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

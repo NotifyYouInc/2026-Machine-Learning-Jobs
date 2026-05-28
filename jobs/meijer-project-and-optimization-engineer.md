@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meijer](https://scoutify.ai/companies/meijer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Ohio, US |
-| Category | Project Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Tipp-City-OH-45371---Manufacturing-Complex/Project-and-Optimization-Engineer_R000646265) |
+| Location | Grandville, Michigan, United States |
+| Category | Industrial Automation |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grandville-MI-49418---Manufacturing-Complex-Remico-St/Project-and-Optimization-Engineer_R000670124) |
 
 ## About This Role
 
-This project manager position at Meijer was posted on 2026-02-17.
+This industrial automation position at Meijer was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

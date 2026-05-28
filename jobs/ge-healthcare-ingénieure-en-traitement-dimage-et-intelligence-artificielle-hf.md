@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | France |
-| Category | AI / ML Research |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Buc/Ingnieur-e--en-traitement-d-image-et-intelligence-artificielle-H-F_R4038842-2) |
+| Location | Buc, Île-de-France, France |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Buc/Ingnieur-e--en-traitement-d-image-et-intelligence-artificielle-H-F_R4041187-1) |
 
 ## About This Role
 
-This ai / ml research position at GE HealthCare was posted on 2026-03-30.
+This machine learning engineer position at GE HealthCare was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

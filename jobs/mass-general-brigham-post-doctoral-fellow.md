@@ -1,16 +1,16 @@
-# Post-Doctoral Fellow at Mass General Brigham
+# Post Doctoral Fellow at Mass General Brigham
 
 | Field | Details |
 |-------|---------|
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Belmont, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Charlestown-MA/Post-Doctoral-Fellow_RQ4061997) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Belmont-MA/Post-Doctoral-Fellow_RQ4064978) |
 
 ## About This Role
 
-This ai / ml research position at Mass General Brigham was posted on 2026-04-24.
+This ai / ml research position at Mass General Brigham was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

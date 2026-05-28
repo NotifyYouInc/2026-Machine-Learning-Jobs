@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7838466) |
+| Location | 2 locations |
+| Category | AI / ML Research |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7946521) |
 
 ## About This Role
 
-This ai / llm engineer position at Toast was posted on 2026-05-08.
+This ai / ml research position at Toast was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

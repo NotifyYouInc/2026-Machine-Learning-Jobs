@@ -5,12 +5,12 @@
 | Company | [Scale Army](https://scoutify.ai/companies/scale-army?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Egypt |
 | Category | AI / ML Research |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/8fad0221-2725-4543-aa92-5ce7eb418b90) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/50937f98-ce23-42ec-b28f-b45acb46a76b) |
 
 ## About This Role
 
-This ai / ml research position at Scale Army was posted on 2026-05-12.
+This ai / ml research position at Scale Army was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

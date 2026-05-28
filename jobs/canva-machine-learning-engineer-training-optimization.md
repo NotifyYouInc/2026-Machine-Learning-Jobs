@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001003945-machine-learning-engineer-training-optimization) |
+| Category | AI / ML Research |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001091890-machine-learning-engineer-training-optimization) |
 
 ## About This Role
 
-This machine learning engineer position at Canva was posted on 2026-04-16.
+This ai / ml research position at Canva was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

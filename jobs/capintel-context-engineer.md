@@ -5,12 +5,12 @@
 | Company | [CapIntel](https://scoutify.ai/companies/capintel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capintel/jobs/5111380007) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capintel/jobs/5143310007) |
 
 ## About This Role
 
-This ai / llm engineer position at CapIntel was posted on 2026-04-16.
+This ai / llm engineer position at CapIntel was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

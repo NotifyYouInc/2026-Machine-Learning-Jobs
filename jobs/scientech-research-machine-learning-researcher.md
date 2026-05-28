@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scientech Research](https://scoutify.ai/companies/scientech-research?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | New Jersey, US |
 | Category | AI / ML Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/scientech-research/c1672c16-dbea-4ea1-a427-07587fef886b) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scientech-research/b1eb5fed-4753-463d-9e3f-7683edc93522) |
 
 ## About This Role
 
-This ai / ml research position at Scientech Research was posted on 2026-05-19.
+This ai / ml research position at Scientech Research was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

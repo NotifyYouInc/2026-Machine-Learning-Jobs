@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vienna, Vienna, Austria |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vienna/Senior-Data---Machine-Learning-Engineer--all-genders-_R00323348) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vienna/Senior-Data---Machine-Learning-Engineer--all-genders-_R00329612) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-21.
+This data engineer position at Accenture was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

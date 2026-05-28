@@ -1,16 +1,16 @@
-# Machine Learning & AI Engineer at Devoteam
+# Machine Learning & AI Engineer  at Devoteam
 
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Indonesia |
+| Location | Not specified |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000112115407-machine-learning-ai-engineer) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000127453559-machine-learning-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Devoteam was posted on 2026-03-02.
+This ai / llm engineer position at Devoteam was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

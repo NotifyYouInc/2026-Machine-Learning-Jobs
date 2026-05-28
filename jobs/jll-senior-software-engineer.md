@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mexico |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/JaliscoMEX/Senior-Software-Engineer_REQ500139) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/TEL-AVIV-ISR/Senior-Software-Engineer_REQ506845) |
 
 ## About This Role
 
-This ai / llm engineer position at JLL was posted on 2026-04-17.
+This ai / llm engineer position at JLL was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

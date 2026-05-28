@@ -5,12 +5,12 @@
 | Company | [University Health Network](https://scoutify.ai/companies/universityhealthnetwork?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000125933299-faculty-ai-scientist-scientist-ii) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000127465504-faculty-ai-scientist-scientist-ii) |
 
 ## About This Role
 
-This ai / ml research position at University Health Network was posted on 2026-05-11.
+This ai / ml research position at University Health Network was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

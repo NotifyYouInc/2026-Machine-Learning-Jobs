@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8437639002) |
+| Category | AI / ML Research |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8526757002) |
 
 ## About This Role
 
-This ai / llm engineer position at Workato was posted on 2026-03-12.
+This ai / ml research position at Workato was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
