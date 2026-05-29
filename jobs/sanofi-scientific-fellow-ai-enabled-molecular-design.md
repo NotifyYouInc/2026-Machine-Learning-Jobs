@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Vitry-sur-Seine, Île-de-France, France |
 | Category | AI / ML Research |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Scientific-Fellow--AI-Enabled-Molecular-Design_R2857270-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/Scientific-Fellow--AI-Enabled-Molecular-Design_R2857905-1) |
 
 ## About This Role
 
-This ai / ml research position at Sanofi was posted on 2026-05-13.
+This ai / ml research position at Sanofi was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

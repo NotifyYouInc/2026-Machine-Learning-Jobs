@@ -1,16 +1,16 @@
-# Research Scientist at NielsenIQ
+# Research Scientist  at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113433727-research-scientist) |
+| Location | 2 locations |
+| Category | AI / ML Research |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127604539-research-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at NielsenIQ was posted on 2026-03-09.
+This ai / ml research position at NielsenIQ was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

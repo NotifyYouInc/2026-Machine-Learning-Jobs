@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Buenos-Aires-Argentina/Senior-Machine-Learning-Engineer_10141766) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Senior-Machine-Learning-Engineer_10151720) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-02-06.
+This machine learning engineer position at Disney was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

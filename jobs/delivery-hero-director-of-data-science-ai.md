@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | AI / ML Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127251148-director-of-data-science-ai) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127612479-director-of-data-science-ai) |
 
 ## About This Role
 
-This ai / ml research position at Delivery Hero was posted on 2026-05-19.
+This ai / ml research position at Delivery Hero was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

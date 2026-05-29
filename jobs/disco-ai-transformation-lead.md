@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DISCO](https://scoutify.ai/companies/disco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Austin, Texas, United States |
+| Location | United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.csdisco.com/careers-listing?gh_jid=8556714002) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.csdisco.com/careers-listing?gh_jid=8556716002) |
 
 ## About This Role
 
-This ai / ml research position at DISCO was posted on 2026-05-19.
+This ai / ml research position at DISCO was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

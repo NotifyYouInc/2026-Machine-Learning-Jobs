@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000116946952-senior-ai-mlops-engineer-aws-hf) |
+| Category | DevOps Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000127603119-senior-ai-mlops-engineer-aws-hf) |
 
 ## About This Role
 
-This machine learning engineer position at Devoteam was posted on 2026-03-26.
+This devops engineer position at Devoteam was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

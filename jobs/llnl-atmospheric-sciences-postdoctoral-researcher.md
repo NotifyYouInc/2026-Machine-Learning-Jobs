@@ -5,12 +5,12 @@
 | Company | [LLNL](https://scoutify.ai/companies/llnl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Livermore, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990013141896-atmospheric-sciences-postdoctoral-researcher) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990013263506-atmospheric-sciences-postdoctoral-researcher) |
 
 ## About This Role
 
-This ai / ml research position at LLNL was posted on 2026-05-14.
+This ai / ml research position at LLNL was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

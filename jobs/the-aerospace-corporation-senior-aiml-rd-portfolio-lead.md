@@ -5,12 +5,12 @@
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Senior-AI-ML-R-D-Portfolio-Lead_R014641) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Senior-AI-ML-R-D-Portfolio-Lead_R015474) |
 
 ## About This Role
 
-This ai / ml research position at The Aerospace Corporation was posted on 2026-03-03.
+This ai / ml research position at The Aerospace Corporation was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

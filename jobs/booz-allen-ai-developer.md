@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/AI-Developer_R0239908) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/AI-Developer_R0240823) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-05-12.
+This ai / ml research position at Booz Allen was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

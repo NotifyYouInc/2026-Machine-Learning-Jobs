@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001083551-ai-engineer) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001097724-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at NCS Australia was posted on 2026-05-18.
+This ai / llm engineer position at NCS Australia was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

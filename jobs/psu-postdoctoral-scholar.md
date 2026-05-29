@@ -5,12 +5,12 @@
 | Company | [Psu](https://scoutify.ai/companies/psu?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | University Park, Florida, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://psu.wd1.myworkdayjobs.com/psu_academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000074690-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://psu.wd1.myworkdayjobs.com/psu_academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000078153-1) |
 
 ## About This Role
 
-This ai / ml research position at Psu was posted on 2026-04-17.
+This ai / ml research position at Psu was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

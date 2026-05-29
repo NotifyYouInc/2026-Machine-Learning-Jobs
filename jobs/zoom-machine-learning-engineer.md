@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karlsruhe, Baden-Wurttemberg, Germany |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Karlsruhe-DEU/Machine-Learning-Engineer_R18721-1) |
+| Location | Seattle, Washington, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-Learning-Engineer_R19190) |
 
 ## About This Role
 
-This ai / llm engineer position at Zoom was posted on 2026-03-07.
+This machine learning engineer position at Zoom was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

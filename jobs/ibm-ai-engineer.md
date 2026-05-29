@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Location | Waterford, Munster, Ireland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109351) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109401) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-04-13.
+This ai / llm engineer position at IBM was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

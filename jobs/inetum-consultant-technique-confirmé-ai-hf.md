@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000127411529-consultant-technique-confirme-ai-hf) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000127681689-consultant-technique-confirme-ai-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at Inetum was posted on 2026-05-20.
+This ai / llm engineer position at Inetum was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

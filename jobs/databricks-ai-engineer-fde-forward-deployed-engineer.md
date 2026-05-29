@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United Kingdom |
+| Location | Munich, Bavaria, Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8560393002) |
 
 ## About This Role
 
-This ai / llm engineer position at Databricks was posted on 2026-05-15.
+This ai / llm engineer position at Databricks was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

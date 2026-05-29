@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | AI / ML Research |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/KOR---Seoul-South-Korea/AI-ML-Researcher--Multimodal-_JR2026506726-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/KOR---Seoul-South-Korea/AI-ML-Researcher--Multimodal-_JR2026510796-1) |
 
 ## About This Role
 
-This ai / ml research position at Boeing was posted on 2026-04-21.
+This ai / ml research position at Boeing was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

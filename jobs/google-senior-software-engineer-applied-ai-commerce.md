@@ -1,16 +1,16 @@
-# Senior Software Engineer, Applied AI Commerce at Google
+# Senior Software Engineer, Applied AI, Commerce at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRj_kLaicCVTiPniXxnbaMNkA3CUQryU8PyC9iFKBCinEjsACxwdTFPbmCA3Zle9LfDOZ6j_TKbKg-52LzkUwoR_EiiuSX0dPavKPsnGABDv2HShPMApVqz3GnM-hg%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
+| Category | AI / ML Research |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSG6Jd3S1-diOmq5hBWHBh4jRuNR02sPu5eCqgNY-qfUEjsACxwdTLCyrGsOw2Z4wgpdFcIs1dB57e6MOWOFlkc9cgKA3KdrJ5opriujMfnXEBgB0FAKRpa0_rAsgA%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-20.
+This ai / ml research position at Google was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

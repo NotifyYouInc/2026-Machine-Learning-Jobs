@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Madrid-Torre-Chamartin/LLM-Full-Stack-Engineer_14251002) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/LLM-Full-Stack-Engineer_ATCI-5562627-S2025168-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-17.
+This ai / llm engineer position at Accenture was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000125783906-stage-innovation-ingenieur-data-science-machine-learning) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127684108-stage-innovation-ingenieur-data-science-machine-learning) |
 
 ## About This Role
 
-This machine learning engineer position at ALTEN was posted on 2026-05-11.
+This machine learning engineer position at ALTEN was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
