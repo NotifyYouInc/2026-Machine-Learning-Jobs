@@ -1,16 +1,16 @@
-# Sr Machine Learning Engineer 4 at Adobe
+# Sr. Machine Learning Engineer 4 at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Jose, California, United States |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Machine-Learning-Engineer-4_R165400-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Machine-Learning-Engineer-4_R166104) |
 
 ## About This Role
 
-This machine learning engineer position at Adobe was posted on 2026-02-20.
+This machine learning engineer position at Adobe was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

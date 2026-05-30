@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10416660/applied-scientist-ii-trustworthy-shopping-experience-tse) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427840/applied-scientist-ii-trustworthy-shopping-experience-tse) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-12.
+This ai / ml research position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

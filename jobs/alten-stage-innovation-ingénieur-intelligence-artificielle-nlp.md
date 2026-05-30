@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sèvres, Île-de-France, France |
 | Category | AI / ML Research |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000125780865-stage-innovation-ingenieur-intelligence-artificielle-nlp) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127829265-stage-innovation-ingenieur-intelligence-artificielle-nlp) |
 
 ## About This Role
 
-This ai / ml research position at ALTEN was posted on 2026-05-11.
+This ai / ml research position at ALTEN was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

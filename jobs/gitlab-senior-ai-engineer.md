@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GitLab](https://scoutify.ai/companies/gitlab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8464072002) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8556658002) |
 
 ## About This Role
 
-This ai / llm engineer position at GitLab was posted on 2026-03-18.
+This ai / llm engineer position at GitLab was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
-| Category | Engineering Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7929218?gh_jid=7929218) |
+| Location | Sydney, New South Wales, Australia |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7929220?gh_jid=7929220) |
 
 ## About This Role
 
-This engineering manager position at Thoughtworks was posted on 2026-05-20.
+This ai / llm engineer position at Thoughtworks was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Sunnyvale, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116706454-senior-staff-ai-engineer-notifications-ai) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000127922010-senior-staff-ai-engineer-notifications-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at LinkedIn was posted on 2026-03-25.
+This ai / llm engineer position at LinkedIn was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

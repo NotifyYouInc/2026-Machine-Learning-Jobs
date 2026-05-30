@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Shanghai, Shanghai, China |
 | Category | Engineering Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12C-Floor-91011-Building-No-12B--Stilt-floor-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Optimization-Engineer_30206535) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3254-No3239-Shenjiang-Road-Shanghai-Pudong-New-Area-Shanghai-China/Optimization-Engineer_30206691-1) |
 
 ## About This Role
 
-This engineering manager position at Carrier Global was posted on 2026-05-21.
+This engineering manager position at Carrier Global was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

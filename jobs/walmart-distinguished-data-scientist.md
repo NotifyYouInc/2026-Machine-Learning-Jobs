@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bellevue-WA/Distinguished--Data-Scientist_R-2438203) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Distinguished--Data-Scientist_R-2515759) |
 
 ## About This Role
 
-This ai / ml research position at Walmart was posted on 2026-05-19.
+This ai / ml research position at Walmart was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

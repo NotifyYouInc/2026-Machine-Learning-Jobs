@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 3 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Toronto-Canada/Machine-Learning-Engineer--Specialist_176255) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Machine-Learning-Engineer--Specialist_178069-1) |
 
 ## About This Role
 
-This machine learning engineer position at Vanguard was posted on 2026-04-09.
+This machine learning engineer position at Vanguard was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

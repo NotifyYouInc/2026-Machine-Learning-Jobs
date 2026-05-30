@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Limonest, Rhône-Alpes, France |
 | Category | AI / ML Research |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127031289-alternance-ingenieur-developpement-ia-business-line-solutions-expertises-lyon) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127855929-alternance-ingenieur-developpement-ia-business-line-solutions-expertises-lyon) |
 
 ## About This Role
 
-This ai / ml research position at Sopra Steria was posted on 2026-05-18.
+This ai / ml research position at Sopra Steria was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

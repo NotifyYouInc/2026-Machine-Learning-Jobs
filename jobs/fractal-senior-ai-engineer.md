@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Senior-AI-Engineer_SR-40527) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/London/Senior-AI-Engineer_SR-42426) |
 
 ## About This Role
 
-This ai / llm engineer position at Fractal was posted on 2026-03-23.
+This ai / llm engineer position at Fractal was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

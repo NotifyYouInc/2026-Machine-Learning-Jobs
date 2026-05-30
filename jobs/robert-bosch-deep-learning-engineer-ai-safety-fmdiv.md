@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Braga, Braga, Portugal |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111796835-deep-learning-engineer-ai-safety-fmdiv) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127913891-deep-learning-engineer-ai-safety-fmdiv) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-02-27.
+This machine learning engineer position at Robert Bosch was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

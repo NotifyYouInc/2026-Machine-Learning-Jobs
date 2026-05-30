@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Archer](https://scoutify.ai/companies/archer56?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/archer56/jobs/7675960003) |
+| Category | Engineering Manager |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/archer56/jobs/7742987003) |
 
 ## About This Role
 
-This software engineer position at Archer was posted on 2026-03-23.
+This engineering manager position at Archer was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

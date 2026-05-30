@@ -5,12 +5,12 @@
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000124952576-applied-scientist) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000127892520-applied-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at ASOS was posted on 2026-05-06.
+This machine learning engineer position at ASOS was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

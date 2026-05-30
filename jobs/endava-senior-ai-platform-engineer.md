@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000127018231-senior-ai-platform-engineer) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000127938079-senior-ai-platform-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Endava was posted on 2026-05-18.
+This ai / llm engineer position at Endava was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

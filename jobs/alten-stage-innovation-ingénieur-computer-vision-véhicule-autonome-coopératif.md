@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sèvres, Île-de-France, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000125776978-stage-innovation-ingenieur-computer-vision-vehicule-autonome-cooperatif) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127831524-stage-innovation-ingenieur-computer-vision-vehicule-autonome-cooperatif) |
 
 ## About This Role
 
-This machine learning engineer position at ALTEN was posted on 2026-05-11.
+This machine learning engineer position at ALTEN was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

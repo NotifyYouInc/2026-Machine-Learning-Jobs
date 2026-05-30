@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Alphen aan den Rijn, South Holland, The Netherlands |
+| Location | Mechelen, Flanders, Belgium |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/NLD---Alphen-Aan-Den-Rijn/Senior-AI-Engineer--Libra---Legal-AI-Assistant-_R0057074) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/BEL---Mechelen/Senior-AI-Engineer--Libra---Legal-AI-Assistant-_R0057605) |
 
 ## About This Role
 
-This ai / llm engineer position at Wolters Kluwer was posted on 2026-05-08.
+This ai / llm engineer position at Wolters Kluwer was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

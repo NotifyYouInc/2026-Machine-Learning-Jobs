@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Philippines |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Principal-AI-Engineer_R0117191-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Principal-AI-Engineer_R0119725-1) |
 
 ## About This Role
 
-This ai / llm engineer position at LSEG was posted on 2026-03-12.
+This ai / llm engineer position at LSEG was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
