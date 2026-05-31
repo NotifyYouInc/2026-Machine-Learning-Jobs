@@ -1,16 +1,16 @@
-# Senior Forward Deployed Engineer at UiPath
+# Senior Software Engineer, AI Platform at Mixpanel
 
 | Field | Details |
 |-------|---------|
-| Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bellevue, Washington, United States |
+| Company | [Mixpanel](https://scoutify.ai/companies/mixpanel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/be6ee43b-ec07-40c3-828f-373decf0ed8b) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mixpanel/jobs/7941944) |
 
 ## About This Role
 
-This ai / llm engineer position at UiPath was posted on 2026-05-21.
+This ai / llm engineer position at Mixpanel was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

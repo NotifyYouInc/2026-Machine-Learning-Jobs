@@ -1,16 +1,16 @@
-# Senior Forward Deployed Engineer at UiPath
+# GenAI Automation Engineer at JFrog
 
 | Field | Details |
 |-------|---------|
-| Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bellevue, Washington, United States |
+| Company | [JFrog](https://scoutify.ai/companies/jfrog?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/be6ee43b-ec07-40c3-828f-373decf0ed8b) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://join.jfrog.com/job/?job=7939091&gh_jid=7939091) |
 
 ## About This Role
 
-This ai / llm engineer position at UiPath was posted on 2026-05-21.
+This ai / llm engineer position at JFrog was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

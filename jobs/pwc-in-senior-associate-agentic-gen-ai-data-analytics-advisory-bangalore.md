@@ -1,4 +1,4 @@
-# IN_Senior Associate _Agentic + Gen AI__AI-50_ Advisory_ Bangalore at PwC
+# IN_Senior Associate _Agentic + Gen AI__Data Analytics_ Advisory_ Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
 | Posted | 2026-05-24 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Agentic---Gen-AI--AI-50--Advisory--Bangalore_728934WD-1) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Agentic---Gen-AI--Data-Analytics--Advisory--Bangalore_728919WD-2) |
 
 ## About This Role
 
