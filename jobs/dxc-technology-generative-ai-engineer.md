@@ -1,16 +1,16 @@
-# AI Engineer at VectorShift
+# Generative AI Engineer  at DXC Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [VectorShift](https://scoutify.ai/companies/vectorshift?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 9 locations |
 | Category | AI / LLM Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/vectorshift/jobs/dYDBr4f-ai-engineer) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Generative-AI-Engineer-_51578924) |
 
 ## About This Role
 
-This ai / llm engineer position at VectorShift was posted on 2026-05-25.
+This ai / llm engineer position at DXC Technology was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

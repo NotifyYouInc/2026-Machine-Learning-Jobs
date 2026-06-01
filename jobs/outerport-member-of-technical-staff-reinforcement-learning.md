@@ -1,16 +1,16 @@
-# Senior Machine Learning Scientist (USA Remote) at Turnitin
+# Member of Technical Staff, Reinforcement Learning at Outerport
 
 | Field | Details |
 |-------|---------|
-| Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dallas, Texas, United States |
+| Company | [Outerport](https://scoutify.ai/companies/outerport?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
 | Posted | 2026-05-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000128041159-senior-machine-learning-scientist-usa-remote) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/outerport/jobs/mWxrJo8-member-of-technical-staff-reinforcement-learning) |
 
 ## About This Role
 
-This machine learning engineer position at Turnitin was posted on 2026-05-24.
+This machine learning engineer position at Outerport was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

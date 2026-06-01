@@ -1,16 +1,16 @@
-# Senior Data Scientist (LLM Post-Training) at Grab
+# AI Enablement Partner - HR at Canva
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | AI / ML Research |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000128187169-senior-data-scientist-llm-post-training) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001101018-ai-enablement-partner-hr) |
 
 ## About This Role
 
-This ai / ml research position at Grab was posted on 2026-05-25.
+This ai / ml research position at Canva was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# AI/ML Expert at Robert Bosch
+# Manager, Software Development at Anaplan
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
-| Category | AI / ML Research |
+| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Gurugram, Haryana, India |
+| Category | Engineering Manager |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128179860-aiml-expert) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8562574002) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-05-25.
+This engineering manager position at Anaplan was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

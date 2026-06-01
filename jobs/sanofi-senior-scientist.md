@@ -1,16 +1,16 @@
-# Senior Data Scientist (LLM Post-Training) at Grab
+# Senior Scientist at Sanofi
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Cambridge, Massachusetts, United States |
 | Category | AI / ML Research |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000128187169-senior-data-scientist-llm-post-training) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Senior-Scientist_R2857839-1) |
 
 ## About This Role
 
-This ai / ml research position at Grab was posted on 2026-05-25.
+This ai / ml research position at Sanofi was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

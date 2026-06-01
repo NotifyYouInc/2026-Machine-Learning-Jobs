@@ -1,12 +1,12 @@
-# Responsible AI Tech Lead at Accenture
+# Data & AI Consultant at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | AI / ML Research |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Responsible-AI-Tech-Lead_ATCI-5310525-S1940387-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Canberra-Brindabella-Business-Park/Data---AI-Consultant_14328924) |
 
 ## About This Role
 

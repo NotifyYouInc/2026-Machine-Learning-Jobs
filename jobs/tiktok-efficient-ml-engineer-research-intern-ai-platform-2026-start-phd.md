@@ -1,16 +1,16 @@
-# Efficient ML Engineer Research Intern, (AI Platform) - 2026 Start (PhD) at TikTok
+# Efficient ML Engineer Research Intern (AI Platform) - 2026 Start (PhD) at TikTok
 
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7621663697945200949/detail) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7642827146549446965/detail) |
 
 ## About This Role
 
-This ai / ml research position at TikTok was posted on 2026-04-11.
+This ai / ml research position at TikTok was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

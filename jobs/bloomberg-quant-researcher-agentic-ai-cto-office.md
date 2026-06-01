@@ -1,16 +1,16 @@
-# AI Engineer at VectorShift
+# Quant Researcher - Agentic AI CTO Office at Bloomberg
 
 | Field | Details |
 |-------|---------|
-| Company | [VectorShift](https://scoutify.ai/companies/vectorshift?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/vectorshift/jobs/dYDBr4f-ai-engineer) |
+| Category | Engineering Manager |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Quant-Researcher-Agentic-AI-CTO-Office/18880) |
 
 ## About This Role
 
-This ai / llm engineer position at VectorShift was posted on 2026-05-25.
+This engineering manager position at Bloomberg was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

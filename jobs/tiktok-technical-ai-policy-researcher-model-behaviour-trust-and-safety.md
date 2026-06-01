@@ -1,16 +1,16 @@
-# Senior Data Scientist (LLM Post-Training) at Grab
+# Technical AI Policy Researcher, Model Behaviour - Trust and Safety at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Francisco, California, United States |
 | Category | AI / ML Research |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000128187169-senior-data-scientist-llm-post-training) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7642509022655301941/detail) |
 
 ## About This Role
 
-This ai / ml research position at Grab was posted on 2026-05-25.
+This ai / ml research position at TikTok was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

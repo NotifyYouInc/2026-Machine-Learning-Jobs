@@ -1,16 +1,16 @@
-# Senior Data Scientist (LLM Post-Training) at Grab
+# 【Y2026暑期實習】AW0310-AI MCP 應用開發實習生 at Wistron NeWeb
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Wistron NeWeb](https://scoutify.ai/companies/wistron-neweb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Taiwan |
 | Category | AI / ML Research |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000128187169-senior-data-scientist-llm-post-training) |
+| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/20/XMLNAME--Y2026-AW0310-AI-MCP-_REQ_260511353-1) |
 
 ## About This Role
 
-This ai / ml research position at Grab was posted on 2026-05-25.
+This ai / ml research position at Wistron NeWeb was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

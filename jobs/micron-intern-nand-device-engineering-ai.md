@@ -1,16 +1,16 @@
-# Senior Machine Learning Scientist (USA Remote) at Turnitin
+# Intern - NAND Device Engineering AI at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dallas, Texas, United States |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
 | Posted | 2026-05-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000128041159-senior-machine-learning-scientist-usa-remote) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR101360) |
 
 ## About This Role
 
-This machine learning engineer position at Turnitin was posted on 2026-05-24.
+This machine learning engineer position at Micron was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

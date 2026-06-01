@@ -1,16 +1,16 @@
-# Senior Data Scientist (LLM Post-Training) at Grab
+# Applied Scientist, RBS Tech at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000128187169-senior-data-scientist-llm-post-training) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429156/applied-scientist-rbs-tech) |
 
 ## About This Role
 
-This ai / ml research position at Grab was posted on 2026-05-25.
+This ai / ml research position at Amazon was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# AI Engineer at IBM
+# Principal Machine Learning Engineer- LLM Fine-tuning and Optimization  at Airbnb
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116394) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7955579?gh_jid=7955579) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-05-21.
+This ai / llm engineer position at Airbnb was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 
