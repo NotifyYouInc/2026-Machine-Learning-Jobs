@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
 | Category | AI / ML Research |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123631519-phd-scholarship-in-software-and-hardware) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128215269-phd-scholarship-in-software-and-hardware) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-04-29.
+This ai / ml research position at Robert Bosch was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

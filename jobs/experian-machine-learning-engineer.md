@@ -1,16 +1,16 @@
-# MACHINE LEARNING ENGINEER at Experian
+# Machine Learning Engineer at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Colombia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000114726737-machine-learning-engineer) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000128241149-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Experian was posted on 2026-03-13.
+This machine learning engineer position at Experian was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

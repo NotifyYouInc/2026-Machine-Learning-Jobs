@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Maassluis, South Holland, The Netherlands |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000125863309-development-of-a-deep-learningbased-detection-model-for-barn-environments) |
+| Category | Robotics Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000128237909-development-of-a-deep-learningbased-detection-model-for-barn-environments) |
 
 ## About This Role
 
-This machine learning engineer position at Lely was posted on 2026-05-11.
+This robotics engineer position at Lely was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

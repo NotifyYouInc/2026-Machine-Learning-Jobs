@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 31 locations |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | AI / ML Research |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckStMCJWTIKqTsL6VcldjGNjUr0Kyp2A6_C7x2VdejBJfEjsACxwdTEjLB4CowpOkS8QijeAKz9bbkQQw3XicDUW9nVNOe_QstUrot0cxWEjMXJ6j6dXC58RIj6tN-w%3D%3D_V2&loc=US&title=Forward+Deployed+Engineer+I) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSF0Hvwlzc_hF1d5vYtpImoCrpMUMwkXGrVMPL0pxUL0EjsACxwdTN6ZVSbkGHPLl-XoHYCX5yqi6LEjI3QASEFiVYLWWsSb9hNjtK2Rx3qhiiofVh7dm3_2VZwW6w%3D%3D_V2&loc=AE&title=Forward+Deployed+Engineer+I) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-05-18.
+This ai / ml research position at Google was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

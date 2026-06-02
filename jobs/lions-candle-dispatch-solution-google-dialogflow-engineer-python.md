@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Ahmedabad, Gujarat, India |
+| Location | Toronto, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000127171891-google-dialogflow-engineer-python) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000128206349-google-dialogflow-engineer-python) |
 
 ## About This Role
 
-This ai / llm engineer position at Lions Candle-Dispatch Solution was posted on 2026-05-19.
+This ai / llm engineer position at Lions Candle-Dispatch Solution was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

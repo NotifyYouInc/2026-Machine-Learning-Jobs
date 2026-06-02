@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cast AI](https://scoutify.ai/companies/cast-ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bulgaria |
+| Location | Romania |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://cast.ai/careers/apply/?gh_jid=4235255009) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://cast.ai/careers/apply/?gh_jid=4258351009) |
 
 ## About This Role
 
-This ai / llm engineer position at Cast AI was posted on 2026-04-30.
+This ai / llm engineer position at Cast AI was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

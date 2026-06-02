@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Valencia, Valencia, Spain |
+| Location | Warsaw, Mazovia, Poland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000123125464-ai-engineer-fm-remote) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000128225799-ai-engineer-fm-remote) |
 
 ## About This Role
 
-This ai / llm engineer position at QIMA was posted on 2026-04-27.
+This ai / llm engineer position at QIMA was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012629337-data-science-engineer) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013284626-data-science-engineer) |
 
 ## About This Role
 
-This software engineer position at Wabtec was posted on 2026-04-16.
+This software engineer position at Wabtec was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

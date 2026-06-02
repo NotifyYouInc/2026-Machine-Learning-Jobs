@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inbank](https://scoutify.ai/companies/inbank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/inbank/jobs/4853001101) |
+| Location | Gdańsk, Pomerania, Poland |
+| Category | AI / ML Research |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/inbank/jobs/4874521101) |
 
 ## About This Role
 
-This ai / llm engineer position at Inbank was posted on 2026-04-28.
+This ai / ml research position at Inbank was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

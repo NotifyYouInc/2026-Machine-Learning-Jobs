@@ -5,12 +5,12 @@
 | Company | [Provectus](https://scoutify.ai/companies/provectus?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Medellín, Antioquia, Colombia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.lever.co/provectus/80974afc-4b30-498e-ab02-8f4aa6d0a654) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.lever.co/provectus/76640225-4aa7-45a3-bcdc-cb156271057b) |
 
 ## About This Role
 
-This machine learning engineer position at Provectus was posted on 2026-05-15.
+This machine learning engineer position at Provectus was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
