@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bilue](https://scoutify.ai/companies/bilue?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Philippines |
+| Location | Sydney, New South Wales, Australia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/bilue/744000124809180-senior-ai-engineer) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/bilue/744000124335911-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Bilue was posted on 2026-05-06.
+This ai / llm engineer position at Bilue was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

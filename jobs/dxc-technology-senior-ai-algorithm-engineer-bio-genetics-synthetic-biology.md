@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Wuhan, Hubei, China |
 | Category | AI / ML Research |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---WUHAN/Senior-AI-Algorithm-Engineer--Bio-genetics---Synthetic-Biology-_51580595) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---WUHAN/Senior-AI-Algorithm-Engineer--Bio-genetics---Synthetic-Biology-_51581227-1) |
 
 ## About This Role
 
-This ai / ml research position at DXC Technology was posted on 2026-05-18.
+This ai / ml research position at DXC Technology was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
