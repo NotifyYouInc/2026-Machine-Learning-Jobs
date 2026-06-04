@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / ML Research |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Cloud-Engineering-Lead-Analyst---HIH---Evernorth_26004867) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Cloud-Engineering-Lead-Analyst---HIH---Evernorth_26006156) |
 
 ## About This Role
 
-This ai / ml research position at Cigna was posted on 2026-05-18.
+This ai / llm engineer position at Cigna was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Montevideo, Montevideo Department, Uruguay |
+| Location | Hyderabad, Telangana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000126997279-senior-ai-engineer) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000128663416-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Blend360 was posted on 2026-05-18.
+This ai / llm engineer position at Blend360 was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

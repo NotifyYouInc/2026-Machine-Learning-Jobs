@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | AI / ML Research |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Manager-Data-Scientist-Gen-AI-Data---Analytics-Advisory-PAN-India_703957WD-1) |
+| Location | Kolkata, West Bengal, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Senior-Associate-Data-Scientist-Gen-AI-Data---Analytics-Advisory-PAN-India_716851WD-2) |
 
 ## About This Role
 
-This ai / ml research position at PwC was posted on 2026-05-22.
+This machine learning engineer position at PwC was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

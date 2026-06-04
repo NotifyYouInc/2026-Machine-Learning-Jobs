@@ -5,12 +5,12 @@
 | Company | [Wyetech](https://scoutify.ai/companies/wyetech?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Maryland, US |
 | Category | AI / ML Research |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.lever.co/wyetechllc/a6b3fa01-fdf7-499d-833a-d2495fcdd33a) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.lever.co/wyetechllc/9bc5e3f9-247a-4f71-aa14-566721cd8409) |
 
 ## About This Role
 
-This ai / ml research position at Wyetech was posted on 2026-04-16.
+This ai / ml research position at Wyetech was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [F5](https://scoutify.ai/companies/f5?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Sr-Software-Engineer---Agentic-AI_RP1037435) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Bangalore-Non-SEZ/Sr-Software-Engineer---Agentic-AI_RP1037436-1) |
 
 ## About This Role
 
-This ai / llm engineer position at F5 was posted on 2026-05-06.
+This ai / llm engineer position at F5 was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

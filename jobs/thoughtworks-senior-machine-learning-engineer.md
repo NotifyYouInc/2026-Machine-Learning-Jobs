@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7719535?gh_jid=7719535) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7920269?gh_jid=7920269) |
 
 ## About This Role
 
-This machine learning engineer position at Thoughtworks was posted on 2026-04-10.
+This machine learning engineer position at Thoughtworks was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

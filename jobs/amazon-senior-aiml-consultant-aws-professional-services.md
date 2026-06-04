@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Perth, Western Australia, Australia |
 | Category | AI / ML Research |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412199/senior-ai-ml-consultant-aws-professional-services) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10431153/senior-ai-ml-consultant-aws-professional-services) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-25.
+This ai / ml research position at Amazon was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

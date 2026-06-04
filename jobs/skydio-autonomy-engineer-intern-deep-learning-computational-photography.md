@@ -5,12 +5,12 @@
 | Company | [Skydio](https://scoutify.ai/companies/skydio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Switzerland |
 | Category | Robotics Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skydio/6280ab1d-147d-4f39-8618-a216c18ce0f9) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skydio/92a7a891-d332-459c-9aa8-e96afea4f2a4) |
 
 ## About This Role
 
-This robotics engineer position at Skydio was posted on 2026-04-21.
+This robotics engineer position at Skydio was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

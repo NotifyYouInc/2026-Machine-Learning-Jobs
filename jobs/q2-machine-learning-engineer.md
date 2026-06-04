@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Q2](https://scoutify.ai/companies/q2ebanking?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cary, North Carolina, United States |
+| Location | Austin, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Machine-Learning-Engineer_REQ-12359) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Machine-Learning-Engineer_REQ-12289) |
 
 ## About This Role
 
-This machine learning engineer position at Q2 was posted on 2026-05-01.
+This machine learning engineer position at Q2 was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

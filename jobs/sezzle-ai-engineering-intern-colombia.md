@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/6542539003) |
+| Location | Colombia |
+| Category | AI / ML Research |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7750230003) |
 
 ## About This Role
 
-This machine learning engineer position at Sezzle was posted on 2026-02-25.
+This ai / ml research position at Sezzle was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Skydio](https://scoutify.ai/companies/skydio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Mateo, California, United States |
+| Location | Switzerland |
 | Category | Robotics Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skydio/b6be08f7-89c0-48dd-b427-f587f23dbf34) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skydio/7a611e90-4034-4e35-acce-388f48f7d3c0) |
 
 ## About This Role
 
-This robotics engineer position at Skydio was posted on 2026-05-07.
+This robotics engineer position at Skydio was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

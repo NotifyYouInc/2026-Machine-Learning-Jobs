@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013246396-director-of-ai-solutions) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013322086-director-of-ai-solutions) |
 
 ## About This Role
 
-This ai / ml research position at City of New York was posted on 2026-05-21.
+This ai / ml research position at City of New York was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

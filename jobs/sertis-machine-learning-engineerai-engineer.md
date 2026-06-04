@@ -5,12 +5,12 @@
 | Company | [Sertis](https://scoutify.ai/companies/sertis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | AI / ML Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sertis/jobs/8555868002) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sertis/jobs/8566052002) |
 
 ## About This Role
 
-This ai / ml research position at Sertis was posted on 2026-05-19.
+This ai / ml research position at Sertis was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

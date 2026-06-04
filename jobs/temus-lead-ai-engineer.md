@@ -5,12 +5,12 @@
 | Company | [Temus](https://scoutify.ai/companies/temus?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/temus/jobs/5166363008) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/temus/jobs/5233700008) |
 
 ## About This Role
 
-This ai / llm engineer position at Temus was posted on 2026-03-26.
+This ai / llm engineer position at Temus was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
