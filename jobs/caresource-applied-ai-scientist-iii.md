@@ -5,12 +5,12 @@
 | Company | [CareSource](https://scoutify.ai/companies/caresource?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Applied-AI-Scientist-III_R12616-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Applied-AI-Scientist-III_R12863) |
 
 ## About This Role
 
-This ai / ml research position at CareSource was posted on 2026-04-27.
+This ai / ml research position at CareSource was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

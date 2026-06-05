@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northeastern University](https://scoutify.ai/companies/northeastern?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Portland, Oregon, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://northeastern.wd1.myworkdayjobs.com/careers/job/Charlotte-NC/Postdoctoral-Research-Fellow_R140000) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://northeastern.wd1.myworkdayjobs.com/careers/job/Portland-ME/Postdoctoral-Research-Fellow_R140142) |
 
 ## About This Role
 
-This ai / ml research position at Northeastern University was posted on 2026-05-14.
+This ai / ml research position at Northeastern University was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

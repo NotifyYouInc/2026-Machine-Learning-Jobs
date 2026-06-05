@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | AI / ML Research |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120304954-lead-data-scientist) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000128999675-lead-data-scientist) |
 
 ## About This Role
 
-This ai / ml research position at NielsenIQ was posted on 2026-04-13.
+This ai / ml research position at NielsenIQ was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

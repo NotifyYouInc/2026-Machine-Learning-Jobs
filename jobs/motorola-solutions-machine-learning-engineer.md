@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Machine-Learning-Engineer_R63860) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Machine-Learning-Engineer_R65344) |
 
 ## About This Role
 
-This machine learning engineer position at Motorola Solutions was posted on 2026-04-14.
+This machine learning engineer position at Motorola Solutions was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

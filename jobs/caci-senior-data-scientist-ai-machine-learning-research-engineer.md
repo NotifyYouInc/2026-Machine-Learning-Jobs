@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | Sterling, Virginia, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Denver/Senior-Data-Scientist---AI-Machine-Learning-Research-Engineer_325553) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/0T5-STERLING-VA/Senior-Data-Scientist---AI-Machine-Learning-Research-Engineer_327025) |
 
 ## About This Role
 
-This ai / ml research position at CACI was posted on 2026-04-30.
+This ai / ml research position at CACI was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

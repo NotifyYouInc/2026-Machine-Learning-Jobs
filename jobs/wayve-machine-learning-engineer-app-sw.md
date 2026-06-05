@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8435254002) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8568694002) |
 
 ## About This Role
 
-This machine learning engineer position at Wayve was posted on 2026-02-27.
+This machine learning engineer position at Wayve was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

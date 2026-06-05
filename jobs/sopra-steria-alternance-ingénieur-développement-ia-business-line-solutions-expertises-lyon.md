@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Limonest, Rhône-Alpes, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000128665615-alternance-ingenieur-developpement-ia-business-line-solutions-expertises-lyon) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000128990090-alternance-ingenieur-developpement-ia-business-line-solutions-expertises-lyon) |
 
 ## About This Role
 
-This ai / llm engineer position at Sopra Steria was posted on 2026-05-27.
+This ai / llm engineer position at Sopra Steria was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wing Assistant](https://scoutify.ai/companies/wing-assistant?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
 | Category | AI / ML Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.lever.co/getwingapp/d49227dd-1046-4c2f-a258-2261657d0e38) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.lever.co/getwingapp/52335021-831d-4c8c-88f3-d222036a67d0) |
 
 ## About This Role
 
-This ai / ml research position at Wing Assistant was posted on 2026-05-19.
+This ai / ml research position at Wing Assistant was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

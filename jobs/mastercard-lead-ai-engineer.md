@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | O'Fallon, Missouri, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Lead-AI-Engineer_R-277460) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead-AI-Engineer_R-275832-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-05-06.
+This ai / llm engineer position at Mastercard was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

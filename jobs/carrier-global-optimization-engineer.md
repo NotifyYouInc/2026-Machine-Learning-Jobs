@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Sweden |
 | Category | Engineering Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3254-No3239-Shenjiang-Road-Shanghai-Pudong-New-Area-Shanghai-China/Optimization-Engineer_30206691-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Arods-Industrivag-32-422-43-Hisings-Backa/Optimization-Engineer_30207076-1) |
 
 ## About This Role
 
-This engineering manager position at Carrier Global was posted on 2026-05-22.
+This engineering manager position at Carrier Global was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

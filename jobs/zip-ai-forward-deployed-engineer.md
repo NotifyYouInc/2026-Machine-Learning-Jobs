@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zip](https://scoutify.ai/companies/zip?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Israel |
 | Category | AI / ML Research |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/zip/5bb93da5-78ab-47b1-b31a-8bb7fb84fc8d) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/zip/e2028eab-0e30-48ea-b6a2-afae2715e192) |
 
 ## About This Role
 
-This ai / ml research position at Zip was posted on 2026-05-22.
+This ai / ml research position at Zip was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

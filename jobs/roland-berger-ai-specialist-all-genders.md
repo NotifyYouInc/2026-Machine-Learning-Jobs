@@ -5,12 +5,12 @@
 | Company | [Roland Berger](https://scoutify.ai/companies/rolandberger?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | AI / ML Research |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000127846715-ai-specialist-all-genders) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000129109518-ai-specialist-all-genders) |
 
 ## About This Role
 
-This ai / ml research position at Roland Berger was posted on 2026-05-22.
+This ai / ml research position at Roland Berger was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

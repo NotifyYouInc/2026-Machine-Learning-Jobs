@@ -5,12 +5,12 @@
 | Company | [LLNL](https://scoutify.ai/companies/llnl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Livermore, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990012760276-data-science-engineer) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990013362116-data-science-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at LLNL was posted on 2026-04-21.
+This machine learning engineer position at LLNL was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Brainlab](https://scoutify.ai/companies/brainlab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000127186473-advancedsenior-machine-learning-engineer-medical-imaging) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000128864110-advancedsenior-machine-learning-engineer-medical-imaging) |
 
 ## About This Role
 
-This machine learning engineer position at Brainlab was posted on 2026-05-19.
+This machine learning engineer position at Brainlab was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

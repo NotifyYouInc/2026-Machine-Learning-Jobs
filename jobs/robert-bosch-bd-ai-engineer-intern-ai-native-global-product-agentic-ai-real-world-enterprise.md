@@ -1,16 +1,16 @@
-# [BD] AI Engineer Intern (AI-Native Global Product | Agentic AI | Real-World Enterprise Systems) - 6 months Internship at Robert Bosch
+# [BD] AI Engineer Intern (AI-Native Global Product | Agentic AI | Real-World Enterprise Systems) - 6-month Internship at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vietnam |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123068869-bd-ai-engineer-intern-ai-native-global-product-agentic-ai-real-world-enterprise-systems-6-months-internship) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128918241-bd-ai-engineer-intern-ai-native-global-product-agentic-ai-real-world-enterprise-systems-6-month-internship) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-04-26.
+This ai / llm engineer position at Robert Bosch was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

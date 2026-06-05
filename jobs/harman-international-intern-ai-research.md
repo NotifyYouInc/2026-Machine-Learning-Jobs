@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Suzhou, Jiangsu, China |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Suzhou---Jiangsu-China/Intern--AI-Research_R-51584-2026) |
+| Category | AI / ML Research |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Suzhou---Jiangsu-China/Intern--AI-Research_R-53465-2026) |
 
 ## About This Role
 
-This machine learning engineer position at HARMAN International was posted on 2026-02-23.
+This ai / ml research position at HARMAN International was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

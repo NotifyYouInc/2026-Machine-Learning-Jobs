@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Research-Scientist--Generative-Models-for-Scientific-Discovery-_R2611980-1) |
+| Category | AI / ML Research |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Research-Scientist--Generative-Models-for-Scientific-Discovery-_R2620768) |
 
 ## About This Role
 
-This machine learning engineer position at Applied Materials was posted on 2026-02-02.
+This ai / ml research position at Applied Materials was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
