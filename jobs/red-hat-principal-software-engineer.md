@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Principal-Software-Engineer_R-053389) |
+| Location | Florida, US |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-FL/Principal-Software-Engineer_R-053076) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-02-11.
+This ai / llm engineer position at Red Hat was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

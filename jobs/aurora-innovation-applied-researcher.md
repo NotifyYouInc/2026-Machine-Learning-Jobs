@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aurora Innovation](https://scoutify.ai/companies/aurora-innovation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://aurora.tech/jobs/8499758002?gh_jid=8499758002) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://aurora.tech/jobs/8571282002?gh_jid=8571282002) |
 
 ## About This Role
 
-This ai / ml research position at Aurora Innovation was posted on 2026-05-27.
+This ai / ml research position at Aurora Innovation was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

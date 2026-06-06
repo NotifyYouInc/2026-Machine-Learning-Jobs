@@ -5,12 +5,12 @@
 | Company | [McGill University](https://scoutify.ai/companies/mcgill?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Montreal-Neuro/Research-Associate_JR0000075968) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Montreal-Neuro/Research-Associate_JR0000077129) |
 
 ## About This Role
 
-This ai / ml research position at McGill University was posted on 2026-05-11.
+This ai / ml research position at McGill University was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

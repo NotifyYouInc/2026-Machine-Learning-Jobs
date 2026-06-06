@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000110870208-ai-engineer-nexus-black) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000129230189-ai-engineer-nexus-black) |
 
 ## About This Role
 
-This ai / llm engineer position at IFS was posted on 2026-02-23.
+This ai / llm engineer position at IFS was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

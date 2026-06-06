@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Broomfield, Colorado, United States |
+| Location | Fort Collins, Colorado, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5135687007?gh_jid=5135687007) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5150296007?gh_jid=5150296007) |
 
 ## About This Role
 
-This ai / ml research position at Anduril was posted on 2026-05-12.
+This ai / ml research position at Anduril was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

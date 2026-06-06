@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Trust & Safety |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Senior-Fraud-Modeler_R-10379202) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/E-Payments-Risk-Data-Scientist--Machine-Learning-_R-10379206-1) |
 
 ## About This Role
 
-This trust & safety position at Fiserv was posted on 2026-04-09.
+This trust & safety position at Fiserv was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

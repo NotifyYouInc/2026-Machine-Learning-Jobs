@@ -5,12 +5,12 @@
 | Company | [TomTom](https://scoutify.ai/companies/tomtom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.eu.lever.co/tomtom/7c4b504e-7600-4473-adcb-4278aebb41d0) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.eu.lever.co/tomtom/e91cebb1-8d4c-4577-aa69-1df15db64984) |
 
 ## About This Role
 
-This machine learning engineer position at TomTom was posted on 2026-04-24.
+This machine learning engineer position at TomTom was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

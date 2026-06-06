@@ -5,12 +5,12 @@
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4837087101?gh_jid=4837087101) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4877883101?gh_jid=4877883101) |
 
 ## About This Role
 
-This ai / ml research position at NiCE was posted on 2026-05-19.
+This ai / ml research position at NiCE was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

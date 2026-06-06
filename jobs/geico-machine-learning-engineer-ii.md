@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | Bethesda, Maryland, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/New-York-City-NY/Machine-Learning-Engineer-II_R0064183) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Machine-Learning-Engineer-II_R0064169) |
 
 ## About This Role
 
-This machine learning engineer position at Geico was posted on 2026-05-27.
+This machine learning engineer position at Geico was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

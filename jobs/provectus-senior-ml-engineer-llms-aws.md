@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Provectus](https://scoutify.ai/companies/provectus?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Ukraine |
-| Category | Machine Learning Engineer |
+| Location | Yerevan, Yerevan, Armenia |
+| Category | AI / ML Research |
 | Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.lever.co/provectus/8d3ce7ce-7ee9-4714-b025-da7493a2d96e) |
+| Apply | [View on company site](https://jobs.lever.co/provectus/09a9f440-eecd-4c9a-b10b-6badc4b4fb81) |
 
 ## About This Role
 
-This machine learning engineer position at Provectus was posted on 2026-05-28.
+This ai / ml research position at Provectus was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

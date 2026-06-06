@@ -5,12 +5,12 @@
 | Company | [Mirego](https://scoutify.ai/companies/mirego?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Québec, Quebec, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.lever.co/mirego/4018ab7f-99b9-4aa6-8007-55f2d6ef5a89) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.lever.co/mirego/260c666c-9663-4d0b-9948-abe3529eeece) |
 
 ## About This Role
 
-This ai / ml research position at Mirego was posted on 2026-05-15.
+This ai / ml research position at Mirego was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

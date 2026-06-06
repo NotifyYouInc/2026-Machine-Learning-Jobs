@@ -5,12 +5,12 @@
 | Company | [Brainlab](https://scoutify.ai/companies/brainlab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | AI / ML Research |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000125131898-working-student-ai-research) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000129113419-working-student-ai-research) |
 
 ## About This Role
 
-This ai / ml research position at Brainlab was posted on 2026-05-07.
+This ai / ml research position at Brainlab was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

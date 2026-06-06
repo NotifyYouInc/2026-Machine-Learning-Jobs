@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Romania |
+| Location | Not specified |
 | Category | AI / ML Research |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4844954101?gh_jid=4844954101) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4844953101?gh_jid=4844953101) |
 
 ## About This Role
 
-This ai / ml research position at N-iX was posted on 2026-04-21.
+This ai / ml research position at N-iX was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

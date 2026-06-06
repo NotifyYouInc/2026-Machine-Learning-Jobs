@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wing Assistant](https://scoutify.ai/companies/wing-assistant?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Spain |
+| Location | Madrid, Madrid, Spain |
 | Category | AI / ML Research |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.lever.co/getwingapp/bc45349d-40f6-4d67-936e-657f642ae19d) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.lever.co/getwingapp/445b76cc-7359-482a-85c0-d9ae4350935a) |
 
 ## About This Role
 
-This ai / ml research position at Wing Assistant was posted on 2026-05-27.
+This ai / ml research position at Wing Assistant was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

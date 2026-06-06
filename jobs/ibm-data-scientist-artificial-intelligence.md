@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | AI / ML Research |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115790) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99749) |
 
 ## About This Role
 
-This ai / ml research position at IBM was posted on 2026-05-27.
+This ai / ml research position at IBM was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wing Assistant](https://scoutify.ai/companies/wing-assistant?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | South Korea |
 | Category | AI / ML Research |
 | Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.lever.co/getwingapp/e7839445-5fa7-4943-ac0d-fdc3829442a6) |
+| Apply | [View on company site](https://jobs.lever.co/getwingapp/310a2e39-34c5-408f-985c-e917310d6b1f) |
 
 ## About This Role
 

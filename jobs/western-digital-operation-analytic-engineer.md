@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pasir Gudang, Johor, Malaysia |
 | Category | Data Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000127585939-operation-analytic-engineer) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000129130999-operation-analytic-engineer) |
 
 ## About This Role
 
-This data engineer position at Western Digital was posted on 2026-05-21.
+This data engineer position at Western Digital was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

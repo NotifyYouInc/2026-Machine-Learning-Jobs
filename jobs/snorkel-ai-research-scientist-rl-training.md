@@ -1,16 +1,16 @@
-# Research Scientist, RL Training at Snorkel AI
+# Research Scientist - RL Training at Snorkel AI
 
 | Field | Details |
 |-------|---------|
 | Company | [Snorkel AI](https://scoutify.ai/companies/snorkel-ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/snorkelai/jobs/5973944004) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/snorkelai/jobs/6009496004) |
 
 ## About This Role
 
-This ai / ml research position at Snorkel AI was posted on 2026-04-17.
+This ai / ml research position at Snorkel AI was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

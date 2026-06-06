@@ -1,16 +1,16 @@
-# AI Search Innovation Strategist - Madrid based  at Fever
+# AI Search Innovation Strategist - Madrid based at Fever
 
 | Field | Details |
 |-------|---------|
 | Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Prague, Prague, Czechia |
 | Category | AI / ML Research |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4847414101) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4878585101) |
 
 ## About This Role
 
-This ai / ml research position at Fever was posted on 2026-04-22.
+This ai / ml research position at Fever was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
