@@ -1,16 +1,16 @@
-# Lead, Product Content Engineering at Meta
+# Staff Data Science Researcher at NiCE
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Israel |
 | Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2082565018957406) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4878979101?gh_jid=4878979101) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-05-29.
+This ai / ml research position at NiCE was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

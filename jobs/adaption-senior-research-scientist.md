@@ -1,16 +1,16 @@
-# Lead, Product Content Engineering at Meta
+# Senior Research Scientist at Adaption
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Company | [Adaption](https://scoutify.ai/companies/adaption?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2082565018957406) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/adaption/ed60d392-f14d-4bdc-87c0-c96906f728e5) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-05-29.
+This ai / ml research position at Adaption was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

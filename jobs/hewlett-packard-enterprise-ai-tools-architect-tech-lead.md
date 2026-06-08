@@ -1,16 +1,16 @@
-# Senior AI and Machine Learning Engineer at Hewlett Packard Enterprise
+# AI Tools Architect / Tech Lead at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Location | Spring, Texas, United States |
+| Category | AI / LLM Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Senior-AI-and-Machine-Learning-Engineer_1207389) |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/AI-Tools-Architect---Tech-Lead_1207652) |
 
 ## About This Role
 
-This data engineer position at Hewlett Packard Enterprise was posted on 2026-06-01.
+This ai / llm engineer position at Hewlett Packard Enterprise was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

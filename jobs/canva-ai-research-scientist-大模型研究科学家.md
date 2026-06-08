@@ -1,16 +1,16 @@
-# Lead, Product Content Engineering at Meta
+# AI Research Scientist 大模型研究科学家 at Canva
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Beijing, Beijing, China |
 | Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2082565018957406) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001121034-ai-research-scientist) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-05-29.
+This ai / ml research position at Canva was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

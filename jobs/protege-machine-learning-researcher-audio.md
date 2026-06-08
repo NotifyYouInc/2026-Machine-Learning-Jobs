@@ -1,16 +1,16 @@
-# Lead, Product Content Engineering at Meta
+# Machine Learning Researcher - Audio at Protege
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Company | [Protege](https://scoutify.ai/companies/protege?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2082565018957406) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/protege/6348293b-5549-4692-bef0-bac0c4b0bda5) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-05-29.
+This ai / ml research position at Protege was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

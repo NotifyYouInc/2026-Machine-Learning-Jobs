@@ -1,16 +1,16 @@
-# Staff Machine Learning Engineer at PayPal
+# Senior Specialist, AI Engineer at Aia
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Aia](https://scoutify.ai/companies/aia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Staff-Machine-Learning-Engineer_R0136702-1) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/amplifyhealthexternal/job/Singapore-SG-Amplify-Health/Senior-Specialist--AI-Engineer_JR-67078) |
 
 ## About This Role
 
-This machine learning engineer position at PayPal was posted on 2026-06-01.
+This ai / llm engineer position at Aia was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

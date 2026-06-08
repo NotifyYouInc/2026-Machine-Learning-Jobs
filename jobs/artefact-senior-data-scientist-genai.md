@@ -1,16 +1,16 @@
-# Lead, Product Content Engineering at Meta
+# Senior Data Scientist - GenAI at Artefact
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Company | [Artefact](https://scoutify.ai/companies/artefact?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2082565018957406) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/artefact/jobs/7804830002) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-05-29.
+This ai / ml research position at Artefact was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

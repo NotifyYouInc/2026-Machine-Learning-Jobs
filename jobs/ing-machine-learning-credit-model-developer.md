@@ -1,16 +1,16 @@
-# Staff Machine Learning Engineer at PayPal
+# Machine Learning Credit Model Developer at ING
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Poland |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Staff-Machine-Learning-Engineer_R0136702-1) |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Warszawa-Paska-97/Machine-Learning-Credit-Model-Developer_REQ-10115088-1) |
 
 ## About This Role
 
-This machine learning engineer position at PayPal was posted on 2026-06-01.
+This machine learning engineer position at ING was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

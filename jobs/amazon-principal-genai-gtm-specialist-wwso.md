@@ -1,16 +1,16 @@
-# Lead, Product Content Engineering at Meta
+# Principal GenAI GTM Specialist, WWSO at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | London, England, United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2082565018957406) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435292/principal-genai-gtm-specialist-wwso) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-05-29.
+This ai / ml research position at Amazon was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
