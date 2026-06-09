@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wing Assistant](https://scoutify.ai/companies/wing-assistant?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chiang Mai, Chiang Mai, Thailand |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.lever.co/getwingapp/0291d341-b7d3-4c22-9ed8-bab1d9b38e7b) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://jobs.lever.co/getwingapp/1c6c046b-034a-4d68-9776-775bfd877344) |
 
 ## About This Role
 
-This ai / ml research position at Wing Assistant was posted on 2026-05-28.
+This ai / ml research position at Wing Assistant was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

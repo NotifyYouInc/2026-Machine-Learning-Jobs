@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Košice, Košice Region, Slovakia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Lead-Data-Scientist_R0000347654) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/Lead-Data-Scientist_R0000373439) |
 
 ## About This Role
 
-This machine learning engineer position at Caterpillar was posted on 2026-04-07.
+This machine learning engineer position at Caterpillar was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Germany |
 | Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129146209-senior-consultant-ai-mwd) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129457259-senior-consultant-ai-mwd) |
 
 ## About This Role
 
-This ai / ml research position at Sopra Steria was posted on 2026-05-29.
+This ai / ml research position at Sopra Steria was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

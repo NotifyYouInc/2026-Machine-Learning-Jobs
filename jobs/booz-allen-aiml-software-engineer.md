@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Rome, Georgia, United States |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/AI-ML-Software-Engineer_R0239541) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-ML-Software-Engineer_R0237289) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-05-11.
+This ai / ml research position at Booz Allen was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

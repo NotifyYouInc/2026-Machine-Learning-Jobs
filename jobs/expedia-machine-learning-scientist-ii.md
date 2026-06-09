@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | London, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Machine-Learning-Scientist-II_R-104220) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Machine-Learning-Scientist-II_R-106135) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-05-13.
+This machine learning engineer position at Expedia was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IN_Senior Associate_ AI/ML Engineer __ Data & Analytics _ Advisory _Mumbai  at PwC
+# IN_Senior Associate_ AI/ML Engineer __ Data & Analytics _ Advisory _Mumbai at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Goregaon/IN-Senior-Associate-Java-Developer-D-A-Advisory-Bangalore_726202WD) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Goregaon/IN-Senior-Associate--Data-Engineering---Data---Analytics---Advisory--Bangalore_731727WD-1) |
 
 ## About This Role
 
-This ai / llm engineer position at PwC was posted on 2026-05-06.
+This ai / llm engineer position at PwC was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

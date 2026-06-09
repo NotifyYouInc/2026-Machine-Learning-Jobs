@@ -5,12 +5,12 @@
 | Company | [Group 1001](https://scoutify.ai/companies/group1001wd?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Zionsville, Indiana, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Staff-ML-Engineer_R26_0117) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Staff-ML-Engineer_R26_0159) |
 
 ## About This Role
 
-This machine learning engineer position at Group 1001 was posted on 2026-03-13.
+This machine learning engineer position at Group 1001 was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

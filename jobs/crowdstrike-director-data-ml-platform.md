@@ -1,16 +1,16 @@
-# Director,  Data & ML Platform at CrowdStrike
+# Director, Data & ML Platform at CrowdStrike
 
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Bangalore/Director---Data---ML-Platform_R28730) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Bangalore/Director--Data---ML-Platform_R28906) |
 
 ## About This Role
 
-This data engineer position at CrowdStrike was posted on 2026-05-19.
+This data engineer position at CrowdStrike was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7609995003?gh_jid=7609995003) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7662803003?gh_jid=7662803003) |
 
 ## About This Role
 
-This software engineer position at Celonis was posted on 2026-02-03.
+This ai / llm engineer position at Celonis was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

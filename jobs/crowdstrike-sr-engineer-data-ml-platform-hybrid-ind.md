@@ -5,12 +5,12 @@
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Bangalore/Sr-Engineer---Data---ML-Platform--Hybrid--IND-_R26882) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Bangalore/Sr-Engineer---Data---ML-Platform--Hybrid--IND-_R26884) |
 
 ## About This Role
 
-This data engineer position at CrowdStrike was posted on 2026-04-27.
+This data engineer position at CrowdStrike was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

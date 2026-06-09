@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/US-San-Francisco-CA/Director--Discovery-Bioinformatics-Oncology_R-102518-1) |
+| Category | AI / ML Research |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/US-San-Francisco-CA/Director--Discovery-Bioinformatics-Oncology_R-106678) |
 
 ## About This Role
 
-This ai / llm engineer position at Eli Lilly was posted on 2026-03-24.
+This ai / ml research position at Eli Lilly was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

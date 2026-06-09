@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Senior-Data-Scientist_326053-1) |
+| Location | 3 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Charlottesville-VA/Senior-Data-Scientist_329050-1) |
 
 ## About This Role
 
-This ai / llm engineer position at S&P Global was posted on 2026-03-09.
+This machine learning engineer position at S&P Global was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

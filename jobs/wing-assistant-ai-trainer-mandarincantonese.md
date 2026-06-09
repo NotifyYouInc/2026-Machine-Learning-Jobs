@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wing Assistant](https://scoutify.ai/companies/wing-assistant?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Location | Malaysia |
 | Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.lever.co/getwingapp/2140925a-d9c0-490b-81da-1b33fe1981f1) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://jobs.lever.co/getwingapp/89824690-2af4-4403-83aa-972b991842d3) |
 
 ## About This Role
 
-This ai / ml research position at Wing Assistant was posted on 2026-05-28.
+This ai / ml research position at Wing Assistant was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

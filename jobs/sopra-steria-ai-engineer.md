@@ -1,16 +1,16 @@
-# AI Engineer at Sopra Steria
+# AI Engineer  at Sopra Steria
 
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000119355505-ai-engineer) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129462597-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Sopra Steria was posted on 2026-04-08.
+This ai / llm engineer position at Sopra Steria was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

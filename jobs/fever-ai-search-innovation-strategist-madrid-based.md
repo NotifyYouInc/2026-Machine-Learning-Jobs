@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | 2 locations |
 | Category | AI / ML Research |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4878585101) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4878581101) |
 
 ## About This Role
 

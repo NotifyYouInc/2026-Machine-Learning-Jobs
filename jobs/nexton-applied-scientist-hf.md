@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000123485834-applied-scientist-hf) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000129507239-applied-scientist-hf) |
 
 ## About This Role
 
-This machine learning engineer position at Nexton was posted on 2026-04-28.
+This machine learning engineer position at Nexton was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

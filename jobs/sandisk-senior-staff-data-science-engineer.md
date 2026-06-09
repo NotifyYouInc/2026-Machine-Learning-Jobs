@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Milpitas, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000129036709-senior-staff-data-science-engineer) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000129232160-senior-staff-data-science-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at SanDisk was posted on 2026-05-28.
+This machine learning engineer position at SanDisk was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

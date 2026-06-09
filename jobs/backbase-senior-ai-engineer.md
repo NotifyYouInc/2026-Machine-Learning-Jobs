@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Backbase](https://scoutify.ai/companies/backbase?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7656747) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7962667) |
 
 ## About This Role
 
-This ai / llm engineer position at Backbase was posted on 2026-02-26.
+This ai / llm engineer position at Backbase was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

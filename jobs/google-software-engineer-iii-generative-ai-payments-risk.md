@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Trust & Safety |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcke5WmBVkUMmO_qPt06dMahtp3hFF24XrMJH2ALf4QjjEEjsACxwdTFJ6ovkTAhQnljo7wHw6WDzgd9kWfJpFQydPNRQAAjzwNJZ5qLKApjWwi52vcGb9lDeaaMhFxA%3D%3D_V2&loc=US&title=Software+Engineer+III) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWYxKi-HMvu8rHFd5NVBSFXWW7pFzd950WF8wlIaMMe9EjsACxwdTEj436ZyofaltgwhoXR-zAOnS15g87EvJcyacW_FFmFmnsS7MnS6js8tjVTOw9SaQm1rb-ctQA%3D%3D_V2&loc=US&title=Software+Engineer+III) |
 
 ## About This Role
 
-This trust & safety position at Google was posted on 2026-05-07.
+This trust & safety position at Google was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

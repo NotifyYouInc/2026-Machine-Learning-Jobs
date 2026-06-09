@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boise, Idaho, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Staff-Machine-Learning-Engineer_JR101366) |
+| Category | AI / ML Research |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Staff-Machine-Learning-Engineer_JR103249-1) |
 
 ## About This Role
 
-This machine learning engineer position at Micron was posted on 2026-05-20.
+This ai / ml research position at Micron was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556643393) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556869962) |
 
 ## About This Role
 
-This ai / ml research position at Microsoft was posted on 2026-05-28.
+This ai / ml research position at Microsoft was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

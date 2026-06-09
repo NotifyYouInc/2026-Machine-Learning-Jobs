@@ -5,12 +5,12 @@
 | Company | [SolarWinds](https://scoutify.ai/companies/solarwinds?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4673682005&gh_jid=4673682005) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4674935005&gh_jid=4674935005) |
 
 ## About This Role
 
-This ai / llm engineer position at SolarWinds was posted on 2026-03-16.
+This ai / llm engineer position at SolarWinds was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
