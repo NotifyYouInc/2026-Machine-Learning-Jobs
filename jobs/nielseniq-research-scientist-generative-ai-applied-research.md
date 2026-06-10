@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Valladolid, Castille and León, Spain |
+| Location | Barcelona, Catalonia, Spain |
 | Category | AI / ML Research |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000123464139-research-scientist-generative-ai-applied-research) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129738780-research-scientist-generative-ai-applied-research) |
 
 ## About This Role
 
-This ai / ml research position at NielsenIQ was posted on 2026-04-28.
+This ai / ml research position at NielsenIQ was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Costa Rica |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Costa-Rica-Remote/Senior-Data-Scientist_260294-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Costa-Rica-Remote/Senior-Data-Scientist_260809-2) |
 
 ## About This Role
 
-This ai / llm engineer position at Cloudera was posted on 2026-03-24.
+This machine learning engineer position at Cloudera was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

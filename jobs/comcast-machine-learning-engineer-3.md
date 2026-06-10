@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Machine-Learning-Engineer-3_R429992) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Machine-Learning-Engineer-3_R427458) |
 
 ## About This Role
 
-This ai / llm engineer position at Comcast was posted on 2026-03-25.
+This machine learning engineer position at Comcast was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | Alexandria, Virginia, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Dayton-OH/AI-and-ML-Software-Engineer_R0238382) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/AI-and-ML-Software-Engineer_R0241274) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-04-22.
+This software engineer position at Booz Allen was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

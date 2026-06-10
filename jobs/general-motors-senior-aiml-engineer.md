@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-AI-ML-Engineer_JR-202609267) |
+| Location | Mountain View, California, United States |
+| Category | AI / ML Research |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-Technical-Center---Mountain-View-Technical-Center/Senior-AI-ML-Engineer_JR-202611451) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-05-08.
+This ai / ml research position at General Motors was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

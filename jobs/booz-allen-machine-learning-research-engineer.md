@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Springfield, Missouri, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Machine-Learning-Research-Engineer_R0237994) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Machine-Learning-Research-Engineer_R0241425) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-04-16.
+This ai / ml research position at Booz Allen was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

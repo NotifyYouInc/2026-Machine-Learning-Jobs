@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Imubit](https://scoutify.ai/companies/imubit?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Argentina |
 | Category | Industrial Automation |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://imubit.com/careers-jobs?gh_jid=4016915008) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://imubit.com/careers-jobs?gh_jid=5019234008) |
 
 ## About This Role
 
-This industrial automation position at Imubit was posted on 2026-04-28.
+This industrial automation position at Imubit was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

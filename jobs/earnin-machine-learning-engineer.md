@@ -5,12 +5,12 @@
 | Company | [EarnIn](https://scoutify.ai/companies/earnin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7743855) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7958468) |
 
 ## About This Role
 
-This machine learning engineer position at EarnIn was posted on 2026-03-23.
+This machine learning engineer position at EarnIn was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

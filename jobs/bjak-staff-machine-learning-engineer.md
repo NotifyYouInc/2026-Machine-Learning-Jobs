@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United Kingdom |
+| Location | Seoul, Seoul, South Korea |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/01c02446-366f-4354-a058-4799b320b6c6) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/ce6e79c6-fea5-42af-9042-417119b08103) |
 
 ## About This Role
 
-This machine learning engineer position at Bjak was posted on 2026-04-30.
+This machine learning engineer position at Bjak was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

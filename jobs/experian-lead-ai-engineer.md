@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000128223779-lead-ai-engineer) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
+| Category | Engineering Manager |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129825971-lead-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Experian was posted on 2026-05-25.
+This engineering manager position at Experian was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

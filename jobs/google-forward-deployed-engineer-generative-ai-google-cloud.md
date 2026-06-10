@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeEh9I3k_LmUPRiEQYYx8en6OS06_rGQPBDhbgmxgRb1EjsACxwdTCD6EkPQWJI1yf0CgP6i1m05337Iy4GhIuMSi3g4CECCirve4OzPX8ccxMGn-wuCCdOxdANyvA%3D%3D_V2&loc=TW&title=Forward+Deployed+Engineer) |
+| Location | 3 locations |
+| Category | AI / ML Research |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckdy-nm22-Mwa2OGNyuorjjln5O8d-enbLls3uioLYr-GEjsACxwdTKCMxucemRlVxiC5vIagjUrR8CR4iSNSPdm_1gd_moPENEolyWcrlG-_bYuwsPtoArGALYlu0A%3D%3D_V2&loc=IN&title=Forward+Deployed+Engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Google was posted on 2026-05-28.
+This ai / ml research position at Google was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

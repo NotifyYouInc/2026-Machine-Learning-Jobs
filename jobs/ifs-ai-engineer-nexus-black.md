@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000129230189-ai-engineer-nexus-black) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000129819424-ai-engineer-nexus-black) |
 
 ## About This Role
 
-This ai / llm engineer position at IFS was posted on 2026-05-29.
+This ai / llm engineer position at IFS was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

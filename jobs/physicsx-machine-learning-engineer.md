@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PhysicsX](https://scoutify.ai/companies/physicsx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | San Francisco, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/physicsx/jobs/4849382101) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/physicsx/jobs/4880947101) |
 
 ## About This Role
 
-This machine learning engineer position at PhysicsX was posted on 2026-04-23.
+This machine learning engineer position at PhysicsX was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

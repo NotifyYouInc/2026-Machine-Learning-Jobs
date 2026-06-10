@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United Kingdom |
+| Location | Seoul, Seoul, South Korea |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/5a595e3b-a7da-41d7-bba5-a15e92716f16) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c8049854-432f-412a-9835-684164e8f981) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-04-30.
+This software engineer position at Bjak was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

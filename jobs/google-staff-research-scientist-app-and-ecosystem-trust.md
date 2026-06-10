@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | AI / ML Research |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUIblqm0wHzBkyuuhMx9L2AQoYE_zzXQaRvc_8q5pOASEjsACxwdTBfwlN3smV1awu8OLXJhbyiXRzZHZn18t0POwYN9G5DPltAiEANbybls-Tbh3rL2QWOIAWhrUw%3D%3D_V2&loc=SG&title=Staff+Research+Scientist) |
+| Category | Security Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeD6LbjtOrx6_f8qosIPxD5c8wl1E4RCoQTg6emR2iPVEjsACxwdTPpSsgUe4RRlK3Oe5YEwB8V6Aa1bjFcEYu_cXSZ9C5eMWnmBLMM0j2jwviEzJKIeAf939Oapiw%3D%3D_V2&loc=SG&title=Staff+Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-04-13.
+This security engineer position at Google was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

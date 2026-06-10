@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Australia |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-AUS/Applied-AI-Engineer_R19221-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--UK/Applied-AI-Engineer_R19227-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Zoom was posted on 2026-06-01.
+This ai / llm engineer position at Zoom was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

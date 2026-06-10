@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | Malvern, Arkansas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Machine-Learning-Engineer--Specialist_178069-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Machine-Learning-Engineer--Specialist_177787) |
 
 ## About This Role
 
-This machine learning engineer position at Vanguard was posted on 2026-05-22.
+This machine learning engineer position at Vanguard was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

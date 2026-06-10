@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/126763205010563782-tech-lead-google-kubernetes-engine-ai-platform?sort_by=date&page=1) |
+| Category | Engineering Manager |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcajUQIxyXKg0_jxdNdS0YwpLTAdwjrFeOCiZgmUo9YVEjsACxwdTM6oTcOsGe6nsaSSszzhUyudOCD84ijW5D9p8QZFAr_QqatIrGw-lB-yTE5SLwVmmjV0yG82VA%3D%3D_V2&loc=US&title=Tech+Lead) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-11.
+This engineering manager position at Google was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

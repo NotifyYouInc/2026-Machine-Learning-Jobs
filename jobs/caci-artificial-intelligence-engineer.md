@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ashburn, Virginia, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/Artificial-Intelligence-Engineer_323852) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Artificial-Intelligence-Engineer_327187) |
 
 ## About This Role
 
-This ai / llm engineer position at CACI was posted on 2026-03-26.
+This ai / llm engineer position at CACI was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

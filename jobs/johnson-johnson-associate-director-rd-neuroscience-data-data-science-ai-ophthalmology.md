@@ -1,16 +1,16 @@
-# Associate Director, R&D Neuroscience Data, Data Science & AI – Ophthalmology at Johnson & Johnson
+# Associate Director, R&D Neuroscience Data, Data Science & AI - Ophthalmology at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 5 locations |
 | Category | AI / ML Research |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/San-Diego-California-United-States-of-America/Associate-Director--R-D-Neuroscience-Data--Data-Science---AI---Ophthalmology_R-077909-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/San-Diego-California-United-States-of-America/Associate-Director--R-D-Neuroscience-Data--Data-Science---AI---Ophthalmology_R-080368) |
 
 ## About This Role
 
-This ai / ml research position at Johnson & Johnson was posted on 2026-05-21.
+This ai / ml research position at Johnson & Johnson was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 
