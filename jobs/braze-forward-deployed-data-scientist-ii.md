@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Paris, Île-de-France, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7719735?gh_jid=7719735) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7966154?gh_jid=7966154) |
 
 ## About This Role
 
-This machine learning engineer position at Braze was posted on 2026-03-17.
+This machine learning engineer position at Braze was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

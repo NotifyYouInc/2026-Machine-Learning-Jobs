@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | AI / ML Research |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000122381305-master-thesis-optimizing-sparse-3d-occupancy-prediction-for-embedded-devices-ref5666w) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000129999824-master-thesis-optimizing-sparse-3d-occupancy-prediction-for-embedded-devices-ref5666w) |
 
 ## About This Role
 
-This ai / ml research position at Aumovio was posted on 2026-04-23.
+This ai / ml research position at Aumovio was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

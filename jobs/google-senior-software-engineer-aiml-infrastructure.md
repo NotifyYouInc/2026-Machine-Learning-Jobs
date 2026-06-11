@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUrO670uQfjWi15fg2dfiWfblJFSQ-zAdbic5-pc2_HbEjsACxwdTK6SoKmfKYZs2A8z7L_yoMTju_gErfSsOMJkRUlaIP0etY-apOxgsEIDlG54SwNgA2prjclVDg%3D%3D_V2&loc=IN&title=Senior+Software+Engineer) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckelabaKDt1_zmn1_DPy1nSUPvWg7IUx5PUxTOpgRcMb3EjsACxwdTKsZl0nnPYHKg0bC7I_bFwLEFavbgGlzNLb4i1G2ty5NkDLqCs2v_cJ2l3h1tPsHFRRyJadVuw%3D%3D_V2&loc=PL&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-08.
+This software engineer position at Google was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

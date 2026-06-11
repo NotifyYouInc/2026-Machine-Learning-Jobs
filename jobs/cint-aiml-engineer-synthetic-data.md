@@ -5,12 +5,12 @@
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Prague, Prague, Czechia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000129605750-aiml-engineer-synthetic-data) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000129869769-aiml-engineer-synthetic-data) |
 
 ## About This Role
 
-This machine learning engineer position at Cint was posted on 2026-06-01.
+This machine learning engineer position at Cint was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

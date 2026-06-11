@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hawkeyeinnovations](https://scoutify.ai/companies/hawkeyeinnovations?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/hawkeyeinnovations/1d03c3ad-5612-496a-ac3c-0d49a16523bb) |
+| Location | Budapest, Budapest, Hungary |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hawkeyeinnovations/b7c6a9b1-0418-48e8-b21d-188856fa0e53) |
 
 ## About This Role
 
-This software engineer position at Hawkeyeinnovations was posted on 2026-05-11.
+This machine learning engineer position at Hawkeyeinnovations was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior AI Engineer - Vice President at Citigroup
+# Senior AI Engineer – Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Mississauga, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-AI-Engineer---Vice-President_26963056) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-AI-Engineer---Vice-President_26968914-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-05-12.
+This ai / llm engineer position at Citigroup was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Bellevue, Washington, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5118594007) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5154498007) |
 
 ## About This Role
 
-This machine learning engineer position at The Trade Desk was posted on 2026-04-24.
+This machine learning engineer position at The Trade Desk was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

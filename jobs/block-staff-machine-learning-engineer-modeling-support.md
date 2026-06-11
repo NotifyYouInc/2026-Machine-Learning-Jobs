@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](http://block.xyz/careers/jobs/5131895008?gh_jid=5131895008) |
+| Location | Seattle, Washington, United States |
+| Category | AI / ML Research |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5198105008?gh_jid=5198105008) |
 
 ## About This Role
 
-This ai / llm engineer position at Block was posted on 2026-02-25.
+This ai / ml research position at Block was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Generative-AI---CoPilot-One-Cloud-Advisory-Bangalore_733174WD-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Generative-AI---CoPilot-One-Cloud-Advisory-Bangalore_733176WD-1) |
 
 ## About This Role
 
-This ai / ml research position at PwC was posted on 2026-06-02.
+This ai / ml research position at PwC was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

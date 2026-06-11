@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Munich, Bavaria, Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000121979747-staff-ai-agent-engineer-moveworks-customer-deployment) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000129995998-staff-ai-agent-engineer-moveworks-customer-deployment) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-04-21.
+This ai / llm engineer position at ServiceNow was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

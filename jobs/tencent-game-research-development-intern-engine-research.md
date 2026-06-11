@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Australia-New-South-Wales-Sydney/Game-Research---Development-Intern--Engine-Research_R107518-1) |
 
 ## About This Role
 
-This machine learning engineer position at Tencent was posted on 2026-04-23.
+This machine learning engineer position at Tencent was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

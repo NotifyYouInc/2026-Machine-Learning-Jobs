@@ -1,16 +1,16 @@
-# Applied Researcher II (AI Foundations) at Capital One
+# Applied Researcher II, AI Foundations at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 5 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Applied-Researcher-II--AI-Foundations-_R236847-1) |
+| Location | San Jose, California, United States |
+| Category | AI / ML Research |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Applied-Researcher-II--AI-Foundations_R243786-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Capital One was posted on 2026-03-06.
+This ai / ml research position at Capital One was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

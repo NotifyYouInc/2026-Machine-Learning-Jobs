@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Charlottesville-VA/Senior-Data-Scientist_329050-1) |
+| Location | 6 locations |
+| Category | AI / ML Research |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Charlottesville-VA/Senior-Data-Scientist_329047-1) |
 
 ## About This Role
 
-This machine learning engineer position at S&P Global was posted on 2026-06-01.
+This ai / ml research position at S&P Global was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

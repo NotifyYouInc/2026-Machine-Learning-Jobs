@@ -5,12 +5,12 @@
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Poland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000122214767-ai-engineer-mfn) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000129990319-ai-engineer-mfn) |
 
 ## About This Role
 
-This ai / llm engineer position at INPOST was posted on 2026-04-22.
+This ai / llm engineer position at INPOST was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

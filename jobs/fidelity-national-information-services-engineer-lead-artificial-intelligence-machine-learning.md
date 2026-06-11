@@ -1,16 +1,16 @@
-# Engineer Lead , Artificial Intelligence / Machine Learning at Fidelity National Information Services
+# Engineer Lead, Artificial Intelligence / Machine Learning at Fidelity National Information Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-PUNE-FL2/Engineer-Lead---Artificial-Intelligence---Machine-Learning_JR0305561) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-BNGL-FL2-3-TWR-3/Analyst-Sr-Lead--Revenue-Operations_JR0305809) |
 
 ## About This Role
 
-This ai / llm engineer position at Fidelity National Information Services was posted on 2026-03-17.
+This data engineer position at Fidelity National Information Services was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

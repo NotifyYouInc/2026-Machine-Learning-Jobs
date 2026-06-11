@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000113141809-tech-lead-ia-hf) |
+| Location | Boulogne-Billancourt, Île-de-France, France |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130028813-tech-lead-ia-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-03-06.
+This ai / llm engineer position at ALTEN was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

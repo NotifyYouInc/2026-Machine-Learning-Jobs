@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Lublin, Lublin, Poland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000124597130-python-developer-ai-genai-focus) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000129936550-python-developer-ai-genai-focus) |
 
 ## About This Role
 
-This ai / llm engineer position at Talan was posted on 2026-05-05.
+This ai / llm engineer position at Talan was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

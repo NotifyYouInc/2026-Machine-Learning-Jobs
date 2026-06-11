@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/136468491338162886-software-engineer-ai-i18n-and-evaluations?sort_by=date&page=1) |
+| Category | AI / ML Research |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVDB2ZuLx4NOannr6y3QS2Kp6B0vl6olfzlXM2cbm3icEjsACxwdTL48AcD63vcSSBjee9p0ysKhLCYSqoGze1-xM8brgk35KD6BJ8-hKrhaUHjsXDX-6ozbEun8YQ%3D%3D_V2&loc=SG&title=Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-03.
+This ai / ml research position at Google was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

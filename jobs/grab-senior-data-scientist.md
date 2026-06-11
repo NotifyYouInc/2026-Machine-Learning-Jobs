@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000129717959-senior-data-scientist) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000129975839-senior-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Grab was posted on 2026-06-02.
+This machine learning engineer position at Grab was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

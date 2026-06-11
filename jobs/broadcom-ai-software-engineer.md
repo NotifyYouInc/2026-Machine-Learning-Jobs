@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | AI / ML Research |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/AI-Software-Engineer_R026064-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/BGR-Sofia-Garitage-Park---Bldg-2/AI-Software-Engineer_R025523-1) |
 
 ## About This Role
 
-This ai / ml research position at Broadcom was posted on 2026-05-13.
+This ai / ml research position at Broadcom was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

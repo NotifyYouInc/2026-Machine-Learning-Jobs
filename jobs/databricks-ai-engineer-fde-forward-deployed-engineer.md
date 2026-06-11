@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Seoul, Seoul, South Korea |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8560393002) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002) |
 
 ## About This Role
 
-This ai / llm engineer position at Databricks was posted on 2026-05-21.
+This ai / llm engineer position at Databricks was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

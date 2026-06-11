@@ -5,12 +5,12 @@
 | Company | [Writer](https://scoutify.ai/companies/writer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/writer/c96e911d-ea44-416f-b267-ebd4b0fa0fc7) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/writer/4d5f11bd-0375-4bc2-af4d-9434e103957c) |
 
 ## About This Role
 
-This ai / llm engineer position at Writer was posted on 2026-05-18.
+This ai / llm engineer position at Writer was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

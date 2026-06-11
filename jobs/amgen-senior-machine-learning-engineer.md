@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Senior-Machine-Learning-Engineer_R-246204) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Senior-Machine-Learning-Engineer_R-246361) |
 
 ## About This Role
 
-This machine learning engineer position at Amgen was posted on 2026-06-01.
+This machine learning engineer position at Amgen was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | Santa Clara, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HsinchuTWN/Algorithm-Developer_R2520203) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer_R2620697) |
 
 ## About This Role
 
-This machine learning engineer position at Applied Materials was posted on 2026-04-21.
+This machine learning engineer position at Applied Materials was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

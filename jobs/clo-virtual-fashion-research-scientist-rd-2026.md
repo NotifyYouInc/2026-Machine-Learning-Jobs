@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLO Virtual Fashion](https://scoutify.ai/companies/clovirtualfashion?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.lever.co/clovirtualfashion/c32be666-b7cb-4ec3-a0d8-443bb467a870) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.lever.co/clovirtualfashion/b1435027-5dd6-470d-9b82-619450f4542e) |
 
 ## About This Role
 
-This ai / ml research position at CLO Virtual Fashion was posted on 2026-06-01.
+This ai / ml research position at CLO Virtual Fashion was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
