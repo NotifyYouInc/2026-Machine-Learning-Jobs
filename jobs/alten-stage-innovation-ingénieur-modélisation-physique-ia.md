@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Data Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000128676068-stage-innovation-ingenieur-modelisation-physique-ia) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130256260-stage-innovation-ingenieur-modelisation-physique-ia) |
 
 ## About This Role
 
-This data engineer position at ALTEN was posted on 2026-05-27.
+This machine learning engineer position at ALTEN was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000129981689-senior-computer-vision-engineer) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000130173169-senior-computer-vision-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Jobs for Humanity was posted on 2026-06-03.
+This machine learning engineer position at Jobs for Humanity was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

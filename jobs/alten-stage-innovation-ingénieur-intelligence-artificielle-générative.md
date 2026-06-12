@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | AI / ML Research |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127825478-stage-innovation-ingenieur-intelligence-artificielle-generative) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130254603-stage-innovation-ingenieur-intelligence-artificielle-generative) |
 
 ## About This Role
 
-This ai / ml research position at ALTEN was posted on 2026-05-22.
+This ai / ml research position at ALTEN was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

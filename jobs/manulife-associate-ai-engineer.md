@@ -5,12 +5,12 @@
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Associate-AI-Engineer_JR26031333-3) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Boston-Massachusetts/Associate-AI-Engineer_JR26050435-3) |
 
 ## About This Role
 
-This ai / llm engineer position at Manulife was posted on 2026-04-06.
+This ai / llm engineer position at Manulife was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

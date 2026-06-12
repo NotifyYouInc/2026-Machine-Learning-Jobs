@@ -1,16 +1,16 @@
-# Senior Member of Technical Staff- Machine Learning  at Athena Health
+# Senior Member Of Technical Staff- Machine Learning  at Athena Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Pune-India/Senior-Member-of-Technical-Staff--Machine-Learning-_R14791) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Pune-India/Senior-Member-Of-Technical-Staff--Machine-Learning-_R15168) |
 
 ## About This Role
 
-This machine learning engineer position at Athena Health was posted on 2026-04-09.
+This machine learning engineer position at Athena Health was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

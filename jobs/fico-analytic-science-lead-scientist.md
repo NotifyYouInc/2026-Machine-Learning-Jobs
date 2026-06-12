@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FICO](https://scoutify.ai/companies/fico?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Bangalore-India/Analytic-Science-Lead-Scientist_31445) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / ML Research |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Bangalore-India/Analytic-Science-Lead-Scientist_31444) |
 
 ## About This Role
 
-This machine learning engineer position at FICO was posted on 2026-03-24.
+This ai / ml research position at FICO was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

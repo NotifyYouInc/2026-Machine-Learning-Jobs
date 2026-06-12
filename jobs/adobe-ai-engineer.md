@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/AI-Engineer_R167130-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/AI-Engineer_R168849-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Adobe was posted on 2026-03-30.
+This ai / llm engineer position at Adobe was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

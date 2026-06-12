@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bracknell, England, United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000129733239-information-management-and-intelligence-lead) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000130192292-information-management-and-intelligence-lead) |
 
 ## About This Role
 
-This ai / ml research position at Syngenta was posted on 2026-06-02.
+This ai / ml research position at Syngenta was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

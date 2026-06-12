@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
 | Category | AI / ML Research |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118199) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116130) |
 
 ## About This Role
 
-This ai / ml research position at IBM was posted on 2026-06-03.
+This ai / ml research position at IBM was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

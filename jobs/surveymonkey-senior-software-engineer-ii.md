@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SurveyMonkey](https://scoutify.ai/companies/surveymonkey?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Canada |
+| Location | Italy |
 | Category | Software Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/surveymonkey/jobs/7916846) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/surveymonkey/jobs/7775258) |
 
 ## About This Role
 
-This software engineer position at SurveyMonkey was posted on 2026-05-12.
+This software engineer position at SurveyMonkey was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

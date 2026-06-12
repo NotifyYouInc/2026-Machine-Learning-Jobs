@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Senior-AI-and-Machine-Learning-Engineer_1207389) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Senior-AI-and-Machine-Learning-Engineer_1207381-1) |
 
 ## About This Role
 
-This data engineer position at Hewlett Packard Enterprise was posted on 2026-06-01.
+This machine learning engineer position at Hewlett Packard Enterprise was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CarMax](https://scoutify.ai/companies/carmax?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/TX---Dallas-Technology/Senior-Engineer--AI---ML--multiple-positions-_JR-176692) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/TX---Dallas-Technology/Senior-Engineer--AI---ML--multiple-positions-_JR-179018) |
 
 ## About This Role
 
-This machine learning engineer position at CarMax was posted on 2026-04-28.
+This machine learning engineer position at CarMax was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

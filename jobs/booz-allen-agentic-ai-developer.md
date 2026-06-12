@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Agentic-AI-Developer_R0240718) |
+| Location | O'Fallon, Missouri, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/OFallon-IL/Agentic-AI-Developer_R0241538) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-05-20.
+This ai / llm engineer position at Booz Allen was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

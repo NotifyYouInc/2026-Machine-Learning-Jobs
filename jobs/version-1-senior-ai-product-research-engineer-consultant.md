@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | 6 locations |
 | Category | AI / ML Research |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000122170547-senior-ai-product-research-engineer-consultant) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000130252719-senior-ai-product-research-engineer-consultant) |
 
 ## About This Role
 
-This ai / ml research position at Version 1 was posted on 2026-04-22.
+This ai / ml research position at Version 1 was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

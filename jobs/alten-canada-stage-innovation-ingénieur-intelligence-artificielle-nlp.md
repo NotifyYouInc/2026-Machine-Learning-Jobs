@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sèvres, Île-de-France, France |
+| Location | Rennes, Brittany, France |
 | Category | AI / ML Research |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000127829265-stage-innovation-ingenieur-intelligence-artificielle-nlp) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000130252854-stage-innovation-ingenieur-intelligence-artificielle-nlp) |
 
 ## About This Role
 
-This ai / ml research position at ALTEN Canada was posted on 2026-05-22.
+This ai / ml research position at ALTEN Canada was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sentry](https://scoutify.ai/companies/sentry?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sentry/f54fb511-a4cc-4876-9b68-6753f5c8d7cc) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sentry/d6635cd1-9247-44f4-a081-dd4858153461) |
 
 ## About This Role
 
-This ai / llm engineer position at Sentry was posted on 2026-04-08.
+This ai / llm engineer position at Sentry was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

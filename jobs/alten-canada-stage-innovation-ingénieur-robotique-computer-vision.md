@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Rennes, Brittany, France |
-| Category | AI / ML Research |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000125842843-stage-innovation-ingenieur-robotique-computer-vision) |
+| Category | Robotics Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000130255798-stage-innovation-ingenieur-robotique-computer-vision) |
 
 ## About This Role
 
-This ai / ml research position at ALTEN Canada was posted on 2026-05-11.
+This robotics engineer position at ALTEN Canada was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

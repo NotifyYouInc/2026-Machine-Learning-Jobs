@@ -5,12 +5,12 @@
 | Company | [Martell Ventures](https://scoutify.ai/companies/martell-ventures?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kelowna, British Columbia, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/martellgrowthsolutions/jobs/5229530008) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/martellgrowthsolutions/jobs/5247998008) |
 
 ## About This Role
 
-This ai / llm engineer position at Martell Ventures was posted on 2026-05-22.
+This ai / llm engineer position at Martell Ventures was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

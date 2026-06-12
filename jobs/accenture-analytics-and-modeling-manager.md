@@ -6,7 +6,7 @@
 | Location | Gurugram, Haryana, India |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Manager_AIOC-S01648827-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Manager_AIOC-S01648945-1) |
 
 ## About This Role
 

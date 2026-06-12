@@ -1,16 +1,16 @@
-# Director, Group Head (AI Systems & Scale) at Novartis
+# Director & Group Head (AI-Systems & Scale) at Novartis
 
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | Basel, Basel-City, Switzerland |
 | Category | Engineering Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Cambridge-USA/Director--Group-Head--AI-Systems---Scale-_REQ-10078244) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Basel-City/Director---Group-Head--AI-Systems---Scale-_REQ-10079985) |
 
 ## About This Role
 
-This engineering manager position at Novartis was posted on 2026-06-03.
+This engineering manager position at Novartis was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

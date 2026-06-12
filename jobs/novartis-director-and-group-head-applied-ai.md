@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | Basel, Basel-City, Switzerland |
 | Category | AI / ML Research |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Cambridge-USA/Director-and-Group-Head--Applied-AI_REQ-10078240) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Basel-City/Director-and-Group-Head--Applied-AI_REQ-10079914) |
 
 ## About This Role
 
-This ai / ml research position at Novartis was posted on 2026-06-02.
+This ai / ml research position at Novartis was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

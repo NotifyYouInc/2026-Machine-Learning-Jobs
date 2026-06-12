@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Senior-Data-Scientist_REQ-10111748-3) |
+| Location | Bratislava, Bratislava Region, Slovakia |
+| Category | AI / ML Research |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bratislava/Senior-Data-Scientist_REQ-10114740-1) |
 
 ## About This Role
 
-This machine learning engineer position at ING was posted on 2026-04-24.
+This ai / ml research position at ING was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

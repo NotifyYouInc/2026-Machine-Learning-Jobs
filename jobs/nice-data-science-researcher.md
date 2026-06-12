@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Israel |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4822282101?gh_jid=4822282101) |
+| Category | AI / ML Research |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4883662101?gh_jid=4883662101) |
 
 ## About This Role
 
-This ai / llm engineer position at NiCE was posted on 2026-03-25.
+This ai / ml research position at NiCE was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

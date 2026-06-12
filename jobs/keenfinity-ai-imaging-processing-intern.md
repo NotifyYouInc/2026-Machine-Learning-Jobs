@@ -5,12 +5,12 @@
 | Company | [Keenfinity](https://scoutify.ai/companies/keenfinity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Eindhoven, North Brabant, The Netherlands |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000127388650-ai-imaging-processing-intern) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000130188229-ai-imaging-processing-intern) |
 
 ## About This Role
 
-This machine learning engineer position at Keenfinity was posted on 2026-05-20.
+This machine learning engineer position at Keenfinity was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
