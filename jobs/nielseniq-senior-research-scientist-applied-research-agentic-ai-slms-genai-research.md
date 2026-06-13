@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
 | Category | AI / ML Research |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127427799-senior-research-scientist-applied-research-agentic-ai-slms-genai-research) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000130424256-senior-research-scientist-applied-research-agentic-ai-slms-genai-research) |
 
 ## About This Role
 
-This ai / ml research position at NielsenIQ was posted on 2026-05-20.
+This ai / ml research position at NielsenIQ was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

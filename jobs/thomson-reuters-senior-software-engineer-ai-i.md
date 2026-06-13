@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Senior-Software-Engineer---AI-I_JREQ199771) |
+| Location | Hyderabad, Telangana, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Senior-Software-Engineer---AI-I_JREQ200831) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-04-22.
+This ai / llm engineer position at Thomson Reuters was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Italy |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000125058669-stage-ai-engineer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130381809-stage-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Veolia was posted on 2026-05-07.
+This ai / llm engineer position at Veolia was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

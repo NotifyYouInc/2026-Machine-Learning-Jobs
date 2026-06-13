@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Senior-Machine-Learning-Engineer_10151720) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Senior-Machine-Learning-Engineer_10150610) |
 
 ## About This Role
 
-This machine learning engineer position at Disney was posted on 2026-05-21.
+This machine learning engineer position at Disney was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Germany |
 | Category | AI / ML Research |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013445626-praktikum-werkstudentin-all-genders-im-bereich-information-research-aiml-computer-vision-rodent-video-analytics) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013470676-praktikum-werkstudentin-all-genders-im-bereich-information-research-aiml-computer-vision-rodent-video-analytics) |
 
 ## About This Role
 
-This ai / ml research position at AbbVie was posted on 2026-06-03.
+This ai / ml research position at AbbVie was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

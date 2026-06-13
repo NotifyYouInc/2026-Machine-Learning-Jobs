@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sophos](https://scoutify.ai/companies/sophos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Philippines |
+| Location | India |
 | Category | AI / ML Research |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.lever.co/sophos/afb4955e-dab4-4231-b13d-e44236793014) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.lever.co/sophos/d2be1e19-ef44-44bd-b64e-75770dd90f86) |
 
 ## About This Role
 
-This ai / ml research position at Sophos was posted on 2026-05-14.
+This ai / ml research position at Sophos was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

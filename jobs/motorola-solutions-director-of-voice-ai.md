@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Engineering Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Director-of-Voice-AI_R64320) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Director-of-Voice-AI_R65650) |
 
 ## About This Role
 
-This engineering manager position at Motorola Solutions was posted on 2026-06-02.
+This engineering manager position at Motorola Solutions was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

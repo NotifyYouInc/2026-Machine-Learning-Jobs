@@ -5,12 +5,12 @@
 | Company | [RYZ Labs](https://scoutify.ai/companies/ryz-labs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Argentina |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.lever.co/RyzLabs/6eb29883-1e41-490c-8be1-25edd87afb17) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.lever.co/RyzLabs/965ea2b3-0e46-4d05-ad7e-86df8dd35605) |
 
 ## About This Role
 
-This ai / llm engineer position at RYZ Labs was posted on 2026-04-10.
+This ai / llm engineer position at RYZ Labs was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

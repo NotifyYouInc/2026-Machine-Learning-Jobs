@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/28a9a378-0bc9-44da-b6b9-68ff4791b3ea) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/eca7665f-c72c-4b9e-97c1-e7aa17a0650a) |
 
 ## About This Role
 
-This ai / llm engineer position at Jerry.ai was posted on 2026-06-01.
+This ai / llm engineer position at Jerry.ai was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Zürich, Zurich, Switzerland |
 | Category | AI / ML Research |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRIUwNSeuiLCEGofbVpQ3K2ldZbHZ4r6aFhf-kpaaslwEjsACxwdTGW3k-MqgEaQPH3kUu9Zp4v7g4LDJ0yXmItTi_ENBJlRNrbn_cqi8UW4hqkARutict2zdnajgg%3D%3D_V2&loc=CH&title=Senior+Software+Engineer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaP1Co05_FfdIS35cZu3-4dvf48t98tDT7Q3Ije04rVaEjsACxwdTL-7Q0XtaGnGH0I9afr9WJQR4t1wOlYeKaU_URurSBQxOF6OhJdzM_OVTEnmF7clg70gO8ZHkQ%3D%3D_V2&loc=CH&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-05-13.
+This ai / ml research position at Google was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
