@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Principal Machine Learning Engineer at Oracle
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115985) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#335261) |
 
 ## About This Role
 
-This ai / ml research position at IBM was posted on 2026-06-04.
+This ai / ml research position at Oracle was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

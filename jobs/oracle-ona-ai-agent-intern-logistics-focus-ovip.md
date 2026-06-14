@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# ONA AI Agent Intern (Logistics Focus) - OVIP at Oracle
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Austin, Texas, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115985) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#334345) |
 
 ## About This Role
 
-This ai / ml research position at IBM was posted on 2026-06-04.
+This ai / ml research position at Oracle was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

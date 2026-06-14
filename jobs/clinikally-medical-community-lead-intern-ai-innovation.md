@@ -1,16 +1,16 @@
-# Principal AI Data Scientist at Anaplan
+# Medical Community Lead Intern – AI & Innovation at Clinikally
 
 | Field | Details |
 |-------|---------|
-| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Clinikally](https://scoutify.ai/companies/clinikally?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | AI / ML Research |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8580719002) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/clinikally/jobs/wQvcVWy-medical-community-lead-intern-ai-innovation) |
 
 ## About This Role
 
-This ai / ml research position at Anaplan was posted on 2026-06-06.
+This ai / ml research position at Clinikally was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 
