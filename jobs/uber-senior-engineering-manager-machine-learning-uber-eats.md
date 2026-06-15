@@ -1,16 +1,16 @@
-# Deep Learning Engineer at NBCUniversal
+# Senior Engineering Manager - (Machine Learning) Uber Eats at Uber
 
 | Field | Details |
 |-------|---------|
-| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000130265619-deep-learning-engineer) |
+| Category | Engineering Manager |
+| Posted | 2025-03-28 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/142073/) |
 
 ## About This Role
 
-This machine learning engineer position at NBCUniversal was posted on 2026-06-04.
+This engineering manager position at Uber was posted on 2025-03-28.
 
 ## Get Real-Time Alerts
 

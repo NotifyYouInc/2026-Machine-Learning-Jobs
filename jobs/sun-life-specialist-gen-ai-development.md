@@ -1,16 +1,16 @@
-# Medical AI Researcher at Clera
+# Specialist - Gen AI Development at Sun Life
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 2 locations |
 | Category | AI / ML Research |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/88b61263-a54a-4f81-a880-18ded4cfaaf6) |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Specialist---Gen-AI-Development_JR00123194) |
 
 ## About This Role
 
-This ai / ml research position at Clera was posted on 2026-06-07.
+This ai / ml research position at Sun Life was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

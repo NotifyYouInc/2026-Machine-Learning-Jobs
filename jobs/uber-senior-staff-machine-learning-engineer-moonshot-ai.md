@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer - AV Foundation,  AV Labs at Uber
+# Senior Staff Machine Learning Engineer – Moonshot AI at Uber
 
 | Field | Details |
 |-------|---------|
 | Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://www.uber.com/global/en/careers/list/157162/) |
+| Category | AI / ML Research |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/155653/) |
 
 ## About This Role
 
-This machine learning engineer position at Uber was posted on 2026-03-16.
+This ai / ml research position at Uber was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

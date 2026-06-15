@@ -1,16 +1,16 @@
-# Senior Data Scientist at Caterpillar Inc.
+# Sr. ML Engineer at Uber
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Senior-Data-Scientist_R0000374775) |
+| Posted | 2026-01-23 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/154336/) |
 
 ## About This Role
 
-This machine learning engineer position at Caterpillar Inc. was posted on 2026-06-08.
+This machine learning engineer position at Uber was posted on 2026-01-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Machine Learning Lead Analyst - HIH - Evernorth at Cigna
+# Agentic AI Developer at Dijital Team
 
 | Field | Details |
 |-------|---------|
-| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Dijital Team](https://scoutify.ai/companies/dijital-team?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | AI / ML Research |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Lead-Analyst---HIH---Evernorth_26005756) |
+| Apply | [View on company site](https://jobs.lever.co/dijital-team-pty-ltd/89cd7af0-7167-4c24-a9da-9003dc0b7d20) |
 
 ## About This Role
 
-This ai / ml research position at Cigna was posted on 2026-06-08.
+This ai / ml research position at Dijital Team was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

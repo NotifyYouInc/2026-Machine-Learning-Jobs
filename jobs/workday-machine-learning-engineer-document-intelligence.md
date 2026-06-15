@@ -1,16 +1,16 @@
-# Machine Learning Lead Analyst - HIH - Evernorth at Cigna
+# Machine Learning Engineer - Document Intelligence at Workday
 
 | Field | Details |
 |-------|---------|
-| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 2 locations |
 | Category | AI / ML Research |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Lead-Analyst---HIH---Evernorth_26005756) |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer---Document-Intelligence_JR-0107515) |
 
 ## About This Role
 
-This ai / ml research position at Cigna was posted on 2026-06-08.
+This ai / ml research position at Workday was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

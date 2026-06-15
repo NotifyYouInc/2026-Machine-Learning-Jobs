@@ -1,16 +1,16 @@
-# Research Manager – Multimodal AI at Robert Bosch
+# AI Senior Rollout and Support Manager at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Engineering Manager |
+| Location | Singapore, Singapore |
+| Category | AI / ML Research |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130700969-research-manager-multimodal-ai) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130698459-ai-senior-rollout-and-support-manager) |
 
 ## About This Role
 
-This engineering manager position at Robert Bosch was posted on 2026-06-08.
+This ai / ml research position at Robert Bosch was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

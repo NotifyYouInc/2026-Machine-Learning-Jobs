@@ -1,16 +1,16 @@
-# AI Engineer (Mid-Level) at Clera
+# Staff Machine Learning Engineer at Uber
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/27d20b1f-1a81-4d51-8644-c262db628f7d) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/158518/) |
 
 ## About This Role
 
-This ai / llm engineer position at Clera was posted on 2026-06-07.
+This machine learning engineer position at Uber was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

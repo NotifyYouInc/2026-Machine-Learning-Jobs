@@ -1,16 +1,16 @@
-# AI Engineer (Mid-Level) at Clera
+# Senior AI/ML Engineer at Uber
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/27d20b1f-1a81-4d51-8644-c262db628f7d) |
+| Category | Security Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/155959/) |
 
 ## About This Role
 
-This ai / llm engineer position at Clera was posted on 2026-06-07.
+This security engineer position at Uber was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Scientist at Caterpillar Inc.
+# Data Scientist (Manager) at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Senior-Data-Scientist_R0000374775) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Data-Scientist--Manager-_JR00008453) |
 
 ## About This Role
 
-This machine learning engineer position at Caterpillar Inc. was posted on 2026-06-08.
+This machine learning engineer position at OCBC was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

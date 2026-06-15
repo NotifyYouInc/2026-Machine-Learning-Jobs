@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer - AV Foundation,  AV Labs at Uber
+# 2026 PhD Research Intern, India at Uber
 
 | Field | Details |
 |-------|---------|
 | Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://www.uber.com/global/en/careers/list/157162/) |
+| Location | Hyderabad, Telangana, India |
+| Category | AI / ML Research |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/157463/) |
 
 ## About This Role
 
-This machine learning engineer position at Uber was posted on 2026-03-16.
+This ai / ml research position at Uber was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

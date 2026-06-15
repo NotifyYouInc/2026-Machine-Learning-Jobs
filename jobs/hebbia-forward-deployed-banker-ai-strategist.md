@@ -1,16 +1,16 @@
-# Deep Learning Engineer at NBCUniversal
+# Forward Deployed Banker (AI Strategist) at Hebbia
 
 | Field | Details |
 |-------|---------|
-| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Hebbia](https://scoutify.ai/companies/hebbia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000130265619-deep-learning-engineer) |
+| Category | Corporate Finance |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hebbia-ai/a1d492a2-efba-4c4f-a243-e98b0ce2a967) |
 
 ## About This Role
 
-This machine learning engineer position at NBCUniversal was posted on 2026-06-04.
+This corporate finance position at Hebbia was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

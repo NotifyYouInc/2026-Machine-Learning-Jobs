@@ -1,16 +1,16 @@
-# Deep Learning Engineer at NBCUniversal
+# Applied Research Engineer, Agents at Hebbia
 
 | Field | Details |
 |-------|---------|
-| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Hebbia](https://scoutify.ai/companies/hebbia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000130265619-deep-learning-engineer) |
+| Category | AI / ML Research |
+| Posted | 2025-07-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hebbia-ai/33b7e44e-a37e-4cc8-9a17-7443236650e4) |
 
 ## About This Role
 
-This machine learning engineer position at NBCUniversal was posted on 2026-06-04.
+This ai / ml research position at Hebbia was posted on 2025-07-10.
 
 ## Get Real-Time Alerts
 

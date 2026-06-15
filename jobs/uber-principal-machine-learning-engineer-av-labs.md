@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer - AV Foundation,  AV Labs at Uber
+# Principal Machine Learning Engineer - AV Labs at Uber
 
 | Field | Details |
 |-------|---------|
 | Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://www.uber.com/global/en/careers/list/157162/) |
+| Posted | 2026-01-22 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/154276/) |
 
 ## About This Role
 
-This machine learning engineer position at Uber was posted on 2026-03-16.
+This machine learning engineer position at Uber was posted on 2026-01-22.
 
 ## Get Real-Time Alerts
 

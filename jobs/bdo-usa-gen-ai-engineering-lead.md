@@ -1,16 +1,16 @@
-# AI Automation Specialist at Scale Army
+# Gen AI Engineering Lead at BDO USA
 
 | Field | Details |
 |-------|---------|
-| Company | [Scale Army](https://scoutify.ai/companies/scale-army?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Egypt |
+| Company | [BDO USA](https://scoutify.ai/companies/bdo-usa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Houston, Texas, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/b389a792-deab-4295-97a2-6c2fb72b1f97) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://ebqb.fa.us2.oraclecloud.com/jobs/#12345) |
 
 ## About This Role
 
-This ai / ml research position at Scale Army was posted on 2026-06-05.
+This ai / ml research position at BDO USA was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Scientist---MLOps_JR-0000092984) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Scientist---MLOps_JR-0000085752-1) |
 
 ## About This Role
 
-This machine learning engineer position at Barclays was posted on 2026-06-02.
+This machine learning engineer position at Barclays was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

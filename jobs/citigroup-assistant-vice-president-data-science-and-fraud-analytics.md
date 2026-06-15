@@ -1,16 +1,16 @@
-# Senior Data Scientist (AI & ML) at The Nielsen Company
+# Assistant Vice President - Data Science and Fraud Analytics at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013484656-senior-data-scientist-ai-ml) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Assistant-Vice-President---Data-Science-and-Fraud-Analytics_26968321) |
 
 ## About This Role
 
-This ai / ml research position at The Nielsen Company was posted on 2026-06-05.
+This ai / ml research position at Citigroup was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

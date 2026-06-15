@@ -1,16 +1,16 @@
-# AI/ML Engineer at Clera
+# Senior Engineer, ML & Computer Vision at Samsung
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Herzliya, Tel Aviv, Israel |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/26ffa0f7-3be2-41c6-be2a-fcac9db09d77) |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Azrieli-Building-GHerzliya-Israel/Senior-Engineer--ML---Computer-Vision_R109084) |
 
 ## About This Role
 
-This machine learning engineer position at Clera was posted on 2026-06-07.
+This machine learning engineer position at Samsung was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

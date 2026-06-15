@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer - AV Foundation,  AV Labs at Uber
+# Engineering Manager II, Computer Vision - Applied AI at Uber
 
 | Field | Details |
 |-------|---------|
 | Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://www.uber.com/global/en/careers/list/157162/) |
+| Location | Seattle, Washington, United States |
+| Category | Engineering Manager |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/155457/) |
 
 ## About This Role
 
-This machine learning engineer position at Uber was posted on 2026-03-16.
+This engineering manager position at Uber was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

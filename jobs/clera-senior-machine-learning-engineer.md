@@ -1,16 +1,16 @@
-# AI Engineer (Mid-Level) at Clera
+# Senior Machine Learning Engineer at Clera
 
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/27d20b1f-1a81-4d51-8644-c262db628f7d) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/e72dcedd-fed0-4fd5-91b0-f875e956424a) |
 
 ## About This Role
 
-This ai / llm engineer position at Clera was posted on 2026-06-07.
+This ai / ml research position at Clera was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

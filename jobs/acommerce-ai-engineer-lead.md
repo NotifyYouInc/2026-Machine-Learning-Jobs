@@ -1,16 +1,16 @@
-# AI Engineer (Mid-Level) at Clera
+# AI Engineer Lead at aCommerce
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [aCommerce](https://scoutify.ai/companies/acommerce?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/27d20b1f-1a81-4d51-8644-c262db628f7d) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/acommerce/jobs/7976025) |
 
 ## About This Role
 
-This ai / llm engineer position at Clera was posted on 2026-06-07.
+This ai / llm engineer position at aCommerce was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
