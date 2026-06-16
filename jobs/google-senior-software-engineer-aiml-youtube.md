@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | San Bruno, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb-9d7pgA_C97jZoYlOeL0S4Z1VhvSOARYW2IzBpahKvEjsACxwdTBB4AlZTN9IIVH7mS-IKzFyrYzyQzbyhD3JRKQ3ASy6uqT3XCkv1U4lcKE5zslVIec_gZJDDgw%3D%3D_V2&loc=CH&title=Senior+Software+Engineer) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdqFI_zROMM47dNtBgR_TWH4XVt1VeeNoQ-JzsniUl1XEjsAvkGZm6FzclVm0Y0KeKXTdZ2sr_xRX8Wqy3j9_JUH98cs1JvdACx7F2-ZGoL8bVcWtgiOgK6agFG6mQ%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-04-15.
+This software engineer position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

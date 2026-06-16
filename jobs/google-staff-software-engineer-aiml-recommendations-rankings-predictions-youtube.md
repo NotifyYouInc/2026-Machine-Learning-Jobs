@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mountain View, California, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWaRcHBCeOX-H2fxM4J3FTnyO9tEob-M-MeQo28fe6pyEjsACxwdTMvg_QU-6BRJtnpOQgNiZDTgC4qEtx5nlU8nH6TYL9yvX2iBiSXTZfmkYS8Q5GMaWvuB3yXkKw%3D%3D_V2&loc=US&title=Staff+Software+Engineer) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckcoo4hVA47jn0P7oNGAVHnofmAaWXECxucALOf6rl6FZEjsAbDj5iPEOGy3n7v5563oTcRqpm2hzcTPQr_T2GIsFNGGbfx2mi_QHd9p9BPFBt12RDak7ocINY4bKuQ%3D%3D_V2&loc=US&title=Staff+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-20.
+This software engineer position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

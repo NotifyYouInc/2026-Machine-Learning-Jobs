@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001026253-platform-senior-ai-engineer) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001138861-platform-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at NCS was posted on 2026-04-27.
+This ai / llm engineer position at NCS was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

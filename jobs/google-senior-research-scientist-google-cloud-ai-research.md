@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/93640691027976902-senior-research-scientist-google-cloud-ai-research?sort_by=date&page=1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckY9hJOF79e-HbFZ37DjYFx8zGoClIC8TMJSUrHEsGCYrEjsAvkGZm5PMQjBH3rDHrPavzVH-w8UN0vcWuD6ilYora76p6jD4Fbx4cwEcDdis4bn5kOqeG1uGG68_7A%3D%3D_V2&loc=US&title=Senior+Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-02-23.
+This ai / ml research position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

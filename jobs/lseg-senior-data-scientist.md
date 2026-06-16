@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest-Romania/Senior-Data-Scientist_R0115263-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Senior-Data-Scientist_R0120333-1) |
 
 ## About This Role
 
-This machine learning engineer position at LSEG was posted on 2026-02-10.
+This machine learning engineer position at LSEG was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | 19 locations |
 | Category | AI / ML Research |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/123358125276177094-student-researcher-bsms-wintersummer-2026?sort_by=date&page=2) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTl3i0Kg9bm5-cwU_unEJ4immCkcmZEzsgvd7IwvbipLEjsAbDj5iIwSGTQMJEawk9aCtA9M1kBY7mUyJ58Qj5QSMtYgdTolThXSMDFsvF1G1pKNBvg-0csRwwwkTQ%3D%3D_V2&loc=US&title=Student+Researcher) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-03-09.
+This ai / ml research position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

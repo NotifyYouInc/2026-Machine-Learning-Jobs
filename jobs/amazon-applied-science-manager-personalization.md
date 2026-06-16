@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Haifa, Haifa, Israel |
 | Category | Engineering Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423315/applied-science-manager-personalization) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10442944/applied-science-manager-personalization) |
 
 ## About This Role
 
-This engineering manager position at Amazon was posted on 2026-05-19.
+This engineering manager position at Amazon was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

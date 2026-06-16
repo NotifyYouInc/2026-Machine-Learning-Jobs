@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | AI / ML Research |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128179860-aiml-expert) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130755606-aiml-expert) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-05-25.
+This ai / ml research position at Robert Bosch was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# AI Engineer at Neoris
+# AI Engineer  at Neoris
 
 | Field | Details |
 |-------|---------|
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Chile |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4874550101) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4881905101) |
 
 ## About This Role
 
-This ai / llm engineer position at Neoris was posted on 2026-05-25.
+This ai / llm engineer position at Neoris was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

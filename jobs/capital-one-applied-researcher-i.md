@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
+| Location | New York City, New York, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I_R241640-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I_R241118) |
 
 ## About This Role
 
-This ai / ml research position at Capital One was posted on 2026-04-29.
+This ai / ml research position at Capital One was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

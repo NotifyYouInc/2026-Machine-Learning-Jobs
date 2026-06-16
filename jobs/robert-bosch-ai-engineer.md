@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Ciudad Juárez, Chihuahua, Mexico |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000124638648-ai-engineer) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130893989-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-05-05.
+This ai / llm engineer position at Robert Bosch was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

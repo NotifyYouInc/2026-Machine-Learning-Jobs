@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | New York City, New York, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000121834717-applied-ai-engineer) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000130845740-applied-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at SOCOTEC was posted on 2026-04-20.
+This ai / llm engineer position at SOCOTEC was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

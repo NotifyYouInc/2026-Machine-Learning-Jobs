@@ -5,12 +5,12 @@
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--AI-Solutions-Expert-Agent-Developer--AIA_4958242-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--AI-Solutions-Expert-Agent-Developer--AIA_4959163-2) |
 
 ## About This Role
 
-This engineering manager position at Pfizer was posted on 2026-06-04.
+This engineering manager position at Pfizer was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

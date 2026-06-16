@@ -6,7 +6,7 @@
 | Location | Malta |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000130522471-junior-ai-specialist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000130524510-junior-ai-specialist) |
 
 ## About This Role
 

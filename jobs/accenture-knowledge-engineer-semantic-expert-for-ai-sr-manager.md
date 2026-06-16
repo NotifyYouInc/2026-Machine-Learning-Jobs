@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Knowledge-Engineer---Semantic-Expert-for-AI-Sr-Manager_R00329699) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Knowledge-Engineer---Semantic-Expert-for-AI-Sr-Manager_R00334673) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-05-08.
+This ai / ml research position at Accenture was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

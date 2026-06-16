@@ -5,12 +5,12 @@
 | Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Des Moines, Iowa, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000121197283-platform-engineer-tech-incubation) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000130834330-platform-engineer-tech-incubation) |
 
 ## About This Role
 
-This ai / llm engineer position at Wellmark, Inc. was posted on 2026-04-16.
+This ai / llm engineer position at Wellmark, Inc. was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

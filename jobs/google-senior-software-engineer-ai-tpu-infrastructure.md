@@ -1,16 +1,16 @@
-# Senior Software Engineer, AI, TPU, Infrastructure at Google
+# Senior Software Engineer, AI, TPU Infrastructure at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ4hugf5--yNYHailAc4WyXxoGfGzzVAf4oUpBUM_IlYEjsACxwdTPkgXvxgiErmYsgeNvE_tYj8br5oK3WtetVfn4lqLOyyaQMgHsZBXDdFy4lL8BZCxGwtYcUs7w%3D%3D_V2&loc=TW&title=Senior+Software+Engineer) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckciBCniTIzHknINp1g00XvzR9iEbSHCxuVAT7By1sBWYEjoACxwdTJdbavQ90U1yHZT5KhfjbkdG9mdPUPgVpzCNkviwCAX2YzYsVfWfgTJ1AQxq_NVRc4TNZUVd_V2&loc=TW&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-08.
+This software engineer position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

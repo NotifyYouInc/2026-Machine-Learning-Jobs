@@ -1,0 +1,22 @@
+# Senior Technical Delivery Consultant - AI Practice at Workday
+
+| Field | Details |
+|-------|---------|
+| Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Chicago, Illinois, United States |
+| Category | AI / ML Research |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Chicago/Senior-Technical-Delivery-Consultant---AI-Practice_JR-0107977) |
+
+## About This Role
+
+This ai / ml research position at Workday was posted on 2026-06-08.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

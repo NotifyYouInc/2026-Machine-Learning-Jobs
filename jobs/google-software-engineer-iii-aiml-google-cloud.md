@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mountain View, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUgI1ydKHXaMFDNrTDWlQAnBxrcsfv57AMu_9p99VHLhEjsACxwdTItsNyOrTrvs-5UcPhbMyYnaFh2_sXALOnkcq7CMDZcxnXDQYpVsMRjbaj4pcRCJbGo-0BuCEA%3D%3D_V2&loc=US&title=Software+Engineer+III) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWmnSXxXRdqnKZbhjXULTaE5vnzQtBeg2O-k6QNeWtzoEjsAvkGZm-Fh3U606nFm9vxczu3KVF-eRva5K7olFAU9pbZv0AUey6tt04KspAuRLZqhM3hFV7itvJ90Jg%3D%3D_V2&loc=IN&title=Software+Engineer+III) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-06.
+This software engineer position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
