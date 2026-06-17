@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Connecticut, US |
+| Location | Arkansas, US |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Senior-ServiceNow-AI-Engineer_R0871599-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Senior-ServiceNow-AI-Engineer_R0849019) |
 
 ## About This Role
 
-This ai / llm engineer position at CVS Health was posted on 2026-05-05.
+This ai / llm engineer position at CVS Health was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

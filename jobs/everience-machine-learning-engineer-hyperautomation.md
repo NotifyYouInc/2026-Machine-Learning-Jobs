@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Nova Milanese, Lombardy, Italy |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000122501189-machine-learning-engineer-hyperautomation) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000131139254-machine-learning-engineer-hyperautomation) |
 
 ## About This Role
 
-This machine learning engineer position at Everience was posted on 2026-04-23.
+This machine learning engineer position at Everience was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

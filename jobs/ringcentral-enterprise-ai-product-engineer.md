@@ -5,12 +5,12 @@
 | Company | [Ringcentral](https://scoutify.ai/companies/ringcentral?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Belmont, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ringcentral.wd1.myworkdayjobs.com/ringcentral_careers/job/Belmont-California/Enterprise-AI-Product-Engineer_R078063) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ringcentral.wd1.myworkdayjobs.com/ringcentral_careers/job/Belmont-California/Enterprise-AI-Product-Engineer_R078166) |
 
 ## About This Role
 
-This ai / llm engineer position at Ringcentral was posted on 2026-05-18.
+This ai / llm engineer position at Ringcentral was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

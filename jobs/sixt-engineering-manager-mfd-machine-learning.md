@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Engineering Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000127001419-engineering-manager-mfd-machine-learning) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000131189959-engineering-manager-mfd-machine-learning) |
 
 ## About This Role
 
-This engineering manager position at Sixt was posted on 2026-05-18.
+This engineering manager position at Sixt was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

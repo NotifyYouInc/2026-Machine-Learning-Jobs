@@ -1,16 +1,16 @@
-# AI Engineer  at Robots and Pencils
+# AI Engineer at Robots and Pencils
 
 | Field | Details |
 |-------|---------|
 | Company | [Robots and Pencils](https://scoutify.ai/companies/robots-and-pencils?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Canada |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5198764008) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5126523008) |
 
 ## About This Role
 
-This ai / llm engineer position at Robots and Pencils was posted on 2026-04-23.
+This ai / llm engineer position at Robots and Pencils was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

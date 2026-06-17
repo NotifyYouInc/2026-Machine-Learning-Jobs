@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Thousand Oaks, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Sr-Machine-Learning-Engineer_R-243904) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Machine-Learning-Engineer_R-243719) |
 
 ## About This Role
 
-This machine learning engineer position at Amgen was posted on 2026-05-29.
+This data engineer position at Amgen was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

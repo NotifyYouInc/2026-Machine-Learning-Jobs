@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Santa Clara, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10433879/senior-applied-scientist-last-mile-delivery) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10403188/senior-applied-scientist-last-mile-delivery) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-29.
+This ai / ml research position at Amazon was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

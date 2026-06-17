@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Machine-Learning-Engineer_REQ-056392-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Machine-Learning-Engineer_REQ-057129) |
 
 ## About This Role
 
-This machine learning engineer position at Morningstar was posted on 2026-04-15.
+This ai / llm engineer position at Morningstar was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

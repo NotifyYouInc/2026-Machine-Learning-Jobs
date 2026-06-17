@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/London-United-Kingdom/Senior-AI-Native-Software-Engineer_R_106343) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Autonomous-Systems-Engineer_R_105959) |
 
 ## About This Role
 
-This ai / llm engineer position at Remitly was posted on 2026-06-08.
+This ai / llm engineer position at Remitly was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

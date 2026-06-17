@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | London, England, United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439446/applied-scientist-aws-automated-reasoning) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443582/applied-scientist-aws-automated-reasoning) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-04.
+This ai / ml research position at Amazon was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

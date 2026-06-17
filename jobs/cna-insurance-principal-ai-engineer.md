@@ -5,12 +5,12 @@
 | Company | [CNA Insurance](https://scoutify.ai/companies/cna-insurance?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Principal-AI-Engineer_R-7306) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Principal-AI-Engineer_R-7610) |
 
 ## About This Role
 
-This ai / llm engineer position at CNA Insurance was posted on 2026-04-15.
+This ai / llm engineer position at CNA Insurance was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

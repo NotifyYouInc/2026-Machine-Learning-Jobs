@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Kronberg, Hesse, Germany |
+| Location | Vienna, Vienna, Austria |
 | Category | AI / ML Research |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Campus-Kronberg-1/Praktikum-AI---Data--all-genders-_R00331028) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vienna/Praktikum-AI---Data--all-genders-_R00334035) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-05-18.
+This ai / ml research position at Accenture was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

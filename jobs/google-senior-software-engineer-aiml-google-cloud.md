@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Kirkland, Washington, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTctO_jKuLvQLItNLIWiEcNCABwwo7J7maucNlyUsu7fEjsACxwdTLK8KXLwMOM9Qv8l7eMp4xo3Ck9ozhnB0lrxibrOd6F2ZWQNrqJ9qNnSQNREkKw-9o5j3XsxAQ%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckbg16iMXpX7xT43kDquHNsKnO38VzT1kO9pGL3Isk0AREjsACxwdTEptrxvSMpe9-zwnN0SjGval5JRscTb5W0XtuehrGGR2LjAP6l-dDzMSOD8AaZaSG4HbIQMA4w%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-04-17.
+This software engineer position at Google was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

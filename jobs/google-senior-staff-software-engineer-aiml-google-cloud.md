@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSNLMrdPnlXZu32akw2jfOHe6i4AhdwpKRgCms5JTGuGEjsACxwdTAVXdjFvFdOowgqSz-T6MNrmsJ1_n5ePSg722Gqtf7a2AZ0h3aGhoQRqM_YFLjh_Byik6GdLTA%3D%3D_V2&loc=US&title=Senior+Staff+Software+Engineer) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckebCNq-9eZDLUi8u5mUd4JWulEXZK-JrGYiDySZCsfGjEjsACxwdTE2DtN_NYjJu8Nd9UFoZNQnjamElyF4C6YwB6neWXFMIQ_1vJeJngT7UbWEVnXEAWWPe4VLBWA%3D%3D_V2&loc=US&title=Senior+Staff+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-04-20.
+This software engineer position at Google was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

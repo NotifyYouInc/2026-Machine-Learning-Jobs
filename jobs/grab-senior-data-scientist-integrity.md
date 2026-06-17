@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116099167-senior-data-scientist-integrity) |
+| Category | AI / ML Research |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000131341161-senior-data-scientist-integrity) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-03-23.
+This ai / ml research position at Grab was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
