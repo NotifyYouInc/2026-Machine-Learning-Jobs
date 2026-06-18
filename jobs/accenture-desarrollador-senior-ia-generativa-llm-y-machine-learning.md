@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | 5 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Barcelona/Desarrollador-senior-IA-Generativa---LLM-y-Machine-Learning_R00314429-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Malaga-ID6---South-Building/Desarrollador-senior-IA-Generativa---LLM-y-Machine-Learning_R00335627) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-05-19.
+This ai / llm engineer position at Accenture was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

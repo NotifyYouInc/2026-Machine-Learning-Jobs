@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/AI---ML-Engineer_ATCI-5483049-S2002438-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5402442-S1967898-1) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-06-08.
+This machine learning engineer position at Accenture was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

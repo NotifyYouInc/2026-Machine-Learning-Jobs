@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | 4 locations |
 | Category | AI / ML Research |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/AI-Machine-Learning-Scientist_JR195098) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-RICHMOND-2015-STAPLES-MILL-RD/AI-Machine-Learning-Scientist_JR190990) |
 
 ## About This Role
 
-This ai / ml research position at Elevance Health was posted on 2026-06-05.
+This ai / ml research position at Elevance Health was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

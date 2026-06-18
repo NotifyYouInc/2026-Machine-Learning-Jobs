@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2616812) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2621700) |
 
 ## About This Role
 
-This ai / ml research position at Applied Materials was posted on 2026-05-22.
+This ai / ml research position at Applied Materials was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

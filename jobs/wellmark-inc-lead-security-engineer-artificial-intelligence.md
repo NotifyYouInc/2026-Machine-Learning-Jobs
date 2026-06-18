@@ -5,12 +5,12 @@
 | Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Des Moines, Iowa, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000128997859-lead-security-engineer-artificial-intelligence) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000131475730-lead-security-engineer-artificial-intelligence) |
 
 ## About This Role
 
-This security engineer position at Wellmark, Inc. was posted on 2026-05-28.
+This security engineer position at Wellmark, Inc. was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

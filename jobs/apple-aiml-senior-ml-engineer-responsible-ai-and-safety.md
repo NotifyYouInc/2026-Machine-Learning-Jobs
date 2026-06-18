@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646873/aiml-senior-ml-engineer-responsible-ai-and-safety) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667798/aiml-senior-ml-engineer-responsible-ai-and-safety) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-02-13.
+This machine learning engineer position at Apple was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

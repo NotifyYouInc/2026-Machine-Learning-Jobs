@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131183239-ingenieure-ia-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131183689-ingenieure-ia-hf) |
 
 ## About This Role
 
-This machine learning engineer position at ALTEN was posted on 2026-06-09.
+This ai / ml research position at ALTEN was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

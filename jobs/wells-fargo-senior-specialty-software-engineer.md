@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Specialty-Software-Engineer_R-545257) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Specialty-Software-Engineer_R-548308) |
 
 ## About This Role
 
-This ai / llm engineer position at Wells Fargo was posted on 2026-06-02.
+This ai / llm engineer position at Wells Fargo was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

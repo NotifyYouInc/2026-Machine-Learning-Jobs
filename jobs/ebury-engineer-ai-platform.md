@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4878571101) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4894683101) |
 
 ## About This Role
 
-This ai / llm engineer position at Ebury was posted on 2026-05-29.
+This ai / llm engineer position at Ebury was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

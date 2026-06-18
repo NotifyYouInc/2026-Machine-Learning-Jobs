@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Architect_JR2018826-1) |
+| Category | AI / ML Research |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Architect_JR2019478) |
 
 ## About This Role
 
-This machine learning engineer position at Nvidia was posted on 2026-05-31.
+This ai / ml research position at Nvidia was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Engr-III-Cslt-AI-Science_R-1095371-1) |
+| Location | 3 locations |
+| Category | AI / ML Research |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Engr-III-Cslt-AI-Science_R-1096169-1) |
 
 ## About This Role
 
-This machine learning engineer position at Verizon was posted on 2026-05-22.
+This ai / ml research position at Verizon was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

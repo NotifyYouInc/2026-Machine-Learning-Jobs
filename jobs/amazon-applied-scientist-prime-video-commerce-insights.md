@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10442664/applied-scientist-prime-video-commerce-insights) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444798/applied-scientist-prime-video-commerce-insights) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-08.
+This ai / ml research position at Amazon was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

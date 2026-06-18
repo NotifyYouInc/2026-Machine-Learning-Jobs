@@ -5,12 +5,12 @@
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tianjin, Tianjin, China |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/CHN---Tianjin-RD-Center/S-T-Cadet_JR262795) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/CHN---Tianjin-RD-Center/S-T-Cadet_JR2515287) |
 
 ## About This Role
 
-This machine learning engineer position at PPG Industries was posted on 2026-03-31.
+This machine learning engineer position at PPG Industries was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

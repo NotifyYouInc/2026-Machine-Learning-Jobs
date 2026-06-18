@@ -1,16 +1,16 @@
-# Software Dev Engineer II, Amazon Connect Talent at Amazon
+# Software Dev Engineer II, Amazon Connect - Talent at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10430317/software-dev-engineer-ii-amazon-connect-talent) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445398/software-dev-engineer-ii-amazon-connect-talent) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-26.
+This software engineer position at Amazon was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10384341/applied-scientist-prime-video-content-localization-understanding-enrichment) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444616/applied-scientist-prime-video-content-localization-understanding-enrichment) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-04-06.
+This ai / ml research position at Amazon was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
