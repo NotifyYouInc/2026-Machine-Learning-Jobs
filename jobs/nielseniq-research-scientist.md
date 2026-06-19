@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Madrid, Madrid, Spain |
 | Category | AI / ML Research |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000130732159-research-scientist) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131747127-research-scientist) |
 
 ## About This Role
 
-This ai / ml research position at NielsenIQ was posted on 2026-06-08.
+This ai / ml research position at NielsenIQ was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

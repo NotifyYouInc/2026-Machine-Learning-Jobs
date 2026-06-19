@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444884/software-development-engineer-sponsored-products-and-brands) |
+| Location | Toronto, Ontario, Canada |
+| Category | AI / ML Research |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419206/software-development-engineer-sponsored-products-and-brands) |
 
 ## About This Role
 
-This ai / llm engineer position at Amazon was posted on 2026-06-10.
+This ai / ml research position at Amazon was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

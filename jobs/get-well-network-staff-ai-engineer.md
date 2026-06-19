@@ -5,12 +5,12 @@
 | Company | [Get Well Network](https://scoutify.ai/companies/get-well-network?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/getwellnetwork/jobs/5059986008) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/getwellnetwork/jobs/5256166008) |
 
 ## About This Role
 
-This ai / llm engineer position at Get Well Network was posted on 2026-05-17.
+This ai / llm engineer position at Get Well Network was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

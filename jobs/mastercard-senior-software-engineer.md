@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | O'Fallon, Missouri, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-277447) |
+| Location | Dublin, Leinster, Ireland |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Software-Engineer_R-279224) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-05-27.
+This ai / llm engineer position at Mastercard was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

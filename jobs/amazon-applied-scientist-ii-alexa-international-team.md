@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10393439/applied-scientist-ii-alexa-international-team) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419081/applied-scientist-ii-alexa-international-team) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-04-16.
+This ai / ml research position at Amazon was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

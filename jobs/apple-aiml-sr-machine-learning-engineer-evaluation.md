@@ -1,16 +1,16 @@
-# AIML – Sr. Machine Learning Engineer,  Evaluation at Apple
+# AIML - Sr Machine Learning Engineer, Evaluation at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2025-10-29 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200628522/aiml-sr-machine-learning-engineer-evaluation) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668113/aiml-sr-machine-learning-engineer-evaluation) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2025-10-29.
+This machine learning engineer position at Apple was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

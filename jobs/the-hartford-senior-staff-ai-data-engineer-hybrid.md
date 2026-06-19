@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Hartford](https://scoutify.ai/companies/the-hartford?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 5 locations |
+| Location | 4 locations |
 | Category | AI / ML Research |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Senior-Staff-AI-Data-Engineer---Hybrid_R2625262) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Senior-Staff-AI-Data-Engineer---Hybrid_R2625593) |
 
 ## About This Role
 
-This ai / ml research position at The Hartford was posted on 2026-05-06.
+This ai / ml research position at The Hartford was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

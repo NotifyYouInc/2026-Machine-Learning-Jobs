@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Senior-Manager--AI-Engineering--People-Leader---Gen-AI-Platform-Services-_R240530-1) |
+| Location | San Jose, California, United States |
+| Category | Engineering Manager |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Senior-Manager--AI-Engineering--People-Leader---Gen-AI-Platform-Services-_R244363-1) |
 
 ## About This Role
 
-This ai / ml research position at Capital One was posted on 2026-04-14.
+This engineering manager position at Capital One was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

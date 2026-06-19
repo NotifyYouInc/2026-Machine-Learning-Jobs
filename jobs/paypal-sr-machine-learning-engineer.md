@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Austin, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Dublin-County-Dublin-Ireland/Sr-Machine-Learning-Engineer_R0136701-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Sr-Machine-Learning-Engineer_R0136908) |
 
 ## About This Role
 
-This machine learning engineer position at PayPal was posted on 2026-06-08.
+This machine learning engineer position at PayPal was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

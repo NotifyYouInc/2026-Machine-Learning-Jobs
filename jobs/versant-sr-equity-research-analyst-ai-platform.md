@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000123695576-sr-equity-research-analyst-ai-platform) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131750809-sr-equity-research-analyst-ai-platform) |
 
 ## About This Role
 
-This corporate finance position at Versant was posted on 2026-04-29.
+This corporate finance position at Versant was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

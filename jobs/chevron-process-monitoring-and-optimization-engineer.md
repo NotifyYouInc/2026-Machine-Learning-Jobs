@@ -5,12 +5,12 @@
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Process-Monitoring-and-Optimization-Engineer_R000071098) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Process-Monitoring-and-Optimization-Engineer_R000071880-2) |
 
 ## About This Role
 
-This engineering manager position at Chevron was posted on 2026-04-30.
+This engineering manager position at Chevron was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

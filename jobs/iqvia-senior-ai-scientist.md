@@ -5,12 +5,12 @@
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Durham, North Carolina, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Senior-AI-Scientist_R1526881) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Senior-AI-Scientist_R1531503) |
 
 ## About This Role
 
-This ai / ml research position at IQVIA was posted on 2026-04-13.
+This ai / ml research position at IQVIA was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ppro](https://scoutify.ai/companies/ppro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Munich, Bavaria, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.lever.co/ppro/1a956eb9-30a3-4fe0-82d2-f4e206cf50df) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.lever.co/ppro/384ed3d0-8a29-4d25-8ccf-ac060111aa41) |
 
 ## About This Role
 
-This machine learning engineer position at Ppro was posted on 2026-05-11.
+This machine learning engineer position at Ppro was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/AI-Systems-Operations-Engineer--Enterprise-Video-Services--Wello--and-Brand---Sponsorship-Platforms_R-543676-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/AI-Systems-Operations-Engineer--Enterprise-Video-Services--Wello--and-Brand---Sponsorship-Platforms_R-552632-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Wells Fargo was posted on 2026-06-09.
+This ai / llm engineer position at Wells Fargo was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

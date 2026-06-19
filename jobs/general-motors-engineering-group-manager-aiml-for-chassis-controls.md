@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Markham, Ontario, Canada |
+| Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Engineering-Group-Manager--AI-ML-for-Chassis-Controls_JR-202612024-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Engineering-Group-Manager--AI-ML-for-Chassis-Controls_JR-202612023) |
 
 ## About This Role
 
-This engineering manager position at General Motors was posted on 2026-06-03.
+This engineering manager position at General Motors was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

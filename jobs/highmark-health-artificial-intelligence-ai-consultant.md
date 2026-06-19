@@ -5,12 +5,12 @@
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pennsylvania, US |
 | Category | AI / ML Research |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Artificial-Intelligence--AI--Consultant_J281843) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Artificial-Intelligence--AI--Consultant_J282656) |
 
 ## About This Role
 
-This ai / ml research position at Highmark Health was posted on 2026-05-22.
+This ai / ml research position at Highmark Health was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

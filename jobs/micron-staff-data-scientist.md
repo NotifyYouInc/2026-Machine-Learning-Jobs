@@ -1,16 +1,16 @@
-# Staff Data Scientist at Micron
+# STAFF DATA SCIENTIST at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Taoyuan, Taiwan, Taiwan |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Staff-Data-Scientist_JR103340-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/STAFF-DATA-SCIENTIST_JR86537) |
 
 ## About This Role
 
-This machine learning engineer position at Micron was posted on 2026-06-01.
+This machine learning engineer position at Micron was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

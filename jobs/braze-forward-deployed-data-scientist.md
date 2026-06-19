@@ -1,16 +1,16 @@
-# Forward-Deployed Data Scientist at Braze
+# Forward-Deployed Data Scientist  at Braze
 
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7341269?gh_jid=7341269) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/8001117?gh_jid=8001117) |
 
 ## About This Role
 
-This machine learning engineer position at Braze was posted on 2026-03-06.
+This machine learning engineer position at Braze was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

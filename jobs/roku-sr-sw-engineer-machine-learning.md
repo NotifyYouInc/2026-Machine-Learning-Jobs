@@ -1,16 +1,16 @@
-# Sr SW Engineer, Machine Learning at Roku
+# Sr. SW Engineer, Machine Learning at Roku
 
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/7992122?gh_jid=7992122) |
+| Category | Software Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/7978642?gh_jid=7978642) |
 
 ## About This Role
 
-This machine learning engineer position at Roku was posted on 2026-06-10.
+This software engineer position at Roku was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boadilla del Monte, Madrid, Spain |
 | Category | AI / ML Research |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/Scientist-Responsible-AI---CDAIO_Req1488623-2) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/Scientist-Responsible-AI---CDAIO_Req1488622-2) |
 
 ## About This Role
 
-This ai / ml research position at Santander was posted on 2026-03-06.
+This ai / ml research position at Santander was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

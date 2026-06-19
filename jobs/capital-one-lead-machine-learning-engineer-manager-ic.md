@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | Engineering Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Machine-Learning-Engineer--Manager-IC-_R243989-2) |
+| Location | 4 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Machine-Learning-Engineer--Manager-IC-_R244376-1) |
 
 ## About This Role
 
-This engineering manager position at Capital One was posted on 2026-06-08.
+This machine learning engineer position at Capital One was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

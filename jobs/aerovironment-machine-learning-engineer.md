@@ -5,12 +5,12 @@
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Jessup, Maryland, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Machine-Learning-Engineer_7872) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Machine-Learning-Engineer_7935) |
 
 ## About This Role
 
-This machine learning engineer position at AeroVironment was posted on 2026-06-09.
+This machine learning engineer position at AeroVironment was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

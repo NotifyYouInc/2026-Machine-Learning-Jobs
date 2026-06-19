@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spotify](https://scoutify.ai/companies/spotify?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.lever.co/spotify/288ef608-a1e5-4127-b606-3a9981640f91) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.lever.co/spotify/d3a78ed1-9445-4554-b70d-411e2463c7c7) |
 
 ## About This Role
 
-This machine learning engineer position at Spotify was posted on 2026-06-09.
+This machine learning engineer position at Spotify was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Machine-Learning-Engineer_JR-0000098991-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Machine-Learning-Engineer_JR-0000099003-1) |
 
 ## About This Role
 
-This machine learning engineer position at Barclays was posted on 2026-04-27.
+This machine learning engineer position at Barclays was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

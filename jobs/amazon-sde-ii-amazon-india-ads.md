@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445638/sde-ii-amazon-india-ads) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445700/sde-ii-amazon-india-ads) |
 
 ## About This Role
 

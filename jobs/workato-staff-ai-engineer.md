@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8316203002#open-roles) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8587371002#open-roles) |
 
 ## About This Role
 
-This ai / llm engineer position at Workato was posted on 2026-06-05.
+This ai / llm engineer position at Workato was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

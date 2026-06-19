@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110833245-senior-research-scientist) |
+| Location | Madrid, Madrid, Spain |
+| Category | AI / ML Research |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131746739-senior-research-scientist) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-02-23.
+This ai / ml research position at NielsenIQ was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

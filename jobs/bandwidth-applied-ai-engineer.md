@@ -5,12 +5,12 @@
 | Company | [Bandwidth](https://scoutify.ai/companies/bandwidth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bandwidth/jobs/7844136) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bandwidth/jobs/8001620) |
 
 ## About This Role
 
-This ai / llm engineer position at Bandwidth was posted on 2026-04-24.
+This ai / llm engineer position at Bandwidth was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 
