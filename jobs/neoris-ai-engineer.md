@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chile |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4881905101) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4895898101) |
 
 ## About This Role
 
-This ai / llm engineer position at Neoris was posted on 2026-06-08.
+This ai / llm engineer position at Neoris was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

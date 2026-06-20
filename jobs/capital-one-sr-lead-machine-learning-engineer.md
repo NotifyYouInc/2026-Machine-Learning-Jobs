@@ -1,16 +1,16 @@
-# Sr Lead Machine Learning Engineer at Capital One
+# Sr. Lead Machine Learning Engineer at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 5 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Lead-Machine-Learning-Engineer_R244070-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Sr-Lead-Machine-Learning-Engineer_R244518-1) |
 
 ## About This Role
 
-This machine learning engineer position at Capital One was posted on 2026-06-10.
+This machine learning engineer position at Capital One was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

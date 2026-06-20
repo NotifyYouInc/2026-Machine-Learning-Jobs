@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10431995/applied-scientist-rl-post-training-aws) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420019/applied-scientist-rl-post-training-aws) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-27.
+This ai / ml research position at Amazon was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

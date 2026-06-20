@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Zagreb, Zagreb, Croatia |
 | Category | AI / ML Research |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU8qfchS5x0ttz9LQ3t3BniTEd5xcXlDl1f6GxMUo9m5EjsACxwdTICMwfAUR4veH0vuMi6SZQeFvXA8hFJGXjH36W5-TyfzJPeRISK6SHjo7LvNoacVl6RttCB6cQ%3D%3D_V2&loc=HR&title=Senior+Software+Engineer) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXQcuA1_eMpO33LUbUTj_o2JPnI0skwYQ1SZvtZ1493GEjsACxwdTCqrbxt3G823qlUhFp6cOwC8ybRQR8KN1gu_OFJ7GlK92d-kKEDgnDU5bW0g2eNowXSZBJkFRg%3D%3D_V2&loc=HR&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-05-08.
+This ai / ml research position at Google was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

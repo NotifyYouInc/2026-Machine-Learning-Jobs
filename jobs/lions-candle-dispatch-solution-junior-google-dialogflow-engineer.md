@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Location | Hyderabad, Telangana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000128459904-junior-google-dialogflow-engineer) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000131877209-junior-google-dialogflow-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Lions Candle-Dispatch Solution was posted on 2026-05-26.
+This ai / llm engineer position at Lions Candle-Dispatch Solution was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

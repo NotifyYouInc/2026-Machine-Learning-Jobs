@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Poland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Warszawa-Paska-97/Machine-Learning-Credit-Model-Developer_REQ-10115088-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Warszawa-Paska-97/Machine-Learning-Credit-Model-Developer_REQ-10116532-1) |
 
 ## About This Role
 
-This machine learning engineer position at ING was posted on 2026-06-01.
+This machine learning engineer position at ING was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

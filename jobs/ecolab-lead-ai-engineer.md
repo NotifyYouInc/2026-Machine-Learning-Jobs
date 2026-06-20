@@ -5,12 +5,12 @@
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Lead-AI-Engineer_R00294164) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Lead-AI-Engineer_R00297115) |
 
 ## About This Role
 
-This engineering manager position at Ecolab was posted on 2026-05-21.
+This engineering manager position at Ecolab was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

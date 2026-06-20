@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Wolt - English](https://scoutify.ai/companies/wolt---english?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
+| Company | [Wolt - English](https://scoutify.ai/companies/wolt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wolt/jobs/7721337) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wolt/jobs/7901842) |
 
 ## About This Role
 
-This machine learning engineer position at Wolt - English was posted on 2026-04-22.
+This machine learning engineer position at Wolt - English was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

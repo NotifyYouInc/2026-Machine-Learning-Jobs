@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | O'Fallon, Missouri, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/OFallon-IL/Agentic-AI-Developer_R0241538) |
+| Location | Arlington, Texas, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Agentic-AI-Developer_R0242145) |
 
 ## About This Role
 
-This ai / llm engineer position at Booz Allen was posted on 2026-06-05.
+This machine learning engineer position at Booz Allen was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

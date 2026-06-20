@@ -1,16 +1,16 @@
-# Machine Learning Engineer  at Faculty
+# Machine Learning Engineer at Faculty
 
 | Field | Details |
 |-------|---------|
 | Company | [Faculty](https://scoutify.ai/companies/faculty?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/faculty/98f476d9-39ea-4bcc-b908-a6f6b8119fb9) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/faculty/7a6e49b5-3f14-4d23-9abe-ec285ce7ee2e) |
 
 ## About This Role
 
-This machine learning engineer position at Faculty was posted on 2026-06-05.
+This machine learning engineer position at Faculty was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

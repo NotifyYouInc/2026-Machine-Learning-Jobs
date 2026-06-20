@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200655756/machine-learning-engineer-large-language-models-generative-ai-inference) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667252/machine-learning-engineer-large-language-models-generative-ai-inference) |
 
 ## About This Role
 
-This ai / llm engineer position at Apple was posted on 2026-04-10.
+This ai / llm engineer position at Apple was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

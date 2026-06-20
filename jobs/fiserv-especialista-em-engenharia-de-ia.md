@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | AI / ML Research |
+| Category | AI / LLM Engineer |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sao-Paulo---Paulista-Brazil/Especialista-em-Engenharia-de-IA_R-10396615) |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sao-Paulo---Paulista-Brazil/Especialista-em-Engenharia-de-IA_R-10396637) |
 
 ## About This Role
 
-This ai / ml research position at Fiserv was posted on 2026-06-11.
+This ai / llm engineer position at Fiserv was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

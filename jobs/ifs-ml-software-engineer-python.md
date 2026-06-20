@@ -1,16 +1,16 @@
-# ML Software engineer (Python)  at IFS
+# ML Software Engineer (Python)  at IFS
 
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000126455939-ml-software-engineer-python) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000131872739-ml-software-engineer-python) |
 
 ## About This Role
 
-This software engineer position at IFS was posted on 2026-05-14.
+This ai / llm engineer position at IFS was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

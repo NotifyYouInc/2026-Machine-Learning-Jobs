@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | Seattle, Washington, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417926/applied-scientist-agentic-automated-reasoning-group) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10433609/applied-scientist-agentic-automated-reasoning-group) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-12.
+This ai / ml research position at Amazon was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

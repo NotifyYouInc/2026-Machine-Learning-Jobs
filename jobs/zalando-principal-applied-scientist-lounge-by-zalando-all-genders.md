@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zalando](https://scoutify.ai/companies/zalando?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://zalando.wd3.myworkdayjobs.com/zalandositewd/job/Berlin/Principal-Applied-Scientist---Lounge-by-Zalando--all-genders-_2724180-1) |
+| Category | Software Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://zalando.wd3.myworkdayjobs.com/zalandositewd/job/Berlin/Principal-Applied-Scientist---Lounge-by-Zalando--all-genders-_2724307-1) |
 
 ## About This Role
 
-This ai / ml research position at Zalando was posted on 2026-05-29.
+This software engineer position at Zalando was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

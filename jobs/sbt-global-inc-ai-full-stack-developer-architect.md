@@ -5,12 +5,12 @@
 | Company | [SBT Global, Inc.](https://scoutify.ai/companies/sbt-global-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990013212845-ai-full-stack-developer-architect) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990013607166-ai-full-stack-developer-architect) |
 
 ## About This Role
 
-This ai / ml research position at SBT Global, Inc. was posted on 2026-05-19.
+This ai / ml research position at SBT Global, Inc. was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

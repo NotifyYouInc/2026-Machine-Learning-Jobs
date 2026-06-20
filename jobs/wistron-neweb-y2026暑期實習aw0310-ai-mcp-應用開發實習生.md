@@ -5,12 +5,12 @@
 | Company | [Wistron NeWeb](https://scoutify.ai/companies/wistron-neweb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Taiwan |
 | Category | AI / ML Research |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/20/XMLNAME--Y2026-AW0310-AI-MCP-_REQ_260511353-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/20/XMLNAME--Y2026-AW0310-AI-MCP-_REQ_260611514) |
 
 ## About This Role
 
-This ai / ml research position at Wistron NeWeb was posted on 2026-05-25.
+This ai / ml research position at Wistron NeWeb was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

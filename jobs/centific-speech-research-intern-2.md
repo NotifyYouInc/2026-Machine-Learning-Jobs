@@ -1,16 +1,16 @@
-# Speech Research Intern - 2 at Centific
+# Speech Research Intern-2 at Centific
 
 | Field | Details |
 |-------|---------|
 | Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Research-Intern---2_JR107334-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Research-Intern-2_JR107448-1) |
 
 ## About This Role
 
-This ai / ml research position at Centific was posted on 2026-05-21.
+This ai / ml research position at Centific was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

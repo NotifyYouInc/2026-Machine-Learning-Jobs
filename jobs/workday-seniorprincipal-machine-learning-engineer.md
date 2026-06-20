@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Senior-Principal-Machine-Learning-Engineer_JR-0105599) |
+| Location | 2 locations |
+| Category | AI / ML Research |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Senior-Principal-Machine-Learning-Engineer_JR-0102782) |
 
 ## About This Role
 
-This ai / llm engineer position at Workday was posted on 2026-03-24.
+This ai / ml research position at Workday was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

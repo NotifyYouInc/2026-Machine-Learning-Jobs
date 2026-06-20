@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | Mountain View, California, United States |
 | Category | Customer Success |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445991/delivery-consultant-genai-ml-data-science-professional-services-aws-industries) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10446962/delivery-consultant-genai-ml-data-science-professional-services-aws-industries) |
 
 ## About This Role
 

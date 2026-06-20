@@ -1,4 +1,4 @@
-# Applied Scientist II, Prime Video - Personalization and Discovery Science at Amazon
+# Applied Scientist II, Prime Video Personalization and Discovery Science at Amazon
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
 | Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10406463/applied-scientist-ii-prime-video-personalization-and-discovery-science) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10406949/applied-scientist-ii-prime-video-personalization-and-discovery-science) |
 
 ## About This Role
 
