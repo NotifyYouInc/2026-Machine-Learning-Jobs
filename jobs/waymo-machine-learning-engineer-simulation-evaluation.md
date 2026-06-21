@@ -1,16 +1,16 @@
-# Cloud & AI Engineer at IBM
+# Machine Learning Engineer, Simulation Evaluation at Waymo
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Company | [Waymo](https://scoutify.ai/companies/waymo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119742) |
+| Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=8001797) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-06-13.
+This machine learning engineer position at Waymo was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

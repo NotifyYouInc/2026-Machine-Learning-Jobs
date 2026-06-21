@@ -1,16 +1,16 @@
-# Cloud & AI Engineer at IBM
+# Senior Scientist – AI/ML at GE HealthCare
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119742) |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Senior-Scientist---AI-ML_R4042254-1) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-06-13.
+This ai / ml research position at GE HealthCare was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

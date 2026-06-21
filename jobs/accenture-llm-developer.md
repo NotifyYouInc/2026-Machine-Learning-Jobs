@@ -1,16 +1,16 @@
-# Cloud & AI Engineer at IBM
+# LLM Developer at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 3 locations |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119742) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bogota-Carrera-7/LLM-Developer_R00336434) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-06-13.
+This ai / llm engineer position at Accenture was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 
