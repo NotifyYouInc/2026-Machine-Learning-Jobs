@@ -1,16 +1,16 @@
-# Manager, Data Scientist at Mastercard
+# Data Science and AI Engineer, SEAA at Chanel
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Chanel](https://scoutify.ai/companies/cc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Devonshire-Square/Manager--Data-Scientist_R-278106-1) |
+| Apply | [View on company site](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Singapore/Data-Science-and-AI-Engineer--SEAA_JOBREQ00113838) |
 
 ## About This Role
 
-This machine learning engineer position at Mastercard was posted on 2026-06-15.
+This machine learning engineer position at Chanel was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

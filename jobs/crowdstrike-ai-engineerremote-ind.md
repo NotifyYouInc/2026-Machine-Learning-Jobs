@@ -1,16 +1,16 @@
-# AI Engineer at ALTEN Canada
+# AI Engineer(Remote, IND) at CrowdStrike
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
+| Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000132134979-ai-engineer) |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Remote/AI-Engineer-Remote--IND-_R29106) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN Canada was posted on 2026-06-15.
+This ai / llm engineer position at CrowdStrike was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

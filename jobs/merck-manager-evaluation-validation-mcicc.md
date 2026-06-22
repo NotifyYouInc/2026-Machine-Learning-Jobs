@@ -1,16 +1,16 @@
-# Senior Data Scientist III at LexisNexis Risk Solutions
+# Manager, Evaluation & Validation, MCICC at Merck
 
 | Field | Details |
 |-------|---------|
-| Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | AI / ML Research |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Shanghai/Senior-Data-Scientist-III_R113309) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanghai---Shanghai-Tower-A/Manager--Evaluation---Validation--MCICC_R402897-1) |
 
 ## About This Role
 
-This ai / ml research position at LexisNexis Risk Solutions was posted on 2026-06-15.
+This ai / ml research position at Merck was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

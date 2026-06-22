@@ -1,16 +1,16 @@
-# AI Engineer at ALTEN
+# AI Enablement & Transformation Lead (gn) at TQG
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
-| Category | AI / LLM Engineer |
+| Company | [TQG](https://scoutify.ai/companies/tqg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Hamburg, Hamburg, Germany |
+| Category | AI / ML Research |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000132134979-ai-engineer) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4896200101) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN was posted on 2026-06-15.
+This ai / ml research position at TQG was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

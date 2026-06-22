@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer at Morningstar
+# ENGINEER - PLN OI at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Senior-Machine-Learning-Engineer_REQ-057132-1) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/ENGINEER---PLN-OI_JR94948) |
 
 ## About This Role
 
-This data engineer position at Morningstar was posted on 2026-06-15.
+This data engineer position at Micron was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

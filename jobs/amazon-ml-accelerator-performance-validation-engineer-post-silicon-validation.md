@@ -1,16 +1,16 @@
-# Sr. Machine Learning - Compiler Engineer III, AWS Neuron, Annapurna Labs at Amazon
+# ML Accelerator Performance Validation Engineer, Post Silicon Validation at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cupertino, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10409009/sr-machine-learning-compiler-engineer-iii-aws-neuron-annapurna-labs) |
+| Location | Austin, Texas, United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10434988/ml-accelerator-performance-validation-engineer-post-silicon-validation) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-01.
+This semiconductor / chip design position at Amazon was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Machine Learning - Compiler Engineer III, AWS Neuron, Annapurna Labs at Amazon
+# Fall 2026 Applied Science Internship - Canada, PhD Student Science Recruiting at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cupertino, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10409009/sr-machine-learning-compiler-engineer-iii-aws-neuron-annapurna-labs) |
+| Location | 4 locations |
+| Category | AI / ML Research |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-01.
+This ai / ml research position at Amazon was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

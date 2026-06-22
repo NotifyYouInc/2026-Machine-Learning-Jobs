@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sao-Paulo---Paulista-Brazil/Technology---Analyst-Program-I_R-10390227) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Category | AI / ML Research |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Buenos-Aires-Argentina/Technology---Analyst-Program-I_R-10390221) |
 
 ## About This Role
 
-This ai / llm engineer position at Fiserv was posted on 2026-06-11.
+This ai / ml research position at Fiserv was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

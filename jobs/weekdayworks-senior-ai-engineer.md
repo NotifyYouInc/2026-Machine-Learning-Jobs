@@ -1,16 +1,16 @@
-# AI Engineer at ALTEN Canada
+# Senior AI Engineer at Weekdayworks
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
+| Company | [Weekdayworks](https://scoutify.ai/companies/weekdayworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000132134979-ai-engineer) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://jobs.lever.co/weekdayworks/dfd1ba67-5f00-498f-a59b-4c3feead908f) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN Canada was posted on 2026-06-15.
+This ai / llm engineer position at Weekdayworks was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

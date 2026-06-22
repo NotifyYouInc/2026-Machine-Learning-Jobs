@@ -1,16 +1,16 @@
-# AI Engineer at ALTEN Canada
+# Solution Engineer - AI at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000132134979-ai-engineer) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/North-Sydney-Australia/Solution-Engineer---AI_2015929-1) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN Canada was posted on 2026-06-15.
+This ai / llm engineer position at Cisco was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

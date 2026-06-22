@@ -1,16 +1,16 @@
-# Manager, Data Scientist at Mastercard
+# Data Scientist (Active Secret Clearance) at Striveworks
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Striveworks](https://scoutify.ai/companies/striveworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Tacoma, Washington, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Devonshire-Square/Manager--Data-Scientist_R-278106-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/striveworks/jobs/7772314003) |
 
 ## About This Role
 
-This machine learning engineer position at Mastercard was posted on 2026-06-15.
+This machine learning engineer position at Striveworks was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

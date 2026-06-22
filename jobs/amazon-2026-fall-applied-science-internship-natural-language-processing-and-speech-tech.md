@@ -1,16 +1,16 @@
-# Applied Scientist II, Alexa International Team at Amazon
+# 2026 Fall Applied Science Internship - Natural Language Processing and Speech Technologies - United States, PhD Student Science Recruiting at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Seattle, Washington, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420053/applied-scientist-ii-alexa-international-team) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10394268/2026-fall-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-14.
+This ai / ml research position at Amazon was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

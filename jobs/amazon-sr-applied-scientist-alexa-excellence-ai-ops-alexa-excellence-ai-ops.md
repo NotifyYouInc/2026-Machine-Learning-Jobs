@@ -1,16 +1,16 @@
-# Sr. Machine Learning - Compiler Engineer III, AWS Neuron, Annapurna Labs at Amazon
+# Sr. Applied Scientist, Alexa Excellence AI Ops, Alexa Excellence AI Ops at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cupertino, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10409009/sr-machine-learning-compiler-engineer-iii-aws-neuron-annapurna-labs) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | AI / ML Research |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10421216/sr-applied-scientist-alexa-excellence-ai-ops-alexa-excellence-ai-ops) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-01.
+This ai / ml research position at Amazon was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer at Morningstar
+# Principal Data Engineer at GSK
 
 | Field | Details |
 |-------|---------|
-| Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Senior-Machine-Learning-Engineer_REQ-057132-1) |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Principal-Data-Engineer_442758) |
 
 ## About This Role
 
-This data engineer position at Morningstar was posted on 2026-06-15.
+This data engineer position at GSK was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

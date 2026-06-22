@@ -1,4 +1,4 @@
-# Senior Machine Learning Engineer at Morningstar
+# Marketing AI/ML Engineer at Morningstar
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Senior-Machine-Learning-Engineer_REQ-057132-1) |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Marketing-AI-ML-Engineer_AP-24299919) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# AI Engineer at ALTEN
+# ML Software Engineer, Data Plane at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
-| Category | AI / LLM Engineer |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
+| Category | Software Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000132134979-ai-engineer) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448559/ml-software-engineer-data-plane) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN was posted on 2026-06-15.
+This software engineer position at Amazon was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

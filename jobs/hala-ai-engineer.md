@@ -1,16 +1,16 @@
-# AI Engineer at ALTEN Canada
+# AI Engineer  at HALA
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
+| Company | [HALA](https://scoutify.ai/companies/hala?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000132134979-ai-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hala/jobs/5202676008) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN Canada was posted on 2026-06-15.
+This ai / llm engineer position at HALA was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

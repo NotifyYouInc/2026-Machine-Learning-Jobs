@@ -1,16 +1,16 @@
-# Sr. Machine Learning - Compiler Engineer III, AWS Neuron, Annapurna Labs at Amazon
+# Applied Science Manager, AWS Generative AI Innovation Center at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cupertino, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10409009/sr-machine-learning-compiler-engineer-iii-aws-neuron-annapurna-labs) |
+| Location | Lisbon, Lisbon, Portugal |
+| Category | Engineering Manager |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10421268/applied-science-manager-aws-generative-ai-innovation-center) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-01.
+This engineering manager position at Amazon was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

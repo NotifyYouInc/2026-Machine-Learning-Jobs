@@ -1,16 +1,16 @@
-# Manager, Data Scientist at Mastercard
+# Machine Learning Engineer at H&M Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Devonshire-Square/Manager--Data-Scientist_R-278106-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000132129619-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Mastercard was posted on 2026-06-15.
+This machine learning engineer position at H&M Group was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
