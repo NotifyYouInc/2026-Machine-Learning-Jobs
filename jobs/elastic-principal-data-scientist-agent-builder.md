@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United Kingdom |
+| Location | Spain |
 | Category | AI / ML Research |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7957356&gh_jid=7957356) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8008494&gh_jid=8008494) |
 
 ## About This Role
 
-This ai / ml research position at Elastic was posted on 2026-06-07.
+This ai / ml research position at Elastic was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

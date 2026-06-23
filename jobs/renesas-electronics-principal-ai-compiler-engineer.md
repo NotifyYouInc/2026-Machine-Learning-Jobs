@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Austin, Texas, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000122122077-principal-ai-compiler-engineer) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000132253589-principal-ai-compiler-engineer) |
 
 ## About This Role
 
-This ai / ml research position at Renesas Electronics was posted on 2026-04-21.
+This ai / ml research position at Renesas Electronics was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

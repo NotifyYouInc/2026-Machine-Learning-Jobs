@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Digital-R-D-Physical-AI-Engineering-Expert_R2845034) |
+| Category | Robotics Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Digital-R-D-Physical-AI-Engineering-Expert_R2853907) |
 
 ## About This Role
 
-This machine learning engineer position at Sanofi was posted on 2026-03-04.
+This robotics engineer position at Sanofi was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

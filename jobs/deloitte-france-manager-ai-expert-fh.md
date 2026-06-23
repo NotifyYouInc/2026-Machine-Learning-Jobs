@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deloitte France](https://scoutify.ai/companies/deloitte-france?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Casablanca, Casablanca-Settat, Morocco |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://fina.wd103.myworkdayjobs.com/deloitterecrute/job/Casablanca-DES/Manager-AI-Expert-F-H_R-7534-1) |
+| Location | France |
+| Category | AI / ML Research |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://fina.wd103.myworkdayjobs.com/deloitterecrute/job/Paris-La-Dfense/Manager-AI-Expert-F-H_R-8945-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Deloitte France was posted on 2026-02-26.
+This ai / ml research position at Deloitte France was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

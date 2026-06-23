@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Munich, Bavaria, Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Forward-Deployed-Engineer_JR343861) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Forward-Deployed-Engineer_JR346359) |
 
 ## About This Role
 
-This ai / llm engineer position at Salesforce was posted on 2026-05-27.
+This ai / llm engineer position at Salesforce was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

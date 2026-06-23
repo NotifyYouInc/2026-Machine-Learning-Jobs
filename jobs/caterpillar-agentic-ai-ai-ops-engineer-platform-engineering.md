@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Agentic-AI---AI-Ops-Engineer---Platform-Engineering_R0000373473) |
+| Location | Brisbane, Queensland, Australia |
+| Category | DevOps Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/Agentic-AI---AI-Ops-Engineer---Platform-Engineering_R0000376964) |
 
 ## About This Role
 
-This ai / llm engineer position at Caterpillar was posted on 2026-06-01.
+This devops engineer position at Caterpillar was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

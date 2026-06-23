@@ -1,16 +1,16 @@
-# Senior Applied Scientist (All genders) at Zalando
+# Senior Applied Scientist  (all genders) at Zalando
 
 | Field | Details |
 |-------|---------|
 | Company | [Zalando](https://scoutify.ai/companies/zalando?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://zalando.wd3.myworkdayjobs.com/zalandositewd/job/Berlin/Senior-Applied-Scientist--All-genders-_2723874-2) |
+| Category | AI / ML Research |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://zalando.wd3.myworkdayjobs.com/zalandositewd/job/Berlin/Senior-Applied-Scientist---all-genders-_2724424) |
 
 ## About This Role
 
-This machine learning engineer position at Zalando was posted on 2026-06-01.
+This ai / ml research position at Zalando was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

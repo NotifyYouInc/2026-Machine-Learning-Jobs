@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Nantes, Pays de la Loire, France |
+| Location | Lille, Hauts-de-France, France |
 | Category | AI / ML Research |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000130502140-jeune-docteur-rd-hf) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000132210829-jeune-docteur-rd-hf) |
 
 ## About This Role
 
-This ai / ml research position at Talan was posted on 2026-06-05.
+This ai / ml research position at Talan was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

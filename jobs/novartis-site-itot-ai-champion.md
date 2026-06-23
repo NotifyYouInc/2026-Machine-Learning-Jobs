@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Kundl, Tyrol, Austria |
+| Location | Puurs, Flanders, Belgium |
 | Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Kundl/Site-ITOT-AI-Champion_REQ-10076733) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Puurs/Site-ITOT-AI-Champion_REQ-10076132-2) |
 
 ## About This Role
 
-This ai / ml research position at Novartis was posted on 2026-05-29.
+This ai / ml research position at Novartis was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

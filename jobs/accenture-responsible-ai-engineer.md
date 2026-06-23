@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Responsible-AI-Engineer_R00329071) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Responsible-AI-Engineer_ATCI-5625764-S2029703-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-05-06.
+This ai / llm engineer position at Accenture was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

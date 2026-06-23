@@ -5,12 +5,12 @@
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000131880609-ai-prompt-engineer) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000132112870-ai-prompt-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at VAM Systems was posted on 2026-06-12.
+This ai / llm engineer position at VAM Systems was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

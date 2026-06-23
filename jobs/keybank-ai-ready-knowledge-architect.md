@@ -5,12 +5,12 @@
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brooklyn, New York, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Information-Architect_R-38324) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/AI-Ready-Knowledge-Architect_R-40364-2) |
 
 ## About This Role
 
-This ai / ml research position at KeyBank was posted on 2026-04-22.
+This ai / ml research position at KeyBank was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer_R2616892) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Algorithm-Developer_R2621911) |
 
 ## About This Role
 
-This ai / ml research position at Applied Materials was posted on 2026-06-08.
+This ai / ml research position at Applied Materials was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

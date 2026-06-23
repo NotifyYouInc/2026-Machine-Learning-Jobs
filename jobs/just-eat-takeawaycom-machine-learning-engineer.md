@@ -5,12 +5,12 @@
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Berlin-Office/Machine-Learning-Engineer_R_051433) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Berlin-Office/Machine-Learning-Engineer_R_051431-1) |
 
 ## About This Role
 
-This machine learning engineer position at Just Eat Takeaway.com was posted on 2026-06-08.
+This machine learning engineer position at Just Eat Takeaway.com was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

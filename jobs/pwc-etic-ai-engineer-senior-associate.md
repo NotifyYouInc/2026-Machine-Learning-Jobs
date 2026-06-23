@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cairo, Cairo, Egypt |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--AI-Engineer---Senior-Associate_593888WD) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo/ETIC--AI-Engineer---Senior-Associate_641580WD) |
 
 ## About This Role
 
-This ai / llm engineer position at PwC was posted on 2026-06-04.
+This ai / llm engineer position at PwC was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Corpay](https://scoutify.ai/companies/corpay?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/London-Vincent-Square---IVP/VP--AI---Data-Platforms_R08291) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/London-Vincent-Square---IVP/VP--AI---Data-Platforms_R08777) |
 
 ## About This Role
 
-This ai / ml research position at Corpay was posted on 2026-05-13.
+This ai / ml research position at Corpay was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

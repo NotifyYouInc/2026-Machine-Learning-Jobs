@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Data-Scientist---AI_R-0000176398) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Data-Scientist---AI_R-0000176682) |
 
 ## About This Role
 
-This ai / ml research position at Royal Bank of Canada was posted on 2026-06-10.
+This ai / ml research position at Royal Bank of Canada was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
