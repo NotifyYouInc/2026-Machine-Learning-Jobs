@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | AI / ML Research |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Warsaw/Senior-Machine-Learning-Engineer_JR-161162) |
+| Location | Toronto, Ontario, Canada |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Senior-Machine-Learning-Engineer_JR-161612-1) |
 
 ## About This Role
 
-This ai / ml research position at Equinix was posted on 2026-06-03.
+This machine learning engineer position at Equinix was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000128447669-ingenieur-machine-learning-mlops-senior-hf) |
+| Category | Data Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000132447857-ingenieur-machine-learning-mlops-senior-hf) |
 
 ## About This Role
 
-This machine learning engineer position at Assystem was posted on 2026-05-26.
+This data engineer position at Assystem was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

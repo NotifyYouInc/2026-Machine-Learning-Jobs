@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432974/senior-applied-scientist-fauna) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423170/senior-applied-scientist-fauna) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-28.
+This ai / ml research position at Amazon was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

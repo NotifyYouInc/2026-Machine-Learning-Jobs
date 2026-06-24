@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Algorithm-Engineer_JR0282889) |
+| Location | 3 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Algorithm-Engineer_JR0284868) |
 
 ## About This Role
 
-This ai / ml research position at Intel was posted on 2026-04-14.
+This ai / llm engineer position at Intel was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

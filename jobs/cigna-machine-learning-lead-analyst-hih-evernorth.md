@@ -1,16 +1,16 @@
-# Machine Learning Lead Analyst - HIH - Evernorth at Cigna
+# Machine Learning Lead Analyst - HIH -Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Lead-Analyst---HIH---Evernorth_26005756) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Lead-Analyst---HIH--Evernorth_26001868) |
 
 ## About This Role
 
-This ai / ml research position at Cigna was posted on 2026-06-08.
+This ai / llm engineer position at Cigna was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

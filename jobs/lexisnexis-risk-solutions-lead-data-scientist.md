@@ -5,12 +5,12 @@
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Lead-Data-Scientist_R111797) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Lead-Data-Scientist_R93414) |
 
 ## About This Role
 
-This ai / ml research position at LexisNexis Risk Solutions was posted on 2026-05-12.
+This ai / ml research position at LexisNexis Risk Solutions was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

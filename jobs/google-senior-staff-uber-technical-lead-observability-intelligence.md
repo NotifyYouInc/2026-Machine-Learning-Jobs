@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckat7p2N6oNaZEuH9tUH49Ywb8gkEhQRH4xHOPVJnj-KkEjsACxwdTBd0DYgkMicRTU3tKQWxYAggFDc6Jp3Lpevy8UYgpEKTiv53rPG-w92XNTXi7mcSH7-4uUoE-Q%3D%3D_V2&loc=US&title=Senior+Staff+Uber+Technical+Lead) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZp7mR65CM8MM4g4XS0ebOHI5EIiN2vO5ltru_xz_vcXEjsA1Ny_i9GohOBumxfIpgs5FEVCGx_Yrk5mR0ROZjdi6xEk1O3K7sczOCITmE241yrC_9hFqZL8H-NOWw%3D%3D_V2&loc=US&title=Senior+Staff+Uber+Technical+Lead) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-13.
+This technical & solutions architect position at Google was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

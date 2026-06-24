@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Datatonic](https://scoutify.ai/companies/datatonic?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/datatonic/11eebef0-c8fb-4aa5-b1fb-29ce51e5071c) |
+| Location | Santiago, Santiago Metropolitan, Chile |
+| Category | Engineering Manager |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/datatonic/f5d03f8d-59f5-41b8-8ba7-1d9785d6cd70) |
 
 ## About This Role
 
-This machine learning engineer position at Datatonic was posted on 2026-04-21.
+This engineering manager position at Datatonic was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

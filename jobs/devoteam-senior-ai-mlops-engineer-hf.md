@@ -1,16 +1,16 @@
-# Senior AI/ MLOps Engineer H/F at Devoteam
+# Senior AI / MLOps Engineer - H/F at Devoteam
 
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Nantes, Pays de la Loire, France |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000122722821-senior-ai-mlops-engineer-hf) |
+| Location | Toulouse, Occitanie, France |
+| Category | DevOps Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000132434125-senior-ai-mlops-engineer-hf) |
 
 ## About This Role
 
-This machine learning engineer position at Devoteam was posted on 2026-04-24.
+This devops engineer position at Devoteam was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

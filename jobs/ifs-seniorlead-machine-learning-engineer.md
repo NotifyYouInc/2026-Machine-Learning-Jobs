@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000132176459-seniorlead-machine-learning-engineer) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000132365074-seniorlead-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at IFS was posted on 2026-06-15.
+This machine learning engineer position at IFS was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

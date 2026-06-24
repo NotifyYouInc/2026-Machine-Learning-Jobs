@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Senior-Data-Scientist_R-261219) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland-Mountain-View/Senior-Data-Scientist_R-279898) |
 
 ## About This Role
 
-This machine learning engineer position at Mastercard was posted on 2026-03-30.
+This machine learning engineer position at Mastercard was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 5 locations |
+| Location | Santa Clara, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284193) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284776) |
 
 ## About This Role
 
-This ai / ml research position at Intel was posted on 2026-05-28.
+This ai / ml research position at Intel was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

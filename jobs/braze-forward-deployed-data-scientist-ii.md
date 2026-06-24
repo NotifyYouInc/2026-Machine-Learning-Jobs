@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | London, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7966154?gh_jid=7966154) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7976105?gh_jid=7976105) |
 
 ## About This Role
 
-This machine learning engineer position at Braze was posted on 2026-06-03.
+This machine learning engineer position at Braze was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

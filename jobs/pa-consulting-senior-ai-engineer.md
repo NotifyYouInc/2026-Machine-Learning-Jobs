@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bristol, England, United Kingdom |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000120922973-senior-ai-engineer) |
+| Location | Belfast, Northern Ireland, United Kingdom |
+| Category | AI / ML Research |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000132439856-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at PA Consulting was posted on 2026-04-15.
+This ai / ml research position at PA Consulting was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

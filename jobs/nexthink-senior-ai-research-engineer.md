@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lausanne, Vaud, Switzerland |
 | Category | AI / ML Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000127203010-senior-ai-research-engineer) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000132360243-senior-ai-research-engineer) |
 
 ## About This Role
 
-This ai / ml research position at Nexthink was posted on 2026-05-19.
+This ai / ml research position at Nexthink was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / ML Research |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/AI-ML-Computational-Science-Analyst_AIOC-S01628340-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/AI-ML-Computational-Science-Sr-Analyst_AIOC-S01601364-1) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-04-29.
+This machine learning engineer position at Accenture was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

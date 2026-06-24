@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louisiana State University](https://scoutify.ai/companies/louisiana-state-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Baton Rouge, Louisiana, United States |
+| Location | Lemont, Illinois, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://lsu.wd1.myworkdayjobs.com/lsu/job/2235-Energy-Coast-and-Environment-Building/Postdoctoral-Researcher_R00115195) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://lsu.wd1.myworkdayjobs.com/lsu/job/Argonne-National-Laboratory/Postdoctoral-Researcher_R00116543) |
 
 ## About This Role
 
-This ai / ml research position at Louisiana State University was posted on 2026-05-08.
+This ai / ml research position at Louisiana State University was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mountain View, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000126741479-senior-ai-engineer) |
+| Location | Sunnyvale, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000132435149-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at LinkedIn was posted on 2026-05-15.
+This machine learning engineer position at LinkedIn was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

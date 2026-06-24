@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/AI-Engineer_R181671) |
+| Category | AI / ML Research |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/AI-Engineer_R181905) |
 
 ## About This Role
 
-This ai / llm engineer position at Parsons was posted on 2026-06-08.
+This ai / ml research position at Parsons was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

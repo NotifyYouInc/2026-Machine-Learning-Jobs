@@ -5,12 +5,12 @@
 | Company | [Nuro](https://scoutify.ai/companies/nuro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://nuro.ai/careersitem?gh_jid=7895271) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://nuro.ai/careersitem?gh_jid=8011527) |
 
 ## About This Role
 
-This software engineer position at Nuro was posted on 2026-05-05.
+This software engineer position at Nuro was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
