@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132498462-ml-engineer) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132626270-ml-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at NielsenIQ was posted on 2026-06-16.
+This machine learning engineer position at NielsenIQ was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

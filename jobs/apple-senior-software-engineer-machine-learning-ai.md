@@ -1,16 +1,16 @@
-# Senior Software Engineer, Machine Learning & AI at Apple
+# Senior Software Engineer, Machine Learning & AI  at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2025-10-15 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200615985/senior-software-engineer-machine-learning-ai) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200658285/senior-software-engineer-machine-learning-ai) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2025-10-15.
+This software engineer position at Apple was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

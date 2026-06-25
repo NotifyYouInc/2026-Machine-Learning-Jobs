@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Friedrichshafen, Baden-Wurttemberg, Germany |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Master-Student-AI-Powered-Compliance-Assistant-with-RAG-Application--d-m-w-_JR10371468) |
+| Location | 2 locations |
+| Category | AI / ML Research |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Master-Student-AI-Powered-Compliance-Assistant---d-f-m-_JR10413345) |
 
 ## About This Role
 
-This ai / llm engineer position at Airbus was posted on 2026-02-24.
+This ai / ml research position at Airbus was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

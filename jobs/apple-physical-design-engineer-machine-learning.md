@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200607680/physical-design-engineer-machine-learning) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200603827/physical-design-engineer-machine-learning) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-04-08.
+This semiconductor / chip design position at Apple was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

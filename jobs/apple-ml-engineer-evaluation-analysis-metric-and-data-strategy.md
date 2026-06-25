@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cupertino, California, United States |
+| Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200653803-0836/ml-engineer-evaluation-analysis-metric-and-data-strategy?team=SFTWR) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657984/ml-engineer-evaluation-analysis-metric-and-data-strategy) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-03-26.
+This machine learning engineer position at Apple was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

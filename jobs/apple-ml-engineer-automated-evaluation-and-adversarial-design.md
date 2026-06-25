@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Diego, California, United States |
+| Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200653704-3543/ml-engineer-automated-evaluation-and-adversarial-design?team=SFTWR) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657970/ml-engineer-automated-evaluation-and-adversarial-design) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-03-26.
+This machine learning engineer position at Apple was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

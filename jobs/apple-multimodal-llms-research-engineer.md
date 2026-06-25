@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | AI / ML Research |
-| Posted | 2025-12-15 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200636347/multimodal-llms-research-engineer) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200663137/multimodal-llms-research-engineer) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2025-12-15.
+This ai / ml research position at Apple was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

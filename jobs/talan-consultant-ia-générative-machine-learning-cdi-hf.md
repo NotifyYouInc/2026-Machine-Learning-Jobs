@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000132436859-consultant-ia-generative-machine-learning-cdi-hf) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000132690249-consultant-ia-generative-machine-learning-cdi-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at Talan was posted on 2026-06-16.
+This ai / llm engineer position at Talan was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

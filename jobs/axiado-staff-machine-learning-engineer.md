@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axiado](https://scoutify.ai/companies/axiado?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Jose, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/axiado/744000123801233-staff-machine-learning-engineer) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | AI / ML Research |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/axiado/744000132731819-staff-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Axiado was posted on 2026-04-29.
+This ai / ml research position at Axiado was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

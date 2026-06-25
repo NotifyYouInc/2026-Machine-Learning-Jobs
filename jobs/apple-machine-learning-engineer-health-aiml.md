@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200654670/machine-learning-engineer-health-aiml) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662966/machine-learning-engineer-health-aiml) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-03-31.
+This machine learning engineer position at Apple was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

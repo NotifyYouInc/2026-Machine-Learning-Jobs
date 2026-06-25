@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10437287/applied-scientist-ads-measurement-science) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10411633/applied-scientist-ads-measurement-science) |
 
 ## About This Role
 
-This machine learning engineer position at Amazon was posted on 2026-06-02.
+This machine learning engineer position at Amazon was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

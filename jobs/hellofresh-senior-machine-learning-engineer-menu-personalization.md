@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Poland |
+| Location | Toronto, Ontario, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7963148?gh_jid=7963148) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7963144?gh_jid=7963144) |
 
 ## About This Role
 
-This machine learning engineer position at HelloFresh was posted on 2026-06-02.
+This machine learning engineer position at HelloFresh was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/AI---ML-Engineer_R1602052) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/AI---ML-Engineer_R1602053) |
 
 ## About This Role
 
-This data engineer position at Bristol-Myers Squibb was posted on 2026-05-19.
+This data engineer position at Bristol-Myers Squibb was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

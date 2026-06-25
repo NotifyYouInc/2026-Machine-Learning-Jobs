@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cupertino, California, United States |
+| Location | Austin, Texas, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10409017/c-c-hardware-software-co-design-sde-machine-learning-acceleration-systems) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10411728/c-c-hardware-software-co-design-sde-machine-learning-acceleration-systems) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Amazon was posted on 2026-05-01.
+This embedded / firmware engineer position at Amazon was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

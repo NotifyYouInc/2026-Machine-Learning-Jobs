@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449918/applied-scientist-ii-on-road-experience) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10410004/applied-scientist-ii-on-road-experience) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-16.
+This ai / ml research position at Amazon was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

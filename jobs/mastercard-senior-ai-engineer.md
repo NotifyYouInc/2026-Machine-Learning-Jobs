@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-AI-Engineer_R-278782) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Software Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland-Mountain-View/Senior-AI-Engineer_R-280545) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-05-29.
+This software engineer position at Mastercard was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

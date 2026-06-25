@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Rahway, New Jersey, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Senior-Specialist--AI-Innovation-Consultant_R397655) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Senior-Specialist--AI-Innovation-Consultant_R403476) |
 
 ## About This Role
 
-This ai / ml research position at Merck was posted on 2026-05-14.
+This ai / ml research position at Merck was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

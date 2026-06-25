@@ -1,16 +1,16 @@
-# AIML - Machine Learning Researcher - MLR  at Apple
+# AIML - Machine Learning Researcher, MLR at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Not specified |
 | Category | AI / ML Research |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668072/aiml-machine-learning-researcher-mlr) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200660283/aiml-machine-learning-researcher-mlr) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2026-06-12.
+This ai / ml research position at Apple was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Location | Madrid, Madrid, Spain |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-17 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Agentforce-Forward-Deployed-Engineer_JR346858-1) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/Agentforce-Forward-Deployed-Engineer_JR346370) |
 
 ## About This Role
 

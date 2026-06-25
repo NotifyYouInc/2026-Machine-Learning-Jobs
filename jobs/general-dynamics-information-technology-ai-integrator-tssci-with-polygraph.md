@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/AI-Integrator----TS-SCI-with-Polygraph_RQ219141-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/AI-Integrator----TS-SCI-with-Polygraph_RQ222109-1) |
 
 ## About This Role
 
-This ai / llm engineer position at General Dynamics Information Technology was posted on 2026-05-05.
+This ai / llm engineer position at General Dynamics Information Technology was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

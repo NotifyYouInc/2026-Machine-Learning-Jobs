@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Industrial Automation |
-| Posted | 2025-06-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200608509/manufacturing-optimization-engineer) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662097/manufacturing-optimization-engineer) |
 
 ## About This Role
 
-This industrial automation position at Apple was posted on 2025-06-12.
+This industrial automation position at Apple was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

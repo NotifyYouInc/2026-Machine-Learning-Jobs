@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10433763/applied-scientist-ii-finauto) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452416/applied-scientist-ii-finauto) |
 
 ## About This Role
 
-This machine learning engineer position at Amazon was posted on 2026-05-28.
+This machine learning engineer position at Amazon was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

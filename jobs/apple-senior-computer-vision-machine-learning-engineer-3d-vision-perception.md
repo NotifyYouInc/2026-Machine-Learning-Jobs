@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | Robotics Engineer |
-| Posted | 2026-01-28 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200643937/senior-computer-vision-machine-learning-engineer-3d-vision-perception) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668959/senior-computer-vision-machine-learning-engineer-3d-vision-perception) |
 
 ## About This Role
 
-This robotics engineer position at Apple was posted on 2026-01-28.
+This machine learning engineer position at Apple was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

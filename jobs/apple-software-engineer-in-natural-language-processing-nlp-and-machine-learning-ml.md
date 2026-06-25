@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2025-12-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200635475/software-engineer-in-natural-language-processing-nlp-and-machine-learning-ml) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200666537/software-engineer-in-natural-language-processing-nlp-and-machine-learning-ml) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2025-12-09.
+This software engineer position at Apple was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | AI / LLM Engineer |
-| Posted | 2025-10-21 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200627231/cad-flow-automation-and-ai-engineer) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200658143/cad-flow-automation-and-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Apple was posted on 2025-10-21.
+This ai / llm engineer position at Apple was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Bucharest, București, Romania |
 | Category | AI / ML Research |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Lead-Data-Scientist_R0120335-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-Data-Scientist_R0118201-1) |
 
 ## About This Role
 
-This ai / ml research position at LSEG was posted on 2026-06-08.
+This ai / ml research position at LSEG was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

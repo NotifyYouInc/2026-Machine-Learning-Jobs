@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200652812/sr-software-development-engineer-applied-ml) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667082/sr-software-development-engineer-applied-ml) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-03-26.
+This software engineer position at Apple was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

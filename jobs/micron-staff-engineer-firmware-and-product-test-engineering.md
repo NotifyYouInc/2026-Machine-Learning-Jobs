@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Longmont, Colorado, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-CO/Staff-Engineer--Firmware-and-Product-Test-Engineering_JR103930) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-CO/Staff-Engineer--Firmware-and-Product-Test-Engineering_JR103928) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Micron was posted on 2026-06-15.
+This embedded / firmware engineer position at Micron was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

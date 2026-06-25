@@ -1,12 +1,12 @@
-# Senior AI Software Engineer - Full Stack - APEX at Cgm
+# Senior AI Software Engineer - Full-stack - APEX at Cgm
 
 | Field | Details |
 |-------|---------|
 | Company | [Cgm](https://scoutify.ai/companies/cgm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Iaşi, Iași County, Romania |
+| Location | Portugal |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-17 |
-| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Iasi/Senior-AI-Software-Engineer---Full-Stack---APEX_JR109778) |
+| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Lisboa--Av-Jos-Malhoa-16/Senior-AI-Software-Engineer---Full-stack---APEX_JR109782) |
 
 ## About This Role
 

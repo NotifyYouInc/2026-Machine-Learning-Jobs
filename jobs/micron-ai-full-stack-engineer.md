@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boise, Idaho, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Full-Stack-Engineer_JR102226-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Full-Stack-Engineer_JR104397) |
 
 ## About This Role
 
-This ai / llm engineer position at Micron was posted on 2026-05-20.
+This ai / llm engineer position at Micron was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

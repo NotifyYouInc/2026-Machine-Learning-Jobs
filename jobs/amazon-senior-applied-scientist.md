@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | San Francisco, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408900/senior-applied-scientist) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10425385/senior-applied-scientist) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-01.
+This ai / ml research position at Amazon was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

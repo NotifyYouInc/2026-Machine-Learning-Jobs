@@ -1,16 +1,16 @@
-# Machine Learning Engineer - Strategic Data Solutions at Apple
+# Machine Learning Engineer, Strategic Data Solutions at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200650806/machine-learning-engineer-strategic-data-solutions) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200659354/machine-learning-engineer-strategic-data-solutions) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-04-01.
+This machine learning engineer position at Apple was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

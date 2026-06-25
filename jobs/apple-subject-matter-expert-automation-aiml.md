@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Robotics Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200666930/subject-matter-expert-automation-ai-ml) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200659288/subject-matter-expert-automation-ai-ml) |
 
 ## About This Role
 
-This robotics engineer position at Apple was posted on 2026-06-09.
+This robotics engineer position at Apple was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

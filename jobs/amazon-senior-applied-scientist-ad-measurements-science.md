@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10437288/senior-applied-scientist-ad-measurements-science) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10410510/senior-applied-scientist-ad-measurements-science) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-02.
+This ai / ml research position at Amazon was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

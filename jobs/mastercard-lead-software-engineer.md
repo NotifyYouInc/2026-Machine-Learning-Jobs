@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Israel |
-| Category | AI / ML Research |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Ramat-Gan-Israel/Lead-Software-Engineer_R-280407) |
+| Location | Dublin, Leinster, Ireland |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland-Mountain-View/Lead-Software-Engineer_R-280266) |
 
 ## About This Role
 
-This ai / ml research position at Mastercard was posted on 2026-06-16.
+This ai / llm engineer position at Mastercard was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

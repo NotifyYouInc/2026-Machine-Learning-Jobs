@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Courbevoie, Île-de-France, France |
+| Location | London, England, United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436475/ai-strategist-generative-ai-innovation-center) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10395162/ai-strategist-generative-ai-innovation-center) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-02.
+This ai / ml research position at Amazon was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

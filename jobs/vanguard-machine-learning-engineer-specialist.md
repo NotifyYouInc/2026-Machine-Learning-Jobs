@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Machine-Learning-Engineer--Specialist_177787) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Machine-Learning-Engineer--Specialist_178035) |
 
 ## About This Role
 
-This machine learning engineer position at Vanguard was posted on 2026-06-02.
+This machine learning engineer position at Vanguard was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

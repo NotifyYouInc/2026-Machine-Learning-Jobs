@@ -1,16 +1,16 @@
-# AI Deployment Engineer - Startups at OpenAI
+# AI Deployment Engineer, Startups at OpenAI
 
 | Field | Details |
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | AI / ML Research |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/193d33d8-4993-4220-bc5d-cfd792d7e583) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/b76848b3-d545-40cc-b8b4-585501f09760) |
 
 ## About This Role
 
-This ai / ml research position at OpenAI was posted on 2026-05-07.
+This ai / ml research position at OpenAI was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

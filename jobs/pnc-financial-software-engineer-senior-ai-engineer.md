@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Senior--AI-Engineer_R223344-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Senior--AI-Engineer_R224404-1) |
 
 ## About This Role
 
-This ai / llm engineer position at PNC Financial was posted on 2026-06-02.
+This ai / llm engineer position at PNC Financial was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pleasanton, California, United States |
+| Location | Boulder, Colorado, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer_JR-0106147) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Machine-Learning-Engineer-III_JR-0108257) |
 
 ## About This Role
 
-This machine learning engineer position at Workday was posted on 2026-04-28.
+This machine learning engineer position at Workday was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Exadel Inc (Website)](https://scoutify.ai/companies/exadel-inc-website?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bulgaria |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/5980811004) |
+| Category | Software Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/6092450004) |
 
 ## About This Role
 
-This machine learning engineer position at Exadel Inc (Website) was posted on 2026-04-24.
+This software engineer position at Exadel Inc (Website) was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

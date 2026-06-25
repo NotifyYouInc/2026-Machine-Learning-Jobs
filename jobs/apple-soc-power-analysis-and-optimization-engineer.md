@@ -6,7 +6,7 @@
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657339/soc-power-analysis-and-optimization-engineer) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657079/soc-power-analysis-and-optimization-engineer) |
 
 ## About This Role
 

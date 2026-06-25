@@ -5,12 +5,12 @@
 | Company | [Brownhealth](https://scoutify.ai/companies/brownhealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Providence, Rhode Island, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Brown-Health-Medical-Group/Research-Scientist_JR-110826-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Brown-University-Health/Research-Scientist_JR-110815) |
 
 ## About This Role
 
-This ai / ml research position at Brownhealth was posted on 2026-06-10.
+This ai / ml research position at Brownhealth was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

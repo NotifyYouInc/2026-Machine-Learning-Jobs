@@ -5,12 +5,12 @@
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Senior-AI-Software-Engineer_R23305) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Senior-AI-Software-Engineer_R31811) |
 
 ## About This Role
 
-This ai / llm engineer position at Allstate was posted on 2026-04-21.
+This ai / llm engineer position at Allstate was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

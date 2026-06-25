@@ -1,16 +1,16 @@
-# Generative AI Engineer, Camera Algorithms at Apple
+# Generative AI Engineer - Camera Algorithms at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | AI / LLM Engineer |
-| Posted | 2025-12-05 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200635051/generative-ai-engineer-camera-algorithms) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662672/generative-ai-engineer-camera-algorithms) |
 
 ## About This Role
 
-This ai / llm engineer position at Apple was posted on 2025-12-05.
+This ai / llm engineer position at Apple was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
