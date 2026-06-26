@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [STR](https://scoutify.ai/companies/systemstechnologyresearch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4659489006) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4679913006) |
 
 ## About This Role
 
-This ai / ml research position at STR was posted on 2026-03-10.
+This ai / ml research position at STR was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

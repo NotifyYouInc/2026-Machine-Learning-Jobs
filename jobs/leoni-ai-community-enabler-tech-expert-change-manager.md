@@ -5,12 +5,12 @@
 | Company | [LEONI](https://scoutify.ai/companies/leoni?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sousse, Sousse Governorate, Tunisia |
 | Category | AI / ML Research |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000132130459-ai-community-enabler-tech-expert-change-manager) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000132911540-ai-community-enabler-tech-expert-change-manager) |
 
 ## About This Role
 
-This ai / ml research position at LEONI was posted on 2026-06-15.
+This ai / ml research position at LEONI was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

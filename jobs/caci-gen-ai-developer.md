@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ashburn, Virginia, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Gen-AI-Developer_327320) |
+| Category | AI / ML Research |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Gen-AI-Developer_327946) |
 
 ## About This Role
 
-This ai / llm engineer position at CACI was posted on 2026-06-03.
+This ai / ml research position at CACI was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

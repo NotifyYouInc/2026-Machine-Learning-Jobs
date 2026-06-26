@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdFcce9NJuZZBrdE8u1-JRHrqWox2KsrVeUpH0uzb0A8EjsACxwdTAqR8yOyoNC8HWFWwp_ouAVjlk-W0DQ4Cx5XhuuGqan-7dXwIOH_zNaTEteVqc4eQ-0tMgH-MA%3D%3D_V2&loc=GB&title=Research+Engineer) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTTpSJK4mRYL0mpyN-Icib5u3dQderVbRF7HRazKI1jjEjsA1Ny_iwoUf30GHtddYET7byBfxXdC2aOJViFtJkDItL_5XipC4bcQsu1ZGGfO2YNdS5UBvf898LPimw%3D%3D_V2&loc=US&title=Research+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-04-30.
+This security engineer position at Google was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

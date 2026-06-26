@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lisbon-Santos-37/AI-Engineer_R00330689) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | AI / ML Research |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur/AI-Engineer_14447500) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-05-14.
+This ai / ml research position at Accenture was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

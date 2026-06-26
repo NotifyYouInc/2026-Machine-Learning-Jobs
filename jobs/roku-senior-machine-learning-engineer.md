@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Austin, Texas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/7991043?gh_jid=7991043) |
+| Location | San Jose, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/8016414?gh_jid=8016414) |
 
 ## About This Role
 
-This devops engineer position at Roku was posted on 2026-06-08.
+This machine learning engineer position at Roku was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

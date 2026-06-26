@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Artificial-Intelligence-Lead---Airbus-India-Innovation-Centre_JR10338360) |
+| Category | Engineering Manager |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Artificial-Intelligence-Lead---Airbus-India-Innovation-Centre_JR10422787) |
 
 ## About This Role
 
-This ai / ml research position at Airbus was posted on 2026-05-27.
+This engineering manager position at Airbus was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

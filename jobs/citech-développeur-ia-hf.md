@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000116225711-developpeur-ia-hf) |
+| Location | Marseille, Provence-Alpes-Côte d'Azur, France |
+| Category | Software Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000133004871-developpeur-ia-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at CITECH was posted on 2026-03-23.
+This software engineer position at CITECH was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

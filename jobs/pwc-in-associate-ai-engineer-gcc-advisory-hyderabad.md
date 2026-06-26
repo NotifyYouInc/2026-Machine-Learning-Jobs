@@ -1,16 +1,16 @@
-# IN_Associate_AI Engineer _GCC_Advisory_Hyderabad at PwC
+# IN_Associate_AI Engineer_GCC_Advisory_Hyderabad at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Robotic-Process-Automation-GCC-Advisory-Bangalore_715686WD-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Robotic-Process-Automation-GCC-Advisory-Bangalore_715690WD-1) |
 
 ## About This Role
 
-This ai / llm engineer position at PwC was posted on 2026-06-02.
+This ai / llm engineer position at PwC was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

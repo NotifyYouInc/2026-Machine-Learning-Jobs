@@ -5,12 +5,12 @@
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#333175) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#333191) |
 
 ## About This Role
 
-This ai / llm engineer position at Oracle was posted on 2026-05-26.
+This ai / llm engineer position at Oracle was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

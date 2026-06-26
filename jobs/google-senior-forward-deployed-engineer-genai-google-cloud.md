@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Zürich, Zurich, Switzerland |
 | Category | AI / ML Research |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckahSvcUaMviAbeahT_G1qoe8-a4E3-wCWN2iOY61G5BPEjsA1Ny_i3aGcY7Yjsu0ZuVnl7F3U7AALY3MGn2e8rqdh5qfp7_frVrFY-f33y6gdOdXKRHy3wMn7zvZtA%3D%3D_V2&loc=PL&title=Senior+Forward+Deployed+Engineer) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckdwf473mymzfs0d6olGahqw2xsyRZZEeBK3h2niQ81ZgEjsA1Ny_i-gdysh7bgWPFwMd6Gy5LZhNjuL1DTbWUIZuo6H5aHxUdcY30yQVffYCfmbsk3pP3mDrRXTGSw%3D%3D_V2&loc=CH&title=Senior+Forward+Deployed+Engineer) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-06-16.
+This ai / ml research position at Google was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

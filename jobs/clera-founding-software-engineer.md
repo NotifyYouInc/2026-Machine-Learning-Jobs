@@ -5,12 +5,12 @@
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/c3e4de69-4d04-406b-970d-ab0468fe23f4) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/a67acec5-bdac-4171-89c8-e750cfca0949) |
 
 ## About This Role
 
-This ai / llm engineer position at Clera was posted on 2026-06-06.
+This ai / llm engineer position at Clera was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

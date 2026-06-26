@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | Spain |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7702644) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8007455) |
 
 ## About This Role
 
-This machine learning engineer position at Twilio was posted on 2026-03-20.
+This machine learning engineer position at Twilio was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

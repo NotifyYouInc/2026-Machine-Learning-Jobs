@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV9sxaLl2NO_PiOX5jwbz0oISKkMiV5BdHpXAZ-Or9-bEjsACxwdTFJmChDYN_M4aEzvFJGujEMmRYaMZ7wAVxhYseH4AI7UM0WxugrCDBz62MzLojRAkaV8-b64cw%3D%3D_V2&loc=SG&title=Senior+Software+Engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckddb-7ZcHTU3bnceHI8j7b5hj8KfZk3xtSJW_c52tRdnEjsA1Ny_i9zSjwXPc78-WNwZZIGXllYlnqpaXvPG8C7W_XYOCVN1VCglToNdbBb51Y_cBL5y_YcbPiy4ag%3D%3D_V2&loc=SG&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-13.
+This machine learning engineer position at Google was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

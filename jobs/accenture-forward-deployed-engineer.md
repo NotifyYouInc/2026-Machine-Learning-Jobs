@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Forward-Deployed-Engineer_ATCI-5613009-S2028500-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Forward-Deployed-Engineer_ATCI-5632773-S2030539-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-06-09.
+This machine learning engineer position at Accenture was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

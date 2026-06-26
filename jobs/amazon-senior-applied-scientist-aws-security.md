@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Herndon, Virginia, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10411976/senior-applied-scientist-aws-security) |
+| Location | Seattle, Washington, United States |
+| Category | Security Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452867/senior-applied-scientist-aws-security) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-05.
+This security engineer position at Amazon was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

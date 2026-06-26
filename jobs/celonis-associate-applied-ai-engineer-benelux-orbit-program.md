@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7662803003?gh_jid=7662803003) |
+| Category | Sales Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7765936003?gh_jid=7765936003) |
 
 ## About This Role
 
-This ai / llm engineer position at Celonis was posted on 2026-06-01.
+This sales engineer position at Celonis was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

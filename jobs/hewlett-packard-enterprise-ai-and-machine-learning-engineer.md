@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/AI-and-Machine-Learning-Engineer_1206758) |
+| Location | Aguadilla, Aguadilla, Puerto Rico |
+| Category | Data Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Aguadilla-Puerto-Rico-Puerto-Rico/AI-and-Machine-Learning-Engineer_1208854) |
 
 ## About This Role
 
-This machine learning engineer position at Hewlett Packard Enterprise was posted on 2026-06-08.
+This data engineer position at Hewlett Packard Enterprise was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

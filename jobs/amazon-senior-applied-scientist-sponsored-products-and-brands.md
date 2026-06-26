@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | New York City, New York, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420807/senior-applied-scientist-sponsored-products-and-brands) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10453398/senior-applied-scientist-sponsored-products-and-brands) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-15.
+This ai / ml research position at Amazon was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

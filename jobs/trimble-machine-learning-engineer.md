@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Machine-Learning-Engineer_R53349) |
+| Location | Vilnius, Vilnius, Lithuania |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Lithuania---Vilnius/Machine-Learning-Engineer_R55832-1) |
 
 ## About This Role
 
-This software engineer position at Trimble was posted on 2026-02-04.
+This machine learning engineer position at Trimble was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
