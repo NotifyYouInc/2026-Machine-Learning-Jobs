@@ -6,7 +6,7 @@
 | Location | Oslo, Oslo, Norway |
 | Category | AI / ML Research |
 | Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132872729-senior-ki-utvikler) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132875596-senior-ki-utvikler) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000128427200-senior-ml-engineer-mfd) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000133033542-senior-ml-engineer-mfd) |
 
 ## About This Role
 
-This machine learning engineer position at Redcare Pharmacy was posted on 2026-05-26.
+This machine learning engineer position at Redcare Pharmacy was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mem0](https://scoutify.ai/companies/mem0?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mem0/0d823614-e27d-4a51-b9f1-21a855339f5c) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mem0/55ef65b7-b9ad-4953-9892-430642281a23) |
 
 ## About This Role
 
-This ai / ml research position at Mem0 was posted on 2026-05-20.
+This ai / ml research position at Mem0 was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

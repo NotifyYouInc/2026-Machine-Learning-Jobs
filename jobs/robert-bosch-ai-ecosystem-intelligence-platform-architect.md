@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127837269-ai-ecosystem-intelligence-platform-architect) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133051050-ai-ecosystem-intelligence-platform-architect) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-05-22.
+This ai / llm engineer position at Robert Bosch was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

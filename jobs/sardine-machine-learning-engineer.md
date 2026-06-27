@@ -1,16 +1,16 @@
-# Machine Learning Engineer at Sardine
+# Machine Learning Engineer  at Sardine
 
 | Field | Details |
 |-------|---------|
 | Company | [Sardine](https://scoutify.ai/companies/sardine?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Canada |
+| Location | United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2025-09-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sardine/2c8f0342-b8af-4cc2-85cd-67bc48275568) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sardine/59551132-d503-4148-9b16-bdf03e61e739) |
 
 ## About This Role
 
-This machine learning engineer position at Sardine was posted on 2025-09-09.
+This machine learning engineer position at Sardine was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

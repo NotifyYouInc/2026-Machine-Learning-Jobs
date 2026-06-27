@@ -5,12 +5,12 @@
 | Company | [Nio](https://scoutify.ai/companies/nio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/AI-Infrastructure-Engineer_R-000149) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Sr-AI-LLM-Infrastructure-SW-Engineer_R-000123) |
 
 ## About This Role
 
-This ai / llm engineer position at Nio was posted on 2026-04-22.
+This ai / llm engineer position at Nio was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

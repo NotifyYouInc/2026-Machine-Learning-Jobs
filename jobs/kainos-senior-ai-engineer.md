@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kainos](https://scoutify.ai/companies/kainos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Birmingham, England, United Kingdom |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Senior-AI-Engineer_JR_17716) |
+| Location | 3 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Senior-AI-Engineer_JR_17950) |
 
 ## About This Role
 
-This ai / llm engineer position at Kainos was posted on 2026-05-01.
+This machine learning engineer position at Kainos was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

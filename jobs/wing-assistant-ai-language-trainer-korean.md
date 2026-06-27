@@ -6,7 +6,7 @@
 | Location | South Korea |
 | Category | AI / ML Research |
 | Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.lever.co/getwingapp/61601cb3-74ba-41a4-80a8-dc97273737f2) |
+| Apply | [View on company site](https://jobs.lever.co/getwingapp/61000cea-3e7a-4baa-b079-0f7cd05c8f62) |
 
 ## About This Role
 

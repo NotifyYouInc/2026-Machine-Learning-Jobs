@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Backbase](https://scoutify.ai/companies/backbase?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7962835) |
+| Category | AI / ML Research |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7957036) |
 
 ## About This Role
 
-This ai / llm engineer position at Backbase was posted on 2026-06-02.
+This ai / ml research position at Backbase was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

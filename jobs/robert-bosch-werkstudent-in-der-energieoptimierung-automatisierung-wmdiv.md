@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Abstatt, Baden-Wurttemberg, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132154230-werkstudent-in-der-energieoptimierung-automatisierung-wmdiv) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133029639-werkstudent-in-der-energieoptimierung-automatisierung-wmdiv) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-06-15.
+This machine learning engineer position at Robert Bosch was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

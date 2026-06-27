@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011629096-sr-data-scientist) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013701036-sr-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Wabtec was posted on 2026-02-11.
+This machine learning engineer position at Wabtec was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

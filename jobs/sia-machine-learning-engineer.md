@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000129448478-machine-learning-engineer) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000133061929-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at SIA was posted on 2026-06-01.
+This machine learning engineer position at SIA was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

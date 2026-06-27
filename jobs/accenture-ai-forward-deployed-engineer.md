@@ -1,16 +1,16 @@
-# AI / Forward Deployed Engineer at Accenture
+# AI Forward Deployed Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Coimbra, Coimbra, Portugal |
+| Location | Mississauga, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbra/AI---Forward-Deployed-Engineer_R00331828) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mississauga-1-City-Centre-DCN/AI-Forward-Deployed-Engineer_R00333191) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-05-21.
+This ai / llm engineer position at Accenture was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

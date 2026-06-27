@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000120504687-consultant-data-scientist-senior-ia-ia-generative-hf-cdi) |
+| Category | AI / ML Research |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000133050017-consultant-data-scientist-senior-ia-ia-generative-hf-cdi) |
 
 ## About This Role
 
-This machine learning engineer position at Talan was posted on 2026-04-13.
+This ai / ml research position at Talan was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
