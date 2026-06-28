@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10421569/robotics-ai-motor-control-scientist-fauna) |
+| Category | Robotics Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441528/robotics-ai-motor-control-scientist-fauna) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-15.
+This robotics engineer position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

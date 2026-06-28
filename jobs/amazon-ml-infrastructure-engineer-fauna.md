@@ -1,16 +1,16 @@
-# Sr. Applied Scientist, AWS Automated Reasoning at Amazon
+# ML Infrastructure Engineer, Fauna at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413908/sr-applied-scientist-aws-automated-reasoning) |
+| Location | New York City, New York, United States |
+| Category | Robotics Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10421819/ml-infrastructure-engineer-fauna) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-07.
+This robotics engineer position at Amazon was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

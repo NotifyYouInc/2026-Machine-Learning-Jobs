@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Oslo, Oslo, Norway |
 | Category | AI / ML Research |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132875596-senior-ki-utvikler) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132995789-senior-ki-utvikler) |
 
 ## About This Role
 
-This ai / ml research position at Sopra Steria was posted on 2026-06-18.
+This ai / ml research position at Sopra Steria was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

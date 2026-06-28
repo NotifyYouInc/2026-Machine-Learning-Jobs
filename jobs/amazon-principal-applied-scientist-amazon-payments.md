@@ -1,4 +1,4 @@
-# Sr. Applied Scientist, AWS Automated Reasoning at Amazon
+# Principal Applied Scientist, Amazon Payments at Amazon
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Seattle, Washington, United States |
 | Category | AI / ML Research |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413908/sr-applied-scientist-aws-automated-reasoning) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10414299/principal-applied-scientist-amazon-payments) |
 
 ## About This Role
 
