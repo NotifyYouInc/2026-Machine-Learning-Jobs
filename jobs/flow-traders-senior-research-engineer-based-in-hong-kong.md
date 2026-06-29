@@ -1,16 +1,16 @@
-# Machine Learning Engineer II at Expedia
+# Senior Research Engineer (Based in Hong Kong) at Flow Traders
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Flow Traders](https://scoutify.ai/companies/flowtraders?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Machine-Learning-Engineer-II_R-106937) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/8020047) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-06-22.
+This machine learning engineer position at Flow Traders was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

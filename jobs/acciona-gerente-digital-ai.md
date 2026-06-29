@@ -1,16 +1,16 @@
-# Senior AI Solution Architect at Amazon
+# Gerente Digital & AI at Acciona
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | AI / ML Research |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454509/senior-ai-solution-architect) |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Madrid/Gerente-Digital---AI_20096778) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-22.
+This ai / ml research position at Acciona was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

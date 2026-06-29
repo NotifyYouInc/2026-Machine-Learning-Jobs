@@ -1,16 +1,16 @@
-# Senior AI Solution Architect at Amazon
+# Senior Forward Deployed Engineer (Remote Build) at Remote
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | AI / ML Research |
+| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
+| Category | AI / LLM Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454509/senior-ai-solution-architect) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7774935003) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-22.
+This ai / llm engineer position at Remote was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

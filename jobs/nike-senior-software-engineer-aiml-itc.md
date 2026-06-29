@@ -1,16 +1,16 @@
-# Senior AI Solution Architect at Amazon
+# Senior Software Engineer -AIML, ITC at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | AI / ML Research |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | India |
+| Category | Software Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454509/senior-ai-solution-architect) |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Senior-Software-Engineer--AIML--ITC_R-86383) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-22.
+This software engineer position at Nike was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

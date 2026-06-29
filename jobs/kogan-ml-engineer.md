@@ -1,16 +1,16 @@
-# Senior AI Solution Architect at Amazon
+# ML Engineer at Kogan
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | AI / ML Research |
+| Company | [Kogan](https://scoutify.ai/companies/kogan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | South Melbourne, Victoria, Australia |
+| Category | Data Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454509/senior-ai-solution-architect) |
+| Apply | [View on company site](https://jobs.lever.co/kogan/5dc7a8ea-a5c0-48e1-bfae-273bba001c87) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-22.
+This data engineer position at Kogan was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior AI Solution Architect at Amazon
+# MCP AI Architect - IIT at Gruve
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | AI / ML Research |
+| Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | India |
+| Category | AI / LLM Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454509/senior-ai-solution-architect) |
+| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5271641008) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-22.
+This ai / llm engineer position at Gruve was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

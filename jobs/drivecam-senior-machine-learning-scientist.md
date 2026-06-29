@@ -1,16 +1,16 @@
-# Machine Learning Engineer II at Expedia
+# Senior Machine learning Scientist at DriveCam
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [DriveCam](https://scoutify.ai/companies/drivecam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Machine-Learning-Engineer-II_R-106937) |
+| Apply | [View on company site](https://lytx.wd1.myworkdayjobs.com/lytx/job/Office---Bangalore-India/Senior-Machine-learning-Scientist_R-4228) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-06-22.
+This machine learning engineer position at DriveCam was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

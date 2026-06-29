@@ -1,16 +1,16 @@
-# Senior AI Solution Architect at Amazon
+# Projektleiter KI & Digitalisierung (f/m/d) at Danaher
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Wetzlar, Hesse, Germany |
 | Category | AI / ML Research |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454509/senior-ai-solution-architect) |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Wetzlar-Germany/Projektleiter-KI---Digitalisierung--f-m-d-_R1312554) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-22.
+This ai / ml research position at Danaher was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

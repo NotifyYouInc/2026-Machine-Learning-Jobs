@@ -1,16 +1,16 @@
-# Senior AI Solution Architect at Amazon
+# AI Engineer II at Beyond ONE
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Beyond ONE](https://scoutify.ai/companies/beyond-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Lahore, Punjab, Pakistan |
 | Category | AI / ML Research |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454509/senior-ai-solution-architect) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/beyondone/jobs/4898894101) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-22.
+This ai / ml research position at Beyond ONE was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

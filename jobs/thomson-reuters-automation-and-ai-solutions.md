@@ -1,16 +1,16 @@
-# IN_Senior Associate_AI Engineer_GCC_Advisory_Bangalore at PwC
+# Automation and AI Solutions at Thomson Reuters
 
 | Field | Details |
 |-------|---------|
-| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Manager-Robotic-Process-Automation--RPA--GCC-Advisory-Bangalore_715838WD-1) |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Process-Engineer---Senior-Process-Engineer_JREQ199330) |
 
 ## About This Role
 
-This ai / llm engineer position at PwC was posted on 2026-06-22.
+This ai / llm engineer position at Thomson Reuters was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hong Kong |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Hunghom-Kowloon-Hong-Kong/AI-Engineer_JR00121619) |
+| Location | Indonesia |
+| Category | AI / ML Research |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Jakarta-Selatan-Jakarta-Raya/AI-Engineer_JR00125270) |
 
 ## About This Role
 
-This ai / llm engineer position at Sun Life Financial was posted on 2026-03-20.
+This ai / ml research position at Sun Life Financial was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

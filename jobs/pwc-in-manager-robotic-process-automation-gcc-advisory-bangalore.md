@@ -1,4 +1,4 @@
-# IN_Senior Associate_AI Engineer_GCC_Advisory_Bangalore at PwC
+# IN_Manager_Robotic Process Automation_GCC_Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Manager-Robotic-Process-Automation--RPA--GCC-Advisory-Bangalore_715838WD-1) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Robotic-Process-Automation-GCC-Advisory-Bangalore_715648WD-1) |
 
 ## About This Role
 

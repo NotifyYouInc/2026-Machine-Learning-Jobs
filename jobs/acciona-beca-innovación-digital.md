@@ -1,16 +1,16 @@
-# Machine Learning Engineer II at Expedia
+# Beca Innovación Digital at Acciona
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Machine-Learning-Engineer-II_R-106937) |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Barcelona/Beca-Innovacin-Digital_20098041) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-06-22.
+This machine learning engineer position at Acciona was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

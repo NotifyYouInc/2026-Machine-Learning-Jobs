@@ -1,16 +1,16 @@
-# Senior AI Solution Architect at Amazon
+# Développeur en IA/AI Developer at Capco
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454509/senior-ai-solution-architect) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8019887) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-22.
+This ai / ml research position at Capco was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

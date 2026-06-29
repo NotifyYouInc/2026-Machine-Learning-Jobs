@@ -1,16 +1,16 @@
-# Machine Learning Engineer II at Expedia
+# Senior Algorithm Engineer at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Shenyang, Liaoning, China |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Machine-Learning-Engineer-II_R-106937) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenyang/Senior-Algorithm-Engineer_583728) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-06-22.
+This machine learning engineer position at Philips was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
