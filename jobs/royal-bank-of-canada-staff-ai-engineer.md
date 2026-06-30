@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Toronto, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Staff-AI-Engineer_R-0000159992-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Staff-AI-Engineer_R-0000177482-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Royal Bank of Canada was posted on 2026-02-25.
+This ai / llm engineer position at Royal Bank of Canada was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

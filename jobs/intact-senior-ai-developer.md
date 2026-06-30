@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/Senior-AI-Developer_R151729) |
+| Location | Montréal, Quebec, Canada |
+| Category | AI / ML Research |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Senior-AI-Developer_R154172) |
 
 ## About This Role
 
-This machine learning engineer position at Intact was posted on 2026-02-17.
+This ai / ml research position at Intact was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

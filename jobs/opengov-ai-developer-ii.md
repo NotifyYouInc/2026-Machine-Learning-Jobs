@@ -5,12 +5,12 @@
 | Company | [OpenGov](https://scoutify.ai/companies/opengov?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/opengov/ea5f3b39-867a-4dd4-8585-9a3dc6638cf5) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/opengov/b5e28ec9-c212-4e7c-a1b8-72c42c915ced) |
 
 ## About This Role
 
-This ai / llm engineer position at OpenGov was posted on 2026-02-27.
+This ai / llm engineer position at OpenGov was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

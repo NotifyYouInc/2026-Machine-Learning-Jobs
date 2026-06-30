@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | AI / ML Research |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Responsible-AI-Engineer_ATCI-5596913-S2029219-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Responsible-AI-Engineer_ATCI-5541736-S2020133-1) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-06-17.
+This ai / ml research position at Accenture was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

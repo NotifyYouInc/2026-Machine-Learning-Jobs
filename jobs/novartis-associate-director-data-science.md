@@ -1,16 +1,16 @@
-# Associate Director Data Science at Novartis
+# Associate Director, Data Science at Novartis
 
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Director-Data-Science_REQ-10072863) |
+| Location | Cambridge, Massachusetts, United States |
+| Category | AI / ML Research |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Cambridge-USA/Associate-Director--Data-Science_REQ-10080761-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Novartis was posted on 2026-03-11.
+This ai / ml research position at Novartis was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

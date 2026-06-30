@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000130563232-ai-engineer) |
+| Location | 6 locations |
+| Category | AI / ML Research |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000133378305-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Version 1 was posted on 2026-06-05.
+This ai / ml research position at Version 1 was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

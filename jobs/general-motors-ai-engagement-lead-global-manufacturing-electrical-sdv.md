@@ -1,16 +1,16 @@
-# AI Engagement Lead – Global Manufacturing Electrical & SDV at General Motors
+# AI Engagement Lead  – Global Manufacturing Electrical & SDV at General Motors
 
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Warren, Michigan, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/AI-Engagement-Lead---Global-Manufacturing-Electrical---SDV_JR-202608597) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/AI-Engagement-Lead----Global-Manufacturing-Electrical---SDV_JR-202613525) |
 
 ## About This Role
 
-This ai / ml research position at General Motors was posted on 2026-05-13.
+This ai / ml research position at General Motors was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

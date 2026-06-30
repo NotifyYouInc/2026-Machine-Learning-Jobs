@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5317042-S1937704-1) |
+| Category | Software Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Lead_ATCI-5151443-S1923182-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-06-17.
+This software engineer position at Accenture was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

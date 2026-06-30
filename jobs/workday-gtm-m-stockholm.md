@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | AI / ML Research |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/GTM-M-Stockholm_JR-0104449) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/GTM-M-Stockholm_JR-0108234) |
 
 ## About This Role
 
-This ai / ml research position at Workday was posted on 2026-06-16.
+This ai / ml research position at Workday was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

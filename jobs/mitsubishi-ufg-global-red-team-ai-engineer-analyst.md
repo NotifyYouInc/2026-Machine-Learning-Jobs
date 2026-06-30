@@ -5,12 +5,12 @@
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Jersey City, New Jersey, United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Global-Red-Team-AI-Engineer--Analyst_10076229-WD) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Global-Red-Team-AI-Engineer--Analyst_10077350-WD) |
 
 ## About This Role
 
-This offensive security & pentesting position at Mitsubishi UFG was posted on 2026-04-22.
+This offensive security & pentesting position at Mitsubishi UFG was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | California, US |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](http://block.xyz/careers/jobs/5128155008?gh_jid=5128155008) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5198102008?gh_jid=5198102008) |
 
 ## About This Role
 
-This machine learning engineer position at Block was posted on 2026-02-20.
+This machine learning engineer position at Block was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

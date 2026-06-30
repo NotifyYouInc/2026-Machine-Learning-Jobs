@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [1&1 Drillisch](https://scoutify.ai/companies/1-1-drillisch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karlsruhe, Baden-Wurttemberg, Germany |
+| Location | Berlin, State of Berlin, Germany |
 | Category | AI / ML Research |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ionos/jobs/4896137101) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ionos/jobs/4905102101) |
 
 ## About This Role
 
-This ai / ml research position at 1&1 Drillisch was posted on 2026-06-15.
+This ai / ml research position at 1&1 Drillisch was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

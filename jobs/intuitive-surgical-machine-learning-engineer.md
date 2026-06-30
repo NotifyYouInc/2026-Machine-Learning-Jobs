@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Peachtree Corners, Georgia, United States |
+| Location | San Francisco, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000126766019-machine-learning-engineer) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000133419509-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Intuitive Surgical was posted on 2026-05-15.
+This machine learning engineer position at Intuitive Surgical was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

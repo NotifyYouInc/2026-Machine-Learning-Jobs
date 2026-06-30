@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Toronto, Ontario, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Barcelona/Computational-Science-Lead_R2844852) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Computational-Science-Lead_R2861855) |
 
 ## About This Role
 
-This machine learning engineer position at Sanofi was posted on 2026-03-02.
+This machine learning engineer position at Sanofi was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

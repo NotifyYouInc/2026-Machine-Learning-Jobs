@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Shanghai-Shanghai-200003/AI-ML-Scientist_R175604) |
+| Category | AI / ML Research |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Shanghai-Shanghai-200003/AI-ML-Scientist_R185833) |
 
 ## About This Role
 
-This machine learning engineer position at A.P. Moller - Maersk was posted on 2026-03-12.
+This ai / ml research position at A.P. Moller - Maersk was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Monthey, Valais, Switzerland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000118385470-stagiaire-ia-efficience-energetique-hfn) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000133307918-stagiaire-ia-efficience-energetique-hfn) |
 
 ## About This Role
 
-This machine learning engineer position at Syngenta was posted on 2026-04-02.
+This machine learning engineer position at Syngenta was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

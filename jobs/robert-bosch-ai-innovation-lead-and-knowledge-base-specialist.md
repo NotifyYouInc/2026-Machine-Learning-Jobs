@@ -1,16 +1,16 @@
-# AI Innovation Lead and knowledge base specialist at Robert Bosch
+# AI Innovation Lead and Knowledge Base Specialist at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / ML Research |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130698499-ai-innovation-lead-and-knowledge-base-specialist) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133500399-ai-innovation-lead-and-knowledge-base-specialist) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-06-08.
+This ai / ml research position at Robert Bosch was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

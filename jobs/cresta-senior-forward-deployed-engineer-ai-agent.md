@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cresta](https://scoutify.ai/companies/cresta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Taiwan |
+| Location | Australia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/5205398008) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/5107283008) |
 
 ## About This Role
 
-This ai / llm engineer position at Cresta was posted on 2026-04-29.
+This ai / llm engineer position at Cresta was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

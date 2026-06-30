@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/AI-Design-Engineer---AVP_26956807) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/AI-Design-Engineer---AVP_26956802) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-05-15.
+This ai / llm engineer position at Citigroup was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

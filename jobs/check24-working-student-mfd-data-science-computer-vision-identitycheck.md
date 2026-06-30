@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000126281848-working-student-mfd-data-science-computer-vision-identitycheck) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133348450-working-student-mfd-data-science-computer-vision-identitycheck) |
 
 ## About This Role
 
-This machine learning engineer position at CHECK24 was posted on 2026-05-13.
+This machine learning engineer position at CHECK24 was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | AI / ML Research |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200665352/machine-learning-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200660567/machine-learning-engineer) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2026-05-27.
+This machine learning engineer position at Apple was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

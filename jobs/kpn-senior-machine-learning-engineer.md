@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000120662287-senior-machine-learning-engineer) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000133380351-senior-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at KPN was posted on 2026-04-14.
+This machine learning engineer position at KPN was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

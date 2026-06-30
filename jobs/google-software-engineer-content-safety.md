@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Trust & Safety |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRfxAdRXk9Chzc_P5Bcn7twTgRyEjVrDRUvWwtG69NlFEjsACxwdTPnYtSZHohVU071_6-gEJd4YwUxIZVUghtyCHXyHv4By1EkKTFiLopgfzH_Op7OmzMEEJELfJA%3D%3D_V2&loc=SG&title=Software+Engineer) |
+| Category | Software Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXwINrVW3a1hxN1wrRqAThjwHDcVNVoSLSB4hsffCZvDEjsA1Ny_i3k8-80LTNMxYB0p7jDQLnb5wvE3cwq5kyyO1RbEaiYf8KPQz627ErQ2MiuHTdBBbndfwD6LJQ%3D%3D_V2&loc=SG&title=Software+Engineer) |
 
 ## About This Role
 
-This trust & safety position at Google was posted on 2026-05-21.
+This software engineer position at Google was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

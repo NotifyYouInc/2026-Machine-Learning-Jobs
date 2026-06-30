@@ -1,16 +1,16 @@
-# Machine Learning Engineer, Data Mining  at Motional AD
+# Machine Learning Engineer, Data Mining at Motional AD
 
 | Field | Details |
 |-------|---------|
 | Company | [Motional AD](https://scoutify.ai/companies/motional?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://motional.com/open-positions/?gh_jid=7694846003#/7694846003) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://motional.com/open-positions/?gh_jid=7779985003#/7779985003) |
 
 ## About This Role
 
-This machine learning engineer position at Motional AD was posted on 2026-04-14.
+This machine learning engineer position at Motional AD was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

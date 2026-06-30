@@ -5,12 +5,12 @@
 | Company | [University Health Network](https://scoutify.ai/companies/universityhealthnetwork?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000131913639-postdoctoral-researcher) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000133382008-postdoctoral-researcher) |
 
 ## About This Role
 
-This ai / ml research position at University Health Network was posted on 2026-06-12.
+This ai / ml research position at University Health Network was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

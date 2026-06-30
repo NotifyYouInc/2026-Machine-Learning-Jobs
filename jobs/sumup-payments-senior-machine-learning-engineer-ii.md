@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SumUp Payments](https://scoutify.ai/companies/sumup-payments?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://sumup.com/careers/positions/8458919002?gh_jid=8458919002) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | AI / ML Research |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://sumup.com/careers/positions/8602385002?gh_jid=8602385002) |
 
 ## About This Role
 
-This machine learning engineer position at SumUp Payments was posted on 2026-04-13.
+This ai / ml research position at SumUp Payments was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

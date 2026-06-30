@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/San-Francisco-CA/Senior-AI-Platform-Engineer_R42177) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/San-Francisco-CA/Senior-AI-Platform-Engineer_R43036) |
 
 ## About This Role
 
-This ai / llm engineer position at SS&C Technologies was posted on 2026-04-28.
+This ai / llm engineer position at SS&C Technologies was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

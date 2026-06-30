@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Örnsköldsvik, Västernorrland, Sweden |
+| Location | Sundsvall, Västernorrland, Sweden |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000129671859-mekanikkonstruktor-produktutveckling) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000133516350-mekanikkonstruktor-produktutveckling) |
 
 ## About This Role
 
-This machine learning engineer position at AFRY was posted on 2026-06-02.
+This machine learning engineer position at AFRY was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

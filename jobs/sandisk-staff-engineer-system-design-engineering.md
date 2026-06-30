@@ -1,16 +1,16 @@
-# Staff Engineer, system design engineering at SanDisk
+# Staff Engineer, System Design Engineering at SanDisk
 
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Milpitas, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000132934739-staff-engineer-system-design-engineering) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000133443620-staff-engineer-system-design-engineering) |
 
 ## About This Role
 
-This machine learning engineer position at SanDisk was posted on 2026-06-18.
+This machine learning engineer position at SanDisk was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

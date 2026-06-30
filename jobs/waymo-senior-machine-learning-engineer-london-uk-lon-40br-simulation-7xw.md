@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Waymo](https://scoutify.ai/companies/waymo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=7961704) |
+| Category | AI / ML Research |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=7961706) |
 
 ## About This Role
 
-This machine learning engineer position at Waymo was posted on 2026-06-01.
+This ai / ml research position at Waymo was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

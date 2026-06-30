@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Striveworks](https://scoutify.ai/companies/striveworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Virginia, US |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/striveworks/jobs/7702517003) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/striveworks/jobs/7779137003) |
 
 ## About This Role
 
-This machine learning engineer position at Striveworks was posted on 2026-04-16.
+This machine learning engineer position at Striveworks was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
