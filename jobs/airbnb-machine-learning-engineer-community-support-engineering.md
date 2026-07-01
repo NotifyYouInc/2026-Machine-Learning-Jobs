@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | China |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://careers.airbnb.com/positions/7716341?gh_jid=7716341) |
+| Location | San Francisco, California, United States |
+| Category | AI / ML Research |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/8024267?gh_jid=8024267) |
 
 ## About This Role
 
-This ai / llm engineer position at Airbnb was posted on 2026-03-23.
+This ai / ml research position at Airbnb was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

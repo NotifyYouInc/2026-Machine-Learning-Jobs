@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452383/applied-scientist-sponsored-products-and-brands) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456669/applied-scientist-sponsored-products-and-brands) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-18.
+This ai / ml research position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

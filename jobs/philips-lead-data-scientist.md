@@ -1,16 +1,16 @@
-# Lead Data Scientist at Philips
+# Lead Data scientist at Philips
 
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Lead-Data-Scientist_583702-1) |
+| Category | AI / ML Research |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Advanced-Analytics-Business-Partner_572199) |
 
 ## About This Role
 
-This machine learning engineer position at Philips was posted on 2026-05-19.
+This ai / ml research position at Philips was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440287/applied-scientist-ii-visual-search-science) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456899/applied-scientist-ii-visual-search-science) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-04.
+This ai / ml research position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

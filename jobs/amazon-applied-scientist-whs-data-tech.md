@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447429/applied-scientist-whs-data-tech) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456878/applied-scientist-whs-data-tech) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-12.
+This ai / ml research position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

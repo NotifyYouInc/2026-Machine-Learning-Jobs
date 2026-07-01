@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000123146229-principal-ml-engineer-agentic-ai-vendor-data-team) |
+| Category | Data Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133609345-principal-ml-engineer-agentic-ai-vendor-data-team) |
 
 ## About This Role
 
-This machine learning engineer position at Delivery Hero was posted on 2026-04-27.
+This data engineer position at Delivery Hero was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

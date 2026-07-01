@@ -5,12 +5,12 @@
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000129545479-developpeur-genai-hf) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000133606390-developpeur-genai-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at SEPTEO was posted on 2026-06-01.
+This ai / llm engineer position at SEPTEO was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

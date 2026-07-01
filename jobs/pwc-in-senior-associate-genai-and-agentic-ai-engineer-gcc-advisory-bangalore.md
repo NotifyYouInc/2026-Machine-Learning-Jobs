@@ -1,16 +1,16 @@
-# IN_Senior Associate_GenAI and Agentic AI Engineer _GCC_Advisory_Bangalore at PwC
+# IN_Senior Associate_GenAI and Agentic AI Engineer_GCC_Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-GenAI-and-Agentic-AI-Engineer--GCC-Advisory-Bangalore_738722WD-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-GenAI-and-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738969WD-1) |
 
 ## About This Role
 
-This ai / llm engineer position at PwC was posted on 2026-06-22.
+This ai / llm engineer position at PwC was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

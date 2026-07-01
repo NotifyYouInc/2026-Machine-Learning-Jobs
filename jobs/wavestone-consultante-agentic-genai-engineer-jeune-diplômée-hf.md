@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Puteaux, Île-de-France, France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000130170680-consultante-agentic-genai-engineer-jeune-diplomee-hf) |
+| Category | AI / ML Research |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000133875491-consultante-agentic-genai-engineer-jeune-diplomee-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at Wavestone was posted on 2026-06-04.
+This ai / ml research position at Wavestone was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

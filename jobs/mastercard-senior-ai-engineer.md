@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Senior-AI-Engineer_R-280660-1) |
+| Location | Dublin, Leinster, Ireland |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-AI-Engineer_R-281138-1) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-06-19.
+This ai / llm engineer position at Mastercard was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

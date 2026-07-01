@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Toronto, Ontario, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3195138/ingenieur-en-machine-learning-machine-learning-engineer-proserve-shared-delivery-team-data-ai) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456490/ingenieur-en-machine-learning-machine-learning-engineer-proserve-shared-delivery-team-data-ai) |
 
 ## About This Role
 
-This machine learning engineer position at Amazon was posted on 2026-03-04.
+This machine learning engineer position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

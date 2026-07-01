@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vietnam |
+| Location | Not specified |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131586069-sxeit-mm-senior-aiagent-engineer) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133839025-sxeit-mm-senior-aiagent-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-06-11.
+This ai / llm engineer position at Robert Bosch was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

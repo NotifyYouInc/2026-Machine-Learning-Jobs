@@ -5,12 +5,12 @@
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | AI / ML Research |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/DEU---Berlin/Legal-Engineer--Libra---Legal-AI-Assistant---m-f-d-_R0057335) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/DEU---Berlin/Legal-Engineer--Libra---Legal-AI-Assistant---m-f-d-_R0054834-1) |
 
 ## About This Role
 
-This ai / ml research position at Wolters Kluwer was posted on 2026-05-14.
+This ai / ml research position at Wolters Kluwer was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

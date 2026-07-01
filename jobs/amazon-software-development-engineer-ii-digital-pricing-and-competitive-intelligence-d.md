@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441019/software-development-engineer-ii-digital-pricing-and-competitive-intelligence-d-priciq-digital-acceleration) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10455187/software-development-engineer-ii-digital-pricing-and-competitive-intelligence-d-priciq-digital-acceleration) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-05.
+This software engineer position at Amazon was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

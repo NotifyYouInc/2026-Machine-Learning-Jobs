@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000118663357-staff-machine-learning-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000133610922-staff-machine-learning-engineer) |
 
 ## About This Role
 
-This ai / ml research position at Intuitive Surgical was posted on 2026-04-03.
+This machine learning engineer position at Intuitive Surgical was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

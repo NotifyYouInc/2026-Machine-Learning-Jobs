@@ -5,12 +5,12 @@
 | Company | [Ambarella](https://scoutify.ai/companies/ambarella?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Staff-System-Software-Engineer---Embedded-AI---Algorithm_JR100304) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/aff-System-Software-Engineer---Embedded-AI---Algorithm_JR100150) |
 
 ## About This Role
 
-This software engineer position at Ambarella was posted on 2026-05-19.
+This software engineer position at Ambarella was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

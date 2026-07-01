@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001170210-eg-machine-learning-engineer) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001174513-eg-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at NCS was posted on 2026-06-22.
+This machine learning engineer position at NCS was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
