@@ -6,7 +6,7 @@
 | Location | Arlington, Texas, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456515/applied-scientist-tallent-intellgience) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457222/applied-scientist-tallent-intellgience) |
 
 ## About This Role
 

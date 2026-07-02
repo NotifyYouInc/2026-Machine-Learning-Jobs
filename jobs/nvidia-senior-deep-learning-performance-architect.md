@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Performance-Architect_JR2019301) |
+| Location | Santa Clara, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Performance-Architect_JR2020181-1) |
 
 ## About This Role
 
-This ai / ml research position at Nvidia was posted on 2026-06-03.
+This machine learning engineer position at Nvidia was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

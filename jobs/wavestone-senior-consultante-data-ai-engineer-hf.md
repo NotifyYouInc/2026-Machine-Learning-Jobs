@@ -6,7 +6,7 @@
 | Location | Puteaux, Île-de-France, France |
 | Category | AI / ML Research |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000133526643-senior-consultante-data-ai-engineer-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000133549823-senior-consultante-data-ai-engineer-hf) |
 
 ## About This Role
 

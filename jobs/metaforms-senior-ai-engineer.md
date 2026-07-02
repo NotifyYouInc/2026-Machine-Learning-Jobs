@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Metaforms](https://scoutify.ai/companies/metaforms?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2025-08-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metaforms/a8836dc8-8b2b-4bc5-a1c4-725609a8204a) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/metaforms/274f033c-5328-4a15-98e3-0c75effd3f3b) |
 
 ## About This Role
 
-This ai / llm engineer position at Metaforms was posted on 2025-08-07.
+This ai / llm engineer position at Metaforms was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

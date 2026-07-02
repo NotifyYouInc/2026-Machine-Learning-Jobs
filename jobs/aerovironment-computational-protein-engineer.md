@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | Wright-Patterson AFB, Ohio, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/WPAFB/Computational-Protein-Engineer_6967) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/WPAFB/Computational-Protein-Engineer_8002) |
 
 ## About This Role
 
-This ai / ml research position at AeroVironment was posted on 2026-03-05.
+This ai / ml research position at AeroVironment was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

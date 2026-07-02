@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Environmental Resources Management (ERM)](https://scoutify.ai/companies/environmental-resources-management-erm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New Delhi, Delhi, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Kolkata-India/Data-Science-and-Machine-Learning-Specialist_R00028000-1) |
+| Location | 4 locations |
+| Category | AI / ML Research |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Kolkata-India/Data-Science-and-Machine-Learning-Specialist_R00030881-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Environmental Resources Management (ERM) was posted on 2026-03-19.
+This ai / ml research position at Environmental Resources Management (ERM) was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

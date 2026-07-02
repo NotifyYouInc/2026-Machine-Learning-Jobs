@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5238012008) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5278831008) |
 
 ## About This Role
 
-This ai / llm engineer position at Gruve was posted on 2026-06-01.
+This ai / llm engineer position at Gruve was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

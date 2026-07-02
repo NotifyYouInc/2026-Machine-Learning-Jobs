@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000132134979-ai-engineer) |
+| Category | AI / ML Research |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000133909309-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN Canada was posted on 2026-06-15.
+This ai / ml research position at ALTEN Canada was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

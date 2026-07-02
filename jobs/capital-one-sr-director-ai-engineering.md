@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 6 locations |
+| Location | San Francisco, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/Sr-Director--AI-Engineering_R243350-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/Sr-Director--AI-Engineering_R245349-1) |
 
 ## About This Role
 
-This engineering manager position at Capital One was posted on 2026-05-27.
+This engineering manager position at Capital One was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

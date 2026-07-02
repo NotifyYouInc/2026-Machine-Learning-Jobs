@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Gerlingen, Baden-Wurttemberg, Germany |
-| Category | AI / ML Research |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133026579-pflichtpraktikum-in-der-ki-basierten-fuhrungskrafteentwicklung) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134174799-pflichtpraktikum-in-der-ki-basierten-fuhrungskrafteentwicklung) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-06-19.
+This ai / llm engineer position at Robert Bosch was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

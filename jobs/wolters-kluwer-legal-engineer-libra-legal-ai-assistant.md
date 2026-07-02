@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Romania |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ROU-Bucharest-Ilfov-Remote/Legal-Engineer--Libra---Legal-AI-Assistant-_R0055615) |
+| Location | Alphen aan den Rijn, South Holland, The Netherlands |
+| Category | AI / ML Research |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/NLD---Alphen-Aan-Den-Rijn/Legal-Engineer--Libra---Legal-AI-Assistant-_R0058409) |
 
 ## About This Role
 
-This ai / llm engineer position at Wolters Kluwer was posted on 2026-03-06.
+This ai / ml research position at Wolters Kluwer was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

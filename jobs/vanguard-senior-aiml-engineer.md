@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Senior-AI-ML-Engineer_176445) |
+| Location | Malvern, Arkansas, United States |
+| Category | AI / ML Research |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Senior-AI-ML-Engineer_179125-1) |
 
 ## About This Role
 
-This machine learning engineer position at Vanguard was posted on 2026-04-13.
+This ai / ml research position at Vanguard was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

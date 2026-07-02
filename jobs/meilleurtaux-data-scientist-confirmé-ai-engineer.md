@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meilleurtaux](https://scoutify.ai/companies/meilleurtaux?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000123221844-data-scientist-confirme-ai-engineer) |
+| Category | AI / ML Research |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000133899864-data-scientist-confirme-ai-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Meilleurtaux was posted on 2026-04-27.
+This ai / ml research position at Meilleurtaux was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

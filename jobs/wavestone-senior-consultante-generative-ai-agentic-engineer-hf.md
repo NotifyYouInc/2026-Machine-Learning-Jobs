@@ -6,7 +6,7 @@
 | Location | Puteaux, Île-de-France, France |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000133529899-senior-consultante-generative-ai-agentic-engineer-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000133591389-senior-consultante-generative-ai-agentic-engineer-hf) |
 
 ## About This Role
 

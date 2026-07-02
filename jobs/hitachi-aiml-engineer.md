@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/AI-Data-Engineer_R0099945) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/AI-ML-Engineer_R0124755) |
 
 ## About This Role
 
-This machine learning engineer position at Hitachi was posted on 2026-04-16.
+This ai / llm engineer position at Hitachi was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

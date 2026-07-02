@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | East Hanover, New Jersey, United States |
+| Location | Basel, Basel-City, Switzerland |
 | Category | AI / ML Research |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/East-Hanover/Director--AI-Enablement--Corporate-Affairs_REQ-10080337) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Basel-City/Director--AI-Enablement--Corporate-Affairs_REQ-10081916-1) |
 
 ## About This Role
 
-This ai / ml research position at Novartis was posted on 2026-06-08.
+This ai / ml research position at Novartis was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

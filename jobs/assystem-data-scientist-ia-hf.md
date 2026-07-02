@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tours, Centre-Val de Loire, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000130741060-data-scientist-ia-hf) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000133940379-data-scientist-ia-hf) |
 
 ## About This Role
 
-This machine learning engineer position at Assystem was posted on 2026-06-08.
+This machine learning engineer position at Assystem was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
