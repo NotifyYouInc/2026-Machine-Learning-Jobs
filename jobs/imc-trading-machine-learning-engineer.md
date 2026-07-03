@@ -5,12 +5,12 @@
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4567047101) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4908869101) |
 
 ## About This Role
 
-This machine learning engineer position at IMC Trading was posted on 2026-06-09.
+This machine learning engineer position at IMC Trading was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

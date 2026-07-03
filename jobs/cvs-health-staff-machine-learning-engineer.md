@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Richardson, Texas, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Staff-Machine-Learning-Engineer_R0942290) |
+| Location | Connecticut, US |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Connecticut/Staff-Machine-Learning-Engineer_R0937965) |
 
 ## About This Role
 
-This machine learning engineer position at CVS Health was posted on 2026-06-20.
+This ai / llm engineer position at CVS Health was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

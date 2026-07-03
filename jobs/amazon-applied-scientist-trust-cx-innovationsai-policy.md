@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10404195/applied-scientist-trust-cx-innovations-ai-policy) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459297/applied-scientist-trust-cx-innovations-ai-policy) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-04-27.
+This ai / ml research position at Amazon was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

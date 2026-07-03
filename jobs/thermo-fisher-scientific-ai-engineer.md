@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/AI-Engineer_R-01348309) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/So-Paulo-Brazil/AI-Engineer_R-01357884) |
 
 ## About This Role
 
-This ai / llm engineer position at Thermo Fisher Scientific was posted on 2026-04-20.
+This ai / llm engineer position at Thermo Fisher Scientific was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

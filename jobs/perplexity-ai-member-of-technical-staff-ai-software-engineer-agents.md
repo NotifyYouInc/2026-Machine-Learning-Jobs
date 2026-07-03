@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Perplexity AI](https://scoutify.ai/companies/perplexity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/perplexity/4ab39122-1d15-4874-8ab7-c6a241472743) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/perplexity/ac45b160-4ccc-417c-97f8-73d2d04cebfe) |
 
 ## About This Role
 
-This ai / ml research position at Perplexity AI was posted on 2026-06-12.
+This ai / llm engineer position at Perplexity AI was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

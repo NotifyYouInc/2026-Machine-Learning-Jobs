@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Senior-Python-AI-Engineer_51580986) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Senior-Python-AI-Engineer_51583901) |
 
 ## About This Role
 
-This ai / llm engineer position at DXC Technology was posted on 2026-05-21.
+This ai / llm engineer position at DXC Technology was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [The Warehouse Group](https://scoutify.ai/companies/the-warehouse-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/thewarehousegroup1/744000127117024-senior-ai-engineer-lead) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/thewarehousegroup1/744000134357620-senior-ai-engineer-lead) |
 
 ## About This Role
 
-This ai / llm engineer position at The Warehouse Group was posted on 2026-05-19.
+This ai / llm engineer position at The Warehouse Group was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

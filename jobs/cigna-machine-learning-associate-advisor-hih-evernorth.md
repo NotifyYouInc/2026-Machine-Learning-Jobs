@@ -1,16 +1,16 @@
-# Machine Learning Associate Advisor -HIH-Evernorth at Cigna
+# Machine Learning Associate Advisor - HIH - Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Advisor---HIH---Evernorth_26008012) |
 
 ## About This Role
 
-This machine learning engineer position at Cigna was posted on 2026-06-17.
+This ai / llm engineer position at Cigna was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pasito](https://scoutify.ai/companies/pasito?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Argentina |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-23 |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-25 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/pasito/jobs/lHqIR3f-ai-ml-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Pasito was posted on 2026-02-23.
+This machine learning engineer position at Pasito was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

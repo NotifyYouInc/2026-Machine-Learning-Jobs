@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Aurora-CO-US/Staff-Computer-Vision-AI-ML-Engineer_327615) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/602-AURORA-CO/Staff-Computer-Vision-AI-ML-Engineer_326979) |
 
 ## About This Role
 
-This ai / ml research position at CACI was posted on 2026-06-10.
+This machine learning engineer position at CACI was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

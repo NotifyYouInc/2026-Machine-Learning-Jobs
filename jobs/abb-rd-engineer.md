@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | AI / ML Research |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/R-D-Engineer_JR00033013) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/R-D-Engineer_JR00039269) |
 
 ## About This Role
 
-This ai / ml research position at ABB was posted on 2026-05-11.
+This ai / llm engineer position at ABB was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

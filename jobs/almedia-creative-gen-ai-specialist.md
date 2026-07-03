@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Almedia](https://scoutify.ai/companies/almedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | AI / ML Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/almedia/c02c041e-5043-4432-9d55-85f27c0c6f71) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/almedia/a1fad4c3-b76c-461b-972a-5949836b9728) |
 
 ## About This Role
 
-This ai / ml research position at Almedia was posted on 2026-05-19.
+This ai / llm engineer position at Almedia was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

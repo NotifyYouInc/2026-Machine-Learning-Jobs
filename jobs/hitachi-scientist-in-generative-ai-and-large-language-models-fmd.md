@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Aargau, CH |
 | Category | AI / ML Research |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Baden-Daettwil-Aargau-Switzerland/Scientist-in-Generative-AI-and-Large-Language-Models--f-m-d-_R0096639) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Baden-Daettwil-Aargau-Switzerland/Scientist-in-Generative-AI-and-Large-Language-Models--f-m-d-_R0132975) |
 
 ## About This Role
 
-This ai / ml research position at Hitachi was posted on 2026-04-17.
+This ai / ml research position at Hitachi was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

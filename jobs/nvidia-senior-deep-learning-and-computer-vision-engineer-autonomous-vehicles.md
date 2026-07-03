@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Robotics Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-and-Computer-Vision-Engineer---Autonomous-Vehicles_JR2014052) |
+| Location | 3 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-and-Computer-Vision-Engineer---Autonomous-Vehicles_JR2020278) |
 
 ## About This Role
 
-This robotics engineer position at Nvidia was posted on 2026-03-01.
+This machine learning engineer position at Nvidia was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

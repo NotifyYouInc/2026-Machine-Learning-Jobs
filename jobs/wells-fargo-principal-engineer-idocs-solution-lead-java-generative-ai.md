@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Principal-Engineer-IDOCS-Solution-Lead-Java---Generative-AI_R-546583) |
+| Location | Phoenix, Arizona, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/PHOENIX-AZ/Principal-Engineer-IDOCS-Solution-Lead-Java---Generative-AI_R-556170) |
 
 ## About This Role
 
-This ai / ml research position at Wells Fargo was posted on 2026-05-27.
+This ai / llm engineer position at Wells Fargo was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

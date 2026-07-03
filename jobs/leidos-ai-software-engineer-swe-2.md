@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Maryland, US |
-| Category | AI / ML Research |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/AI-Software-Engineer--SWE-2-_R-00183078) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/AI-Software-Engineer--SWE-2-_R-00186147) |
 
 ## About This Role
 
-This ai / ml research position at Leidos was posted on 2026-05-12.
+This ai / llm engineer position at Leidos was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

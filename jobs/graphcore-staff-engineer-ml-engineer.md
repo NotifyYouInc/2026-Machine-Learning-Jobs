@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Graphcore](https://scoutify.ai/companies/graphcore?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Cambridge, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8561870002) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8607712002) |
 
 ## About This Role
 
-This machine learning engineer position at Graphcore was posted on 2026-05-22.
+This machine learning engineer position at Graphcore was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

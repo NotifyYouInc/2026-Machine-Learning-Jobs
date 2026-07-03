@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Lead_ATCI-5098640-S1904800-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5616659-S2033024-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-24.
+This machine learning engineer position at Accenture was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

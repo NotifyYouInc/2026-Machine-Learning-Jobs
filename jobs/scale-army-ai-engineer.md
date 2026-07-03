@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scale Army](https://scoutify.ai/companies/scale-army?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Egypt |
+| Location | Not specified |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/f1afb5ab-24e7-4ff6-99e5-f0cb3794a3ae) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/74567573-0fb8-4d92-8d92-771c03604c99) |
 
 ## About This Role
 
-This ai / llm engineer position at Scale Army was posted on 2026-06-02.
+This ai / llm engineer position at Scale Army was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr AI/Data Science Engineer. at Medtronic
+# Sr AI/Data Science Engineer at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Herzliya, Tel Aviv, Israel |
+| Location | Boston, Massachusetts, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Herzliya-Tel-Aviv-Israel/Sr-AI-Data-Science-Engineer_R61340) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Sr-AI-Data-Science-Engineer_R70375-1) |
 
 ## About This Role
 
-This machine learning engineer position at Medtronic was posted on 2026-03-10.
+This machine learning engineer position at Medtronic was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

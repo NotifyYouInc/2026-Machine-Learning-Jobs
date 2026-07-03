@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQhQb067uaKSSUiky03alqBRdCp2JmFmOU7LhOMZdPs4EjsACxwdTPwdC7e8KNIlWwg1GFRPEwVOchIGZs81djangwd1Qp-YejIMV413KBnvoxjIa8JlIuQcpeiT8w%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWLQpYNQk9K2kFQcbm-G0GsnykrHGyx2EHzlHDSwugKeEjsA1Ny_i77hdU03m1vUhZKDwtmYSa0ThQ53MiRkm2-kh2j66syIa7HmhhGUuwfQJ0-cbvEZ9HsD2SIMDw%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-22.
+This software engineer position at Google was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

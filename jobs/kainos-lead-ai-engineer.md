@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kainos](https://scoutify.ai/companies/kainos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Lead-AI-Engineer_JR_17949-1) |
+| Location | 3 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Homeworker---UK/Lead-AI-Engineer_JR_17993) |
 
 ## About This Role
 
-This software engineer position at Kainos was posted on 2026-06-19.
+This ai / llm engineer position at Kainos was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3182355/applied-scientist-international-machine-learning) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / ML Research |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458636/applied-scientist-international-machine-learning) |
 
 ## About This Role
 
-This machine learning engineer position at Amazon was posted on 2026-02-17.
+This ai / ml research position at Amazon was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

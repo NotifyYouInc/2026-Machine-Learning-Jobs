@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mountain View, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107216700-staff-software-engineer) |
+| Location | Santa Clara, California, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000134312779-staff-software-engineer) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-04.
+This ai / llm engineer position at ServiceNow was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

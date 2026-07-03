@@ -5,12 +5,12 @@
 | Company | [Elanco](https://scoutify.ai/companies/elanco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Research-Scientist_R0025922-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Associate-Senior-Consultant-Scientist_R0026206-1) |
 
 ## About This Role
 
-This ai / ml research position at Elanco was posted on 2026-05-22.
+This ai / ml research position at Elanco was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

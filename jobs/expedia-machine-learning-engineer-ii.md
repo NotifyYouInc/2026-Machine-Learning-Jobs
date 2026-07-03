@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Machine-Learning-Engineer-II_R-106937) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Machine-Learning-Engineer-II_R-107194) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-06-22.
+This machine learning engineer position at Expedia was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Innovation---Engineering-Efficiency-Leader--AI--ML---LLMs-_R5034881-2) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Engineering Manager |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Sao-Paulo/Innovation---Engineering-Efficiency-Leader--AI--ML---LLMs-_R5043073-2) |
 
 ## About This Role
 
-This ai / llm engineer position at GE Vernova was posted on 2026-03-10.
+This engineering manager position at GE Vernova was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

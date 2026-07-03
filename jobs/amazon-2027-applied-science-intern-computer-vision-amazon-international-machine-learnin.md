@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | AI / ML Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423323/2027-applied-science-intern-computer-vision-amazon-international-machine-learning) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-19.
+This ai / ml research position at Amazon was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

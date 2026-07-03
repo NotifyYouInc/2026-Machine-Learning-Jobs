@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pasir Gudang, Johor, Malaysia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000132983484-manufacturing-engineer-data-science) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000134384689-manufacturing-engineer-data-science) |
 
 ## About This Role
 
-This machine learning engineer position at Western Digital was posted on 2026-06-19.
+This machine learning engineer position at Western Digital was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

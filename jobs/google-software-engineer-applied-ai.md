@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdJv4-W8-CYNccFVRnlid1ALSxf1BhxKXETH7CK19_RXEjsACxwdTNI2Sg5cRUAkJXkwyNVHmQ9-3aSVCnZQwakl4jo7BGlggex0pw2l9xdhNe_kllpxB8q1yASycw%3D%3D_V2&loc=US&title=Software+Engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU8zftIqwHkcp1GxJquWqtzYhJ1sKXMdYOVoFv1vzm8SEjsA1Ny_i8lPd0LcYvFYnep1dDi7MzGsYI1BSNSnwe1RNYPujWWLWxUOjLPQ7-AxojHsXCL5fTkBeq1l9A%3D%3D_V2&loc=US&title=Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-04-24.
+This ai / llm engineer position at Google was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

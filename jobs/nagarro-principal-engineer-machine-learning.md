@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000113098582-principal-engineer-machine-learning) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134433719-principal-engineer-machine-learning) |
 
 ## About This Role
 
-This ai / llm engineer position at Nagarro was posted on 2026-03-06.
+This ai / llm engineer position at Nagarro was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

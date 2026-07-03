@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Staff-Data-AI-Engineer_R-0000175418-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Staff-Data-AI-Engineer_R-0000175449-1) |
 
 ## About This Role
 
-This data engineer position at Royal Bank of Canada was posted on 2026-06-16.
+This ai / llm engineer position at Royal Bank of Canada was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

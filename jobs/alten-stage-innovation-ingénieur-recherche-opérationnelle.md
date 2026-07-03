@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sèvres, Île-de-France, France |
-| Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130256678-stage-innovation-ingenieur-recherche-operationnelle) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000134201438-stage-innovation-ingenieur-recherche-operationnelle) |
 
 ## About This Role
 
-This ai / ml research position at ALTEN was posted on 2026-06-04.
+This machine learning engineer position at ALTEN was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

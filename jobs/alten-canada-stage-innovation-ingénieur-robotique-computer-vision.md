@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Rennes, Brittany, France |
+| Location | Sèvres, Île-de-France, France |
 | Category | Robotics Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000130255798-stage-innovation-ingenieur-robotique-computer-vision) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000134201648-stage-innovation-ingenieur-robotique-computer-vision) |
 
 ## About This Role
 
-This robotics engineer position at ALTEN Canada was posted on 2026-06-04.
+This robotics engineer position at ALTEN Canada was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

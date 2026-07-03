@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Kulim, Kedah, Malaysia |
-| Category | AI / ML Research |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/AI-Software-Engineering-Undergraduate-Intern_JR0282321) |
+| Location | Hillsboro, Oregon, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Undergraduate-Intern_JR0285167) |
 
 ## About This Role
 
-This ai / ml research position at Intel was posted on 2026-03-26.
+This machine learning engineer position at Intel was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130252854-stage-innovation-ingenieur-intelligence-artificielle-nlp) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000134198673-stage-innovation-ingenieur-intelligence-artificielle-nlp) |
 
 ## About This Role
 
-This ai / ml research position at ALTEN was posted on 2026-06-04.
+This ai / ml research position at ALTEN was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

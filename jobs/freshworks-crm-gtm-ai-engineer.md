@@ -5,12 +5,12 @@
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Mateo, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000131761149-gtm-ai-engineer) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000134279249-gtm-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Freshworks CRM was posted on 2026-06-11.
+This ai / llm engineer position at Freshworks CRM was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 
