@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | AI / ML Research |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/AI-ML-Computational-Science-Sr-Analyst_AIOC-S01589415-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/AI-ML-Computational-Science-Sr-Analyst_AIOC-S01652377-1) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-05-14.
+This ai / llm engineer position at Accenture was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

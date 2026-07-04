@@ -5,12 +5,12 @@
 | Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Clermont-Ferrand, Rhône-Alpes, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Clermont-Ferrand/Alternance---Ingnieur-e--Donnes---Automatisme--F-H---Optimisation-des-temps-de-cycle-machine-par-modlisation_R-2026011910-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Clermont-Ferrand/Alternance---Exploration-IA---Solutions-Digitales-Motorsport--F-H-_R-2026024567) |
 
 ## About This Role
 
-This machine learning engineer position at Michelin was posted on 2026-04-02.
+This machine learning engineer position at Michelin was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

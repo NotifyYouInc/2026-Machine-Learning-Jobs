@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Columbia, South Carolina, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000128763479-senior-staff-ai-engineer) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000134492264-senior-staff-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Renesas Electronics was posted on 2026-05-27.
+This embedded / firmware engineer position at Renesas Electronics was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

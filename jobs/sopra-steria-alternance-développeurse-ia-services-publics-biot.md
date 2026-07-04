@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Biot, Provence-Alpes-Côte d'Azur, France |
-| Category | AI / ML Research |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127857958-alternance-developpeurse-ia-services-publics-biot) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134495933-alternance-developpeurse-ia-services-publics-biot) |
 
 ## About This Role
 
-This ai / ml research position at Sopra Steria was posted on 2026-05-22.
+This ai / llm engineer position at Sopra Steria was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
