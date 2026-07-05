@@ -1,16 +1,16 @@
-# Software Engineer, Agents  at Mirage
+# Software Engineer - Applied AI at Basic Capital
 
 | Field | Details |
 |-------|---------|
-| Company | [Mirage](https://scoutify.ai/companies/mirage?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Basic Capital](https://scoutify.ai/companies/basic-capital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mirage/7c8c5438-030d-447a-a360-1fd54344cc9b) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/basiccapital/b1b650cf-13f3-4a4a-9160-624cd1ce6803) |
 
 ## About This Role
 
-This ai / llm engineer position at Mirage was posted on 2026-06-28.
+This ai / llm engineer position at Basic Capital was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

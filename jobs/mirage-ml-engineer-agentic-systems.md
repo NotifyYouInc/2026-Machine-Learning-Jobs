@@ -5,12 +5,12 @@
 | Company | [Mirage](https://scoutify.ai/companies/mirage?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mirage/76ce0b2f-70f3-490c-a7d7-9a191258f49e) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mirage/8a526df3-acbc-4ca3-a38d-7333e9f54e4b) |
 
 ## About This Role
 
-This ai / llm engineer position at Mirage was posted on 2026-06-11.
+This ai / llm engineer position at Mirage was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

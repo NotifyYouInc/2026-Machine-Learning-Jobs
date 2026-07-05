@@ -1,16 +1,16 @@
-# ML Engineer, Generative Video at Mirage
+# Senior Machine Learning Engineer (AI Agent) at Patsnap
 
 | Field | Details |
 |-------|---------|
-| Company | [Mirage](https://scoutify.ai/companies/mirage?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Patsnap](https://scoutify.ai/companies/patsnap?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Singapore |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mirage/3cdd0d39-f0b4-4255-837f-bcff17288143) |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://jobs.lever.co/patsnap/03897572-c3e3-4cf8-84bb-4cbf4531607f) |
 
 ## About This Role
 
-This machine learning engineer position at Mirage was posted on 2026-06-28.
+This machine learning engineer position at Patsnap was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

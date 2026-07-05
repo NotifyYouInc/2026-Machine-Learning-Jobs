@@ -5,12 +5,12 @@
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000131823595-copilot-engineer-microsoft-365-copilot) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000134643879-copilot-engineer-microsoft-365-copilot) |
 
 ## About This Role
 
-This ai / llm engineer position at VAM Systems was posted on 2026-06-12.
+This ai / llm engineer position at VAM Systems was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 
