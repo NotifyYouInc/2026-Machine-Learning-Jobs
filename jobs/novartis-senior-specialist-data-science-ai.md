@@ -1,16 +1,16 @@
-# Senior ML Engineer at Autodesk
+# Senior Specialist Data Science & AI at Novartis
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-ML-Engineer_26WD99619-1) |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Dublin-NOCC/Senior-Specialist-Data-Science---AI_REQ-10081379-1) |
 
 ## About This Role
 
-This machine learning engineer position at Autodesk was posted on 2026-06-29.
+This machine learning engineer position at Novartis was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

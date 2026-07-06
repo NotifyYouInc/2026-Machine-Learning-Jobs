@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Extreme Networks](https://scoutify.ai/companies/extreme-networks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.lever.co/extremenetworks/c977b005-42fb-4935-906a-1d5f05c3dd00) |
+| Location | Seattle, Washington, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.lever.co/extremenetworks/df3274b9-25bd-4bde-bdb6-e8e473e7f636) |
 
 ## About This Role
 
-This ai / llm engineer position at Extreme Networks was posted on 2026-03-30.
+This machine learning engineer position at Extreme Networks was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Staff Machine Learning Engineer (Java + LLM) at ServiceNow
+# AI Engineering Technical Leader at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000134750839-senior-staff-machine-learning-engineer-java-llm) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/AI-Engineering-Technical-Leader_2015207) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-06-29.
+This ai / llm engineer position at Cisco was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior ML Engineer at Autodesk
+# Staff Machine Learning Engineer (10030) at Extreme Networks
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Extreme Networks](https://scoutify.ai/companies/extreme-networks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-ML-Engineer_26WD99619-1) |
+| Apply | [View on company site](https://jobs.lever.co/extremenetworks/515bd060-38da-4273-b75d-f26a90721ca0) |
 
 ## About This Role
 
-This machine learning engineer position at Autodesk was posted on 2026-06-29.
+This machine learning engineer position at Extreme Networks was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

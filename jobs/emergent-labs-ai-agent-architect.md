@@ -1,16 +1,16 @@
-# Senior ML Engineer at Autodesk
+# AI Agent Architect at Emergent Labs 
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Emergent Labs ](https://scoutify.ai/companies/emergent-labs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-ML-Engineer_26WD99619-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/emergentlabsinc/jobs/4300477009) |
 
 ## About This Role
 
-This machine learning engineer position at Autodesk was posted on 2026-06-29.
+This ai / llm engineer position at Emergent Labs  was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

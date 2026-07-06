@@ -1,12 +1,12 @@
-# Large Language Model Architect at Accenture
+# AI Large Language Mode (LLM) Junior Technology Architect at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 4 locations |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Large-Language-Model-Architect_ATCI-5075819-S1877759-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Large-Language-Mode--LLM--Junior-Technology-Architect_R00339259) |
 
 ## About This Role
 

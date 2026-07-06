@@ -1,16 +1,16 @@
-# Senior ML Engineer at Autodesk
+# Python AI Engineer at Allstate
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-ML-Engineer_26WD99619-1) |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Python-AI-Engineer_R31416) |
 
 ## About This Role
 
-This machine learning engineer position at Autodesk was posted on 2026-06-29.
+This ai / llm engineer position at Allstate was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

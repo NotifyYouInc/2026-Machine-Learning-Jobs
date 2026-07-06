@@ -6,7 +6,7 @@
 | Location | Belgium |
 | Category | Technology / IT Consulting |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000134219077-machine-learning-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000134273219-machine-learning-engineer) |
 
 ## About This Role
 

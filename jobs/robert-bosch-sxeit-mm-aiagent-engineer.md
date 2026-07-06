@@ -1,16 +1,16 @@
-# Senior Staff Machine Learning Engineer (Java + LLM) at ServiceNow
+# [SX/EIT-MM] AI/Agent Engineer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Vietnam |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000134750839-senior-staff-machine-learning-engineer-java-llm) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134688849-sxeit-mm-aiagent-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-06-29.
+This ai / llm engineer position at Robert Bosch was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

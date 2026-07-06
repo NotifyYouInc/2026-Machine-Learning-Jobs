@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
-| Category | AI / ML Research |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129462189-ai-architect) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134708589-ai-architect) |
 
 ## About This Role
 
-This ai / ml research position at Sopra Steria was posted on 2026-06-01.
+This ai / llm engineer position at Sopra Steria was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

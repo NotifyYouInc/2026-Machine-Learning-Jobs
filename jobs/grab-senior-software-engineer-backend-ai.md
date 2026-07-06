@@ -1,16 +1,16 @@
-# Senior Staff Machine Learning Engineer (Java + LLM) at ServiceNow
+# Senior Software Engineer, Backend (AI) at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000134750839-senior-staff-machine-learning-engineer-java-llm) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000134690319-senior-software-engineer-backend-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-06-29.
+This ai / llm engineer position at Grab was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

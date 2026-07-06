@@ -1,16 +1,16 @@
-# Senior ML Engineer at Autodesk
+# Technical Project Manager, at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Suzhou, Jiangsu, China |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-ML-Engineer_26WD99619-1) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/Senior-AI-Manager_569259) |
 
 ## About This Role
 
-This machine learning engineer position at Autodesk was posted on 2026-06-29.
+This machine learning engineer position at Philips was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

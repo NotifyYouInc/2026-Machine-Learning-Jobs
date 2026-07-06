@@ -1,16 +1,16 @@
-# Senior Staff Machine Learning Engineer (Java + LLM) at ServiceNow
+# Senior Backend Engineer - AI Framework (Python) at Gong.io
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Gong.io](https://scoutify.ai/companies/gongio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000134750839-senior-staff-machine-learning-engineer-java-llm) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gongio/jobs/4668007006) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-06-29.
+This ai / llm engineer position at Gong.io was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

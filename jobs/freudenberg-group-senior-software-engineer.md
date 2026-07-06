@@ -1,16 +1,16 @@
-# Senior Staff Machine Learning Engineer (Java + LLM) at ServiceNow
+# Senior Software Engineer at Freudenberg Group
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000134750839-senior-staff-machine-learning-engineer-java-llm) |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Chennai/Senior-Software-Engineer_R_00100247) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-06-29.
+This ai / llm engineer position at Freudenberg Group was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

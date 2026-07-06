@@ -1,16 +1,16 @@
-# Senior ML Engineer at Autodesk
+# Machine Learning Engineer Intern - Shanghai at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-ML-Engineer_26WD99619-1) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200609538/machine-learning-engineer-intern-shanghai) |
 
 ## About This Role
 
-This machine learning engineer position at Autodesk was posted on 2026-06-29.
+This machine learning engineer position at Apple was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 
