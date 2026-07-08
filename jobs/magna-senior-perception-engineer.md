@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Changning, Sichuan, China |
-| Category | Robotics Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Changning-Shanghai-CN/Senior-Perception-Algorithm-Engineer_R00235987) |
+| Location | Changning, Shanghai, China |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Changning-Shanghai-CN/Senior-Perception-Engineer_R00248515) |
 
 ## About This Role
 
-This robotics engineer position at Magna was posted on 2026-04-14.
+This machine learning engineer position at Magna was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

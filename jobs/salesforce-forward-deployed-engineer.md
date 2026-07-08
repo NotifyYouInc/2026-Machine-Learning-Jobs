@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Forward-Deployed-Engineer_JR346359) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Software Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates---Dubai/Forward-Deployed-Engineer_JR348987) |
 
 ## About This Role
 
-This ai / llm engineer position at Salesforce was posted on 2026-06-15.
+This software engineer position at Salesforce was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

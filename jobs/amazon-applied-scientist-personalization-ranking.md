@@ -6,7 +6,7 @@
 | Location | Seattle, Washington, United States |
 | Category | AI / ML Research |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10442970/applied-scientist-personalization-ranking) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10442969/applied-scientist-personalization-ranking) |
 
 ## About This Role
 

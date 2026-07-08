@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10404387/sr-software-development-engineer-amazon-shopping-rufus) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460414/sr-software-development-engineer-amazon-shopping-rufus) |
 
 ## About This Role
 
-This ai / llm engineer position at Amazon was posted on 2026-04-27.
+This software engineer position at Amazon was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

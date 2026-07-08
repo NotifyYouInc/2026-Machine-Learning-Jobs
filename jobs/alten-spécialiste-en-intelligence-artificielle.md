@@ -1,16 +1,16 @@
-# Spécialiste en Intelligence Artificielle at ALTEN
+# Spécialiste en intelligence artificielle at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Fes, Fès-Meknès, Morocco |
-| Category | AI / ML Research |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000124627544-specialiste-en-intelligence-artificielle) |
+| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000134984818-specialiste-en-intelligence-artificielle) |
 
 ## About This Role
 
-This ai / ml research position at ALTEN was posted on 2026-05-05.
+This ai / llm engineer position at ALTEN was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

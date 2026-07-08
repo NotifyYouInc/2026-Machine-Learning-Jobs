@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Portugal |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000127413490-distributed-cloud-senior-ai-engineer) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135271419-distributed-cloud-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Devoteam was posted on 2026-05-20.
+This ai / llm engineer position at Devoteam was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

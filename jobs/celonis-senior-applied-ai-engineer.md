@@ -1,16 +1,16 @@
-# Senior Applied AI Engineer  at Celonis
+# Senior Applied AI Engineer at Celonis
 
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7661390003?gh_jid=7661390003) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7788209003?gh_jid=7788209003) |
 
 ## About This Role
 
-This ai / llm engineer position at Celonis was posted on 2026-03-11.
+This ai / llm engineer position at Celonis was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

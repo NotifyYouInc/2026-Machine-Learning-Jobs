@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Taylor, Michigan, United States |
+| Location | Austin, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Fault-Detection---Classification--FDC--Data-Science-Engineer_R113462) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Fault-Detection---Classification--FDC--Data-Science-Engineer_R118244-1) |
 
 ## About This Role
 
-This machine learning engineer position at Samsung was posted on 2026-04-20.
+This machine learning engineer position at Samsung was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

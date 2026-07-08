@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Domino's](https://scoutify.ai/companies/dominos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ann Arbor, Michigan, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000132635632-director-of-machine-learning-artificial-intelligence) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000135334999-director-of-machine-learning-artificial-intelligence) |
 
 ## About This Role
 
-This engineering manager position at Domino's was posted on 2026-06-17.
+This machine learning engineer position at Domino's was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

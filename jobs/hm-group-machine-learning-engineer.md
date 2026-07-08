@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000132129619-machine-learning-engineer) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000135284889-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at H&M Group was posted on 2026-06-15.
+This machine learning engineer position at H&M Group was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

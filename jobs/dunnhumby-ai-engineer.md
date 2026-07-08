@@ -5,12 +5,12 @@
 | Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7685633003) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7768782003) |
 
 ## About This Role
 
-This ai / llm engineer position at dunnhumby was posted on 2026-04-27.
+This ai / llm engineer position at dunnhumby was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

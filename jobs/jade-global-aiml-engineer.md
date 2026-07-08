@@ -5,12 +5,12 @@
 | Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/AI-ML-Engineer_R-104807) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/AI-ML-Engineer_R-105536) |
 
 ## About This Role
 
-This ai / llm engineer position at Jade Global was posted on 2026-02-19.
+This ai / llm engineer position at Jade Global was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

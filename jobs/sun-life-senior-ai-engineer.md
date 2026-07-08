@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Waterloo, Ontario, Canada |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Senior-AI-Engineer_JR00120910) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Senior-AI-Engineer_JR00125626) |
 
 ## About This Role
 
-This ai / llm engineer position at Sun Life was posted on 2026-05-28.
+This ai / llm engineer position at Sun Life was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

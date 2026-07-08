@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ulm, Baden-Wurttemberg, Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134276521-masterarbeit-ki-gestutzte-prozessanalyse-business-process-management) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135225569-masterarbeit-ki-gestutzte-prozessanalyse-business-process-management) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-06-25.
+This ai / llm engineer position at Robert Bosch was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

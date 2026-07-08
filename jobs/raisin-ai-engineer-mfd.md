@@ -5,12 +5,12 @@
 | Company | [Raisin](https://scoutify.ai/companies/raisin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/raisin/jobs/4845882101) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/raisin/jobs/4908804101) |
 
 ## About This Role
 
-This ai / llm engineer position at Raisin was posted on 2026-04-28.
+This ai / llm engineer position at Raisin was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

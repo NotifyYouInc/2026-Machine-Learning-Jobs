@@ -5,12 +5,12 @@
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000133905259-senior-ai-engineer-ai-platform) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000134965339-senior-ai-engineer-ai-platform) |
 
 ## About This Role
 
-This ai / llm engineer position at ASOS was posted on 2026-06-24.
+This ai / llm engineer position at ASOS was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

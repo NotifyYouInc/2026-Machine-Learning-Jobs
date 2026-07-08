@@ -1,16 +1,16 @@
-#  Senior Engineer Digital & AI Solutions at IQ-EQ
+# Senior Engineer Digital & AI Solutions at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000133096073-senior-engineer-digital-ai-solutions) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000135229054-senior-engineer-digital-ai-solutions) |
 
 ## About This Role
 
-This ai / llm engineer position at IQ-EQ was posted on 2026-06-19.
+This ai / llm engineer position at IQ-EQ was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

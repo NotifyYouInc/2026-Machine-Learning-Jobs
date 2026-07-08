@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-Software-Engineer--RAG-and-Agentic-AI_JR2014987) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Engineer--RAG-and-Agentic-AI_JR2020624) |
 
 ## About This Role
 
-This ai / llm engineer position at Nvidia was posted on 2026-04-14.
+This ai / llm engineer position at Nvidia was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

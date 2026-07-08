@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Principal-Specialist--AI-Application_JR-67121-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-M-Plaza/Principal-Specialist--AI-Application_JR-67939-1) |
 
 ## About This Role
 
-This ai / llm engineer position at AIA Group was posted on 2026-06-03.
+This ai / llm engineer position at AIA Group was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

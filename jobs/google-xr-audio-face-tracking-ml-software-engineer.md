@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Zürich, Zurich, Switzerland |
-| Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdewPqvzAOiJB4p4kgt-hZeJqjt7oWpqKHfgkNMjXlKXEjsACxwdTKwkS9WqTisBUVhjsS13b8BEk6V76oB4zzovCemP6mnRgOoKVxM7I7NYir5lLr6-OeP60CJBbw%3D%3D_V2&loc=CH&title=XR+Audio+Face+Tracking+ML+Software+Engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRrP_KEtz9O-PIQXDdbvcYtWGb40HlZVrPcE_3386QcsEjsA1Ny_i6sMAZ28jOYRiggWdDpG9rdrd8VOBjhksBn7JGzqNdHDAWgvueHTWg9OM1sFZ-DIS7NHKm_jAQ%3D%3D_V2&loc=CH&title=XR+Audio+Face+Tracking+ML+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-27.
+This machine learning engineer position at Google was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

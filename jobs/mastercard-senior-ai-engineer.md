@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-AI-Engineer_R-281138-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-AI-Engineer_R-281081) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-06-23.
+This ai / llm engineer position at Mastercard was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaleris](https://scoutify.ai/companies/kaleris?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/Alpharetta---HQ/Associate-AI-Engineer_R-100593) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/Chennai/Associate-AI-Engineer_R-100560) |
 
 ## About This Role
 
-This ai / llm engineer position at Kaleris was posted on 2026-06-25.
+This ai / llm engineer position at Kaleris was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

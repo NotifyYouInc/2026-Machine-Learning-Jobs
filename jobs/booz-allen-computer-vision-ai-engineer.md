@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 5 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Computer-Vision-AI-Engineer_R0238504) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Computer-Vision-AI-Engineer_R0243369) |
 
 ## About This Role
 
-This ai / llm engineer position at Booz Allen was posted on 2026-04-23.
+This machine learning engineer position at Booz Allen was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

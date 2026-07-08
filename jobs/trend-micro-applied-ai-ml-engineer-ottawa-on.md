@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ottawa, Ontario, Canada |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/Applied-AI-ML-Engineer---Ottawa--ON_R0009841) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/Applied-AI-ML-Engineer---Ottawa--ON_R0009881) |
 
 ## About This Role
 
-This ai / llm engineer position at Trend Micro was posted on 2026-06-23.
+This machine learning engineer position at Trend Micro was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

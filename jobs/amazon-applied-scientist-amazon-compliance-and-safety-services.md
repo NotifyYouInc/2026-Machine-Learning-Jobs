@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | AI / ML Research |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3207406/applied-scientist-amazon-compliance-and-safety-services) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10463860/applied-scientist-amazon-compliance-and-safety-services) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-03-18.
+This ai / ml research position at Amazon was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

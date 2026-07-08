@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUtovZ9KEbiCrbwxObsWrHOFZ-1PlsrzdRi0H4Pj27SGEjsACxwdTJdvWM8rTSltdLZywDVrgLk_HWRhjONKiZ_rRhEFipo0l6DLiYvyzfJSEDYGfh2RbXDNOgUjdw%3D%3D_V2&loc=PL&title=Forward+Deployed+Engineer) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Software Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfZi84MF7cL8d1_FPdn0tcw4xjbMjTOnDfFhpCeb0nh5EjsA1Ny_iwejHo6nA6ge6QTPoGx6I2DvSAxdrewyjQdOgsyjo93GsevY1TtreAN1Q_o7afe2Xb2-vuXYVQ%3D%3D_V2&loc=IE&title=Forward+Deployed+Engineer) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-05-29.
+This software engineer position at Google was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

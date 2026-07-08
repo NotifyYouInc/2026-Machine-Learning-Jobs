@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Circleville, Ohio, United States |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Circleville-Ohio/Senior-Scientist_251917W) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Midland-Michigan/Senior-Scientist_251741W) |
 
 ## About This Role
 
-This ai / ml research position at Qnity was posted on 2026-06-25.
+This ai / ml research position at Qnity was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

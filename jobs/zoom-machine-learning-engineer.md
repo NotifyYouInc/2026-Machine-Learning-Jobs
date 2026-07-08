@@ -5,12 +5,12 @@
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-Learning-Engineer_R19190) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-Learning-Engineer_R19304-2) |
 
 ## About This Role
 
-This machine learning engineer position at Zoom was posted on 2026-05-21.
+This machine learning engineer position at Zoom was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

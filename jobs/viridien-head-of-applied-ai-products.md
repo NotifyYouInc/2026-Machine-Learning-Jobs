@@ -1,16 +1,16 @@
-# Head of Applied AI & Products at Viridien
+# Head of Applied AI Products at Viridien
 
 | Field | Details |
 |-------|---------|
 | Company | [Viridien](https://scoutify.ai/companies/cgg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Houston, Texas, United States |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Head-of-Applied-AI---Products_JR101217) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Singapore-Singapore/Head-of-Applied-AI-Products_JR101356) |
 
 ## About This Role
 
-This ai / llm engineer position at Viridien was posted on 2026-03-26.
+This ai / llm engineer position at Viridien was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Responsible-AI-Engineer_ATCI-5541736-S2020133-1) |
+| Location | Singapore, Singapore |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Responsible-AI-Engineer_R00338548) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-06-23.
+This ai / llm engineer position at Accenture was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

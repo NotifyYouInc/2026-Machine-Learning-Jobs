@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad-Office-Level-3--4-Block-A---East-Wing/Sr-Staff--Data-Science---Applied-AI_R000104102-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad---Phoenix-Equinox-Tower-2/Sr-Staff--Data-Science---Applied-AI_R000104101) |
 
 ## About This Role
 
-This machine learning engineer position at Warner Bros Discovery was posted on 2026-03-24.
+This ai / llm engineer position at Warner Bros Discovery was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

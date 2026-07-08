@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435578/sde-ii-ai-core-infra-ai-analytics-and-insights) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10462700/sde-ii-ai-core-infra-ai-analytics-and-insights) |
 
 ## About This Role
 
-This ai / llm engineer position at Amazon was posted on 2026-06-01.
+This ai / llm engineer position at Amazon was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Waterloo, Ontario, Canada |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterloo-Ontario/Senior-AI-Engineer_JR00120910) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Senior-AI-Engineer_JR00125626) |
 
 ## About This Role
 
-This ai / llm engineer position at Sun Life Financial was posted on 2026-04-27.
+This ai / llm engineer position at Sun Life Financial was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

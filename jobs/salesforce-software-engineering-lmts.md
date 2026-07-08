@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bellevue, Washington, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineering-LMTS_JR345586) |
+| Category | Software Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineering-LMTS_JR349462-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Salesforce was posted on 2026-06-11.
+This software engineer position at Salesforce was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Senior-MLOps---AI-Infrastructure-Engineer_R02491) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Senior-MLOps---AI-Infrastructure-Engineer_R02704) |
 
 ## About This Role
 
-This devops engineer position at Altera Corporation was posted on 2026-05-15.
+This machine learning engineer position at Altera Corporation was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

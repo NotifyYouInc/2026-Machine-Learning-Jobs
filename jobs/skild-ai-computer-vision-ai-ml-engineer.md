@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Skild AI](https://scoutify.ai/companies/skildai-careers?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Mateo, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/skildai-careers/jobs/5239930008) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/skildai-careers/jobs/5031480008) |
 
 ## About This Role
 
-This machine learning engineer position at Skild AI was posted on 2026-06-03.
+This machine learning engineer position at Skild AI was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

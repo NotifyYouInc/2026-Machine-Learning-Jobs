@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ashburn, Virginia, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/Generative-AI-Engineer_R0239018) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/Generative-AI-Engineer_R0243416) |
 
 ## About This Role
 
-This ai / llm engineer position at Booz Allen was posted on 2026-04-29.
+This ai / llm engineer position at Booz Allen was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

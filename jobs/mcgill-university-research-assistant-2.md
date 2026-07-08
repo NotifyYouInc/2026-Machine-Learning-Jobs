@@ -5,12 +5,12 @@
 | Company | [McGill University](https://scoutify.ai/companies/mcgill?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Burnside-Hall/Research-Assistant-2_JR0000074740) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McIntyre--Medical/Research-Assistant-2_JR0000078300) |
 
 ## About This Role
 
-This ai / ml research position at McGill University was posted on 2026-03-30.
+This ai / ml research position at McGill University was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 
