@@ -1,16 +1,16 @@
-# MLOps Engineer at Talan
+# MLOps Engineer  at Talan
 
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | DevOps Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000115030107-mlops-engineer) |
+| Location | Málaga, Andalusia, Spain |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000135444984-mlops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Talan was posted on 2026-03-16.
+This machine learning engineer position at Talan was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

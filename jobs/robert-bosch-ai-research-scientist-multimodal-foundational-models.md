@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130096909-ai-research-scientist-multimodal-foundational-models) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135345729-ai-research-scientist-multimodal-foundational-models) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-06-03.
+This ai / ml research position at Robert Bosch was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

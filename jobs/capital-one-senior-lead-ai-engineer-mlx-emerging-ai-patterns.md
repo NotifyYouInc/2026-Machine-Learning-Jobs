@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | AI / LLM Engineer |
 | Posted | 2026-06-30 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Senior-Lead-AI-Engineer--MLX-Emerging-AI-Patterns-_R245813-1) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Job-Posting-Title-Senior-Lead-AI-Engineer--MLX-Emerging-AI-Patterns-_R245833-1) |
 
 ## About This Role
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kodaira, Tokyo, Japan |
-| Category | AI / ML Research |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000133294249-hpc-principal-engineer-compiler) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000135439004-hpc-principal-engineer-compiler) |
 
 ## About This Role
 
-This ai / ml research position at Renesas Electronics was posted on 2026-06-22.
+This machine learning engineer position at Renesas Electronics was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

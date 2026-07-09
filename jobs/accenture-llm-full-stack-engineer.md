@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Barueri, São Paulo, Brazil |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/LLM-Full-Stack-Engineer_14348288) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Barueri-Green-Valley-Andromeda/LLM-Full-Stack-Engineer_14517798) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-06-30.
+This ai / llm engineer position at Accenture was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

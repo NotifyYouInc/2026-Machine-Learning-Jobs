@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Bellevue, Washington, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460559/applied-scientist-ring-ai) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464365/applied-scientist-ring-ai) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-28.
+This ai / ml research position at Amazon was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

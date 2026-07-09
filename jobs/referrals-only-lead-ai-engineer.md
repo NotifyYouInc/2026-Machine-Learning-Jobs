@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Chicago, Illinois, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7929220) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8042216) |
 
 ## About This Role
 
-This ai / llm engineer position at Referrals Only was posted on 2026-05-27.
+This ai / llm engineer position at Referrals Only was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

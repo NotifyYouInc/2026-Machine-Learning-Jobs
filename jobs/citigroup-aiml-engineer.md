@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/AI-ML-Engineer_26965278) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/AI-ML-Engineer_26965294-1) |
 
 ## About This Role
 
-This machine learning engineer position at Citigroup was posted on 2026-06-02.
+This ai / llm engineer position at Citigroup was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

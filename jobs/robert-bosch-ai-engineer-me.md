@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Suzhou, Jiangsu, China |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129687459-ai-engineer-me) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135432199-ai-engineer-me) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-06-02.
+This ai / llm engineer position at Robert Bosch was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
