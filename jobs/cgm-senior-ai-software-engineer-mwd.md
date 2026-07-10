@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cgm](https://scoutify.ai/companies/cgm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
+| Location | Berlin, State of Berlin, Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Koblenz/Senior-AI-Software-Engineer--m-w-d-_JR109647) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Berlin/Senior-AI-Software-Engineer--m-w-d-_JR109884) |
 
 ## About This Role
 
-This ai / llm engineer position at Cgm was posted on 2026-05-28.
+This ai / llm engineer position at Cgm was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

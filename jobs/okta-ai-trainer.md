@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7277891?gh_jid=7277891) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8011328?gh_jid=8011328) |
 
 ## About This Role
 
-This ai / llm engineer position at Okta was posted on 2026-02-18.
+This ai / llm engineer position at Okta was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

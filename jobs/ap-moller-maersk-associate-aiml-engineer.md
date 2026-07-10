@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Associate-AI-ML-Engineer_R174907) |
+| Location | Pune, Maharashtra, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Pune-411014/Associate-AI-ML-Engineer_R185877) |
 
 ## About This Role
 
-This ai / ml research position at A.P. Moller - Maersk was posted on 2026-06-03.
+This machine learning engineer position at A.P. Moller - Maersk was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

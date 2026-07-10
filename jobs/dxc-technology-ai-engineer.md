@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---DIF---MEXICO-CITY/AI-Engineer_51583698) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---JAL---GUADALAJARA/AI-Engineer_51583336) |
 
 ## About This Role
 
-This ai / llm engineer position at DXC Technology was posted on 2026-06-23.
+This ai / llm engineer position at DXC Technology was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

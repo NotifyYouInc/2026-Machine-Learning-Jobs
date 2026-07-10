@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Broomfield, Colorado, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | AI / ML Research |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5178030007?gh_jid=5178030007) |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5178392007?gh_jid=5178392007) |
 
 ## About This Role
 

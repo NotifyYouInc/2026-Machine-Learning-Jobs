@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Weekdayworks](https://scoutify.ai/companies/weekdayworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://jobs.lever.co/weekdayworks/dfd1ba67-5f00-498f-a59b-4c3feead908f) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.lever.co/weekdayworks/c0111350-88be-4ee8-8c43-411e5ab523b3) |
 
 ## About This Role
 
-This ai / llm engineer position at Weekdayworks was posted on 2026-06-14.
+This ai / llm engineer position at Weekdayworks was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

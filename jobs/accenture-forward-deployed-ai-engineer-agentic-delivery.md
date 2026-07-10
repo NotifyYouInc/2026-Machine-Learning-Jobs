@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Forward-Deployed-AI-Engineer---Agentic-Delivery_R00338228-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Forward-Deployed-AI-Engineer---Agentic-Delivery_R00338238) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-07-01.
+This ai / llm engineer position at Accenture was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

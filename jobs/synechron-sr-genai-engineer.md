@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Toronto-ON/Sr-GenAI-Engineer_JR1038531) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Toronto-ON/Sr-GenAI-Engineer_JR1041495) |
 
 ## About This Role
 
-This ai / llm engineer position at Synechron was posted on 2026-04-09.
+This ai / llm engineer position at Synechron was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

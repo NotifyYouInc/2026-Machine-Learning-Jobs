@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Itasca, Illinois, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000135115479-forward-deployed-ai-engineer) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000135297203-forward-deployed-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at IFS was posted on 2026-06-30.
+This ai / llm engineer position at IFS was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

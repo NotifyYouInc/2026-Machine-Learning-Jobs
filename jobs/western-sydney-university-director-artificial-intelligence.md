@@ -5,12 +5,12 @@
 | Company | [Western Sydney University](https://scoutify.ai/companies/western-sydney-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Parramatta, New South Wales, Australia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000001200267-director-artificial-intelligence) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000001202348-director-artificial-intelligence) |
 
 ## About This Role
 
-This ai / llm engineer position at Western Sydney University was posted on 2026-07-01.
+This ai / llm engineer position at Western Sydney University was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

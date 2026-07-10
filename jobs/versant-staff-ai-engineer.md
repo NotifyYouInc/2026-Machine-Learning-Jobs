@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Not specified |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131963127-staff-ai-engineer) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135571679-staff-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Versant was posted on 2026-06-12.
+This ai / llm engineer position at Versant was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

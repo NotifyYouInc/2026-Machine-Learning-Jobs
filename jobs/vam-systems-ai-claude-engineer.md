@@ -5,12 +5,12 @@
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Manama, Manama, Bahrain |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000125040149-ai-claude-engineer) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000135477829-ai-claude-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at VAM Systems was posted on 2026-05-07.
+This ai / llm engineer position at VAM Systems was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | Bobigny, Île-de-France, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Shanghai/Artificial-Intelligence-Engineer_REQ2026071087) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Bobigny/Artificial-Intelligence-Engineer_REQ2026072923) |
 
 ## About This Role
 
-This machine learning engineer position at Valeo was posted on 2026-04-28.
+This machine learning engineer position at Valeo was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

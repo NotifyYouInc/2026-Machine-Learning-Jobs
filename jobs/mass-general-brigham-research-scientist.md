@@ -5,12 +5,12 @@
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Scientist_RQ4069152) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Scientist_RQ4071286) |
 
 ## About This Role
 
-This ai / ml research position at Mass General Brigham was posted on 2026-06-30.
+This ai / ml research position at Mass General Brigham was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

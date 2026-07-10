@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7581107?gh_jid=7581107) |
+| Location | Austin, Texas, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034) |
 
 ## About This Role
 
-This software engineer position at Cloudflare was posted on 2026-02-03.
+This machine learning engineer position at Cloudflare was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

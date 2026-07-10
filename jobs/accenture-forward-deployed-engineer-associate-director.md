@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/WA---Seattle/Forward-Deployed-Engineer-Associate-Director_R00330038) |
+| Location | 42 locations |
+| Category | Forward Deployed Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/WA---Seattle/Forward-Deployed-Engineer-Associate-Director_R00340508) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-05-12.
+This forward deployed engineer position at Accenture was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

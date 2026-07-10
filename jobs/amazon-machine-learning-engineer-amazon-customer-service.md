@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452590/machine-learning-engineer-amazon-customer-service) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459503/machine-learning-engineer-amazon-customer-service) |
 
 ## About This Role
 
-This machine learning engineer position at Amazon was posted on 2026-06-18.
+This machine learning engineer position at Amazon was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

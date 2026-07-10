@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/IN-BANGALORE/Modern-AI-Scientist_R01128108) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / ML Research |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/IN-BANGALORE/Modern-AI-Scientist_R01128109-1) |
 
 ## About This Role
 
-This software engineer position at Solventum was posted on 2026-02-13.
+This ai / ml research position at Solventum was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

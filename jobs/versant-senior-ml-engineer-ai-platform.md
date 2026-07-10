@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | AI / ML Research |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131957247-senior-ml-engineer-ai-platform) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135575679-senior-ml-engineer-ai-platform) |
 
 ## About This Role
 
-This ai / ml research position at Versant was posted on 2026-06-12.
+This machine learning engineer position at Versant was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

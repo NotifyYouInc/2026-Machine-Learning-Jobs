@@ -1,16 +1,16 @@
-# IN_Associate_AI/ML Developer_App Tech_Advisory_Kolkata at PwC
+# IN-Associate_AI/ML Developer_App tech_Advisory_Kolkata at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kolkata, West Bengal, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Associate-AI-ML-Developer-App-Tech-Advisory-Kolkata_741432WD-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Associate-AI-ML-Developer-App-tech-Advisory-Kolkata_741378WD) |
 
 ## About This Role
 
-This machine learning engineer position at PwC was posted on 2026-07-01.
+This machine learning engineer position at PwC was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
