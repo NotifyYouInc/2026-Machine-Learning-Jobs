@@ -1,12 +1,12 @@
-# Senior Applied Scientist at Microsoft
+# Senior Machine Learning Research Engineer - Research Engineering - MSR Cambridge at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United Kingdom |
+| Location | Cambridge, England, United Kingdom |
 | Category | AI / ML Research |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556889553) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556918610) |
 
 ## About This Role
 

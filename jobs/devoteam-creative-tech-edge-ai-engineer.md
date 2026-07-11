@@ -1,16 +1,16 @@
-# AI Engineer at KPN
+# Creative Tech | Edge AI Engineer at Devoteam
 
 | Field | Details |
 |-------|---------|
-| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Portugal |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000135761384-ai-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135703644-creative-tech-edge-ai-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at KPN was posted on 2026-07-03.
+This machine learning engineer position at Devoteam was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

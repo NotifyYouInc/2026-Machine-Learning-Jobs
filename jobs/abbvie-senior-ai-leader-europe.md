@@ -1,16 +1,16 @@
-# Lead AI Engineer at Ecolab
+# Senior AI Leader, Europe at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Lead-AI-Engineer_R00295717) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013923211-senior-ai-leader-europe) |
 
 ## About This Role
 
-This ai / llm engineer position at Ecolab was posted on 2026-07-03.
+This ai / llm engineer position at AbbVie was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

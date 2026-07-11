@@ -1,16 +1,16 @@
-# Lead AI Engineer at Ecolab
+# AI Engineer | EMEA at Colliers International UK
 
 | Field | Details |
 |-------|---------|
-| Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Colliers International UK](https://scoutify.ai/companies/colliersinternationaluk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Poland |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Lead-AI-Engineer_R00295717) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000135701239-ai-engineer-emea) |
 
 ## About This Role
 
-This ai / llm engineer position at Ecolab was posted on 2026-07-03.
+This ai / llm engineer position at Colliers International UK was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

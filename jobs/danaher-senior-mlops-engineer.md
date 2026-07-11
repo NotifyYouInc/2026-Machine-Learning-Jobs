@@ -1,16 +1,16 @@
-# AI Engineer at KPN
+# Senior MLOps Engineer at Danaher
 
 | Field | Details |
 |-------|---------|
-| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Cambridge, England, United Kingdom |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000135761384-ai-engineer) |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Cambridge-United-Kingdom/Senior-MLOps-Engineer_R1314243) |
 
 ## About This Role
 
-This machine learning engineer position at KPN was posted on 2026-07-03.
+This machine learning engineer position at Danaher was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

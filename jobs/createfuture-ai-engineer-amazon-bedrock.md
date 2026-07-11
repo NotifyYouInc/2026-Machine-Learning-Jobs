@@ -1,16 +1,16 @@
-# Lead AI Engineer at Ecolab
+# AI Engineer (Amazon Bedrock) at CreateFuture
 
 | Field | Details |
 |-------|---------|
-| Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [CreateFuture](https://scoutify.ai/companies/xdesign?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 4 locations |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Lead-AI-Engineer_R00295717) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/xdesign/jobs/4918526101) |
 
 ## About This Role
 
-This ai / llm engineer position at Ecolab was posted on 2026-07-03.
+This ai / llm engineer position at CreateFuture was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

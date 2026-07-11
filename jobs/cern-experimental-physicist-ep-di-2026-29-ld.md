@@ -1,16 +1,16 @@
-# AI Engineer at KPN
+# Experimental Physicist (EP-DI-2026-29-LD) at CERN
 
 | Field | Details |
 |-------|---------|
-| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Company | [CERN](https://scoutify.ai/companies/cern?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Switzerland |
+| Category | AI / ML Research |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000135761384-ai-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000135694059-experimental-physicist-ep-di-2026-29-ld) |
 
 ## About This Role
 
-This machine learning engineer position at KPN was posted on 2026-07-03.
+This ai / ml research position at CERN was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

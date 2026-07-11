@@ -1,16 +1,16 @@
-# AI Engineer at KPN
+# Senior AI/ML Scientist at Arago
 
 | Field | Details |
 |-------|---------|
-| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Company | [Arago](https://scoutify.ai/companies/arago?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Paris, Île-de-France, France |
+| Category | AI / ML Research |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000135761384-ai-engineer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/arago/41a86e12-a13d-47d4-84be-c6c2273b2366) |
 
 ## About This Role
 
-This machine learning engineer position at KPN was posted on 2026-07-03.
+This ai / ml research position at Arago was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

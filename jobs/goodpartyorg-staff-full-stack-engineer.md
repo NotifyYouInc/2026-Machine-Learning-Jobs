@@ -1,16 +1,16 @@
-# AI Engineer at KPN
+# Staff Full Stack Engineer  at GoodParty.org
 
 | Field | Details |
 |-------|---------|
-| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Company | [GoodParty.org](https://scoutify.ai/companies/goodparty?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Not specified |
+| Category | Software Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000135761384-ai-engineer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/goodparty/cdeaca62-4977-4717-8b8b-395f576bff1d) |
 
 ## About This Role
 
-This machine learning engineer position at KPN was posted on 2026-07-03.
+This software engineer position at GoodParty.org was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

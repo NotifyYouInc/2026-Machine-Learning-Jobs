@@ -1,16 +1,16 @@
-# Research Scientist at Anduril
+# Sr. Principal Software Scientist at Cerence
 
 | Field | Details |
 |-------|---------|
-| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Fort Collins, Colorado, United States |
+| Company | [Cerence](https://scoutify.ai/companies/cerence?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5179749007?gh_jid=5179749007) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/Sr-Principal-Software-Scientist_R0005976) |
 
 ## About This Role
 
-This ai / ml research position at Anduril was posted on 2026-07-02.
+This ai / ml research position at Cerence was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

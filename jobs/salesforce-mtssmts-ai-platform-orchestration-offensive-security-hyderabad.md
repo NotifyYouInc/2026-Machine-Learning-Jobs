@@ -1,16 +1,16 @@
-# Principal Software Engineer at Amgen
+# MTS/SMTS - AI Platform & Orchestration, Offensive Security - Hyderabad at Salesforce
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Principal-Software-Engineer_R-248018-1) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/MTS-SMTS---AI-Platform---Orchestration--Offensive-Security---Hyderabad_JR350411) |
 
 ## About This Role
 
-This software engineer position at Amgen was posted on 2026-07-03.
+This software engineer position at Salesforce was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

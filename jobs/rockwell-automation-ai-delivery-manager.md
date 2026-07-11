@@ -1,16 +1,16 @@
-# Lead AI Engineer at Ecolab
+# AI Delivery Manager at Rockwell Automation
 
 | Field | Details |
 |-------|---------|
-| Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Lead-AI-Engineer_R00295717) |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bengaluru-India/AI-Engineer_R26-4818) |
 
 ## About This Role
 
-This ai / llm engineer position at Ecolab was posted on 2026-07-03.
+This ai / llm engineer position at Rockwell Automation was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

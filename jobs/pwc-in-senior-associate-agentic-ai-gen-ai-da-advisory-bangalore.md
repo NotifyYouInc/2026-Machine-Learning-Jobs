@@ -1,16 +1,16 @@
-# Lead AI Engineer at Ecolab
+# IN_Senior Associate_Agentic AI, Gen AI_D&A_Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Lead-AI-Engineer_R00295717) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Agentic-AI--Gen-AI-D-A-Advisory-Bangalore_725173WD-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Ecolab was posted on 2026-07-03.
+This ai / llm engineer position at PwC was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

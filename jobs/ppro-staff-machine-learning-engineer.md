@@ -1,16 +1,16 @@
-# AI Engineer at KPN
+# Staff Machine Learning Engineer at Ppro
 
 | Field | Details |
 |-------|---------|
-| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Company | [Ppro](https://scoutify.ai/companies/ppro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000135761384-ai-engineer) |
+| Apply | [View on company site](https://jobs.lever.co/ppro/ccf5132a-0f31-430b-af5b-500a6288c01f) |
 
 ## About This Role
 
-This machine learning engineer position at KPN was posted on 2026-07-03.
+This machine learning engineer position at Ppro was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

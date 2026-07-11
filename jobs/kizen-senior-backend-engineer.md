@@ -1,16 +1,16 @@
-# AI Engineer at KPN
+# Senior Backend Engineer at Kizen
 
 | Field | Details |
 |-------|---------|
-| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Company | [Kizen](https://scoutify.ai/companies/kizen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Austin, Texas, United States |
+| Category | Software Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000135761384-ai-engineer) |
+| Apply | [View on company site](https://kizen.com/jobs?gh_jid=5291125008) |
 
 ## About This Role
 
-This machine learning engineer position at KPN was posted on 2026-07-03.
+This software engineer position at Kizen was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

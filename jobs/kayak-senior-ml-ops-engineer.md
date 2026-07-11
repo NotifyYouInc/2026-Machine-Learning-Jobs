@@ -1,16 +1,16 @@
-# AI Engineer at KPN
+# Senior ML Ops Engineer at Kayak
 
 | Field | Details |
 |-------|---------|
-| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Company | [Kayak](https://scoutify.ai/companies/kayak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000135761384-ai-engineer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kayak/0ca031e9-b4ce-42fc-b28d-cac043b577b0) |
 
 ## About This Role
 
-This machine learning engineer position at KPN was posted on 2026-07-03.
+This machine learning engineer position at Kayak was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

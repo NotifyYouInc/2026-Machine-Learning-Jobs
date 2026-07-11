@@ -1,16 +1,16 @@
-# Lead AI Engineer at Ecolab
+# Intern (d/f/m) in AI driven software development at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Manching, Bavaria, Germany |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Lead-AI-Engineer_R00295717) |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Intern--d-f-m--in-AI-driven-software-development_JR10423176) |
 
 ## About This Role
 
-This ai / llm engineer position at Ecolab was posted on 2026-07-03.
+This ai / llm engineer position at Airbus was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

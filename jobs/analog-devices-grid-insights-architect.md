@@ -1,16 +1,16 @@
-# AI Engineer at KPN
+# Grid Insights Architect at Analog Devices
 
 | Field | Details |
 |-------|---------|
-| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 4 locations |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000135761384-ai-engineer) |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Grid-Insights-Architect_R262852) |
 
 ## About This Role
 
-This machine learning engineer position at KPN was posted on 2026-07-03.
+This machine learning engineer position at Analog Devices was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

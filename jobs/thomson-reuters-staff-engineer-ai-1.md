@@ -1,4 +1,4 @@
-# Lead Software Engineer AI (Staff Engineer) at Thomson Reuters
+# Staff Engineer AI 1 at Thomson Reuters
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Mexico City, Mexico City, Mexico |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Lead-Software-Engineer-AI--Staff-Engineer-_JREQ201877) |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Staff-Engineer-AI-1_JREQ201878) |
 
 ## About This Role
 

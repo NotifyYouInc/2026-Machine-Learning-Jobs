@@ -1,16 +1,16 @@
-# Principal Software Engineer at Amgen
+# Senior Java Engineer - AI Enablement at IG Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [IG Group](https://scoutify.ai/companies/ig-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Principal-Software-Engineer_R-248018-1) |
+| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/Cannon-Street-London/Senior-Java-Engineer---AI-Enablement_R_17426) |
 
 ## About This Role
 
-This software engineer position at Amgen was posted on 2026-07-03.
+This software engineer position at IG Group was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

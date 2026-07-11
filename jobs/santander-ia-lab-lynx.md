@@ -1,16 +1,16 @@
-# Research Scientist at Anduril
+# IA Lab - Lynx at Santander
 
 | Field | Details |
 |-------|---------|
-| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Fort Collins, Colorado, United States |
+| Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Spain |
 | Category | AI / ML Research |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5179749007?gh_jid=5179749007) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Lynx-Financial-Crime-Tech/IA-Lab---Lynx_Req1591970) |
 
 ## About This Role
 
-This ai / ml research position at Anduril was posted on 2026-07-02.
+This ai / ml research position at Santander was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

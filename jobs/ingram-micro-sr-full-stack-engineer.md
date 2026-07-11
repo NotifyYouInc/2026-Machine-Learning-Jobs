@@ -1,16 +1,16 @@
-# Principal Software Engineer at Amgen
+# Sr. Full-Stack Engineer at Ingram Micro
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Principal-Software-Engineer_R-248018-1) |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Sr-Full-Stack-Engineer_R-116093) |
 
 ## About This Role
 
-This software engineer position at Amgen was posted on 2026-07-03.
+This software engineer position at Ingram Micro was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

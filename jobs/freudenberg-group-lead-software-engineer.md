@@ -1,16 +1,16 @@
-# Principal Software Engineer at Amgen
+# Lead Software Engineer at Freudenberg Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Principal-Software-Engineer_R-248018-1) |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Chennai/Lead-Software-Engineer_R_00100054-1) |
 
 ## About This Role
 
-This software engineer position at Amgen was posted on 2026-07-03.
+This software engineer position at Freudenberg Group was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

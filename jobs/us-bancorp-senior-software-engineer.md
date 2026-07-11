@@ -1,16 +1,16 @@
-# Principal Software Engineer at Amgen
+# Senior Software Engineer at U.S. Bancorp
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Principal-Software-Engineer_R-248018-1) |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Software-Engineer_2026-0017271-1) |
 
 ## About This Role
 
-This software engineer position at Amgen was posted on 2026-07-03.
+This software engineer position at U.S. Bancorp was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

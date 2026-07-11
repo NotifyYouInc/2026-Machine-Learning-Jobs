@@ -1,16 +1,16 @@
-# Lead AI Engineer at Ecolab
+# Senior AI Engineer (Full Stack) at Danaher
 
 | Field | Details |
 |-------|---------|
-| Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Cambridge, England, United Kingdom |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Lead-AI-Engineer_R00295717) |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Cambridge-United-Kingdom/Senior-AI-Engineer--Full-Stack-_R1314240-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Ecolab was posted on 2026-07-03.
+This ai / llm engineer position at Danaher was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

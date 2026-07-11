@@ -1,16 +1,16 @@
-# Research Scientist at Anduril
+# Research Engineer, Life Sciences at Anthropic
 
 | Field | Details |
 |-------|---------|
-| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Fort Collins, Colorado, United States |
+| Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Francisco, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5179749007?gh_jid=5179749007) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5265365008) |
 
 ## About This Role
 
-This ai / ml research position at Anduril was posted on 2026-07-02.
+This ai / ml research position at Anthropic was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
