@@ -5,12 +5,12 @@
 | Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 5 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Palo-Alto-California/Machine-Learning-Engineer--Level-4_Q226SWEML3-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Palo-Alto-California/Machine-Learning-Engineer--Level-4_Q326SWEML3) |
 
 ## About This Role
 
-This machine learning engineer position at Snapchat was posted on 2026-06-01.
+This machine learning engineer position at Snapchat was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

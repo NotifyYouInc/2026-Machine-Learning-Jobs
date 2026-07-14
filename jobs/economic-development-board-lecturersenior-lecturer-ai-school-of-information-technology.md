@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore |
-| Category | AI / ML Research |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Nanyang-Polytechnic/Lecturer-Senior-Lecturer--AI----School-of-Information-Technology_JR-10000049297) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Nanyang-Polytechnic/Lecturer-Senior-Lecturer--AI----School-of-Information-Technology_JR-10000052860) |
 
 ## About This Role
 
-This ai / ml research position at Economic Development Board was posted on 2026-06-09.
+This ai / llm engineer position at Economic Development Board was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

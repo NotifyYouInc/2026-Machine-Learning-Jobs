@@ -5,12 +5,12 @@
 | Company | [Priceline](https://scoutify.ai/companies/priceline?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/ML-Engineer_R5561) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/ML-Ops-Engineer_R5381) |
 
 ## About This Role
 
-This machine learning engineer position at Priceline was posted on 2026-03-31.
+This machine learning engineer position at Priceline was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

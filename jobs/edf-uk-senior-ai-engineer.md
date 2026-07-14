@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EDF UK](https://scoutify.ai/companies/edf-uk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000125863873-senior-ai-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000136001425-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at EDF UK was posted on 2026-05-11.
+This machine learning engineer position at EDF UK was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

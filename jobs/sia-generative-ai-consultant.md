@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Montréal, Quebec, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000125221764-generative-ai-consultant) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000136008819-generative-ai-consultant) |
 
 ## About This Role
 
-This ai / llm engineer position at SIA was posted on 2026-05-07.
+This ai / llm engineer position at SIA was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

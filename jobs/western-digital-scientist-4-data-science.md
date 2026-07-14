@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000122022317-scientist-4-data-science) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000135943991-scientist-4-data-science) |
 
 ## About This Role
 
-This ai / ml research position at Western Digital was posted on 2026-04-21.
+This machine learning engineer position at Western Digital was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

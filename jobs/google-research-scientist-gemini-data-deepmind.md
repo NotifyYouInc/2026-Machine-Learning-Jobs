@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | AI / ML Research |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVhEWZUX4H-FEyX43uxMJ8KLZ20P8lVPaYCnIVZm2MYwEjsA1Ny_i0ygtUgD7AUPwX-8x0UVlzrllNg0nSkZcgGUvS1BKtbEwoIRL9OFUpLR6C64VA-RUPdsK4c5Ow%3D%3D_V2&loc=FR&title=Research+Scientist) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdedvhSpazKsauze1QMKM_VnnorvZrj-N5nJK3DERvmeEjsA1Ny_i_QqliwiBCu0PwGe6MhFn2GUnh0c_00z-wWU0Am2Kbq0FihTTk9bMP0c6dyNv2qmqkXcnIc3yg%3D%3D_V2&loc=FR&title=Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-06-22.
+This ai / ml research position at Google was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

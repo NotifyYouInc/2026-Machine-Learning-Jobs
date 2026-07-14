@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cerence](https://scoutify.ai/companies/cerence?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Aachen, North Rhine-Westphalia, Germany |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Aachen/Chercheur-Principal-en-IA--modles-de-langage--LLM--Principal-AI-Researcher--LLM_R0005705) |
+| Category | AI / ML Research |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Aachen/Principal-AI-Researcher--LLM_R0005986) |
 
 ## About This Role
 
-This ai / llm engineer position at Cerence was posted on 2026-04-21.
+This ai / ml research position at Cerence was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

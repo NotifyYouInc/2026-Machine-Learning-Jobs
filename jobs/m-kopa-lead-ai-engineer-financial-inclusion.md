@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M-KOPA](https://scoutify.ai/companies/m-kopa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/m-kopa/0c4e09d3-eb8b-4a36-956a-2da9cd0f69a5) |
+| Location | Nairobi, Nairobi County, Kenya |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/m-kopa/14769bc6-8517-4387-af14-a12777a01354) |
 
 ## About This Role
 
-This engineering manager position at M-KOPA was posted on 2026-05-22.
+This ai / llm engineer position at M-KOPA was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

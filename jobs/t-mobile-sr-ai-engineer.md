@@ -1,16 +1,16 @@
-# Sr. AI Engineer at T-Mobile
+# Sr AI Engineer at T-Mobile
 
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-AI-Engineer_REQ347952) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-AI-Engineer_REQ337447) |
 
 ## About This Role
 
-This ai / llm engineer position at T-Mobile was posted on 2026-05-06.
+This ai / llm engineer position at T-Mobile was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

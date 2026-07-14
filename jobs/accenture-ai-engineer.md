@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | AI / ML Research |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur/AI-Engineer_14447500) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin/AI-Engineer_R00340987) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-06-18.
+This machine learning engineer position at Accenture was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

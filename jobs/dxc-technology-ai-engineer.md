@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---JAL---GUADALAJARA/AI-Engineer_51583336) |
+| Location | Shanghai, Shanghai, China |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/AI-Engineer_51583856) |
 
 ## About This Role
 
-This ai / llm engineer position at DXC Technology was posted on 2026-07-02.
+This machine learning engineer position at DXC Technology was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

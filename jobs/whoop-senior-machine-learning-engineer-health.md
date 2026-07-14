@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer (Health) at whoop
+# Senior Machine Learning Engineer, Health at Whoop
 
 | Field | Details |
 |-------|---------|
-| Company | [whoop](https://scoutify.ai/companies/whoop-whoop?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Whoop](https://scoutify.ai/companies/whoop?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/whoop/b54b4b45-dc72-465d-a81a-a8e3fc8ab714) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/whoop/02d8b2aa-35a4-41cb-b8e1-ba70721d9547) |
 
 ## About This Role
 
-This machine learning engineer position at whoop was posted on 2026-04-06.
+This machine learning engineer position at Whoop was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

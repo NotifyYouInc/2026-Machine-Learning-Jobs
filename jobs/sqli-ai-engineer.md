@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SQLI](https://scoutify.ai/companies/sqli?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Valencia, Valencia, Spain |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000130756314-ai-engineer) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000135970044-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at SQLI was posted on 2026-06-08.
+This ai / llm engineer position at SQLI was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

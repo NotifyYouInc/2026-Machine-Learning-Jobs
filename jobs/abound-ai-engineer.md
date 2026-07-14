@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abound](https://scoutify.ai/companies/abound?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/abound/c952071d-2249-4137-b03e-e67a5b6353d6) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/abound/325f8786-40d9-4cea-a0c6-df44b3289f1b) |
 
 ## About This Role
 
-This ai / llm engineer position at Abound was posted on 2026-05-01.
+This ai / llm engineer position at Abound was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

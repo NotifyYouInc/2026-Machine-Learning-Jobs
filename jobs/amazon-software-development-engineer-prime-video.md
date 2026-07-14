@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464995/software-development-engineer-prime-video) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10466381/software-development-engineer-prime-video) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-07-02.
+This software engineer position at Amazon was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

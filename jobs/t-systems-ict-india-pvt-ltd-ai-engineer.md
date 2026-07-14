@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems ICT India Pvt. Ltd.](https://scoutify.ai/companies/t-systems-ict-india-pvt-ltd?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/t-systemsictindiapvtltd1/744000125259599-ai-engineer) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/t-systemsictindiapvtltd1/744000135934894-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at T-Systems ICT India Pvt. Ltd. was posted on 2026-05-08.
+This ai / llm engineer position at T-Systems ICT India Pvt. Ltd. was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

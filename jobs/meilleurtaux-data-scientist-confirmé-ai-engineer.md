@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meilleurtaux](https://scoutify.ai/companies/meilleurtaux?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000134726392-data-scientist-confirme-ai-engineer) |
+| Category | Data Scientist |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000135996965-data-scientist-confirme-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Meilleurtaux was posted on 2026-06-29.
+This data scientist position at Meilleurtaux was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

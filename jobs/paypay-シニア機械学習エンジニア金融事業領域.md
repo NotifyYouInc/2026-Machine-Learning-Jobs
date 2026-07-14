@@ -5,12 +5,12 @@
 | Company | [PayPay](https://scoutify.ai/companies/paypay?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Japan |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/paypay/jobs/5149320004) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/paypay/jobs/6109406004) |
 
 ## About This Role
 
-This machine learning engineer position at PayPay was posted on 2026-03-27.
+This machine learning engineer position at PayPay was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Platform Scientist, Soft Materials  at Lila Sciences
+# Platform Scientist, Soft Materials at Lila Sciences
 
 | Field | Details |
 |-------|---------|
 | Company | [Lila Sciences](https://scoutify.ai/companies/lilasciences?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lilasciences/jobs/4088253009) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lilasciences/jobs/4295120009) |
 
 ## About This Role
 
-This ai / ml research position at Lila Sciences was posted on 2026-05-08.
+This ai / ml research position at Lila Sciences was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

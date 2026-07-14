@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | Industrial Automation |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662097/manufacturing-optimization-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671071/manufacturing-optimization-engineer) |
 
 ## About This Role
 
-This industrial automation position at Apple was posted on 2026-05-14.
+This machine learning engineer position at Apple was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8576931002) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8384490002) |
 
 ## About This Role
 
-This ai / ml research position at Jane Street was posted on 2026-06-04.
+This ai / ml research position at Jane Street was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8572113002?gh_jid=8572113002) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8572114002?gh_jid=8572114002) |
 
 ## About This Role
 
-This ai / llm engineer position at SpaceX was posted on 2026-05-29.
+This ai / llm engineer position at SpaceX was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

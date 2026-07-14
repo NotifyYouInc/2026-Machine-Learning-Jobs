@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/BR-SP-OTHER-SAO-PAULO/AI-Engineer_R163614-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-HARYANA-GURUGRAM-10th-Floor-Tower-10B-DLF-Cyber-City-DLF-Phase-2-Sec-24/AI-Engineer_R166294) |
 
 ## About This Role
 
-This ai / llm engineer position at Baker Hughes was posted on 2026-04-30.
+This machine learning engineer position at Baker Hughes was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

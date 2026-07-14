@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Graphcore](https://scoutify.ai/companies/graphcore?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Poland |
-| Category | AI / ML Research |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8491680002) |
+| Location | Bristol, England, United Kingdom |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8315158002) |
 
 ## About This Role
 
-This ai / ml research position at Graphcore was posted on 2026-04-02.
+This machine learning engineer position at Graphcore was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

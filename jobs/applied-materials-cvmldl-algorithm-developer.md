@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2612906) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2622877-1) |
 
 ## About This Role
 
-This machine learning engineer position at Applied Materials was posted on 2026-07-02.
+This machine learning engineer position at Applied Materials was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

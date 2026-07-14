@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Toronto-ON/AI-Engineer_JR1037068-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Pune---Hinjewadi-Ascendas/AI-Engineer_JR1041344-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Synechron was posted on 2026-03-12.
+This ai / llm engineer position at Synechron was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

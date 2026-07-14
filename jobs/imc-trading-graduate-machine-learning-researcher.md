@@ -1,16 +1,16 @@
-# Graduate Machine Learning Researcher at IMC Trading
+#  Graduate Machine Learning Researcher at IMC Trading
 
 | Field | Details |
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | London, England, United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101) |
 
 ## About This Role
 
-This ai / ml research position at IMC Trading was posted on 2026-07-01.
+This ai / ml research position at IMC Trading was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

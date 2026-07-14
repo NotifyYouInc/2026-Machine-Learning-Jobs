@@ -5,12 +5,12 @@
 | Company | [AirTrunk](https://scoutify.ai/companies/airtrunk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | North Sydney, New South Wales, Australia |
 | Category | Data Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/airtrunk/jobs/7728055003) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/airtrunk/jobs/7796557003) |
 
 ## About This Role
 
-This data engineer position at AirTrunk was posted on 2026-06-17.
+This data engineer position at AirTrunk was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

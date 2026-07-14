@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420847/senior-ml-software-engineer-data-plane) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10466144/senior-ml-software-engineer-data-plane) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-05-15.
+This machine learning engineer position at Amazon was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

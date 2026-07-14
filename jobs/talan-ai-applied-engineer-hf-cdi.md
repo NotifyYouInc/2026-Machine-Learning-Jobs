@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000133626944-ai-applied-engineer-hf-cdi) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000135994809-ai-applied-engineer-hf-cdi) |
 
 ## About This Role
 
-This ai / llm engineer position at Talan was posted on 2026-06-23.
+This ai / llm engineer position at Talan was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
