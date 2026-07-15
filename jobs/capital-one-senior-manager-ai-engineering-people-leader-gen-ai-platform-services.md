@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Jose, California, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Senior-Manager--AI-Engineering--People-Leader---Gen-AI-Platform-Services-_R244363-1) |
+| Location | 5 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Senior-Manager--AI-Engineering--People-Leader---Gen-AI-Platform-Services-_R246163) |
 
 ## About This Role
 
-This engineering manager position at Capital One was posted on 2026-06-11.
+This ai / llm engineer position at Capital One was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

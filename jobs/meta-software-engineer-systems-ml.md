@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/990864127272553) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1346637694687934) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-06-17.
+This software engineer position at Meta was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

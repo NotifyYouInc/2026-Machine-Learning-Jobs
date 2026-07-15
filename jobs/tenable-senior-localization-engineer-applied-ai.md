@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tenable](https://scoutify.ai/companies/tenable?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tenableinc/jobs/5281936008) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tenableinc/jobs/5301032008) |
 
 ## About This Role
 
-This ai / llm engineer position at Tenable was posted on 2026-06-25.
+This software engineer position at Tenable was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bulgaria |
+| Location | Bucharest, București, Romania |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Poland/Generative-AI-Developer_R44674) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Bucharest-Romania/Generative-AI-Developer_R44957) |
 
 ## About This Role
 
-This ai / llm engineer position at SS&C Technologies was posted on 2026-06-24.
+This ai / llm engineer position at SS&C Technologies was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

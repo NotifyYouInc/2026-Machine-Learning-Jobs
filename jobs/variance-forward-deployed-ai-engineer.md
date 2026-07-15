@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Variance](https://scoutify.ai/companies/variance?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Variance](https://scoutify.ai/companies/intrinsic-safety?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/variance/jobs/0BmwPv6-forward-deployed-ai-engineer) |
+| Category | Forward Deployed Engineer |
+| Posted | 2025-03-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426) |
 
 ## About This Role
 
-This ai / llm engineer position at Variance was posted on 2026-05-12.
+This forward deployed engineer position at Variance was posted on 2025-03-31.
 
 ## Get Real-Time Alerts
 

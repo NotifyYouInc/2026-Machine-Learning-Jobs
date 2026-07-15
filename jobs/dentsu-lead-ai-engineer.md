@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Bhartiya-City-Block-1/Lead-AI-Engineer_R1114816-7) |
+| Location | Pune, Maharashtra, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Pune---Kharadi-EON-Free-Zone/Lead-AI-Engineer_R1111605-6) |
 
 ## About This Role
 
-This ai / ml research position at Dentsu was posted on 2026-06-23.
+This ai / llm engineer position at Dentsu was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

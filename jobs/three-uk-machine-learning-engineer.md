@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Three UK](https://scoutify.ai/companies/threeuk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Newbury, England, United Kingdom |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000126312074-machine-learning-engineer) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000136217183-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Three UK was posted on 2026-05-13.
+This machine learning engineer position at Three UK was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

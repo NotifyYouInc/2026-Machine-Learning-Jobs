@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667292/machine-learning-engineer-ml-genai-evaluation) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671401/machine-learning-engineer-ml-genai-evaluation) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-06-11.
+This machine learning engineer position at Apple was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

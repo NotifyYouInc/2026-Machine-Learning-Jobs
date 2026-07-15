@@ -5,12 +5,12 @@
 | Company | [Freeform](https://scoutify.ai/companies/freeformfuturecorp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7653273003) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692962003) |
 
 ## About This Role
 
-This ai / ml research position at Freeform was posted on 2026-03-05.
+This ai / ml research position at Freeform was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
