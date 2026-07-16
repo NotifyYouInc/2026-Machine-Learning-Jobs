@@ -1,0 +1,22 @@
+# Computer Vision Engineer at KoiReader
+
+| Field | Details |
+|-------|---------|
+| Company | [KoiReader](https://scoutify.ai/companies/koireadertechnologies?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2023-01-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KoiReaderTechnologies/743999879637223-computer-vision-engineer) |
+
+## About This Role
+
+This machine learning engineer position at KoiReader was posted on 2023-01-20.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

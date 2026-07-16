@@ -1,16 +1,16 @@
-# Senior Python Engineer - Assistant Vice President at Citigroup
+# Senior Python Engineer-Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Mississauga, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Python-Engineer---Assistant-Vice-President_26974756) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-Python-Engineer-Assistant-Vice-President_26975866) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-07-07.
+This software engineer position at Citigroup was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

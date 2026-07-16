@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Intuition](https://scoutify.ai/companies/appliedintuition?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://boards.greenhouse.io/appliedintuition/jobs/4678157005?gh_jid=4678157005) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/ae5031f6-c041-47e4-961c-7ff138bb3108) |
 
 ## About This Role
 
-This ai / ml research position at Applied Intuition was posted on 2026-03-28.
+This machine learning engineer position at Applied Intuition was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | San Mateo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000120331328-staff-engineer-machine-learning) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000136541299-staff-engineer-machine-learning) |
 
 ## About This Role
 
-This software engineer position at Freshworks CRM was posted on 2026-04-13.
+This software engineer position at Freshworks CRM was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

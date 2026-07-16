@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Intuition](https://scoutify.ai/companies/appliedintuition?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-03-25 |
-| Apply | [View on company site](https://boards.greenhouse.io/appliedintuition/jobs/4677060005?gh_jid=4677060005) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/981054d6-d6d9-4553-9db8-38e56939d3b8) |
 
 ## About This Role
 
-This ai / llm engineer position at Applied Intuition was posted on 2026-03-25.
+This software engineer position at Applied Intuition was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

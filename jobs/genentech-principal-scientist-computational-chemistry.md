@@ -5,12 +5,12 @@
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | South San Francisco, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Principal-Scientist--Computational-Chemistry-_202606-117087) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Principal-Scientist--Computational-Chemistry-_202607-117707) |
 
 ## About This Role
 
-This ai / ml research position at Genentech was posted on 2026-07-01.
+This ai / ml research position at Genentech was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

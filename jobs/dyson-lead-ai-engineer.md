@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Johor Bahru, Johor, Malaysia |
+| Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Malaysia---Global-Development-Campus-Johor-Bahru/Lead-AI-Engineer_JR37144) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---Technology-Centre/Lead-AI-Engineer_JR37160-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Dyson was posted on 2026-07-07.
+This ai / llm engineer position at Dyson was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

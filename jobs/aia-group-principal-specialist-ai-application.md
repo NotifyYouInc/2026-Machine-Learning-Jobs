@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | China |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-M-Plaza/Principal-Specialist--AI-Application_JR-67939-1) |
+| Location | Chengdu, Sichuan, China |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Principal-Specialist--AI-Application_JR-68155-2) |
 
 ## About This Role
 
-This ai / llm engineer position at AIA Group was posted on 2026-07-01.
+This machine learning engineer position at AIA Group was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

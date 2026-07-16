@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4708572005) |
+| Location | 3 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4709436005) |
 
 ## About This Role
 
-This ai / ml research position at DV Trading was posted on 2026-06-24.
+This ai / llm engineer position at DV Trading was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

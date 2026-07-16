@@ -1,16 +1,16 @@
-# Data Engineer - Battery Data Platform & AI at Apple
+# Data Engineer, Battery Data Platform & AI at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | AI / ML Research |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668472/data-engineer-battery-data-platform-ai) |
+| Category | Data Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671566/data-engineer-battery-data-platform-ai) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2026-06-17.
+This data engineer position at Apple was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

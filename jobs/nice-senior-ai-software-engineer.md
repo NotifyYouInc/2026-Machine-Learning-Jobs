@@ -1,16 +1,16 @@
-# Senior AI Software Engineer  at NiCE
+# Senior AI Software Engineer at NiCE
 
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sandy, Utah, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4906504101?gh_jid=4906504101) |
+| Location | 4 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4917028101?gh_jid=4917028101) |
 
 ## About This Role
 
-This ai / llm engineer position at NiCE was posted on 2026-06-24.
+This software engineer position at NiCE was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

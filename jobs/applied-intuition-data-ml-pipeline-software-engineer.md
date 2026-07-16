@@ -6,7 +6,7 @@
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://boards.greenhouse.io/appliedintuition/jobs/4659522005?gh_jid=4659522005) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/e015ce66-91c0-4361-a789-70ddbccc4e06) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [540](https://scoutify.ai/companies/540?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Florida, US |
+| Location | Arlington, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/540/jobs/7733708003) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/540/jobs/7768591003) |
 
 ## About This Role
 
-This software engineer position at 540 was posted on 2026-05-14.
+This software engineer position at 540 was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
