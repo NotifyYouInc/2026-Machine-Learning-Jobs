@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5349458-S1949045-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/AI---ML-Engineer_ATCI-5005980-S1864047) |
 
 ## About This Role
 

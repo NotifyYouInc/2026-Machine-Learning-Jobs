@@ -1,16 +1,16 @@
-# Computer Scientist - II at Adobe
+# Computer Scientist II at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist---II_R169545-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-II_R170192-1) |
 
 ## About This Role
 
-This ai / ml research position at Adobe was posted on 2026-06-11.
+This machine learning engineer position at Adobe was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

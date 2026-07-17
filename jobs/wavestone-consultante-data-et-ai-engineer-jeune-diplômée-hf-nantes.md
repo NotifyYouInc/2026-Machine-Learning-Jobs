@@ -5,12 +5,12 @@
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000134412029-consultante-data-et-ai-engineer-jeune-diplomee-hf-nantes) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000136810410-consultante-data-et-ai-engineer-jeune-diplomee-hf-nantes) |
 
 ## About This Role
 
-This ai / llm engineer position at Wavestone was posted on 2026-06-26.
+This ai / llm engineer position at Wavestone was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

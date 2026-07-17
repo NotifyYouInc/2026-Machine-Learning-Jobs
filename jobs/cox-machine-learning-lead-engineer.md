@@ -5,12 +5,12 @@
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Learning & Development |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Machine-Learning-Lead-Engineer_R202678061) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Machine-Learning-Lead-Engineer_R202679792) |
 
 ## About This Role
 
-This learning & development position at Cox was posted on 2026-06-04.
+This learning & development position at Cox was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

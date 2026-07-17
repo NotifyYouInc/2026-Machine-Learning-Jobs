@@ -5,12 +5,12 @@
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Senior-Staff-AI-Engineer_R5046673-2) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Senior-Staff-AI-Engineer_R5046672-2) |
 
 ## About This Role
 
-This ai / llm engineer position at GE Vernova was posted on 2026-07-06.
+This ai / llm engineer position at GE Vernova was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

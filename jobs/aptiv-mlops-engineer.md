@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/MLOps-Engineer_J000697492) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/MLOps-Engineer_J000697493) |
 
 ## About This Role
 
-This devops engineer position at Aptiv was posted on 2026-04-28.
+This machine learning engineer position at Aptiv was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

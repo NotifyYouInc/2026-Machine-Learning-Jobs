@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [applied](https://scoutify.ai/companies/applied?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Poway, California, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/applied/81c5d97c-d3d3-4e77-8032-312f130fef92) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/a2ddad24-2147-406f-81c9-a88f8acc77c2) |
 
 ## About This Role
 
-This robotics engineer position at applied was posted on 2026-07-01.
+This robotics engineer position at applied was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

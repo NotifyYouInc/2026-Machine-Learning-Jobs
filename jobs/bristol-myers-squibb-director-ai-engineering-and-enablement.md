@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton-LVL---NJ/Director--Principal-Engineer_R1599454-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton-LVL---NJ/Director--AI-Engineering-and-Enablement_R1604326) |
 
 ## About This Role
 
-This ai / ml research position at Bristol-Myers Squibb was posted on 2026-05-11.
+This ai / llm engineer position at Bristol-Myers Squibb was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

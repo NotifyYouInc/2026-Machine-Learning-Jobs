@@ -5,12 +5,12 @@
 | Company | [Simons Foundation](https://scoutify.ai/companies/simonsfoundation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://simonsfoundation.wd1.myworkdayjobs.com/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/Flatiron-Research-Fellow_R0002028) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://simonsfoundation.wd1.myworkdayjobs.com/simonsfoundationcareers/job/160-Fifth-Avenue-New-York-NY/Flatiron-Research-Fellow_R0002131) |
 
 ## About This Role
 
-This ai / ml research position at Simons Foundation was posted on 2026-03-03.
+This ai / ml research position at Simons Foundation was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

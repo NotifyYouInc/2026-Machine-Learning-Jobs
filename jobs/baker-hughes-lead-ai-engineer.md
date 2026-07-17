@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Lead-AI-Engineer_R165592) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Lead-AI-Engineer_R166295) |
 
 ## About This Role
 
-This ai / llm engineer position at Baker Hughes was posted on 2026-07-07.
+This ai / llm engineer position at Baker Hughes was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

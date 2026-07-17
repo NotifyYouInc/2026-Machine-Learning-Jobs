@@ -5,12 +5,12 @@
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7845723) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8054910) |
 
 ## About This Role
 
-This ai / llm engineer position at Capco was posted on 2026-04-23.
+This ai / llm engineer position at Capco was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

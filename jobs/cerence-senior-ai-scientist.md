@@ -1,16 +1,16 @@
-# Senior AI Scientist at Cerence
+# Senior AI scientist at Cerence
 
 | Field | Details |
 |-------|---------|
 | Company | [Cerence](https://scoutify.ai/companies/cerence?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | India |
 | Category | AI / ML Research |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/Senior-AI-Scientist_R0005979) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---India/Senior-AI-scientist_R0005984) |
 
 ## About This Role
 
-This ai / ml research position at Cerence was posted on 2026-07-06.
+This ai / ml research position at Cerence was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

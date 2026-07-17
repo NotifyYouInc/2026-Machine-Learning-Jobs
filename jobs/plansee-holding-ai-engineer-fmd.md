@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plansee Holding](https://scoutify.ai/companies/plansee-holding?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mamer, Capellen, Luxembourg |
+| Location | Reutte, Tyrol, Austria |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://myhr.wd3.myworkdayjobs.com/planseegroup_career/job/Mamer-Luxembourg/AI-Engineer--f-m-d-_JR-11356) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://myhr.wd3.myworkdayjobs.com/planseegroup_career/job/Reutte-Austria/AI-Engineer--f-m-d-_JR-11834) |
 
 ## About This Role
 
-This ai / llm engineer position at Plansee Holding was posted on 2026-05-12.
+This ai / llm engineer position at Plansee Holding was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Belgium |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/AI-Engineer_REQ-10113868-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/AI-Engineer_REQ-10116896) |
 
 ## About This Role
 
-This ai / llm engineer position at ING was posted on 2026-06-01.
+This ai / llm engineer position at ING was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

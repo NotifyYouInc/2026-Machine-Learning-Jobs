@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Austria |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e128c8a0-fb9c-47bf-be19-10dd58375ad4) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/fc5bea15-6583-4424-b24c-bc58de778bc5) |
 
 ## About This Role
 
-This ai / llm engineer position at Bjak was posted on 2026-06-02.
+This ai / llm engineer position at Bjak was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

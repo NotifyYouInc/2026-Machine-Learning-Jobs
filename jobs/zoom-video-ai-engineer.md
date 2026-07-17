@@ -5,12 +5,12 @@
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Video-AI-Engineer_R18922-2) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Video-AI-Engineer_R19356-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Zoom was posted on 2026-04-03.
+This ai / llm engineer position at Zoom was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

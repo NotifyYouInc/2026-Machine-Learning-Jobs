@@ -5,12 +5,12 @@
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8043974?gh_jid=8043974) |
 
 ## About This Role
 
-This machine learning engineer position at Cloudflare was posted on 2026-07-02.
+This machine learning engineer position at Cloudflare was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
