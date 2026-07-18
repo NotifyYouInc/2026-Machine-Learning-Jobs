@@ -1,16 +1,16 @@
-# Agentic AI  Tech Lead at Citigroup
+# Agentic AI Tech Lead at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mississauga, Ontario, Canada |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Agentic-AI--Tech-Lead_26975232-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Agentic-AI-Tech-Lead_26976316) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-07-01.
+This software engineer position at Citigroup was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

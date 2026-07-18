@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcare](https://scoutify.ai/companies/netcare?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | South Africa |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://netcare.wd103.myworkdayjobs.com/netcareexternal/job/Netcare-Head-Office/AI-Engineer_JR105801) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://netcare.wd103.myworkdayjobs.com/netcareexternal/job/Netcare-Head-Office/AI-Engineer_JR107683-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Netcare was posted on 2026-03-12.
+This ai / llm engineer position at Netcare was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

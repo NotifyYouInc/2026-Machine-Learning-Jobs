@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Vietnam-Ho-Chi-Minh-City/Speech-LLM-Engineer--Voice-First-Agentic-AI_JR2020070) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Vietnam-Ho-Chi-Minh-City/Speech-LLM-Engineer--Voice-First-Agentic-AI_JR2020909) |
 
 ## About This Role
 
-This ai / llm engineer position at Nvidia was posted on 2026-07-02.
+This ai / llm engineer position at Nvidia was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

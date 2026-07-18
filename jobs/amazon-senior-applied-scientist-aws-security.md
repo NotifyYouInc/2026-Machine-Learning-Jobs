@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452867/senior-applied-scientist-aws-security) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Data Scientist |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10471746/senior-applied-scientist-aws-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-18.
+This data scientist position at Amazon was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

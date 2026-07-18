@@ -5,12 +5,12 @@
 | Company | [The Allen Institute for AI](https://scoutify.ai/companies/thealleninstitute?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thealleninstitute/jobs/7954968) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thealleninstitute/jobs/8054878) |
 
 ## About This Role
 
-This ai / ml research position at The Allen Institute for AI was posted on 2026-05-22.
+This ai / ml research position at The Allen Institute for AI was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
