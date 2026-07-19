@@ -1,16 +1,16 @@
-# AI Engineer at Ford Motor Company
+#  Sr. AI Engineer at Nightfall
 
 | Field | Details |
 |-------|---------|
-| Company | [Ford Motor Company](https://scoutify.ai/companies/em5-cx-oj40213?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dearborn, Michigan, United States |
+| Company | [Nightfall](https://scoutify.ai/companies/nightfall-ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://efds.fa.em5.oraclecloud.com/jobs/#64850) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nightfall-ai/e4c6b141-80d6-4d8e-a89c-704feeea9693) |
 
 ## About This Role
 
-This ai / llm engineer position at Ford Motor Company was posted on 2026-06-08.
+This ai / llm engineer position at Nightfall was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

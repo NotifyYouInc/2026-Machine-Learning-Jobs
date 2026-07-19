@@ -1,16 +1,16 @@
-# AI Engineer at Ford Motor Company
+# Senior AI Engineer at ELCA
 
 | Field | Details |
 |-------|---------|
-| Company | [Ford Motor Company](https://scoutify.ai/companies/em5-cx-oj40213?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dearborn, Michigan, United States |
+| Company | [ELCA](https://scoutify.ai/companies/ocs-cx-oj33181?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Pully, Vaud, Switzerland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://efds.fa.em5.oraclecloud.com/jobs/#64850) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://iaaras.fa.ocs.oraclecloud.com/jobs/#2383) |
 
 ## About This Role
 
-This ai / llm engineer position at Ford Motor Company was posted on 2026-06-08.
+This ai / llm engineer position at ELCA was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# HR AI/ML Engineer II at Airbus
+# Senior ML Ops Engineer at Euroclear
 
 | Field | Details |
 |-------|---------|
-| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Herndon, Virginia, United States |
+| Company | [Euroclear](https://scoutify.ai/companies/em2-cx-oj36347?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/HR-AI-ML-Engineer-II_JR10427284) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://don.fa.em2.oraclecloud.com/jobs/#9445) |
 
 ## About This Role
 
-This machine learning engineer position at Airbus was posted on 2026-07-11.
+This machine learning engineer position at Euroclear was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
