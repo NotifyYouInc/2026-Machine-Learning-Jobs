@@ -1,16 +1,16 @@
-# Senior ML Engineer at Truecaller
+# Founding Machine Learning Engineer at Trove
 
 | Field | Details |
 |-------|---------|
-| Company | [Truecaller](https://scoutify.ai/companies/truecaller?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Trove](https://scoutify.ai/companies/trove-oj113355?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/truecaller/jobs/8059333) |
+| Posted | 2025-06-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/trove/eafc1339-5b13-4e9d-9634-15d2cde0241d) |
 
 ## About This Role
 
-This machine learning engineer position at Truecaller was posted on 2026-07-13.
+This machine learning engineer position at Trove was posted on 2025-06-18.
 
 ## Get Real-Time Alerts
 

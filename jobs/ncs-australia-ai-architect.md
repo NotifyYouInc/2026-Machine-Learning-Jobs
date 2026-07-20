@@ -1,16 +1,16 @@
-# AI Engineer (TrendIQ Core Team) at Trend Micro
+# AI Architect at NCS Australia
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/AI-Engineer--TrendIQ-Core-Team-_R0009952) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001227322-ai-architect) |
 
 ## About This Role
 
-This ai / llm engineer position at Trend Micro was posted on 2026-07-13.
+This ai / llm engineer position at NCS Australia was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

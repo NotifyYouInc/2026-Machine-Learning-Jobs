@@ -1,16 +1,16 @@
-# Researcher at Microsoft
+# Computational Neuroscientist at Alljoined
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Alljoined](https://scoutify.ai/companies/alljoined?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Francisco, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556929043) |
+| Posted | 2025-11-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alljoined/9881679f-74c2-409e-bdf7-0270dbce012c) |
 
 ## About This Role
 
-This ai / ml research position at Microsoft was posted on 2026-07-13.
+This ai / ml research position at Alljoined was posted on 2025-11-22.
 
 ## Get Real-Time Alerts
 

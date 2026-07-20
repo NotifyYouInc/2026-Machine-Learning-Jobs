@@ -1,16 +1,16 @@
-# Machine Learning Engineer 2 at Adobe
+# Imaging Geophysicist Intern at Viridien
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Viridien](https://scoutify.ai/companies/cgg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Indonesia |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-2_R170337) |
+| Apply | [View on company site](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Jakarta-Selatan-Indonesia/Imaging-Geophysicist-Intern_JR101392-1) |
 
 ## About This Role
 
-This machine learning engineer position at Adobe was posted on 2026-07-13.
+This machine learning engineer position at Viridien was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

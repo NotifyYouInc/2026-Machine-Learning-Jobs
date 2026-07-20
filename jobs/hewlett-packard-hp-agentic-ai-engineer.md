@@ -1,16 +1,16 @@
-# Machine Learning Engineer 2 at Adobe
+# Agentic AI Engineer at Hewlett Packard (HP)
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-2_R170337) |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/Agentic-AI-Engineer_3164825-1) |
 
 ## About This Role
 
-This machine learning engineer position at Adobe was posted on 2026-07-13.
+This ai / llm engineer position at Hewlett Packard (HP) was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

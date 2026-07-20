@@ -1,16 +1,16 @@
-# AI / ML Engineer at Accenture
+# Intern at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5478145-S2028564-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Intern_JR_1051263) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-07-12.
+This machine learning engineer position at Zeiss was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

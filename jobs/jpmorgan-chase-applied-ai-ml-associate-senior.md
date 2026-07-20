@@ -1,16 +1,16 @@
-# AI Engineer (TrendIQ Core Team) at Trend Micro
+# Applied AI ML Associate Senior at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/AI-Engineer--TrendIQ-Core-Team-_R0009952) |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765464) |
 
 ## About This Role
 
-This ai / llm engineer position at Trend Micro was posted on 2026-07-13.
+This ai / llm engineer position at JPMorgan Chase was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

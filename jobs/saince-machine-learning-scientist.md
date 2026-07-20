@@ -1,16 +1,16 @@
-# Researcher at Microsoft
+# Machine Learning Scientist at Saince
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Saince](https://scoutify.ai/companies/sainceinc1?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Alpharetta, Georgia, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556929043) |
+| Posted | 2019-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SainceInc1/743999683985844-machine-learning-scientist) |
 
 ## About This Role
 
-This ai / ml research position at Microsoft was posted on 2026-07-13.
+This ai / ml research position at Saince was posted on 2019-02-19.
 
 ## Get Real-Time Alerts
 

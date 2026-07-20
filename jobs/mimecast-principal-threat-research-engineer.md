@@ -1,16 +1,16 @@
-# Machine Learning Engineer 2 at Adobe
+# Principal Threat Research Engineer at Mimecast
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-2_R170337) |
+| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/India---Bengaluru/Principal-Threat-Research-Engineer_R6536) |
 
 ## About This Role
 
-This machine learning engineer position at Adobe was posted on 2026-07-13.
+This ai / ml research position at Mimecast was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# AI Engineer (TrendIQ Core Team) at Trend Micro
+# Talented AI Engineer Intern at Hitachi
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Vietnam |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/AI-Engineer--TrendIQ-Core-Team-_R0009952) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/DEAI-DS-VN-Danang-City/Talented-AI-Engineer-Intern_R0136992) |
 
 ## About This Role
 
-This ai / llm engineer position at Trend Micro was posted on 2026-07-13.
+This ai / llm engineer position at Hitachi was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

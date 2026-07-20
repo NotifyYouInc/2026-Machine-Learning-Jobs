@@ -1,16 +1,16 @@
-# AI Engineer (TrendIQ Core Team) at Trend Micro
+# Senior Artificial Intelligence Engineer (AI) at BRKZ
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [BRKZ](https://scoutify.ai/companies/brkz?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 4 locations |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/AI-Engineer--TrendIQ-Core-Team-_R0009952) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/brkz/jobs/4577985101) |
 
 ## About This Role
 
-This ai / llm engineer position at Trend Micro was posted on 2026-07-13.
+This ai / llm engineer position at BRKZ was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

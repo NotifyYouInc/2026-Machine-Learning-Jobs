@@ -1,16 +1,16 @@
-# Machine Learning Engineer 2 at Adobe
+# Research Engineer at Ford Motor Company
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Ford Motor Company](https://scoutify.ai/companies/em5-cx-oj40213?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Dearborn, Michigan, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-2_R170337) |
+| Apply | [View on company site](https://efds.fa.em5.oraclecloud.com/jobs/#65700) |
 
 ## About This Role
 
-This machine learning engineer position at Adobe was posted on 2026-07-13.
+This machine learning engineer position at Ford Motor Company was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

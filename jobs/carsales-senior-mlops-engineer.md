@@ -1,16 +1,16 @@
-# Machine Learning Engineer 2 at Adobe
+# Senior MLOps Engineer at carsales
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-2_R170337) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000137361329-senior-mlops-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Adobe was posted on 2026-07-13.
+This machine learning engineer position at carsales was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

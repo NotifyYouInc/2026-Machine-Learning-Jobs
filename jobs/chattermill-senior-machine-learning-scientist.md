@@ -1,16 +1,16 @@
-# Senior ML Engineer at Truecaller
+# Senior Machine Learning Scientist at Chattermill
 
 | Field | Details |
 |-------|---------|
-| Company | [Truecaller](https://scoutify.ai/companies/truecaller?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Chattermill](https://scoutify.ai/companies/chattermill?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/truecaller/jobs/8059333) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/chattermill/da53a1de-a022-436e-b7b1-37814a33ca75) |
 
 ## About This Role
 
-This machine learning engineer position at Truecaller was posted on 2026-07-13.
+This machine learning engineer position at Chattermill was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

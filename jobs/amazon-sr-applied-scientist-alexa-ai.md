@@ -1,16 +1,16 @@
-# Researcher at Microsoft
+# Sr. Applied Scientist, Alexa AI at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | AI / ML Research |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Boston, Massachusetts, United States |
+| Category | Data Scientist |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556929043) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10471911/sr-applied-scientist-alexa-ai) |
 
 ## About This Role
 
-This ai / ml research position at Microsoft was posted on 2026-07-13.
+This data scientist position at Amazon was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

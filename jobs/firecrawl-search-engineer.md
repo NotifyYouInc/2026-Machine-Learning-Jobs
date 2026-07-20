@@ -1,16 +1,16 @@
-# AI / ML Engineer at Accenture
+# Search Engineer at Firecrawl
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Firecrawl](https://scoutify.ai/companies/firecrawl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5478145-S2028564-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/firecrawl/762b4426-b4aa-4377-96d3-51f40c59cbf7) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-07-12.
+This machine learning engineer position at Firecrawl was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

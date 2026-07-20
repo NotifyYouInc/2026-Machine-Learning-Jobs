@@ -1,16 +1,16 @@
-# Senior ML Engineer at Truecaller
+# Associate, Machine Learning Engineer at Newmark
 
 | Field | Details |
 |-------|---------|
-| Company | [Truecaller](https://scoutify.ai/companies/truecaller?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Newmark](https://scoutify.ai/companies/us6-cx-oj75140?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | New York City, New York, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/truecaller/jobs/8059333) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://hdow.fa.us6.oraclecloud.com/jobs/#248975) |
 
 ## About This Role
 
-This machine learning engineer position at Truecaller was posted on 2026-07-13.
+This machine learning engineer position at Newmark was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

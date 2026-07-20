@@ -1,16 +1,16 @@
-# AI Engineer at Ecolab
+#  Senior ML/AI Engineer, Agentic Intelligence at Merciv
 
 | Field | Details |
 |-------|---------|
-| Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Merciv](https://scoutify.ai/companies/merciv?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | New York City, New York, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/AI-Engineer_R00298786) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/merciv/cfc83630-6c4a-470a-a878-d5e8e5504862) |
 
 ## About This Role
 
-This ai / llm engineer position at Ecolab was posted on 2026-07-13.
+This ai / llm engineer position at Merciv was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

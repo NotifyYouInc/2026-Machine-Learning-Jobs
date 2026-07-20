@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000132185209-performance-optimisation-engineer-fmd-ignitis-renewables) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Data Scientist |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000137378995-performance-optimisation-engineer-fmd-ignitis-renewables) |
 
 ## About This Role
 
-This machine learning engineer position at Ignitis Grupe was posted on 2026-06-15.
+This data scientist position at Ignitis Grupe was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

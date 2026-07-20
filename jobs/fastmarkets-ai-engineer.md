@@ -1,16 +1,16 @@
-# AI Engineer (TrendIQ Core Team) at Trend Micro
+# Ai Engineer at Fastmarkets
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [Fastmarkets](https://scoutify.ai/companies/fastmarkets?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/AI-Engineer--TrendIQ-Core-Team-_R0009952) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000137400514-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Trend Micro was posted on 2026-07-13.
+This ai / llm engineer position at Fastmarkets was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

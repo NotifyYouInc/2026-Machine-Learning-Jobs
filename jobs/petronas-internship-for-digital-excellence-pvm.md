@@ -1,16 +1,16 @@
-# Senior ML Engineer at Truecaller
+# Internship for Digital Excellence - PVM at PETRONAS
 
 | Field | Details |
 |-------|---------|
-| Company | [Truecaller](https://scoutify.ai/companies/truecaller?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/truecaller/jobs/8059333) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#28781) |
 
 ## About This Role
 
-This machine learning engineer position at Truecaller was posted on 2026-07-13.
+This machine learning engineer position at PETRONAS was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

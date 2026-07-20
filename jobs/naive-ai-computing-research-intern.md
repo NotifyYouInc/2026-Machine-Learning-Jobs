@@ -1,16 +1,16 @@
-# Researcher at Microsoft
+# AI Computing Research Intern at Naive
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Naive](https://scoutify.ai/companies/yc-naive?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Mountain View, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556929043) |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/naive/jobs/o7R1V95-ai-computing-research-intern) |
 
 ## About This Role
 
-This ai / ml research position at Microsoft was posted on 2026-07-13.
+This ai / ml research position at Naive was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 
