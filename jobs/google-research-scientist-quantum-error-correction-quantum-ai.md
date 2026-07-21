@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/73391208180654790-research-scientist-quantum-error-correction-quantum-ai?sort_by=date&page=1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWMU_eNLFNeGUDO3MFxpQRERa5hBIjCIMl1Vl7Ug5WnVEjsA1Ny_i-kXiP-zsZcAfJj1LPEZ-9oNpt6Ta53Zd0iZ0bDDbG24NFeiIDdt8dfDaJZhoFAdiZSn1oRa_Q%3D%3D_V2&loc=US&title=Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-03-26.
+This ai / ml research position at Google was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

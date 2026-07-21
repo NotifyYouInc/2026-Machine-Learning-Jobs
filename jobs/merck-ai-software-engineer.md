@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Prague, Prague, Czechia |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-Five/AI-Software-Engineer_R405654-1) |
+| Category | Software Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-Five/AI-Software-Engineer_R389194-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Merck was posted on 2026-07-01.
+This software engineer position at Merck was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

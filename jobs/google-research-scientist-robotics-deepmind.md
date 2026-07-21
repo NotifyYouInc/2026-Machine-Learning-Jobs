@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | London, England, United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQzXCB7t8uV36X1VCvh-egYh739nva1smsvvSSbLpEw0EjsACxwdTBqTDH4AuTCihHNtwhtpbDuP3BewStVmgFqf3OI-fx3qJ-9yY2QLxRvLhW22QmRoLEd2kLLl-Q%3D%3D_V2&loc=US&title=Research+Scientist) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZWG9_e-zPpjRVaezQCJqjEdfXBWsx4r89FiW5050GixEjsA1Ny_ixGgMzlKW38YQMFMnE9IjHXUgbO1S0MrG5AbhXtt-4CUpxB5K3f2MSfwaPMQK3yIdHvNeZhIaA%3D%3D_V2&loc=GB&title=Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-05-05.
+This ai / ml research position at Google was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [4flow](https://scoutify.ai/companies/4flow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 7 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://4flow.wd3.myworkdayjobs.com/4flow/job/Berlin/AI-Engineer--d-w-m----im-Bereich-Consulting_R4218) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://4flow.wd3.myworkdayjobs.com/4flow/job/Berlin/AI-Engineer--d-w-m----im-Bereich-Consulting_R4362) |
 
 ## About This Role
 
-This ai / llm engineer position at 4flow was posted on 2026-06-02.
+This ai / llm engineer position at 4flow was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/College-of-MedicineOffice-of-Health-Sciences/Post-Doctoral-Scholar---Comprehensive-Cancer-Center_R153939-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/James-Cancer-Hospital-and-Solove-Research-Institute/Post-Doctoral-Scholar---Comprehensive-Cancer-Center_R154800-2) |
 
 ## About This Role
 
-This ai / ml research position at The Ohio State University was posted on 2026-07-01.
+This ai / ml research position at The Ohio State University was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

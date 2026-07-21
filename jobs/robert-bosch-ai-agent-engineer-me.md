@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Suzhou, Jiangsu, China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135725806-ai-agent-engineer-me) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137417320-ai-agent-engineer-me) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-07-03.
+This ai / llm engineer position at Robert Bosch was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

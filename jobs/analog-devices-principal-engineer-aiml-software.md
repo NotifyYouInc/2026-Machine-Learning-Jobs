@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Principal-Engineer--AI-ML-Software_R260373) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Principal-Engineer--AI-ML-Software_R264071) |
 
 ## About This Role
 
-This software engineer position at Analog Devices was posted on 2026-02-19.
+This software engineer position at Analog Devices was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

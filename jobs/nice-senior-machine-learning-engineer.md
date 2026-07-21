@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer  at NiCE
+# Senior Machine Learning Engineer at NiCE
 
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4773756101?gh_jid=4773756101) |
+| Location | Sandy, Utah, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4923966101?gh_jid=4923966101) |
 
 ## About This Role
 
-This software engineer position at NiCE was posted on 2026-02-03.
+This machine learning engineer position at NiCE was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

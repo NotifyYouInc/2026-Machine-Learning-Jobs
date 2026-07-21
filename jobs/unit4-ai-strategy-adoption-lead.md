@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000136007909-ai-strategy-adoption-lead) |
+| Category | Strategy & Operations |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000137619480-ai-strategy-adoption-lead) |
 
 ## About This Role
 
-This ai / llm engineer position at Unit4 was posted on 2026-07-06.
+This strategy & operations position at Unit4 was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

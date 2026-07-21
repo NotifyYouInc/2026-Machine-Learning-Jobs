@@ -1,16 +1,16 @@
-# Staff Machine Learning Engineer, Simulation at Waymo
+# Staff Machine Learning Engineer, Simulation  at Waymo
 
 | Field | Details |
 |-------|---------|
 | Company | [Waymo](https://scoutify.ai/companies/waymo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=7947253) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=8056720) |
 
 ## About This Role
 
-This machine learning engineer position at Waymo was posted on 2026-06-01.
+This machine learning engineer position at Waymo was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ōura](https://scoutify.ai/companies/ura?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Diego, California, United States |
+| Location | San Francisco, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/oura/jobs/4187426009) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oura/jobs/4313148009) |
 
 ## About This Role
 
-This ai / ml research position at Ōura was posted on 2026-03-19.
+This ai / ml research position at Ōura was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
