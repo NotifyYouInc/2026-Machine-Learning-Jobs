@@ -5,12 +5,12 @@
 | Company | [Cavista Technologies](https://scoutify.ai/companies/cavista?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lagos, Lagos, Nigeria |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CAVISTA/744000125902938-python-engineer-aiml-level-i-ii) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CAVISTA/744000137727690-python-engineer-aiml-level-i-ii) |
 
 ## About This Role
 
-This software engineer position at Cavista Technologies was posted on 2026-05-11.
+This software engineer position at Cavista Technologies was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

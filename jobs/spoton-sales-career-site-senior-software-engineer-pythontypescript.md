@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpotOn: Sales (Career Site)](https://scoutify.ai/companies/spoton-sales-career-site?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/ffec2c9d-642a-46a3-962f-4fe5e5222db3) |
+| Category | Software Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/ac4832d6-6de0-493c-a68c-8aba1b759d2b) |
 
 ## About This Role
 
-This ai / llm engineer position at SpotOn: Sales (Career Site) was posted on 2026-07-01.
+This software engineer position at SpotOn: Sales (Career Site) was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | AI / ML Research |
-| Posted | 2025-11-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200631342/research-scientist-engineer-special-projects) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200672455/research-scientist-engineer-special-projects) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2025-11-12.
+This ai / ml research position at Apple was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

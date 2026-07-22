@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Graphcore](https://scoutify.ai/companies/graphcore?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cambridge, England, United Kingdom |
+| Location | 3 locations |
 | Category | AI / ML Research |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8559604002) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8632580002) |
 
 ## About This Role
 
-This ai / ml research position at Graphcore was posted on 2026-05-21.
+This ai / ml research position at Graphcore was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

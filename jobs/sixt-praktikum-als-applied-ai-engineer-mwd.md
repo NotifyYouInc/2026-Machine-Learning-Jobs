@@ -1,16 +1,16 @@
-# Praktikum als Applied AI Engineer (m/w/d) at Sixt
+# Praktikum als Applied AI Engineer (m/w/d)  at Sixt
 
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000137468188-praktikum-als-applied-ai-engineer-mwd) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000137608010-praktikum-als-applied-ai-engineer-mwd) |
 
 ## About This Role
 
-This ai / llm engineer position at Sixt was posted on 2026-07-13.
+This ai / llm engineer position at Sixt was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

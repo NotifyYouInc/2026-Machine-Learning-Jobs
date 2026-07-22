@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Data Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Senior-Machine-Learning-Engineer_REQ-057132-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Senior-Machine-Learning-Engineer_REQ-057131) |
 
 ## About This Role
 
-This data engineer position at Morningstar was posted on 2026-06-15.
+This machine learning engineer position at Morningstar was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

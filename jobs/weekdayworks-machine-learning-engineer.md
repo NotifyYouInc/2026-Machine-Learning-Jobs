@@ -5,12 +5,12 @@
 | Company | [Weekdayworks](https://scoutify.ai/companies/weekdayworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.lever.co/weekdayworks/b5458d05-5380-48b1-96bf-b7eb79b51581) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.lever.co/weekdayworks/468c7d59-cdbc-4164-bd5c-0844c8ebb6c5) |
 
 ## About This Role
 
-This machine learning engineer position at Weekdayworks was posted on 2026-05-28.
+This machine learning engineer position at Weekdayworks was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

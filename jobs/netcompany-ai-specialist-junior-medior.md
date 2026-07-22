@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
-| Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000129107909-ai-specialist-junior-medior) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000137838369-ai-specialist-junior-medior) |
 
 ## About This Role
 
-This ai / ml research position at Netcompany was posted on 2026-05-29.
+This ai / llm engineer position at Netcompany was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

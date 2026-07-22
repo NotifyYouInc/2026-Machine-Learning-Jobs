@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Brisbane---CA/Senior-AI-Engineer_R1603458-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA---US/Senior-AI-Engineer_R1602673) |
 
 ## About This Role
 
-This ai / llm engineer position at Bristol-Myers Squibb was posted on 2026-06-11.
+This ai / llm engineer position at Bristol-Myers Squibb was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

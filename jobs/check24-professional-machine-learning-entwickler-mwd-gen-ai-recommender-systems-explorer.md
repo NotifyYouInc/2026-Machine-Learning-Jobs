@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Erfurt, Thuringia, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133340448-professional-machine-learning-entwickler-mwd-gen-ai-recommender-systems-explorer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000137828096-professional-machine-learning-entwickler-mwd-gen-ai-recommender-systems-explorer) |
 
 ## About This Role
 
-This machine learning engineer position at CHECK24 was posted on 2026-06-22.
+This machine learning engineer position at CHECK24 was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

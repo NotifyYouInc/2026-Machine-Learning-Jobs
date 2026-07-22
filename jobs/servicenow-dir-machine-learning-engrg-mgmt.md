@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Engineering Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000137369864-dir-machine-learning-engrg-mgmt) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000137812853-dir-machine-learning-engrg-mgmt) |
 
 ## About This Role
 
-This engineering manager position at ServiceNow was posted on 2026-07-13.
+This engineering manager position at ServiceNow was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

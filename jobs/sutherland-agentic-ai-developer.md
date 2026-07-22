@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000127424879-agentic-ai-developer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000137827849-agentic-ai-developer) |
 
 ## About This Role
 
-This ai / llm engineer position at Sutherland was posted on 2026-05-20.
+This ai / llm engineer position at Sutherland was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

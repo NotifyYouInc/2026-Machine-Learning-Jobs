@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668686/senior-machine-learning-engineer-developer-product-analytics) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200672402/senior-machine-learning-engineer-developer-product-analytics) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-06-23.
+This machine learning engineer position at Apple was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

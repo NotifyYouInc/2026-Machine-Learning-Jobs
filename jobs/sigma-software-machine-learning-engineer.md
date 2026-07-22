@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000136763472-machine-learning-engineer) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000137639399-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Sigma Software was posted on 2026-07-09.
+This machine learning engineer position at Sigma Software was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

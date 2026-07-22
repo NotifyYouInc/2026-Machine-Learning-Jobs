@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Casablanca, Casablanca-Settat, Morocco |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000108161246-senior-data-scientist-ml-engineer) |
+| Category | Data Scientist |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000137689394-senior-data-scientist-ml-engineer) |
 
 ## About This Role
 
-This software engineer position at Coface was posted on 2026-02-09.
+This data scientist position at Coface was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robots and Pencils](https://scoutify.ai/companies/robots-and-pencils?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Newark, New Jersey, United States |
+| Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5227345008) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5348910008) |
 
 ## About This Role
 
-This ai / llm engineer position at Robots and Pencils was posted on 2026-05-21.
+This ai / llm engineer position at Robots and Pencils was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

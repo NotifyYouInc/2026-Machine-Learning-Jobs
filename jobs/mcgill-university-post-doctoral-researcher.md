@@ -1,16 +1,16 @@
-# Post-Doctoral Researcher at McGill University
+# Post-doctoral researcher at McGill University
 
 | Field | Details |
 |-------|---------|
 | Company | [McGill University](https://scoutify.ai/companies/mcgill?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Montreal-Neuro/Post-Doctoral-Researcher_JR0000074090) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Rutherford-Physics/Post-doctoral-researcher_JR0000078353) |
 
 ## About This Role
 
-This ai / ml research position at McGill University was posted on 2026-02-20.
+This ai / ml research position at McGill University was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

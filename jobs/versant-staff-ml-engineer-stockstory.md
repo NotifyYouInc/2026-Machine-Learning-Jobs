@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000124742840-staff-ml-engineer-stockstory) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000137647199-staff-ml-engineer-stockstory) |
 
 ## About This Role
 
-This machine learning engineer position at Versant was posted on 2026-05-05.
+This machine learning engineer position at Versant was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

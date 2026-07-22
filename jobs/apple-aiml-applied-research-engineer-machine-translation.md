@@ -1,16 +1,16 @@
-# AI/ML - Applied Research Engineer, Machine Translation at Apple
+# AIML - Applied Research Engineer, Machine Translation at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | AI / ML Research |
-| Posted | 2025-08-25 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200617742/ai-ml-applied-research-engineer-machine-translation) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200670490/aiml-applied-research-engineer-machine-translation) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2025-08-25.
+This ai / ml research position at Apple was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

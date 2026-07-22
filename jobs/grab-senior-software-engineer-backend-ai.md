@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000134690319-senior-software-engineer-backend-ai) |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000137791699-senior-software-engineer-backend-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-06-29.
+This software engineer position at Grab was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

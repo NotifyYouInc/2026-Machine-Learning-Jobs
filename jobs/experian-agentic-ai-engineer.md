@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127663109-agentic-ai-engineer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000137771004-agentic-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Experian was posted on 2026-05-21.
+This ai / llm engineer position at Experian was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10462356/applied-scientist-aws-science-of-security) |
+| Category | Data Scientist |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10474765/applied-scientist-aws-science-of-security) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-30.
+This data scientist position at Amazon was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

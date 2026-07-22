@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000136209725-principal-ai-engineer-with-java) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137670739-principal-ai-engineer-with-java) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-07-07.
+This ai / llm engineer position at NielsenIQ was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
