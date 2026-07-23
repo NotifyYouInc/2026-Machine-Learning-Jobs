@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hangzhou, Zhejiang, China |
 | Category | Data Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Data-Engineering---Agentic-Engineer_R-793862) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Data-Engineering---Agentic-Engineer_R-794344) |
 
 ## About This Role
 
-This data engineer position at State Street was posted on 2026-07-09.
+This data engineer position at State Street was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

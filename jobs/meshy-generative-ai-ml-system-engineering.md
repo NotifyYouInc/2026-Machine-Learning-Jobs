@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [meshy](https://scoutify.ai/companies/meshy-meshy?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [meshy](https://scoutify.ai/companies/meshy?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bay, Calabarzon, Philippines |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/meshy/f05f55f9-8996-4ccf-bab7-b99e087648fa) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/meshy/3f94dcd6-9d31-47e7-a6b1-66e49a777056) |
 
 ## About This Role
 
-This machine learning engineer position at meshy was posted on 2026-05-15.
+This machine learning engineer position at meshy was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

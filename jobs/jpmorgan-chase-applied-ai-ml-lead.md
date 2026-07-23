@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bournemouth, England, United Kingdom |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761189) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769430) |
 
 ## About This Role
 
-This ai / llm engineer position at JPMorgan Chase was posted on 2026-06-25.
+This machine learning engineer position at JPMorgan Chase was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

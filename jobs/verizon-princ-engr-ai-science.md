@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Princ-Engr-AI-Science_R-1096295) |
+| Location | 3 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Princ-Engr-AI-Science_R-1097664-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Verizon was posted on 2026-06-10.
+This machine learning engineer position at Verizon was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | AI / ML Research |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000134197779-stage-innovation-ingenieur-intelligence-artificielle-computer-vision) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000138054188-stage-innovation-ingenieur-intelligence-artificielle-computer-vision) |
 
 ## About This Role
 
-This ai / ml research position at ALTEN Canada was posted on 2026-06-25.
+This machine learning engineer position at ALTEN Canada was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

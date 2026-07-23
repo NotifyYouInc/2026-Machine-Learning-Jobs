@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000133923734-senior-machine-learning-engineer-mfd) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000137910199-senior-machine-learning-engineer-mfd) |
 
 ## About This Role
 
-This devops engineer position at Sixt was posted on 2026-06-24.
+This machine learning engineer position at Sixt was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

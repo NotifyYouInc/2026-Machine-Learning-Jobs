@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000134200568-stage-innovation-ingenieur-intelligence-artificielle-generative-nlp) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000138051495-stage-innovation-ingenieur-intelligence-artificielle-generative-nlp) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN Canada was posted on 2026-06-25.
+This machine learning engineer position at ALTEN Canada was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

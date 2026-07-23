@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Ahmedabad, Gujarat, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Toronto---Queens-Quay---Headquarters/Senior-Machine-Learning-Engineer_R-102625-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Ahmedabad--Mondeal-Heights--GBS-Center/Senior-Machine-Learning-Engineer_R-104718) |
 
 ## About This Role
 
-This machine learning engineer position at Heinz was posted on 2026-05-06.
+This machine learning engineer position at Heinz was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

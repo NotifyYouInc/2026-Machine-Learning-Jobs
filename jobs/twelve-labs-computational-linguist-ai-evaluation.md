@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Twelve Labs](https://scoutify.ai/companies/twelve-labs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/twelve-labs/d344d466-9718-49a4-86fb-3f030f252801) |
+| Category | Data Scientist |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/twelve-labs/5f3b7eee-6332-45a6-944e-f1723745d973) |
 
 ## About This Role
 
-This ai / ml research position at Twelve Labs was posted on 2026-05-07.
+This data scientist position at Twelve Labs was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

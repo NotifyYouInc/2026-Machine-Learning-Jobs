@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moderna](https://scoutify.ai/companies/modernatx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Cambridge, Massachusetts, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Warsaw---Poland/Senior-AI-Engineer_R19416) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Senior-AI-Engineer_R19417-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Moderna was posted on 2026-07-06.
+This ai / llm engineer position at Moderna was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

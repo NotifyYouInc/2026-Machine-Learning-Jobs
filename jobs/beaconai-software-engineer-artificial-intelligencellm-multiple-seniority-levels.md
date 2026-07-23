@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Carlos, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/3d334d75-bb74-4151-a372-9d5ebd68d954) |
+| Location | San Carlos, Cojedes, Venezuela |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/d124201a-803d-4cbe-b2e0-0000dd541b62) |
 
 ## About This Role
 
-This ai / llm engineer position at Beaconai was posted on 2026-05-05.
+This software engineer position at Beaconai was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

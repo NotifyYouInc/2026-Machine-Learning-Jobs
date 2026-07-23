@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckT-Y4ZkuvzUXImNMVL9OqDC-_adlyOOeQ5SesrgwETtMEjsACxwdTLhRGkfnw4iLGvTU0NpfE5t2KckVi3jlPu94dbs64b0kz_dLZcJQXVQiPFkd5shrCehKaOY2Ug%3D%3D_V2&loc=IN&title=AI/ML+Infrastructure+Software+Engineer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdawRTNb_6bZ-iBpeuMXWFov9JOm1ZTKi9pZNVf7m6iuEjsA1Ny_i6N4AJ-9FntFcaKx1p8OSbGZBWEVrbzH-zMn0chfpFM8u60a49ly0RXIjwGUE7c_Lqtvjf8EcQ%3D%3D_V2&loc=IN&title=AI/ML+Infrastructure+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-05-25.
+This software engineer position at Google was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

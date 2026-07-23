@@ -1,16 +1,16 @@
-# Senior ML Platform Engineer, AD/ADAS at Woven by Toyota
+# Senior ML Platform Engineer - AD/ADAS at Woven by Toyota
 
 | Field | Details |
 |-------|---------|
 | Company | [Woven by Toyota](https://scoutify.ai/companies/woven-by-toyota?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Palo Alto, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.lever.co/woven-by-toyota/4be9f9b4-962f-4b09-80ea-8e37ca563795) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.lever.co/woven-by-toyota/69482f28-8f96-4509-8b03-cc8de9c85f39) |
 
 ## About This Role
 
-This machine learning engineer position at Woven by Toyota was posted on 2026-07-08.
+This machine learning engineer position at Woven by Toyota was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

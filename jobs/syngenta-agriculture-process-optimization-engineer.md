@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Jalapa, Jalapa, Guatemala |
-| Category | Industrial Automation |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000129194059-agriculture-process-optimization-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000137913426-agriculture-process-optimization-engineer) |
 
 ## About This Role
 
-This industrial automation position at Syngenta was posted on 2026-05-29.
+This machine learning engineer position at Syngenta was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

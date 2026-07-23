@@ -1,16 +1,16 @@
-# Software Engineer Senior- AI Engineer at PNC Financial
+# Software Engineer Senior- AI engineer at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Senior--AI-Engineer_R224404-1) |
+| Location | Houston, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Houston-Plaza-TX334/Software-Engineer-Senior--AI-engineer_R224387-1) |
 
 ## About This Role
 
-This ai / llm engineer position at PNC Financial was posted on 2026-06-17.
+This software engineer position at PNC Financial was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
-| Category | Robotics Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444818/applied-scientist-fauna) |
+| Location | Sunnyvale, California, United States |
+| Category | Data Scientist |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10475944/applied-scientist-fauna) |
 
 ## About This Role
 
-This robotics engineer position at Amazon was posted on 2026-06-10.
+This data scientist position at Amazon was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

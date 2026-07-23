@@ -5,12 +5,12 @@
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Boston-MA/Senior-Director--AIRx-Medicinal-Chemistry_R0180085) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Boston-MA/Senior-Director--AIRx-Medicinal-Chemistry_R0183641) |
 
 ## About This Role
 
-This ai / ml research position at Takeda was posted on 2026-05-12.
+This ai / ml research position at Takeda was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

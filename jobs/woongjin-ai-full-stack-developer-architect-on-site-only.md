@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000136577194-ai-full-stack-developer-architect-on-site-only) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000137992239-ai-full-stack-developer-architect-on-site-only) |
 
 ## About This Role
 
-This software engineer position at Woongjin was posted on 2026-07-09.
+This software engineer position at Woongjin was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

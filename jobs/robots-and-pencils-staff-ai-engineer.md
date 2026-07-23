@@ -1,12 +1,12 @@
-# Staff AI Engineer at Robots and Pencils
+# Staff AI Engineer  at Robots and Pencils
 
 | Field | Details |
 |-------|---------|
 | Company | [Robots and Pencils](https://scoutify.ai/companies/robots-and-pencils?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | California, US |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5348910008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5349912008) |
 
 ## About This Role
 

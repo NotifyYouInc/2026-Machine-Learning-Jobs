@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ComplyAdvantage](https://scoutify.ai/companies/complyadvantage?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://complyadvantage.com/careers/jobs/8576147002?gh_jid=8576147002) |
+| Location | Lisbon, Lisbon, Portugal |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://complyadvantage.com/careers/jobs/8632942002?gh_jid=8632942002) |
 
 ## About This Role
 
-This ai / llm engineer position at ComplyAdvantage was posted on 2026-06-05.
+This machine learning engineer position at ComplyAdvantage was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

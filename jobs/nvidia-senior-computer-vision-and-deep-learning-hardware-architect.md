@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Computer-Vision-and-Deep-Learning-Hardware-Architect_JR2015967-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Computer-Vision-and-Deep-Learning-Hardware-Architect_JR2019965) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Nvidia was posted on 2026-04-15.
+This electrical / hardware engineer position at Nvidia was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
