@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127151399-generative-ai-lead) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138078114-generative-ai-lead) |
 
 ## About This Role
 
-This ai / llm engineer position at Experian was posted on 2026-05-19.
+This ai / llm engineer position at Experian was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

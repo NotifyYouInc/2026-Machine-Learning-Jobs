@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000106856865-senior-computer-vision-engineer-berlin-fmx) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000138074749-senior-computer-vision-engineer-berlin-fmx) |
 
 ## About This Role
 
-This software engineer position at AUTO1 Group was posted on 2026-02-02.
+This machine learning engineer position at AUTO1 Group was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

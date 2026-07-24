@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Fes, Fès-Meknès, Morocco |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000124623069-ingenieur-confirme-en-intelligence-artificielle) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000138260055-ingenieur-confirme-en-intelligence-artificielle) |
 
 ## About This Role
 
-This machine learning engineer position at ALTEN Canada was posted on 2026-05-05.
+This machine learning engineer position at ALTEN Canada was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

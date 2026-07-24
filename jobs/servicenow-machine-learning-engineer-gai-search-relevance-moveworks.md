@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000129017632-machine-learning-engineer-gai-search-relevance-moveworks) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138178124-machine-learning-engineer-gai-search-relevance-moveworks) |
 
 ## About This Role
 
-This machine learning engineer position at ServiceNow was posted on 2026-05-28.
+This machine learning engineer position at ServiceNow was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

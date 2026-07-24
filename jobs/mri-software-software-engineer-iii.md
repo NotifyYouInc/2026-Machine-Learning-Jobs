@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Bangalore-India-Office/Software-Engineer-III_R-108217) |
+| Location | Baroda, Madhya Pradesh, India |
+| Category | Software Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Baroda-India-Office/Software-Engineer-III_R-108221) |
 
 ## About This Role
 
-This ai / ml research position at MRI Software was posted on 2026-06-12.
+This software engineer position at MRI Software was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

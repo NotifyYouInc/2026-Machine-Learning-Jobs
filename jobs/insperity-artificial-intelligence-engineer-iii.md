@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Insperity](https://scoutify.ai/companies/insperity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Texas, US |
+| Location | Madison, Wisconsin, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/TX-Home-Office/Artificial-Intelligence-Engineer-III_JR102571) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/WI-Madison/Artificial-Intelligence-Engineer-III_JR102566-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Insperity was posted on 2026-04-29.
+This ai / llm engineer position at Insperity was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

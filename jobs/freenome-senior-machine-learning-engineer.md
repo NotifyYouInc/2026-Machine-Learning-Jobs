@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freenome](https://scoutify.ai/companies/freenome?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | California, US |
+| Location | Brisbane, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenome/jobs/8013673002) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/freenome/jobs/8535248002) |
 
 ## About This Role
 
-This machine learning engineer position at Freenome was posted on 2026-03-24.
+This machine learning engineer position at Freenome was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

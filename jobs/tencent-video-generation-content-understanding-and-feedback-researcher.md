@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Singapore, Singapore |
 | Category | AI / ML Research |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kindom-London/Video-Generation-Content-Understanding-and-Feedback-Researcher_R107784-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Video-Generation-Content-Understanding-and-Feedback-Researcher_R107812) |
 
 ## About This Role
 
-This ai / ml research position at Tencent was posted on 2026-07-13.
+This ai / ml research position at Tencent was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

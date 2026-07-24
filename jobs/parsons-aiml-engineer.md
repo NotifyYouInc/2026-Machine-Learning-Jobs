@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Aberdeen, South Dakota, United States |
+| Location | United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Aberdeen/AI-ML-Engineer_R182939) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/AI-ML-Engineer_R180057-1) |
 
 ## About This Role
 
-This machine learning engineer position at Parsons was posted on 2026-07-06.
+This machine learning engineer position at Parsons was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

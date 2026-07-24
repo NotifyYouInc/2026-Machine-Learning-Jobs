@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Minneapolis, Minnesota, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8560707002) |
+| Location | London, England, United Kingdom |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8636384002) |
 
 ## About This Role
 
-This ai / ml research position at Anaplan was posted on 2026-05-21.
+This technical support engineer position at Anaplan was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

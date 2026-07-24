@@ -5,12 +5,12 @@
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / ML Research |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/World-Model-Research-Intern_R107225-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/World-Model-Research-Intern_R107779) |
 
 ## About This Role
 
-This ai / ml research position at Tencent was posted on 2026-03-27.
+This ai / ml research position at Tencent was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

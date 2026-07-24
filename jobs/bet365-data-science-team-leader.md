@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000132843908-data-science-team-leader) |
+| Category | Data Scientist |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000138098258-data-science-team-leader) |
 
 ## About This Role
 
-This machine learning engineer position at bet365 was posted on 2026-06-18.
+This data scientist position at bet365 was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

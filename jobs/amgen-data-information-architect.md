@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data---Information-Architect_R-248333) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data---Information-Architect_R-248325) |
 
 ## About This Role
 
-This data engineer position at Amgen was posted on 2026-07-06.
+This technical & solutions architect position at Amgen was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

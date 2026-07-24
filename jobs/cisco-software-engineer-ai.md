@@ -1,16 +1,16 @@
-# Software Engineer - AI at Cisco
+# Software Engineer (AI) at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seattle-Washington-US/Software-Engineer---AI_2017169-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer--AI-_2017407-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-07-13.
+This software engineer position at Cisco was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127849629-sr-staff-python-developer-pythonawsai) |
+| Category | Software Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138098870-sr-staff-python-developer-pythonawsai) |
 
 ## About This Role
 
-This ai / llm engineer position at Experian was posted on 2026-05-22.
+This software engineer position at Experian was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

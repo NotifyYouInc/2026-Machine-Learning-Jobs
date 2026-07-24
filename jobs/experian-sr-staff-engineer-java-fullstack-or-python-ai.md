@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / ML Research |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127644849-sr-staff-engineer-java-fullstack-or-python-ai) |
+| Category | Software Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138099961-sr-staff-engineer-java-fullstack-or-python-ai) |
 
 ## About This Role
 
-This ai / ml research position at Experian was posted on 2026-05-21.
+This software engineer position at Experian was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

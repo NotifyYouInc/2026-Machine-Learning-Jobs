@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Agentic-Outcome-Engineer_R165627) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Agentic-Outcome-Engineer_R169996) |
 
 ## About This Role
 
-This ai / llm engineer position at Adobe was posted on 2026-03-02.
+This machine learning engineer position at Adobe was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

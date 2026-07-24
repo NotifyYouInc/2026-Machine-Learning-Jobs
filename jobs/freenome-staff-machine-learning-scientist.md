@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freenome](https://scoutify.ai/companies/freenome?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | California, US |
+| Location | Brisbane, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenome/jobs/8215797002) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/freenome/jobs/8627491002) |
 
 ## About This Role
 
-This ai / ml research position at Freenome was posted on 2026-03-24.
+This ai / ml research position at Freenome was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

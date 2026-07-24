@@ -5,12 +5,12 @@
 | Company | [Recursion](https://scoutify.ai/companies/recursion?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Engineering Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7961536) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8069513) |
 
 ## About This Role
 
-This engineering manager position at Recursion was posted on 2026-05-29.
+This engineering manager position at Recursion was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/AI-Integration-Engineer_R0238798) |
+| Category | Software Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/AI-Integration-Engineer_R0244601-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Booz Allen was posted on 2026-04-28.
+This software engineer position at Booz Allen was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

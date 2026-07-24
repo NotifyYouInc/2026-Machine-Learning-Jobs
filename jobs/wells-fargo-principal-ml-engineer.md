@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Principal-ML-Engineer_R-523660-2) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Principal-ML-Engineer_R-561199) |
 
 ## About This Role
 
-This machine learning engineer position at Wells Fargo was posted on 2026-04-21.
+This machine learning engineer position at Wells Fargo was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

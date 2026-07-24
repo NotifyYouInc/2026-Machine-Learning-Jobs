@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Diego, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013354636-lead-machine-learning-engineer) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014139346-lead-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at AbbVie was posted on 2026-05-28.
+This machine learning engineer position at AbbVie was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Worcester, Massachusetts, United States |
+| Location | Westport, Connacht, Ireland |
 | Category | AI / ML Research |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013889166-principal-research-scientist-i) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014124407-principal-research-scientist-i) |
 
 ## About This Role
 
-This ai / ml research position at AbbVie was posted on 2026-07-01.
+This ai / ml research position at AbbVie was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chengdu, Sichuan, China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Senior-Specialist--AI-Application_JR-67940-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Senior-Specialist--AI-Application_JR-68438) |
 
 ## About This Role
 
-This ai / llm engineer position at AIA Group was posted on 2026-07-01.
+This ai / llm engineer position at AIA Group was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

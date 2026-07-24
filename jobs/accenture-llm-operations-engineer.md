@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/LLM-Operations-Engineer_ATCI-5218027-S2028847-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/LLM-Operations-Engineer_ATCI-5682597-S2058769-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-06-10.
+This ai / llm engineer position at Accenture was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

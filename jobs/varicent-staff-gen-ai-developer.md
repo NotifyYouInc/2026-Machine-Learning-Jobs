@@ -5,12 +5,12 @@
 | Company | [Varicent](https://scoutify.ai/companies/varicent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/varicent/jobs/5108139008) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/varicent/jobs/5362375008) |
 
 ## About This Role
 
-This ai / llm engineer position at Varicent was posted on 2026-06-16.
+This ai / llm engineer position at Varicent was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

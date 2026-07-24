@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Global Talent Co.](https://scoutify.ai/companies/the-global-talent-co?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/the-global-talent-co/141a52e8-050a-4761-8d5d-746f1a592efb) |
+| Location | Poland |
+| Category | Go To Market Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/the-global-talent-co/3f8ab5f5-b2b5-4926-8671-0e46b1e80912) |
 
 ## About This Role
 
-This ai / llm engineer position at The Global Talent Co. was posted on 2026-04-27.
+This go to market engineer position at The Global Talent Co. was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
