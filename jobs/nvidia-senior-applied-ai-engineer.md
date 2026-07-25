@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Israel |
+| Location | 5 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Applied-AI-Engineer_JR2019905) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-AI-Engineer_JR2021231-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Nvidia was posted on 2026-06-15.
+This ai / llm engineer position at Nvidia was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

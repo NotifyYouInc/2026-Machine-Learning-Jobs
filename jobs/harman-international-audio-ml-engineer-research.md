@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Northridge, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Northridge---California-USA/Audio-ML-Engineer--Research-_R-51858-2026) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Audio-ML-Engineer-Research/30622) |
 
 ## About This Role
 
-This machine learning engineer position at HARMAN International was posted on 2026-03-02.
+This machine learning engineer position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

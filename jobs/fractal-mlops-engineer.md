@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 6 locations |
+| Location | New York City, New York, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Mumbai/MLOps-Engineer_SR-42584) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/MLOps-Engineer_SR-44064-1) |
 
 ## About This Role
 
-This machine learning engineer position at Fractal was posted on 2026-06-30.
+This machine learning engineer position at Fractal was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

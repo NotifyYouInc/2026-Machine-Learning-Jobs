@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TQG](https://scoutify.ai/companies/tqg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Germany |
-| Category | AI / ML Research |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4894594101) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4931097101) |
 
 ## About This Role
 
-This ai / ml research position at TQG was posted on 2026-06-18.
+This ai / llm engineer position at TQG was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

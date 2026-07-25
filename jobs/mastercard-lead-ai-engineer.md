@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead-AI-Engineer_R-275832-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Lead-AI-Engineer_R-282764) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-05-28.
+This ai / llm engineer position at Mastercard was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

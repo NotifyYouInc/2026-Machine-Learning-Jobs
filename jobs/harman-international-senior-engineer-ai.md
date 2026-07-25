@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Novi, Michigan, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Senior-Engineer--AI_R-53076-2026) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Senior-Engineer-AI/31369) |
 
 ## About This Role
 
-This ai / llm engineer position at HARMAN International was posted on 2026-05-01.
+This ai / llm engineer position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

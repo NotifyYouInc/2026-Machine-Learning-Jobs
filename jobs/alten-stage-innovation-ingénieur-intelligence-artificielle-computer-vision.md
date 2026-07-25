@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | Sèvres, Île-de-France, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138054188-stage-innovation-ingenieur-intelligence-artificielle-computer-vision) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138356653-stage-innovation-ingenieur-intelligence-artificielle-computer-vision) |
 
 ## About This Role
 
-This machine learning engineer position at ALTEN was posted on 2026-07-16.
+This machine learning engineer position at ALTEN was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

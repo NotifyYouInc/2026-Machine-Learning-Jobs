@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nfq](https://scoutify.ai/companies/nfq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.lever.co/nfq/a14c60fd-a9db-4629-b4b5-b4dbdf365415) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.lever.co/nfq/9d2497db-979c-40ba-917d-7ec9309e9900) |
 
 ## About This Role
 
-This machine learning engineer position at Nfq was posted on 2026-07-15.
+This machine learning engineer position at Nfq was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

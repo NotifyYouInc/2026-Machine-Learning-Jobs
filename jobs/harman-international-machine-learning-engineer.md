@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Querétaro, Chiapas, Mexico |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Queretaro---Queretaro-Mexico---Avenida-5-de-Febrero/Machine-Learning-Engineer_R-51833-2026) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Machine-Learning-Engineer/31591) |
 
 ## About This Role
 
-This machine learning engineer position at HARMAN International was posted on 2026-05-20.
+This machine learning engineer position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

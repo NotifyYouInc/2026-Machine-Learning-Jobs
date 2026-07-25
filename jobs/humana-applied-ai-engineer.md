@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Boston-MA/Applied-AI-Engineer_R-415616) |
+| Location | 5 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Tower-Hall-Park/Applied-AI-Engineer_R-423090) |
 
 ## About This Role
 
-This machine learning engineer position at Humana was posted on 2026-06-23.
+This ai / llm engineer position at Humana was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

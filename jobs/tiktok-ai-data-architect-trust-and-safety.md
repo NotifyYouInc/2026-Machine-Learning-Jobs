@@ -6,7 +6,7 @@
 | Location | Not specified |
 | Category | Trust & Safety |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7662457372125432069/detail) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7662456524769364229/detail) |
 
 ## About This Role
 

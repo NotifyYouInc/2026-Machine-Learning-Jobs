@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Gen-AI-Engineering-and-Scaled-AI-Transformation_26956816) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Gen-AI-Engineering-and-Scaled-AI-Transformation_26979423) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-04-24.
+This ai / llm engineer position at Citigroup was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

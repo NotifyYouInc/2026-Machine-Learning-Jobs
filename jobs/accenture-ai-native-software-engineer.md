@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Madrid, Madrid, Spain |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London-30-Fenchurch-Street/AI-Native-Software-Engineer_R00336117) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Madrid-Castellana-85/AI-Native-Software-Engineer_R00344612-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-07.
+This software engineer position at Accenture was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

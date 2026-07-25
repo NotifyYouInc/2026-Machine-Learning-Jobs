@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Sr-Analyst---Data-Science_20180558) |
+| Location | India |
+| Category | Data Scientist |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Sr-Analyst---Data-Science_20183706) |
 
 ## About This Role
 
-This machine learning engineer position at Cardinal Health was posted on 2026-05-18.
+This data scientist position at Cardinal Health was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

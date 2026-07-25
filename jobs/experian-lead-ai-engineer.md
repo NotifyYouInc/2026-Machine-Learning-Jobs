@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Engineering Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129825971-lead-ai-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138284319-lead-ai-engineer) |
 
 ## About This Role
 
-This engineering manager position at Experian was posted on 2026-06-02.
+This ai / llm engineer position at Experian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

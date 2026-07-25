@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | New York City, New York, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Agentic-AI-Engineer_SR-39374-1) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Agentic-AI-Engineer_SR-43361-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Fractal was posted on 2026-03-16.
+This ai / llm engineer position at Fractal was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

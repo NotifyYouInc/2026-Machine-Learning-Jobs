@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Principal-Machine-Learning-Engineer_2015058) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Principal-Machine-Learning-Engineer_2019666) |
 
 ## About This Role
 
-This ai / ml research position at Cisco was posted on 2026-05-28.
+This machine learning engineer position at Cisco was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

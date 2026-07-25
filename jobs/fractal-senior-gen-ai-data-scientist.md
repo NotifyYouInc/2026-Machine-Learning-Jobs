@@ -1,16 +1,16 @@
-# Senior GEN AI Data Scientist at Fractal
+# Senior Gen AI Data Scientist at Fractal
 
 | Field | Details |
 |-------|---------|
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | California, US |
-| Category | AI / ML Research |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/California/Senior-GEN-AI-Data-Scientist_SR-39302-1) |
+| Location | New York City, New York, United States |
+| Category | Data Scientist |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Senior-Gen-AI-Data-Scientist_SR-41216-1) |
 
 ## About This Role
 
-This ai / ml research position at Fractal was posted on 2026-04-10.
+This data scientist position at Fractal was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

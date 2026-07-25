@@ -1,16 +1,16 @@
-# Machine Learning Research Engineer at Apple
+# Machine Learning Research Engineer  at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Waterloo, Ontario, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200669466/machine-learning-research-engineer) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200670886/machine-learning-research-engineer) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2026-06-23.
+This ai / ml research position at Apple was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Somerville, Massachusetts, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://careers.formlabs.com/job/7778607/apply/?gh_jid=7778607) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://careers.formlabs.com/job/8072869/apply/?gh_jid=8072869) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Formlabs was posted on 2026-04-03.
+This machine learning engineer position at Formlabs was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

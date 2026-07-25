@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Quality Group GmbH](https://scoutify.ai/companies/the-quality-group-gmbh?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Germany |
-| Category | AI / ML Research |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4894593101) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4931096101) |
 
 ## About This Role
 
-This ai / ml research position at The Quality Group GmbH was posted on 2026-06-18.
+This ai / llm engineer position at The Quality Group GmbH was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

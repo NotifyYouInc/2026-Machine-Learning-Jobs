@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Pasadena, Texas, United States |
 | Category | AI / ML Research |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Pasadena/Biometrics-and-AI-Research-Scientist_R0316082-1) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Pasadena/Biometrics-and-AI-Research-Scientist_R0334471-1) |
 
 ## About This Role
 
-This ai / ml research position at Thales was posted on 2026-02-25.
+This ai / ml research position at Thales was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

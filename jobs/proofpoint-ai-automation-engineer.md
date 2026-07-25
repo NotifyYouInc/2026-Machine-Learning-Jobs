@@ -1,16 +1,16 @@
-# AI & Automation Engineer at Proofpoint
+# AI Automation Engineer at Proofpoint
 
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/India/AI---Automation-Engineer_R13895) |
+| Location | Texas, US |
+| Category | DevOps Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/California/AI-Automation-Engineer_R14484) |
 
 ## About This Role
 
-This ai / llm engineer position at Proofpoint was posted on 2026-03-23.
+This devops engineer position at Proofpoint was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# GCP Vertex AI at Accenture
+# GCP - Vertex AI at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Data-Science-Practitioner_ATCP-1269646-S396656) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/AI---ML-Engineer_ATCP-1442849-S425255) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-05-07.
+This machine learning engineer position at Accenture was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
