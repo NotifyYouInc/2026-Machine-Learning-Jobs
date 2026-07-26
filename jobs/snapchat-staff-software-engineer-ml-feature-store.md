@@ -1,16 +1,16 @@
-# Custom Software Engineer at Accenture
+# Staff Software Engineer, ML Feature Store at Snapchat
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 3 locations |
 | Category | Software Engineer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Custom-Software-Engineer_ATCI-5620319-S2059085-1) |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Bellevue-Washington/Staff-Software-Engineer--ML-Feature-Store_R0046187-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-17.
+This software engineer position at Snapchat was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

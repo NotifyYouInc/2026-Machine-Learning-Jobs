@@ -1,16 +1,16 @@
-# LLM Operations Engineer at Accenture
+# Lead - AI/ML Engineer (Generative AI Agent Systems) at Ollion
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Ollion](https://scoutify.ai/companies/ollion?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/LLM-Operations-Engineer_ATCI-5682601-S2058773-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ollion/744000138022259-lead-aiml-engineer-generative-ai-agent-systems) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-07-16.
+This machine learning engineer position at Ollion was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

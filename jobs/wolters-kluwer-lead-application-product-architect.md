@@ -1,16 +1,16 @@
-# LLM Operations Engineer at Accenture
+# Lead Application & Product Architect at Wolters Kluwer
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/LLM-Operations-Engineer_ATCI-5682601-S2058773-1) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Lead-Application---Product-Architect_R0058146) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-07-16.
+This ai / llm engineer position at Wolters Kluwer was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 
