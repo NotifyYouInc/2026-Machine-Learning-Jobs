@@ -5,12 +5,12 @@
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Graz, Styria, Austria |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000138097669-ai-developer-requirements-service-integration-wmd) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000138298269-ai-developer-requirements-service-integration-wmd) |
 
 ## About This Role
 
-This ai / llm engineer position at Anton Paar was posted on 2026-07-16.
+This ai / llm engineer position at Anton Paar was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

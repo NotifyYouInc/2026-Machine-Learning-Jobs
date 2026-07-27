@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000138133860-applied-gen-ai-engineer) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000138600680-applied-gen-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Devoteam was posted on 2026-07-16.
+This ai / llm engineer position at Devoteam was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

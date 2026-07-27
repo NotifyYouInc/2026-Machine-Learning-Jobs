@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Riga, Riga, Latvia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riga/LLM-GenAI-engineer_R00334535) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riga/LLM-GenAI-engineer_R00344639-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-07-16.
+This ai / llm engineer position at Accenture was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

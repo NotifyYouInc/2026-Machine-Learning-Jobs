@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Austria |
+| Location | Poland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/fc5bea15-6583-4424-b24c-bc58de778bc5) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/30c52b05-1ffd-47da-af91-9373a17310c3) |
 
 ## About This Role
 
-This ai / llm engineer position at Bjak was posted on 2026-07-09.
+This ai / llm engineer position at Bjak was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

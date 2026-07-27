@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pipedrive](https://scoutify.ai/companies/pipedrive?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | AI / ML Research |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.lever.co/pipedrive/0551906c-34ff-4dd8-80c3-26007651b47b) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.lever.co/pipedrive/a6488b4b-c09b-4daa-b7d5-2270335dac35) |
 
 ## About This Role
 
-This ai / ml research position at Pipedrive was posted on 2026-04-16.
+This machine learning engineer position at Pipedrive was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
