@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000138189716-sr-software-engineer-ai-infrastructure) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000138737449-sr-software-engineer-ai-infrastructure) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-07-16.
+This software engineer position at LinkedIn was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mirego](https://scoutify.ai/companies/mirego?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Québec, Quebec, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.lever.co/mirego/b0932e08-aaa0-44bf-8597-7e91c6354b6a) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.lever.co/mirego/8ef2e582-011e-4342-ac32-bd9be85825ce) |
 
 ## About This Role
 
-This ai / llm engineer position at Mirego was posted on 2026-07-09.
+This ai / llm engineer position at Mirego was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

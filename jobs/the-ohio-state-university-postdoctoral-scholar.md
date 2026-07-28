@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Of, Trabzon, Turkey |
+| Location | Columbus, Ohio, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/College-of-MedicineOffice-of-Health-Sciences/Postdoctoral-Scholar_R146257-1) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Postdoctoral-Scholar_R155245) |
 
 ## About This Role
 
-This ai / ml research position at The Ohio State University was posted on 2026-07-16.
+This ai / ml research position at The Ohio State University was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

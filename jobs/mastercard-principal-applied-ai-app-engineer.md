@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | AI / ML Research |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Principal-Applied-AI-App-Engineer_R-277099) |
+| Location | Pune, Maharashtra, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-Applied-AI-App-Engineer_R-282020) |
 
 ## About This Role
 
-This ai / ml research position at Mastercard was posted on 2026-06-16.
+This ai / llm engineer position at Mastercard was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

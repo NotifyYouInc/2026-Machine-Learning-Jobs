@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 20 locations |
-| Category | AI / ML Research |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWpBVBJHneNLneVT04Tfkbpvj3yjnuq_zo-Briopy8sqEjsACxwdTJnzZO4NOOhxdWChZWpoCAggMqD_OPCjbchHwcsy2_RZrlV-xm1bSgpZ_Zw43gBLJ2afOr1rZA%3D%3D_V2&loc=US&title=Forward+Deployed+Engineer+III) |
+| Location | 7 locations |
+| Category | Forward Deployed Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbOEpLhAHRBN66JNNrzlH-gQbq1Hd9Fbk-YhKs-QGmwJEjsA1Ny_i4sXYPzd0TlcUSLIjyvJYS0Cl2h53-DLHB0LJVe_pU0V7rikvE3JUAUwCMtymIMCt1xUzhaSMQ%3D%3D_V2&loc=US&title=Forward+Deployed+Engineer+III) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-05-21.
+This forward deployed engineer position at Google was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

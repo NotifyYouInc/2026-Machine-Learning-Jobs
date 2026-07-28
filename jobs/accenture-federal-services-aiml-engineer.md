@@ -5,12 +5,12 @@
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4681392006?gh_jid=4681392006) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4674621006?gh_jid=4674621006) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture Federal Services was posted on 2026-05-15.
+This machine learning engineer position at Accenture Federal Services was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

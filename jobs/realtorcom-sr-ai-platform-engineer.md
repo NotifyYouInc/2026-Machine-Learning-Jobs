@@ -5,12 +5,12 @@
 | Company | [Realtor.com](https://scoutify.ai/companies/rdccareers?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Austin, Texas, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/rdccareers/jobs/7748313003?gh_jid=7748313003) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/rdccareers/jobs/7808378003?gh_jid=7808378003) |
 
 ## About This Role
 
-This ai / llm engineer position at Realtor.com was posted on 2026-06-02.
+This ai / llm engineer position at Realtor.com was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

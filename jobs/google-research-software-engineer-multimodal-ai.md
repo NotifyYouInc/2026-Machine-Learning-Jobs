@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckfz7UU4NUJe3rhaqDG2EFYCvQCKMW7xBMFy3hesD_J0pEjsA1Ny_i3naA8k3YMkka1pU_NJ1z0ixIFnWCFy0on84qcYu2lG9y4HLo1M_REhgELOvvId4dFyfTDvNDA%3D%3D_V2&loc=US&title=Research+Software+Engineer) |
+| Category | Software Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTj-Ko-RGlPK1XxKKW0zWYkfg8m9HgwvTNHuaV4Obh1tEjsA1Ny_i1T7Tspoh2tT9ujCyI0B5kX5If8sdvY9iZKw3hGRjZRs5TCTFgeB5LOHQQ_asobDoi-3IoeG3w%3D%3D_V2&loc=US&title=Research+Software+Engineer) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-06-16.
+This software engineer position at Google was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

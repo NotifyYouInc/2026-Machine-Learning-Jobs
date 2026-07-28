@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Traba](https://scoutify.ai/companies/traba?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/traba/515a639c-cea8-4fef-a59f-cc6e0ea4a7cb) |
+| Category | Software Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/traba/3479b52b-adf4-4fb0-a8dc-d762330413b1) |
 
 ## About This Role
 
-This ai / llm engineer position at Traba was posted on 2026-05-26.
+This software engineer position at Traba was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

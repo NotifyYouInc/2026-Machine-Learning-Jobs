@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb4QRzzgdlW1ZKaDzbRtkugaAMCIxfR-FFQt9mQssaImEjsA1Ny_i7SPo_L_EyRcMYlWIkghQ0O0E5CEyAyJ0AgH-curx7ivN8TmV3sWvhOBC-qBfwmQTGyAGoq4dA%3D%3D_V2&loc=US&title=Photonic+Engineer) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUIl3ynKBOowTiLf1VSR6ybu_997jbmWMOnmTFf1qM2PEjsA1Ny_ix_NZq8JSaHNngz8yUruJxJmuhR7euCr5ZvrE1AHVq7c22r9gER7MP4TW6z9weE_zM7W8rSZFQ%3D%3D_V2&loc=US&title=Photonic+Engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Google was posted on 2026-06-18.
+This electrical / hardware engineer position at Google was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

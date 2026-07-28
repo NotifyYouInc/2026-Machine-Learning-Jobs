@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Air New Zealand](https://scoutify.ai/companies/air-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Auckland, Auckland, New Zealand |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001213447-senior-applied-ai-specialist-ai-enablement) |
+| Category | Data Scientist |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001247284-senior-applied-ai-specialist-ai-enablement) |
 
 ## About This Role
 
-This ai / llm engineer position at Air New Zealand was posted on 2026-07-07.
+This data scientist position at Air New Zealand was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

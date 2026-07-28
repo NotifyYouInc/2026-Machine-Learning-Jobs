@@ -5,12 +5,12 @@
 | Company | [Twelve Labs](https://scoutify.ai/companies/twelve-labs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/twelve-labs/8cc39c5c-19ce-47f5-92d2-2a816c103454) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/twelve-labs/8ad28030-3654-4793-a7e1-25611e29fbd0) |
 
 ## About This Role
 
-This ai / llm engineer position at Twelve Labs was posted on 2026-07-08.
+This ai / llm engineer position at Twelve Labs was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

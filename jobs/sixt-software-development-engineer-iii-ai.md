@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000138310758-software-development-engineer-iii-ai) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000138616412-software-development-engineer-iii-ai) |
 
 ## About This Role
 
-This software engineer position at Sixt was posted on 2026-07-17.
+This software engineer position at Sixt was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [42dot](https://scoutify.ai/companies/42dot?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | South Korea |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/1854a4cd-c930-4e58-a552-879fa8ad1ad3) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/7510f63c-f488-448f-8eb2-5610cab0bf2f) |
 
 ## About This Role
 
-This ai / llm engineer position at 42dot was posted on 2026-06-23.
+This ai / llm engineer position at 42dot was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

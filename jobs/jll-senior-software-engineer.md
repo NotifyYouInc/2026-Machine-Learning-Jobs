@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/TEL-AVIV-ISR/Senior-Software-Engineer_REQ506845) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Software-Engineer_REQ493740) |
 
 ## About This Role
 
-This ai / llm engineer position at JLL was posted on 2026-05-20.
+This software engineer position at JLL was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

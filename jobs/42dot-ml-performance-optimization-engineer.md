@@ -5,12 +5,12 @@
 | Company | [42dot](https://scoutify.ai/companies/42dot?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | South Korea |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/67df1008-1973-4af6-8eeb-b2dd38d68366) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/fe4fa5a3-a230-4740-8e86-886fc01ae649) |
 
 ## About This Role
 
-This machine learning engineer position at 42dot was posted on 2026-05-29.
+This machine learning engineer position at 42dot was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | Gaithersburg, Maryland, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Waltham---MA/Principal-AI-Engineer---Evinova_R-246344) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Principal-AI-Engineer---Evinova_R-256718) |
 
 ## About This Role
 
-This ai / llm engineer position at AstraZeneca was posted on 2026-07-17.
+This ai / llm engineer position at AstraZeneca was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

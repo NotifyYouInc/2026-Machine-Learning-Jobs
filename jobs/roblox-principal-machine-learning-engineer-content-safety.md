@@ -5,12 +5,12 @@
 | Company | [Roblox](https://scoutify.ai/companies/roblox?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Mateo, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://careers.roblox.com/jobs/7617984?gh_jid=7617984) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://careers.roblox.com/jobs/8073283?gh_jid=8073283) |
 
 ## About This Role
 
-This machine learning engineer position at Roblox was posted on 2026-06-26.
+This machine learning engineer position at Roblox was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

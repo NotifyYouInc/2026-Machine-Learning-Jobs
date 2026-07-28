@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Engineering Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000136810279-engineering-manager-ai-engineering-ai-platform-mfx) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000138630895-engineering-manager-ai-engineering-ai-platform-mfx) |
 
 ## About This Role
 
-This engineering manager position at Scalable Capital was posted on 2026-07-09.
+This engineering manager position at Scalable Capital was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

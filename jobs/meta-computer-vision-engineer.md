@@ -5,12 +5,12 @@
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Burlingame, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1022731560493211) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2217435789114342) |
 
 ## About This Role
 
-This machine learning engineer position at Meta was posted on 2026-07-09.
+This machine learning engineer position at Meta was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [42dot](https://scoutify.ai/companies/42dot?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | South Korea |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/44a90406-9eef-495b-b994-c28a64e2be83) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/4e0a3e0c-ad0e-47e2-b937-cdc9633fd52b) |
 
 ## About This Role
 
-This machine learning engineer position at 42dot was posted on 2026-04-29.
+This machine learning engineer position at 42dot was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

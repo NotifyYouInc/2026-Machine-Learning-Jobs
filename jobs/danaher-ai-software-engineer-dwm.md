@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Mannheim-Germany/AI-Software-Engineer--d-w-m-_R1312382) |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Mannheim-Germany/AI-Software-Engineer--d-w-m-_R1315479-1) |
 
 ## About This Role
 
-This ai / ml research position at Danaher was posted on 2026-06-02.
+This software engineer position at Danaher was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United Kingdom |
+| Location | Houston, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/Senior-Machine-Learning-Engineer_RQ113368-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Texas---Houston/Senior-Machine-Learning-Engineer_RQ113363) |
 
 ## About This Role
 
-This machine learning engineer position at BP was posted on 2026-07-17.
+This machine learning engineer position at BP was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

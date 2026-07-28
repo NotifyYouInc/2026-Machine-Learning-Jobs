@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Atlanta---One-Atlantic-Center/Generative-AI-Engineer_J00174708) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Atlanta---One-Atlantic-Center/Generative-AI-Engineer_J00178092) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-02-10.
+This ai / llm engineer position at Equifax was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

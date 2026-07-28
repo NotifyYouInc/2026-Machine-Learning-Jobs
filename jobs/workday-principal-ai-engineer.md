@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | 4 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Czech-Republic-Prague/Principal-AI-Engineer_JR-0108372) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Principal-AI-Engineer_JR-0108761) |
 
 ## About This Role
 
-This ai / llm engineer position at Workday was posted on 2026-07-16.
+This ai / llm engineer position at Workday was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

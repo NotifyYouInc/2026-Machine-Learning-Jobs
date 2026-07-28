@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Location | London, England, United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Controllable-Video-Generation-Researcher_R107811-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Controllable-Video-Generation-Researcher_R107820) |
 
 ## About This Role
 
-This ai / ml research position at Tencent was posted on 2026-07-17.
+This ai / ml research position at Tencent was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

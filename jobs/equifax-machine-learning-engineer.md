@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-ID-Boise/Machine-Learning-Engineer_J00177354-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Atlanta---One-Atlantic-Center/Machine-Learning-Engineer_J00178091) |
 
 ## About This Role
 
-This machine learning engineer position at Equifax was posted on 2026-06-01.
+This machine learning engineer position at Equifax was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

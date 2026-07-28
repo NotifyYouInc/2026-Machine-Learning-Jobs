@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Staff-Machine-Learning-Engineer--Adobe-Firefly-Services_R167971) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Sr-Staff-Machine-Learning-Engineer--Adobe-Firefly-Services_R170600) |
 
 ## About This Role
 
-This machine learning engineer position at Adobe was posted on 2026-04-21.
+This machine learning engineer position at Adobe was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
