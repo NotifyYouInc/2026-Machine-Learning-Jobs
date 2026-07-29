@@ -5,12 +5,12 @@
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Principal-Engineer---Agentic-AI_26WD99802) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Principal-Engineer---Agentic-AI_26WD99827) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-07-13.
+This software engineer position at Autodesk was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

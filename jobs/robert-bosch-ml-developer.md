@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127644064-ml-developer) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138989350-ml-developer) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-05-21.
+This machine learning engineer position at Robert Bosch was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

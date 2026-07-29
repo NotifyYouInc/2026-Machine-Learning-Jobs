@@ -5,12 +5,12 @@
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Centreville-VA/Machine-Learning-Engineer-II_7798) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Centreville-VA/Machine-Learning-Engineer-II_8124) |
 
 ## About This Role
 
-This machine learning engineer position at AeroVironment was posted on 2026-05-21.
+This machine learning engineer position at AeroVironment was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

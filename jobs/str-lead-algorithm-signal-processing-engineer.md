@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [STR](https://scoutify.ai/companies/systemstechnologyresearch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Woburn, Massachusetts, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4678688006) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4698683006) |
 
 ## About This Role
 
-This ai / ml research position at STR was posted on 2026-05-05.
+This machine learning engineer position at STR was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

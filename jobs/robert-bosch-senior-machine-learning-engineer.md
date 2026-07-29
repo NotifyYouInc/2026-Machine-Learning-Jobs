@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116322777-senior-machine-learning-engineer) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138991429-senior-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-03-24.
+This machine learning engineer position at Robert Bosch was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

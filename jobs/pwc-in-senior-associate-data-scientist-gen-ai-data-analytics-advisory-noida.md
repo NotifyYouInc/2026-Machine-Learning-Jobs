@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-Data-Scientist-Gen-AI-Data---Analytics-Advisory-PAN-India_716850WD-1) |
+| Category | Data Scientist |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-Data-Analytics-Data-Analytics--Advisory--Mumbai_717200WD-1) |
 
 ## About This Role
 
-This machine learning engineer position at PwC was posted on 2026-05-18.
+This data scientist position at PwC was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

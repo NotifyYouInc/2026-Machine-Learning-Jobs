@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Location | Budapest, Budapest, Hungary |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Lead-AI-Engineer_R-282764) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Budapest-Hungary/Lead-AI-Engineer_R-282262) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-07-17.
+This ai / llm engineer position at Mastercard was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

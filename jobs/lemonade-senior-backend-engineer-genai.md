@@ -1,0 +1,22 @@
+# Senior Backend Engineer, GenAI at Lemonade
+
+| Field | Details |
+|-------|---------|
+| Company | [Lemonade](https://scoutify.ai/companies/lemonade?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lemonade/884a4cfa-c36f-4a7b-befc-60a674229254) |
+
+## About This Role
+
+This software engineer position at Lemonade was posted on 2026-07-21.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

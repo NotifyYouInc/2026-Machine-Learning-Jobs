@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASI](https://scoutify.ai/companies/asi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Nantes, Pays de la Loire, France |
+| Location | Rennes, Brittany, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000138656823-developpeur-ia-generative-confirme-hf-rag-agents-ia-industrialisation-llmops) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000138831984-developpeur-ia-generative-confirme-hf-rag-agents-ia-industrialisation-llmops) |
 
 ## About This Role
 
-This ai / llm engineer position at ASI was posted on 2026-07-20.
+This ai / llm engineer position at ASI was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

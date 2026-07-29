@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Maryland, US |
+| Location | Arlington, Texas, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/Agentic-AI-Engineer_R0244598) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Agentic-AI-Engineer_R0244896) |
 
 ## About This Role
 
-This ai / llm engineer position at Booz Allen was posted on 2026-07-16.
+This ai / llm engineer position at Booz Allen was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

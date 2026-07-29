@@ -5,12 +5,12 @@
 | Company | [Trucordia](https://scoutify.ai/companies/trucordia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lindon, Utah, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trucordia1/3743990014092396-senior-full-stack-engineer-ai-platforms) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trucordia1/3743990014202316-senior-full-stack-engineer-ai-platforms) |
 
 ## About This Role
 
-This software engineer position at Trucordia was posted on 2026-07-14.
+This software engineer position at Trucordia was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

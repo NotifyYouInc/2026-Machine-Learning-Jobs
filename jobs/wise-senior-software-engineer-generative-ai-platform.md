@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000133334499-senior-software-engineer-generative-ai-platform) |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138827839-senior-software-engineer-generative-ai-platform) |
 
 ## About This Role
 
-This ai / llm engineer position at WISE was posted on 2026-06-22.
+This software engineer position at WISE was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

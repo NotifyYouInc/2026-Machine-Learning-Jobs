@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000136062760-genai-solution-tool-integration) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138993688-genai-solution-tool-integration) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-07-06.
+This ai / llm engineer position at Robert Bosch was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

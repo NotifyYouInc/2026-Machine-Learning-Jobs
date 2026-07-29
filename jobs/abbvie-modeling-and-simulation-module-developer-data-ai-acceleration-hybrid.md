@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Florham Park, New Jersey, United States |
+| Location | South San Francisco, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014064756-modeling-and-simulation-module-developer-data-ai-acceleration-hybrid) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014199436-modeling-and-simulation-module-developer-data-ai-acceleration-hybrid) |
 
 ## About This Role
 
-This machine learning engineer position at AbbVie was posted on 2026-07-13.
+This machine learning engineer position at AbbVie was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

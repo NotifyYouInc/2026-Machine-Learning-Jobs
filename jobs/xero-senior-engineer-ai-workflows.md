@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | British Columbia, CA |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/xero/207b3ed7-594a-4fde-acb9-0d215d18c989) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/xero/67b8fc53-cac6-48fa-98d8-af27ab75fec2) |
 
 ## About This Role
 
-This ai / llm engineer position at Xero was posted on 2026-05-06.
+This ai / llm engineer position at Xero was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

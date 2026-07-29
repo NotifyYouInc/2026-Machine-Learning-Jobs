@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6118814004) |
+| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6121243004) |
 
 ## About This Role
 
-This ai / llm engineer position at BTG Pactual was posted on 2026-07-17.
+This machine learning engineer position at BTG Pactual was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

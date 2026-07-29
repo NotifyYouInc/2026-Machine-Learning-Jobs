@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135575679-senior-ml-engineer-ai-platform) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000138897839-senior-ml-engineer-ai-platform) |
 
 ## About This Role
 
-This machine learning engineer position at Versant was posted on 2026-07-02.
+This machine learning engineer position at Versant was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

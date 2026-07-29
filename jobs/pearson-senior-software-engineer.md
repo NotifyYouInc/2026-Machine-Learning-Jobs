@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pearson](https://scoutify.ai/companies/em3-cx-oj82828?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sri Lanka |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#23589) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#25030) |
 
 ## About This Role
 
-This software engineer position at Pearson was posted on 2026-04-17.
+This software engineer position at Pearson was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

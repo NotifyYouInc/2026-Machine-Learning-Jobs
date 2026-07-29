@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Cyprus |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4919748101) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4933511101) |
 
 ## About This Role
 
-This ai / llm engineer position at Fever was posted on 2026-07-06.
+This ai / llm engineer position at Fever was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

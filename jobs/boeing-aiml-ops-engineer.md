@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/KOR---Seoul-South-Korea/AI-ML-Ops-Engineer_JR2026505803-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/KOR---Seoul-South-Korea/AI-ML-Ops-Engineer_JR2026519429-1) |
 
 ## About This Role
 
-This devops engineer position at Boeing was posted on 2026-04-15.
+This machine learning engineer position at Boeing was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

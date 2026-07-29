@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Artifical-Intelligence-Engineer--Portfolio-Management-Group--Vice-President_R258180) |
+| Location | Gurugram, Haryana, India |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Gurugram-India/Artificial-Intelligence-Engineer--Portfolio-Management-Group--Vice-President_R265233) |
 
 ## About This Role
 
-This ai / ml research position at Blackrock was posted on 2026-04-30.
+This asset management / portfolio management position at Blackrock was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

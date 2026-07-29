@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Scientist |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Prague/AI-ML-Computational-Scientist_R00344135) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Madrid-Castellana-85/AI-ML-Computational-Scientist_R00345596-1) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-07-16.
+This data scientist position at Accenture was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7908876) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7908903) |
 
 ## About This Role
 
-This ai / llm engineer position at Capco was posted on 2026-05-08.
+This ai / llm engineer position at Capco was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

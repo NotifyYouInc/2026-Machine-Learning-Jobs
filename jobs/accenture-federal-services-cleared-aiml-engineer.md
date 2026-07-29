@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4681293006?gh_jid=4681293006) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4698777006?gh_jid=4698777006) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture Federal Services was posted on 2026-05-13.
+This machine learning engineer position at Accenture Federal Services was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

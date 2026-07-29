@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132242789-devops-mlops-python-developer) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138993768-devops-mlops-python-developer) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-06-15.
+This devops engineer position at Robert Bosch was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

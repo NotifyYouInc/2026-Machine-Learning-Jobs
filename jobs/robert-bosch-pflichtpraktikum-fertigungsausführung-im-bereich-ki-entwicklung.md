@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bühl, Baden-Wurttemberg, Germany |
-| Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128701840-pflichtpraktikum-fertigungsausfuhrung-im-bereich-ki-entwicklung) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138856069-pflichtpraktikum-fertigungsausfuhrung-im-bereich-ki-entwicklung) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-05-27.
+This machine learning engineer position at Robert Bosch was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

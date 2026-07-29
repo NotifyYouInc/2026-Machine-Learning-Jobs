@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Madrid/Senior-AI---ML-Engineer---Generative-AI_14371085-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Madrid-Torre-Chamartin/Senior-AI---ML-Engineer---Generative-AI_R00345765) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-05-11.
+This machine learning engineer position at Accenture was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

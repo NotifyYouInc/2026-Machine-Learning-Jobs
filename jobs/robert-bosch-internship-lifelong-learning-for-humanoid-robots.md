@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hildesheim, Lower Saxony, Germany |
-| Category | Robotics Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129944629-internship-lifelong-learning-for-humanoid-robots) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138831255-internship-lifelong-learning-for-humanoid-robots) |
 
 ## About This Role
 
-This robotics engineer position at Robert Bosch was posted on 2026-06-03.
+This machine learning engineer position at Robert Bosch was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
