@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AvePoint](https://scoutify.ai/companies/avepoint?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Jersey City, New Jersey, United States |
 | Category | Forward Deployed Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://www.avepoint.com/careers/job-detail?gh_jid=8064337) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://www.avepoint.com/careers/job-detail?gh_jid=8070487) |
 
 ## About This Role
 
-This forward deployed engineer position at AvePoint was posted on 2026-07-15.
+This forward deployed engineer position at AvePoint was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

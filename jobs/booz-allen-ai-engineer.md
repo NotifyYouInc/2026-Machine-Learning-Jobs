@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Washington, District of Columbia, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-Engineer_R0244056) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-Engineer_R0244899) |
 
 ## About This Role
 
-This ai / llm engineer position at Booz Allen was posted on 2026-07-09.
+This ai / llm engineer position at Booz Allen was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

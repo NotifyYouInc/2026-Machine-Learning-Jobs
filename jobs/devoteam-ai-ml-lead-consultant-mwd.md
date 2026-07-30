@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bavaria, DE |
-| Category | AI / ML Research |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000130760740-ai-ml-lead-consultant-mwd) |
+| Location | Germany |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000139060990-ai-ml-lead-consultant-mwd) |
 
 ## About This Role
 
-This ai / ml research position at Devoteam was posted on 2026-06-08.
+This technology / it consulting position at Devoteam was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal / Sr Principal AI Software Engineer at Northrop Grumman
+# Principal / Sr. Principal AI Software Engineer at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Warner Robins, Georgia, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/Principal---Sr-Principal-AI-Software-Engineer_R10237065) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Principal---Sr-Principal-AI-Software-Engineer_R10241470) |
 
 ## About This Role
 
-This ai / ml research position at Northrop Grumman was posted on 2026-06-19.
+This software engineer position at Northrop Grumman was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

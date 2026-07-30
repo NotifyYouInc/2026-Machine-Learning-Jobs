@@ -1,16 +1,16 @@
-# Intermediate Machine Learning Engineer - BEES Data at AB InBev  | Growth Group
+# Intermediate Machine Learning Engineer - Bees Data  at AB InBev  | Growth Group
 
 | Field | Details |
 |-------|---------|
 | Company | [AB InBev  | Growth Group](https://scoutify.ai/companies/ab-inbev-growth-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Campinas, São Paulo, Brazil |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/abinbev/jobs/8564625002) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/abinbev/jobs/8645026002) |
 
 ## About This Role
 
-This machine learning engineer position at AB InBev  | Growth Group was posted on 2026-06-12.
+This machine learning engineer position at AB InBev  | Growth Group was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

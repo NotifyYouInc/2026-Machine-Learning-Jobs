@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/fc038666-be6f-4365-be8d-fb46e520473d) |
+| Location | New York City, New York, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/879d9051-0f20-4fcf-8e73-7293044dd7a2) |
 
 ## About This Role
 
-This ai / llm engineer position at Harvey was posted on 2026-05-01.
+This software engineer position at Harvey was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

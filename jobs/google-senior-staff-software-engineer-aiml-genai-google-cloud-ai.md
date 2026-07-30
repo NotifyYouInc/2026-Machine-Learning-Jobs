@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ124XAuOv9FKZKKo11d9_TOH8nMIleuTMsrYIn4lI4aEjsAbDj5iLKdhNItwN_4unE4GbUo7i_LkFWX9LYE9EpRssp4IyW0KH7CIkJp-verMSY2Se405__Bpv-Z-Q%3D%3D_V2&loc=US&title=Senior+Staff+Software+Engineer) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZDIAbc8jnwPgz-pk4LTWEcCfor5FKU6ZxNJAGwr4g4hEjsA1Ny_iyd30weZkw-n8qOavqt3V8ujEgJr-DlrQADgeqMKSnRodKRdXGthoopV5dX7_MgqyNWLmWMuwQ%3D%3D_V2&loc=US&title=Senior+Staff+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-04-22.
+This software engineer position at Google was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

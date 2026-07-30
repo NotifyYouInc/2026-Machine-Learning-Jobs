@@ -5,12 +5,12 @@
 | Company | [LLNL](https://scoutify.ai/companies/llnl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Livermore, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990013328272-machine-learning-software-developer) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990014236786-machine-learning-software-developer) |
 
 ## About This Role
 
-This software engineer position at LLNL was posted on 2026-05-27.
+This software engineer position at LLNL was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# AI SWE / Agentic Handover Senior Engineer for T- Cloud Public (m/f/d) at Deutsche Telekom IT Solutions Slovakia
+# AI SWE / Agentic Handover Senior Engineer for T Cloud Public (m/f/d) at Deutsche Telekom IT Solutions Slovakia
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Košice, Košice Region, Slovakia |
 | Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000136829715-ai-swe-agentic-handover-senior-engineer-for-t-cloud-public-mfd) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000139048675-ai-swe-agentic-handover-senior-engineer-for-t-cloud-public-mfd) |
 
 ## About This Role
 
-This software engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-07-09.
+This software engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

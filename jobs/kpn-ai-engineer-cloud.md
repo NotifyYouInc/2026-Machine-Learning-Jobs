@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000138365274-ai-engineer-cloud) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000139034899-ai-engineer-cloud) |
 
 ## About This Role
 
-This ai / llm engineer position at KPN was posted on 2026-07-17.
+This ai / llm engineer position at KPN was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

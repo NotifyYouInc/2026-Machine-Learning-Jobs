@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8568694002) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8431120002) |
 
 ## About This Role
 
-This machine learning engineer position at Wayve was posted on 2026-05-28.
+This machine learning engineer position at Wayve was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

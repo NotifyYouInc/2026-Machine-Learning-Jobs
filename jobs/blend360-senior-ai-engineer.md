@@ -6,7 +6,7 @@
 | Location | Montevideo, Montevideo Department, Uruguay |
 | Category | AI / LLM Engineer |
 | Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000138874241-senior-ai-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000138955309-senior-ai-engineer) |
 
 ## About This Role
 

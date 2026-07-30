@@ -5,12 +5,12 @@
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/Senior-Application-Engineer---AI_JR_14986) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/Senior-Application-Engineer---AI_JR_14968) |
 
 ## About This Role
 
-This software engineer position at Guidewire Software was posted on 2026-07-10.
+This software engineer position at Guidewire Software was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

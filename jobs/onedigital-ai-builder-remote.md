@@ -5,12 +5,12 @@
 | Company | [OneDigital](https://scoutify.ai/companies/onedigital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://onedigital.wd5.myworkdayjobs.com/onedigital/job/Remote/AI-Builder---Remote_R9171-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://onedigital.wd5.myworkdayjobs.com/onedigital/job/Remote/AI-Builder---Remote_R9183-1) |
 
 ## About This Role
 
-This ai / llm engineer position at OneDigital was posted on 2026-07-16.
+This ai / llm engineer position at OneDigital was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
