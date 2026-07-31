@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | El Paso, Texas, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/El-Paso-Texas/Planning---Optimization-Engineer-II-III_00021470-1) |
+| Location | Paul, Idaho, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/St-Paul-Park-Minnesota/Planning---Optimization-Engineer-II-III_00023012) |
 
 ## About This Role
 
-This engineering manager position at Marathon Petroleum was posted on 2026-04-10.
+This machine learning engineer position at Marathon Petroleum was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

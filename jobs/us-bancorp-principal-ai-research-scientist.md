@@ -5,12 +5,12 @@
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 5 locations |
 | Category | AI / ML Research |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Principal-AI-Research-Scientist_2026-0017701) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Principal-AI-Research-Scientist_2026-0021867) |
 
 ## About This Role
 
-This ai / ml research position at U.S. Bancorp was posted on 2026-07-07.
+This ai / ml research position at U.S. Bancorp was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

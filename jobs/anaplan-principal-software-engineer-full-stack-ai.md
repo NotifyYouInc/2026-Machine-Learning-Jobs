@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | York, England, United Kingdom |
 | Category | Software Engineer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8636258002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8645095002) |
 
 ## About This Role
 

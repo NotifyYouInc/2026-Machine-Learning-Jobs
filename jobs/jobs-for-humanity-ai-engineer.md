@@ -5,12 +5,12 @@
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Beirut, Beyrouth, Lebanon |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000139060086-ai-engineer) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000139253201-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Jobs for Humanity was posted on 2026-07-22.
+This ai / llm engineer position at Jobs for Humanity was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

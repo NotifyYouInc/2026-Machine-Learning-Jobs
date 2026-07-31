@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gotion, Inc.](https://scoutify.ai/companies/gotion-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Manteno, Illinois, United States |
+| Location | Fremont, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gotion/jobs/8282660002) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gotion/jobs/8648163002) |
 
 ## About This Role
 
-This machine learning engineer position at Gotion, Inc. was posted on 2026-06-11.
+This machine learning engineer position at Gotion, Inc. was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

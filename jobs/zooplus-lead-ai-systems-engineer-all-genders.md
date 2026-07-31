@@ -5,12 +5,12 @@
 | Company | [Zooplus](https://scoutify.ai/companies/zooplusse?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ZooplusSE/744000134316499-lead-ai-systems-engineer-all-genders) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ZooplusSE/744000139528074-lead-ai-systems-engineer-all-genders) |
 
 ## About This Role
 
-This ai / llm engineer position at Zooplus was posted on 2026-06-25.
+This ai / llm engineer position at Zooplus was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

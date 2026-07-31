@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10406954/sr-applied-scientist-prime-video-personalization-and-discovery-science) |
+| Category | Data Scientist |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10483296/sr-applied-scientist-prime-video-personalization-and-discovery-science) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-04-29.
+This data scientist position at Amazon was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

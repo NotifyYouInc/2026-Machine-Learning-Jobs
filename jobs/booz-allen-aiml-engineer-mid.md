@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Dayton-OH/AI-ML-Engineer--Mid_R0243806) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/AI-ML-Engineer--Mid_R0245169) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-07-06.
+This machine learning engineer position at Booz Allen was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

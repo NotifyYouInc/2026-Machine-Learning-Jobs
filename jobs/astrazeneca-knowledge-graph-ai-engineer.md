@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/Knowledge-Graph---AI-Engineer_R-256374-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Mexico---Guadalajara/Knowledge-Graph---AI-Engineer_R-256991) |
 
 ## About This Role
 
-This ai / llm engineer position at AstraZeneca was posted on 2026-07-14.
+This ai / llm engineer position at AstraZeneca was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

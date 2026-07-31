@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Provectus](https://scoutify.ai/companies/provectus?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New Jersey, US |
+| Location | Medellín, Antioquia, Colombia |
 | Category | Forward Deployed Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.lever.co/provectus/9d4bc274-7c63-417a-a814-e2f637a6eee9) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.lever.co/provectus/953ce730-ae0a-45cc-93d3-cba7f23fec64) |
 
 ## About This Role
 
-This forward deployed engineer position at Provectus was posted on 2026-07-21.
+This forward deployed engineer position at Provectus was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

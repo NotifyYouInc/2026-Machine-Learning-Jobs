@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/AI-Engineer_38812) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/AI-Engineer_41799) |
 
 ## About This Role
 
-This ai / llm engineer position at Guidehouse was posted on 2026-04-22.
+This ai / llm engineer position at Guidehouse was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

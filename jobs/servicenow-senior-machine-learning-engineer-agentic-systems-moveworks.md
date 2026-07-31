@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000137759960-senior-machine-learning-engineer-agentic-systems-moveworks) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139369551-senior-machine-learning-engineer-agentic-systems-moveworks) |
 
 ## About This Role
 
-This machine learning engineer position at ServiceNow was posted on 2026-07-14.
+This machine learning engineer position at ServiceNow was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Colliers International UK](https://scoutify.ai/companies/colliersinternationaluk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Poland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000135961270-ai-engineer-global-based-in-poland) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000139315027-ai-engineer-global-based-in-poland) |
 
 ## About This Role
 
-This ai / llm engineer position at Colliers International UK was posted on 2026-07-06.
+This ai / llm engineer position at Colliers International UK was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

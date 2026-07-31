@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000134357159-machine-learning-engineer-agentic-application) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139370964-machine-learning-engineer-agentic-application) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-06-26.
+This machine learning engineer position at ServiceNow was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | London, England, United Kingdom |
 | Category | AI / ML Research |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYYtQY6irMNl6UMrEAMYdXUOw3vbcykf7Q226kNm_GFlEjsA1Ny_i_Cbx3w2-0GtnCv6DR9NgaT5bSbmIhmPwtzpB5TrJ6VZLorGNqSoTwY6RLRdb4iRZQGgf-DMZw%3D%3D_V2&loc=US&title=Research+Engineer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU7etcL4OiSDtcDvk6SERZXKUHm3aeSTpb96ySfZasPPEjoA1Ny_i0ZR9ngWiJQUL0DnuSbgBoxhNrtYaiKyqGgT_Kh6hobeWdDz76X6dOgxCKh4uBRTPNI06hJp_V2&loc=GB&title=Research+Engineer) |
 
 ## About This Role
 

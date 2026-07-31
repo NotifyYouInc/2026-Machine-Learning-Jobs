@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | York, Pennsylvania, United States |
+| Location | 4 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-230-Park-Avenue-South/Senior-Machine-Learning-Engineer_R000106524) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/CA-San-Francisco-153-Kearny-Street/Senior-Machine-Learning-Engineer_R000107057) |
 
 ## About This Role
 
-This machine learning engineer position at Warner Bros Discovery was posted on 2026-07-15.
+This machine learning engineer position at Warner Bros Discovery was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

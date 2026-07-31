@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Dallas-Infomart-Office-DAI/Principal-Engineer--Product-Software_JR-158179) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/London/Principal-Engineer--Product-Software_JR-162356) |
 
 ## About This Role
 
-This technical & solutions architect position at Equinix was posted on 2026-02-05.
+This software engineer position at Equinix was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

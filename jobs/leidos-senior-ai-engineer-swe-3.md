@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Maryland, US |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Linthicum-Heights-MD/Senior-AI-Engineer--SWE-3-_R-00178053-1) |
+| Category | Software Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Linthicum-Heights-MD/Senior-AI-Engineer--SWE-3-_R-00187963) |
 
 ## About This Role
 
-This ai / llm engineer position at Leidos was posted on 2026-03-11.
+This software engineer position at Leidos was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

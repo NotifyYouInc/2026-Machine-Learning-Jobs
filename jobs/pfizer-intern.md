@@ -5,12 +5,12 @@
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Intern_4959825) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Intern_4961020) |
 
 ## About This Role
 
-This machine learning engineer position at Pfizer was posted on 2026-06-24.
+This machine learning engineer position at Pfizer was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

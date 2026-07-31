@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Switzerland |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Switzerland---Geneva/Machine-Learning-Scientist-III_R-106534) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Machine-Learning-Scientist-III_R-107837-1) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-06-04.
+This machine learning engineer position at Expedia was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

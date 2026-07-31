@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zooplus](https://scoutify.ai/companies/zooplusse?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Madrid, Madrid, Spain |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ZooplusSE/744000134979342-senior-ai-engineer-all-genders) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ZooplusSE/744000139258359-senior-ai-engineer-all-genders) |
 
 ## About This Role
 
-This ai / llm engineer position at Zooplus was posted on 2026-06-30.
+This ai / llm engineer position at Zooplus was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
