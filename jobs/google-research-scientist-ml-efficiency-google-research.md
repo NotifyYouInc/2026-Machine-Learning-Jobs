@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / ML Research |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfvHca-lv2bDXygZe06sZaFh3Wevohu2PJzTMjSGoqzzEjsACxwdTGkEaOgCOdK_myPgQLf3VHKP1ZBIwGwRjP1oVLwxNGwU8OCQ0cunf4tV4NehUG_pjeUOKS1jhw%3D%3D_V2&loc=SG&title=Research+Scientist) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckf-3BSK_eCHSbhemagIRcU18vGZfskJ8l0pJy_cUYpNLEjsA1Ny_i4ut0wJRX8KXW99uP_BOPG8fRCJg4KIdY4cDnAgtCNVfPkIu1YKnDPzWj8UiJ5o6DR7fe6E8aw%3D%3D_V2&loc=SG&title=Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-05-12.
+This ai / ml research position at Google was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

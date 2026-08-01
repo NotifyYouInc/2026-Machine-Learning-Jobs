@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boise, Idaho, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Senior-or-Staff-Engineer---Advanced-Modeling---AI-Solutions_JR103107-1) |
+| Category | Software Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Senior-or-Staff-Engineer---Advanced-Modeling---AI-Solutions_JR106350) |
 
 ## About This Role
 
-This ai / ml research position at Micron was posted on 2026-06-08.
+This software engineer position at Micron was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

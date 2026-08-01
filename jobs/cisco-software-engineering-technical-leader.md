@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineering-Technical-Leader_2016281) |
+| Location | Boulder, Colorado, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boulder-Colorado-US/Software-Engineering-Technical-Leader_2019188) |
 
 ## About This Role
 
-This ai / llm engineer position at Cisco was posted on 2026-06-19.
+This software engineer position at Cisco was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

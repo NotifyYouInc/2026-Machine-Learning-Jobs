@@ -5,12 +5,12 @@
 | Company | [TubeScience](https://scoutify.ai/companies/tubescience52?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tubescience52/jobs/5153786007) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tubescience52/jobs/5195854007) |
 
 ## About This Role
 
-This ai / llm engineer position at TubeScience was posted on 2026-06-25.
+This ai / llm engineer position at TubeScience was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

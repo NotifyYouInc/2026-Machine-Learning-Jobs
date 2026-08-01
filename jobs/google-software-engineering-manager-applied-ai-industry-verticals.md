@@ -1,0 +1,22 @@
+# Software Engineering Manager, Applied AI Industry Verticals at Google
+
+| Field | Details |
+|-------|---------|
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Engineering Manager |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbEFx_ob6sRlO5MWwdZe2tM4CyI7LMuj99FyMhknJAfnEjsA1Ny_i_JtVEFUmC5UpIer8CuNWo2CNCV8sHlSRafLWQdBpUzGZl_RKgA4DuZZIviPurl5SRfSTuO0ew%3D%3D_V2&loc=IN&title=Software+Engineering+Manager) |
+
+## About This Role
+
+This engineering manager position at Google was posted on 2026-07-24.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

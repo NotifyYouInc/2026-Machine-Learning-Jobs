@@ -5,12 +5,12 @@
 | Company | [Applied Intuition](https://scoutify.ai/companies/appliedintuition?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/applied/26947f44-f658-4999-8ed8-77320ef458de) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/5f15c171-ae5a-496b-a8eb-c6a351d55b6b) |
 
 ## About This Role
 
-This ai / ml research position at Applied Intuition was posted on 2026-02-13.
+This ai / ml research position at Applied Intuition was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

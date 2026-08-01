@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-ML-Computational-Science-Senior-Analyst_R00338428) |
+| Location | Gurugram, Haryana, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/AI-ML-Computational-Science-Specialist_AIOC-S01613597-1) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-06-30.
+This ai / llm engineer position at Accenture was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

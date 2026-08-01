@@ -1,16 +1,16 @@
-# Machine Learning Engineer - Agentic Retrieval at Zoom
+# Machine learning Engineer - Agentic Retrieval at Zoom
 
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-Learning-Engineer---Agentic-Retrieval_R19273-1) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-learning-Engineer---Agentic-Retrieval_R19418-1) |
 
 ## About This Role
 
-This machine learning engineer position at Zoom was posted on 2026-06-17.
+This machine learning engineer position at Zoom was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Binance](https://scoutify.ai/companies/binance?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Asia, Western Visayas, Philippines |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.lever.co/binance/439d6f0a-bf27-45b5-8cd2-0783d105bb7b) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.lever.co/binance/53f4727b-89a8-4b19-8b1a-65781808c5dd) |
 
 ## About This Role
 
-This ai / llm engineer position at Binance was posted on 2026-07-14.
+This ai / llm engineer position at Binance was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Scientist |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000137582829-senior-applied-research-scientist) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139666069-senior-applied-research-scientist) |
 
 ## About This Role
 
-This data scientist position at ServiceNow was posted on 2026-07-14.
+This data scientist position at ServiceNow was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | AI / ML Research |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Director--AI-Engineering_R67887) |
+| Location | Frisco, Texas, United States |
+| Category | Engineering Manager |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Frisco-TX/Director--AI-Engineering_R70948) |
 
 ## About This Role
 
-This ai / ml research position at Fifth Third Bank was posted on 2026-04-30.
+This engineering manager position at Fifth Third Bank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

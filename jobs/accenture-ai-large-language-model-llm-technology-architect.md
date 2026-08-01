@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Paris, Île-de-France, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/AI-Large-Language-Model--LLM--Technology-Architect_R00346289) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Paris/AI-Large-Language-Model--LLM--Technology-Architect_R00346278) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-07-22.
+This ai / llm engineer position at Accenture was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
