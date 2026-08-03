@@ -5,12 +5,12 @@
 | Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Israel |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4850420101) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4937911101) |
 
 ## About This Role
 
-This ai / llm engineer position at Unframe was posted on 2026-04-26.
+This ai / llm engineer position at Unframe was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

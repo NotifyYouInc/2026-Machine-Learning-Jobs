@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Renningen, Baden-Wurttemberg, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138086519-masterarbeit-zur-datengetriebenen-kraftvorhersage-beim-rotationsschleifen-in-der-halbleiterindustrie-wmdiv) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139925649-masterarbeit-zur-datengetriebenen-kraftvorhersage-beim-rotationsschleifen-in-der-halbleiterindustrie-wmdiv) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-07-16.
+This machine learning engineer position at Robert Bosch was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

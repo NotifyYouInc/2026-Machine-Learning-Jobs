@@ -5,12 +5,12 @@
 | Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000128635069-machine-learningai-engineer) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000139912809-machine-learningai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Carousell was posted on 2026-05-27.
+This ai / llm engineer position at Carousell was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

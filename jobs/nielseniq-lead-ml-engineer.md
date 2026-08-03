@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000122005657-lead-ml-engineer) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139952920-lead-ml-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at NielsenIQ was posted on 2026-04-21.
+This machine learning engineer position at NielsenIQ was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

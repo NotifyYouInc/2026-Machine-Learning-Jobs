@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caylent](https://scoutify.ai/companies/caylent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Argentina |
+| Location | United States |
 | Category | Software Engineer |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/caylent/jobs/6122606004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/caylent/jobs/6123601004) |
 
 ## About This Role
 
