@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000137956110-associate-consultant-generative-ai) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000140072753-associate-consultant-generative-ai) |
 
 ## About This Role
 
-This strategy / management consulting position at SIA was posted on 2026-07-15.
+This machine learning engineer position at SIA was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

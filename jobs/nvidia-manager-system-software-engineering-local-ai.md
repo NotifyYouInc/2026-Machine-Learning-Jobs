@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Manager--System-Software-Engineering---Local-AI_JR2021898-1) |
 
 ## About This Role
 
-This engineering manager position at Nvidia was posted on 2026-07-25.
+This machine learning engineer position at Nvidia was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

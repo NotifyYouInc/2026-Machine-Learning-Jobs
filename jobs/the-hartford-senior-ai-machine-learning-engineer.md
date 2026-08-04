@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Hartford](https://scoutify.ai/companies/the-hartford?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Senior-AI-Machine-Learning-Engineer_R2625298) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Senior-AI-Machine-Learning-Engineer_R2626256) |
 
 ## About This Role
 
-This machine learning engineer position at The Hartford was posted on 2026-05-20.
+This machine learning engineer position at The Hartford was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

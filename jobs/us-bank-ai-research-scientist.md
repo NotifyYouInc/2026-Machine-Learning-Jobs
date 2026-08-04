@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 5 locations |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/AI-Research-Scientist_2026-0021983) |
 
 ## About This Role
 
-This ai / ml research position at U.S. Bank was posted on 2026-07-24.
+This machine learning engineer position at U.S. Bank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

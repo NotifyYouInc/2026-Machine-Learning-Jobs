@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York/Machine-Learning-Scientist--Structure-Function-ML--AI-for-Drug-Discovery--AIDD-_202607-119350) |
 
 ## About This Role
 
-This ai / ml research position at Genentech was posted on 2026-07-24.
+This machine learning engineer position at Genentech was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/AI-Platform-Delivery-Analyst_R-10399442) |
 
 ## About This Role
 
-This ai / llm engineer position at Fiserv was posted on 2026-07-27.
+This machine learning engineer position at Fiserv was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

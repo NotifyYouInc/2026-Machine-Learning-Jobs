@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ataraxis Ai](https://scoutify.ai/companies/ataraxis-ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/ataraxis-ai/4bdf276c-96f8-43c9-9e7b-bde754d77a18) |
 
 ## About This Role
 
-This ai / ml research position at Ataraxis Ai was posted on 2026-07-26.
+This machine learning engineer position at Ataraxis Ai was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

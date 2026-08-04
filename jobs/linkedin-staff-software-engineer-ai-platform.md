@@ -1,16 +1,16 @@
-# Staff Software Engineer, AI Platform at LinkedIn
+# Staff Software Engineer - AI Platform at LinkedIn
 
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000108205170-staff-software-engineer-ai-platform) |
+| Location | Mountain View, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000140082482-staff-software-engineer-ai-platform) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-02-09.
+This machine learning engineer position at LinkedIn was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

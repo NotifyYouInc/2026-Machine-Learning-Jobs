@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200673798/senior-software-engineer-enterprise-systems-is-t-ai-data-platforms) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-07-27.
+This machine learning engineer position at Apple was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

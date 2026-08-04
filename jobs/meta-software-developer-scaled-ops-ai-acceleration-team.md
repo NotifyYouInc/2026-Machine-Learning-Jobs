@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://www.metacareers.com/profile/job_details/952822680958355) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-07-24.
+This machine learning engineer position at Meta was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

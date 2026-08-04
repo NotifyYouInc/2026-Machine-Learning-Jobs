@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Reltio](https://scoutify.ai/companies/reltio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/6116406004) |
 
 ## About This Role
 
-This ai / llm engineer position at Reltio was posted on 2026-07-27.
+This data engineer position at Reltio was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

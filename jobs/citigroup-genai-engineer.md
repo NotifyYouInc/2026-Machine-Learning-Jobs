@@ -1,16 +1,16 @@
-# GenAI engineer at Citigroup
+# GenAI Engineer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/GenAI-engineer_26956920) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/GenAI-Engineer_26978598) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-04-24.
+This machine learning engineer position at Citigroup was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

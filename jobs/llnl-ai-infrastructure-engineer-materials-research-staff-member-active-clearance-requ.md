@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LLNL](https://scoutify.ai/companies/llnl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Livermore, California, United States |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990014281336-ai-infrastructure-engineer-materials-research-staff-member-active-clearance-required) |
 
 ## About This Role
 
-This devops engineer position at LLNL was posted on 2026-07-24.
+This data engineer position at LLNL was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

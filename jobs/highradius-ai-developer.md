@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HighRadius](https://scoutify.ai/companies/highradius?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7687204003) |
 
 ## About This Role
 
-This ai / llm engineer position at HighRadius was posted on 2026-07-27.
+This machine learning engineer position at HighRadius was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

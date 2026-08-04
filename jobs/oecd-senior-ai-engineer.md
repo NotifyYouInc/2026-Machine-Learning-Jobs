@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OECD](https://scoutify.ai/companies/oecd?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/oecd/744000139632346-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at OECD was posted on 2026-07-24.
+This machine learning engineer position at OECD was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

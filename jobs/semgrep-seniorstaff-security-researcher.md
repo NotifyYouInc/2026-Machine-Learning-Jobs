@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Semgrep](https://scoutify.ai/companies/semgrep?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Security Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/semgrep/2cfe1f53-4665-432c-915d-b4e6459c4ad7) |
 
 ## About This Role
 
-This security engineer position at Semgrep was posted on 2026-07-24.
+This machine learning engineer position at Semgrep was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

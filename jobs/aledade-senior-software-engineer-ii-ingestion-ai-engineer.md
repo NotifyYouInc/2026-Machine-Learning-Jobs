@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aledade](https://scoutify.ai/companies/aledade?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.lever.co/aledade/5267a661-1cf7-48e3-9d1f-3400392236b2) |
 
 ## About This Role
 
-This software engineer position at Aledade was posted on 2026-07-24.
+This machine learning engineer position at Aledade was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

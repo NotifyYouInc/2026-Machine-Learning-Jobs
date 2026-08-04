@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Gurugram, Haryana, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/AI---ML-Engineer_ATCI-5482962-S2002430-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/AI---ML-Engineer_ATCI-5626207-S2030235-1) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-07-24.
+This machine learning engineer position at Accenture was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

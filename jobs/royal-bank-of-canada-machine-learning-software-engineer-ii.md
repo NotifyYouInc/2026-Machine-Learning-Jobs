@@ -1,16 +1,16 @@
-# Machine Learning Software  Engineer II at Royal Bank of Canada
+# Machine Learning Software Engineer II at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Machine-Learning-Software--Engineer-II_R-0000156247-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer-II_R-0000182040-1) |
 
 ## About This Role
 
-This machine learning engineer position at Royal Bank of Canada was posted on 2026-03-17.
+This machine learning engineer position at Royal Bank of Canada was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

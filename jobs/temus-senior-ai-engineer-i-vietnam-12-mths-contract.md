@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Temus](https://scoutify.ai/companies/temus?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vietnam |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/temus/jobs/5371156008) |
 
 ## About This Role
 
-This ai / llm engineer position at Temus was posted on 2026-07-27.
+This machine learning engineer position at Temus was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

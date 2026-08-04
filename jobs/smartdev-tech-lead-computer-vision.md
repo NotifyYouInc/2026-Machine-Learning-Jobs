@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SmartDev](https://scoutify.ai/companies/smartdev?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cầu Giấy, Hanoi, Vietnam |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000139913869-tech-lead-computer-vision) |
 
 ## About This Role
 
-This software engineer position at SmartDev was posted on 2026-07-27.
+This machine learning engineer position at SmartDev was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

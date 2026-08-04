@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SandboxAQ](https://scoutify.ai/companies/sandboxaq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/sandboxaq/0e90492a-f46b-45d0-8d5d-5a96143fb193) |
 
 ## About This Role
 
-This ai / ml research position at SandboxAQ was posted on 2026-07-24.
+This machine learning engineer position at SandboxAQ was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/AI-Engineer_51585735) |
 
 ## About This Role
 
-This ai / llm engineer position at DXC Technology was posted on 2026-07-24.
+This machine learning engineer position at DXC Technology was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

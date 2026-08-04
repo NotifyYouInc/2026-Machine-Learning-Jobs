@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boulder, Colorado, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boulder-Colorado-US/Software-Engineering-Technical-Leader_2019188) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-07-25.
+This machine learning engineer position at Cisco was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

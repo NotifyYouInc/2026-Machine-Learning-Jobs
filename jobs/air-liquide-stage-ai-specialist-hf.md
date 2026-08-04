@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bagneux, Île-de-France, France |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Bagneux/Stage---AI-Specialist--H-F-_R10096835) |
 
 ## About This Role
 
-This ai / llm engineer position at Air Liquide was posted on 2026-07-27.
+This machine learning engineer position at Air Liquide was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

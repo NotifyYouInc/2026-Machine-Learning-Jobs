@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Argonne](https://scoutify.ai/companies/argonne?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lemont, Illinois, United States |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://argonne.wd1.myworkdayjobs.com/argonne_careers/job/Lemont-IL-USA/Postdoctoral-Researcher---Quantum-Devices-and-Experiments--NST-_423150) |
 
 ## About This Role
 
-This ai / ml research position at Argonne was posted on 2026-07-24.
+This machine learning engineer position at Argonne was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

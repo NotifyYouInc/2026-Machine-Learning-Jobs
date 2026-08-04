@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000139553666-senior-software-engineer-ai) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000139986249-senior-software-engineer-ai) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-07-24.
+This machine learning engineer position at Experian was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

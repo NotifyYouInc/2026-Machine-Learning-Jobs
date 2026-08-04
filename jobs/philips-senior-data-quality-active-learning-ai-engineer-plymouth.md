@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Senior-Data-Quality---Active-Learning-AI-Engineer--Plymouth-_578174) |
 
 ## About This Role
 
-This ai / llm engineer position at Philips was posted on 2026-07-24.
+This data engineer position at Philips was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

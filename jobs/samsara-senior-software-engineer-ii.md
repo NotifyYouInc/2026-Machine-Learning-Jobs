@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | California, US |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://www.samsara.com/company/careers/roles/8063736?gh_jid=8063736) |
 
 ## About This Role
 
-This software engineer position at Samsara was posted on 2026-07-24.
+This machine learning engineer position at Samsara was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

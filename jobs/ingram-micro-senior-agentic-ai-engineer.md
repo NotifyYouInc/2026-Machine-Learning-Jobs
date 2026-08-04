@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Irvine, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Irvine-CA-United-States-of-America/Senior-Agentic-AI-Engineer_R-116488) |
 
 ## About This Role
 
-This ai / llm engineer position at Ingram Micro was posted on 2026-07-24.
+This machine learning engineer position at Ingram Micro was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

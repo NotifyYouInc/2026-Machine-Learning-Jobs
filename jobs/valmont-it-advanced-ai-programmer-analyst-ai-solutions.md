@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Valmont](https://scoutify.ai/companies/valmont?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Omaha, Nebraska, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/IT-Advanced-AI-Programmer-Analyst--AI-Solutions-_R28324) |
 
 ## About This Role
 
-This software engineer position at Valmont was posted on 2026-07-27.
+This machine learning engineer position at Valmont was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

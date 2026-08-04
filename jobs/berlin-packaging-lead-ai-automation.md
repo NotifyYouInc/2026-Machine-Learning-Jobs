@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Berlin Packaging](https://scoutify.ai/companies/berlin-packaging?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/berlinpackaging/jobs/5371079008) |
 
 ## About This Role
 
-This ai / llm engineer position at Berlin Packaging was posted on 2026-07-27.
+This machine learning engineer position at Berlin Packaging was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

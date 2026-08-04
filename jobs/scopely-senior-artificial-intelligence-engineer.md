@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5216135008) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5151646008?gh_jid=5151646008) |
 
 ## About This Role
 
-This ai / ml research position at Scopely was posted on 2026-05-14.
+This machine learning engineer position at Scopely was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

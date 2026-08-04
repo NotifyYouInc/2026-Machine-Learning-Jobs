@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Seccl](https://scoutify.ai/companies/seccl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Edinburgh, Scotland, United Kingdom |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/seccl/543b8762-ee66-4946-85fd-718b82a2cab1) |
 
 ## About This Role
 
-This ai / llm engineer position at Seccl was posted on 2026-07-24.
+This machine learning engineer position at Seccl was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

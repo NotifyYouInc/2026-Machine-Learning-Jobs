@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Data-Developer-Senior-Gen-AI--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00100147) |
+| Location | Miguel Hidalgo, Mexico City, Mexico |
+| Category | Data Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Data-Developer-Gen-AI--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00110559) |
 
 ## About This Role
 
-This ai / llm engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-28.
+This data engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

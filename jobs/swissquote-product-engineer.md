@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Swissquote](https://scoutify.ai/companies/swissquote?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Gland, Vaud, Switzerland |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Swissquote/744000139625120-product-engineer) |
 
 ## About This Role
 
-This software engineer position at Swissquote was posted on 2026-07-24.
+This machine learning engineer position at Swissquote was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

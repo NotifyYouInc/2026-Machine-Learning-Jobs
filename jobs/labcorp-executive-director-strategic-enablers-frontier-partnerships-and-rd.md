@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Durham, North Carolina, United States |
-| Category | Strategy & Operations |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Executive-Director--Strategic-Enablers--Frontier-Partnerships-and-R-D_2625985) |
 
 ## About This Role
 
-This strategy & operations position at Labcorp was posted on 2026-07-24.
+This machine learning engineer position at Labcorp was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

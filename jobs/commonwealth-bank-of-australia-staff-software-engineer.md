@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Staff-Software-Engineer_REQ260886) |
 
 ## About This Role
 
-This software engineer position at Commonwealth Bank of Australia was posted on 2026-07-24.
+This machine learning engineer position at Commonwealth Bank of Australia was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [College Board](https://scoutify.ai/companies/college-board?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://collegeboard.wd1.myworkdayjobs.com/careers/job/Remote---USA/Natural-Language-Measurement-Specialist_REQ002809) |
 
 ## About This Role
 
-This data scientist position at College Board was posted on 2026-07-24.
+This machine learning engineer position at College Board was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

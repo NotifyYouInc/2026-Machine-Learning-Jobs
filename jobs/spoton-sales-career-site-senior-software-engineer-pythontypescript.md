@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpotOn: Sales (Career Site)](https://scoutify.ai/companies/spoton-sales-career-site?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/ac4832d6-6de0-493c-a68c-8aba1b759d2b) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/73a3c87e-b15b-4252-8d05-512926c9968b) |
 
 ## About This Role
 
-This software engineer position at SpotOn: Sales (Career Site) was posted on 2026-07-14.
+This machine learning engineer position at SpotOn: Sales (Career Site) was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

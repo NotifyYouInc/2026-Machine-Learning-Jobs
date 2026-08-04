@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Barcelona/Data-Science-Director--AI--AskGartner-_112578) |
 
 ## About This Role
 
-This data scientist position at Gartner was posted on 2026-07-24.
+This machine learning engineer position at Gartner was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

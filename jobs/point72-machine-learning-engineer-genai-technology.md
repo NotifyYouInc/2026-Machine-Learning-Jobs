@@ -1,16 +1,16 @@
-# Machine Learning Engineer, GenAI Technology at Point72
+# Machine Learning Engineer, GenAI Technology  at Point72
 
 | Field | Details |
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | New York City, New York, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8487494002?gh_jid=8487494002) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8651402002?gh_jid=8651402002) |
 
 ## About This Role
 
-This machine learning engineer position at Point72 was posted on 2026-05-05.
+This machine learning engineer position at Point72 was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

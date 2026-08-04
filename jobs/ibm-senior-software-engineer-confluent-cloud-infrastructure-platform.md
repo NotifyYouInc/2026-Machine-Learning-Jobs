@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Canada |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=126672) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-07-24.
+This machine learning engineer position at IBM was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

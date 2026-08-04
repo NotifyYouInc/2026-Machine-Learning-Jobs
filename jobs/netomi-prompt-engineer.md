@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netomi](https://scoutify.ai/companies/netomi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/netomi/7fbf062a-4853-4336-a639-f2a607640d38) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.lever.co/netomi/445f8db6-a40a-47fc-8019-18fde8de9c70) |
 
 ## About This Role
 
-This ai / llm engineer position at Netomi was posted on 2026-04-20.
+This machine learning engineer position at Netomi was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

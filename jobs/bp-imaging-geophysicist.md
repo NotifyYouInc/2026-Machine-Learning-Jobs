@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United Kingdom |
+| Location | Pune, Maharashtra, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/Imaging-Geophysicist_RQ106540-2) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Imaging-Geophysicist_RQ113148) |
 
 ## About This Role
 
-This machine learning engineer position at BP was posted on 2026-03-17.
+This machine learning engineer position at BP was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

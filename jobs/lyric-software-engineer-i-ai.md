@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lyric](https://scoutify.ai/companies/lyric?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://tbc.wd12.myworkdayjobs.com/lyriccareers/job/Hyderabad-India/Software-Engineer-I--AI_JR884) |
 
 ## About This Role
 
-This software engineer position at Lyric was posted on 2026-07-27.
+This machine learning engineer position at Lyric was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

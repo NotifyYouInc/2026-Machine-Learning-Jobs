@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000130878589-staff-engineer-ai-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000140029821-staff-engineer-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Nagarro was posted on 2026-06-08.
+This machine learning engineer position at Nagarro was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

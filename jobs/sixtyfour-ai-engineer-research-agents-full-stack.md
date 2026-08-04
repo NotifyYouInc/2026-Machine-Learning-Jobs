@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixtyfour](https://scoutify.ai/companies/yc-sixtyfour?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/sixtyfour/jobs/MeTMrLQ-ai-engineer-research-agents-full-stack) |
 
 ## About This Role
 
-This ai / llm engineer position at Sixtyfour was posted on 2026-07-25.
+This machine learning engineer position at Sixtyfour was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

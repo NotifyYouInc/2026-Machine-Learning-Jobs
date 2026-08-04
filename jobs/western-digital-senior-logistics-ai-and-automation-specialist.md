@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bang Pa-in, Phra Nakhon Si Ayutthaya, Thailand |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000139932034-senior-logistics-ai-and-automation-specialist) |
 
 ## About This Role
 
-This ai / llm engineer position at Western Digital was posted on 2026-07-27.
+This machine learning engineer position at Western Digital was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tailscale](https://scoutify.ai/companies/tailscale?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United Kingdom |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/tailscale/jobs/4718557005) |
 
 ## About This Role
 
-This software engineer position at Tailscale was posted on 2026-07-24.
+This machine learning engineer position at Tailscale was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

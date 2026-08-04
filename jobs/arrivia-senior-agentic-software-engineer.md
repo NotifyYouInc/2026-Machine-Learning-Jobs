@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrivia](https://scoutify.ai/companies/recruiting-ultipro-com-oj7762?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Scottsdale, Arizona, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://recruiting.ultipro.com/int1043excur/JobBoard/ad5e5978-552f-4ef7-90c8-70ebb0a57994/OpportunityDetail?opportunityId=45d62d2c-7483-4fca-b921-371d17de90a7) |
 
 ## About This Role
 
-This software engineer position at Arrivia was posted on 2026-07-24.
+This machine learning engineer position at Arrivia was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

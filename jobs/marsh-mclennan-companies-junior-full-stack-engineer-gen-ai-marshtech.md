@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Cluj-Napoca---Decembrie/Junior-Full-Stack-Engineer-Gen-AI--MarshTech_R_355680) |
 
 ## About This Role
 
-This software engineer position at Marsh & McLennan Companies was posted on 2026-07-27.
+This machine learning engineer position at Marsh & McLennan Companies was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

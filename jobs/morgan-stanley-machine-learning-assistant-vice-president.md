@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Machine-Learning--Assistant-Vice-President_JR041362) |
 
 ## About This Role
 
-This ai / ml research position at Morgan Stanley was posted on 2026-07-24.
+This machine learning engineer position at Morgan Stanley was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

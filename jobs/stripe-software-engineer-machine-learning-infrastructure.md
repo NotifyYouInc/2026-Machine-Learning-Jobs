@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8084476) |
 
 ## About This Role
 
-This software engineer position at Stripe was posted on 2026-07-24.
+This machine learning engineer position at Stripe was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

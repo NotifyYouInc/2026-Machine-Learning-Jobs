@@ -1,16 +1,16 @@
-# Ai Engineer at Johnson Controls
+# AI Engineer at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Ai-Engineer_WD30274340) |
+| Location | Pune, Maharashtra, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/AI-Engineer_WD30274398-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Johnson Controls was posted on 2026-07-17.
+This machine learning engineer position at Johnson Controls was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

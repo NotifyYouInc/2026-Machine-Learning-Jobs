@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/12089c3e-e692-4696-bef9-198cd16bdc4b) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/1c9aeef1-68e6-4594-b092-9a13302b58c7) |
 
 ## About This Role
 
-This ai / llm engineer position at Jerry.ai was posted on 2026-07-13.
+This machine learning engineer position at Jerry.ai was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

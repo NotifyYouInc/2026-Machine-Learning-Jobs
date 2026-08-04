@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ferrovial](https://scoutify.ai/companies/ferrovial?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/Product-Software-Engineer---PoC_JR18437) |
 
 ## About This Role
 
-This software engineer position at Ferrovial was posted on 2026-07-24.
+This machine learning engineer position at Ferrovial was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

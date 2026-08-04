@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 5 locations |
-| Category | DevOps Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Austin-Texas/AI-Platform-and-Ops-Lead--Assistant-Vice-President-_R-794624-1) |
 
 ## About This Role
 
-This devops engineer position at State Street was posted on 2026-07-24.
+This machine learning engineer position at State Street was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

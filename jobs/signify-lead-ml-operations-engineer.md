@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Signify](https://scoutify.ai/companies/lighting?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Lead-ML-Operations-Engineer_365358) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Lead-ML-Operations-Engineer_365354) |
 
 ## About This Role
 
-This ai / llm engineer position at Signify was posted on 2026-07-23.
+This machine learning engineer position at Signify was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

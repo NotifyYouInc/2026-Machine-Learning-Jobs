@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AGE solutions](https://scoutify.ai/companies/age-solutions?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Fort Meade, Maryland, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/agecareers/jobs/5370386008) |
 
 ## About This Role
 
-This ai / llm engineer position at AGE solutions was posted on 2026-07-24.
+This machine learning engineer position at AGE solutions was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

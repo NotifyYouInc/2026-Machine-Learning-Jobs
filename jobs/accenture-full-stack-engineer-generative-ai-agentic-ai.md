@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Full-Stack-Engineer---Generative-AI---Agentic-AI_R00346925) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-24.
+This machine learning engineer position at Accenture was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

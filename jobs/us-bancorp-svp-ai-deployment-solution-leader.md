@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/SVP---AI-Deployment---Solution-Leader_2026-0021919-1) |
 
 ## About This Role
 
-This ai / llm engineer position at U.S. Bancorp was posted on 2026-07-24.
+This machine learning engineer position at U.S. Bancorp was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

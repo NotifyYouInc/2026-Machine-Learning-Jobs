@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TTEC Digital](https://scoutify.ai/companies/ttec-digital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.lever.co/ttecdigital/17d3f799-6f51-47d1-bffc-79dd970a2577) |
 
 ## About This Role
 
-This ai / llm engineer position at TTEC Digital was posted on 2026-07-24.
+This machine learning engineer position at TTEC Digital was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

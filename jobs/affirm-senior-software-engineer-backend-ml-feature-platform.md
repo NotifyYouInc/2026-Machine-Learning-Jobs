@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Canada |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7806924003) |
 
 ## About This Role
 
-This software engineer position at Affirm was posted on 2026-07-24.
+This machine learning engineer position at Affirm was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

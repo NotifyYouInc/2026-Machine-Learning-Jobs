@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accelya World](https://scoutify.ai/companies/accelya-world?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://accelya.wd103.myworkdayjobs.com/careers/job/India-Mumbai/Specialist---AI_JR102483) |
 
 ## About This Role
 
-This ai / llm engineer position at Accelya World was posted on 2026-07-27.
+This machine learning engineer position at Accelya World was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

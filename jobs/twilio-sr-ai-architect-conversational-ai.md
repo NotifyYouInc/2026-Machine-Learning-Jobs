@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7926891) |
 
 ## About This Role
 
-This ai / llm engineer position at Twilio was posted on 2026-07-24.
+This machine learning engineer position at Twilio was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

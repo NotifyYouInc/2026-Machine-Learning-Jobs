@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/AI---DevOps-Engineer---Agentic-Systems---Automation_R0026576) |
 
 ## About This Role
 
-This devops engineer position at Nasdaq was posted on 2026-07-24.
+This machine learning engineer position at Nasdaq was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

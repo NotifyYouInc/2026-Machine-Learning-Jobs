@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Jersey City, New Jersey, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Software-Engineer--VP_10077813-WD) |
 
 ## About This Role
 
-This software engineer position at Mitsubishi UFG was posted on 2026-07-24.
+This machine learning engineer position at Mitsubishi UFG was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

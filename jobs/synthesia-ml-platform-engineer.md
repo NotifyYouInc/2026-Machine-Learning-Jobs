@@ -1,16 +1,16 @@
-#  ML Platform Engineer at Synthesia
+# ML Platform Engineer at Synthesia
 
 | Field | Details |
 |-------|---------|
 | Company | [Synthesia](https://scoutify.ai/companies/synthesia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United Kingdom |
-| Category | DevOps Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/synthesia/c2d3d3a8-f7b8-45f5-ad89-dba6ac14625c) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/synthesia/6730e2e5-0d32-4919-a438-625f1673b70c) |
 
 ## About This Role
 
-This devops engineer position at Synthesia was posted on 2026-06-25.
+This machine learning engineer position at Synthesia was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

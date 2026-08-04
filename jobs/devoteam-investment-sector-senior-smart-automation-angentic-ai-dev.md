@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Porto, Porto, Portugal |
-| Category | AI / LLM Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000139637522-investment-sector-senior-smart-automation-angentic-ai-dev) |
 
 ## About This Role
 
-This ai / llm engineer position at Devoteam was posted on 2026-07-24.
+This data engineer position at Devoteam was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

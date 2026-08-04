@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Financial Crimes & AML |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Senior-AI-AML-Engineer_26980273) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-07-25.
+This machine learning engineer position at Citigroup was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

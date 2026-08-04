@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Maryland, US |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Linthicum-Heights-MD/Artificial-Intelligence--AI--Engineer--SWE-2-_R-00188081) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-07-24.
+This machine learning engineer position at Leidos was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

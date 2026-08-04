@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8649343002?gh_jid=8649343002) |
 
 ## About This Role
 
-This data scientist position at Lyft was posted on 2026-07-26.
+This machine learning engineer position at Lyft was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | La Chapelle-sur-Erdre, Pays de la Loire, France |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000139638912-developpeur-fullstack-java-solutions-ia-automatisation-hf) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-07-24.
+This machine learning engineer position at Inetum was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

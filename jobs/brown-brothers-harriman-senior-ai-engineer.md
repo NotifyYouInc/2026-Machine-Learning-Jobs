@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Senior-AI-Engineer_72160) |
 
 ## About This Role
 
-This ai / llm engineer position at Brown Brothers Harriman was posted on 2026-07-24.
+This machine learning engineer position at Brown Brothers Harriman was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

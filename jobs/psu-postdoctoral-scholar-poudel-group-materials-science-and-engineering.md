@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Psu](https://scoutify.ai/companies/psu?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | University, Florida, United States |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://psu.wd1.myworkdayjobs.com/psu_academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Poudel-Group---Materials-Science-and-Engineering_REQ_0000080483-1) |
 
 ## About This Role
 
-This ai / ml research position at Psu was posted on 2026-07-24.
+This machine learning engineer position at Psu was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

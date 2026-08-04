@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LG Electronics](https://scoutify.ai/companies/lg-electronics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/lgelectronics/jobs/5369431008) |
 
 ## About This Role
 
-This ai / ml research position at LG Electronics was posted on 2026-07-24.
+This machine learning engineer position at LG Electronics was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

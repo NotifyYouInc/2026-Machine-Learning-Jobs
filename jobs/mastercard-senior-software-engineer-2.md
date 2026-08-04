@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer-2_R-281154-1) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-07-26.
+This machine learning engineer position at Mastercard was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

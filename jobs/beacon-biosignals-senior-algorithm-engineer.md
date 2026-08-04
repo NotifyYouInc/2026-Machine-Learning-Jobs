@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beacon Biosignals](https://scoutify.ai/companies/beacon-biosignals?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Paris, Île-de-France, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4314636009) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4314637009) |
 
 ## About This Role
 
-This machine learning engineer position at Beacon Biosignals was posted on 2026-07-13.
+This machine learning engineer position at Beacon Biosignals was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

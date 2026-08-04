@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FLUIDSTACK](https://scoutify.ai/companies/fluidstack?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/fluidstack/717a792e-bd03-40c3-acf6-48e360a9034b) |
 
 ## About This Role
 
-This ai / llm engineer position at FLUIDSTACK was posted on 2026-07-24.
+This machine learning engineer position at FLUIDSTACK was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

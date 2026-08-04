@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mountain View, California, United States |
+| Location | New York City, New York, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRuror3vwd3V-BJ_XQfEXWeAVQl1C5zULsfRNc1-LSvxEjsACxwdTLXC2g2qDSl4Mf8cnBJPU6ogmho_rMtS4SW1t68fTGVDIobR1LAQw8LZL5orwpfI1sO4gCTVhg%3D%3D_V2&loc=US&title=Senior+Research+Engineer) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU0ATg04QnnEYZAdk3bOCmDSP96SC08yL-WHIDGuVlLEEjsA1Ny_i6tBfudwvuQEMTgQ-NiOuBeqE88vCiXBcGfobSlgpzjMDD8Zw34B09JohY1AqqpURC9CEcFrbw%3D%3D_V2&loc=US&title=Senior+Research+Engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Google was posted on 2026-06-08.
+This machine learning engineer position at Google was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

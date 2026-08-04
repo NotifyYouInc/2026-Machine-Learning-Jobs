@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ISELIN-NJ/Principal-Engineer-Financial-Crime---AI---Modernization_R-561534-1) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-07-24.
+This machine learning engineer position at Wells Fargo was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

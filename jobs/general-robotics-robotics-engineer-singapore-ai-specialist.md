@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Robotics](https://scoutify.ai/companies/generalrobotics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Robotics Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/generalrobotics/139c29f9-c612-4057-b1db-ef3a40948e89) |
 
 ## About This Role
 
-This robotics engineer position at General Robotics was posted on 2026-07-27.
+This machine learning engineer position at General Robotics was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

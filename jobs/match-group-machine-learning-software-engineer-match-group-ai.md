@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Match Group](https://scoutify.ai/companies/matchgroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.lever.co/matchgroup/cb6122d7-9b0b-4e26-9f58-d6706f5cae66) |
 
 ## About This Role
 
-This software engineer position at Match Group was posted on 2026-07-27.
+This machine learning engineer position at Match Group was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

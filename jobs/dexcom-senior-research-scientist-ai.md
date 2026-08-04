@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ireland |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---Ireland/Senior-Research-Scientist--AI-_JR119628-1) |
 
 ## About This Role
 
-This ai / ml research position at Dexcom was posted on 2026-07-24.
+This machine learning engineer position at Dexcom was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Zug, Zug, Switzerland |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Principal-Software-Engineer_JREQ202383-1) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-07-24.
+This machine learning engineer position at Thomson Reuters was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

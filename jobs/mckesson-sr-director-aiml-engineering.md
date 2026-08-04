@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Engineering Manager |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Sr-Director--AI-ML-Engineering_JR0150282) |
 
 ## About This Role
 
-This engineering manager position at McKesson was posted on 2026-07-24.
+This machine learning engineer position at McKesson was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

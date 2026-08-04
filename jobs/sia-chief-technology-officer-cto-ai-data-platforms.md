@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Engineering Manager |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000139645599-chief-technology-officer-cto-ai-data-platforms) |
 
 ## About This Role
 
-This engineering manager position at SIA was posted on 2026-07-24.
+This machine learning engineer position at SIA was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

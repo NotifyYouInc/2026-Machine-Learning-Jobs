@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | AI / ML Research |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1705253033983509) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1409968454314471) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-06-03.
+This machine learning engineer position at Meta was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

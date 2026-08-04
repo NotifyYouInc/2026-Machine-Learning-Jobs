@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Software-Engineer_REQ493740) |
+| Location | Jalisco, Chiapas, Mexico |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/JaliscoMEX/Senior-Software-Engineer_REQ523745) |
 
 ## About This Role
 
-This software engineer position at JLL was posted on 2026-07-21.
+This machine learning engineer position at JLL was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

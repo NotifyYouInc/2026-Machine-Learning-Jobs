@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/EMEA---United-Kingdom---London---Agar-St/Machine-Learning-Engineer-3D-Geometry--Multi-Modal_26WD97765-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/EMEA---United-Kingdom---London---Agar-St/Machine-Learning-Engineer-3D-Geometry--Multi-Modal_26WD100236-1) |
 
 ## About This Role
 
-This machine learning engineer position at Autodesk was posted on 2026-07-13.
+This machine learning engineer position at Autodesk was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

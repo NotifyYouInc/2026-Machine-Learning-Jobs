@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | AI / ML Research |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200672934/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674439/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2026-07-17.
+This machine learning engineer position at Apple was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

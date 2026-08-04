@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FLUIDSTACK](https://scoutify.ai/companies/fluidstack?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Engineering Manager |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/fluidstack/a025471d-8a30-459b-ad2b-fd0a5a6c3707) |
 
 ## About This Role
 
-This engineering manager position at FLUIDSTACK was posted on 2026-07-24.
+This machine learning engineer position at FLUIDSTACK was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

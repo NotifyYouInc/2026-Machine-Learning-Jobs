@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scale AI](https://scoutify.ai/companies/scaleai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4718431005) |
 
 ## About This Role
 
-This ai / ml research position at Scale AI was posted on 2026-07-24.
+This machine learning engineer position at Scale AI was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
