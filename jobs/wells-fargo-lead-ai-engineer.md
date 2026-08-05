@@ -1,16 +1,16 @@
-# Lead AI Engineer at Wells Fargo
+# Lead AI engineer at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Lead-AI-Engineer_R-523671-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-AI-engineer_R-561714) |
 
 ## About This Role
 
-This ai / llm engineer position at Wells Fargo was posted on 2026-04-21.
+This data engineer position at Wells Fargo was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

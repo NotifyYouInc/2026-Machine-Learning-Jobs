@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bumble](https://scoutify.ai/companies/bumbleinc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.lever.co/bumbleinc/d006bbd4-a5bc-435f-bc02-9e8a98d77c70) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.lever.co/bumbleinc/bc469e38-2eed-43ff-91a7-ccce7fd5337e) |
 
 ## About This Role
 
-This software engineer position at Bumble was posted on 2026-07-21.
+This machine learning engineer position at Bumble was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Machine Learning Engineer |
+| Category | Strategy & Operations |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8462328002) |
 
 ## About This Role
 
-This machine learning engineer position at Dialpad was posted on 2026-07-27.
+This strategy & operations position at Dialpad was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Spain |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Data-Scientist---Gen-AI--Remote-_R29525) |
 
 ## About This Role
 
-This machine learning engineer position at CrowdStrike was posted on 2026-07-27.
+This data scientist position at CrowdStrike was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

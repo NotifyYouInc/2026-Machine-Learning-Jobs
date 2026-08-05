@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Hyderabad-CapitaLand/Senior-AI-Engineer_R0118012-1) |
+| Location | London, England, United Kingdom |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-AI-Engineer_R0121672-1) |
 
 ## About This Role
 
-This ai / llm engineer position at LSEG was posted on 2026-04-01.
+This machine learning engineer position at LSEG was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

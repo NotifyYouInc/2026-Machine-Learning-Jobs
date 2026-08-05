@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Eagan, Minnesota, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Software-Engineer--AI_JREQ197733) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Software-Engineer--AI---Clear_JREQ199105) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-02-11.
+This machine learning engineer position at Thomson Reuters was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

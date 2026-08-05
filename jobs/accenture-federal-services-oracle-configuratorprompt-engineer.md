@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4699547006?gh_jid=4699547006) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4699112006?gh_jid=4699112006) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture Federal Services was posted on 2026-07-24.
+This machine learning engineer position at Accenture Federal Services was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

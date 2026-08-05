@@ -1,16 +1,16 @@
-# Generative AI Engineer at Afficiency
+# Generative AI Engineer  at Afficiency
 
 | Field | Details |
 |-------|---------|
 | Company | [Afficiency](https://scoutify.ai/companies/afficiency?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Afficiency/744000137492320-generative-ai-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Afficiency/744000140308545-generative-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Afficiency was posted on 2026-07-13.
+This machine learning engineer position at Afficiency was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

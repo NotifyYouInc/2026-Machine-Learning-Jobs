@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Menlo Park, California, United States |
-| Category | Machine Learning Engineer |
+| Category | UX Researcher |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://www.metacareers.com/profile/job_details/1047956890981577) |
 
 ## About This Role
 
-This machine learning engineer position at Meta was posted on 2026-07-27.
+This ux researcher position at Meta was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

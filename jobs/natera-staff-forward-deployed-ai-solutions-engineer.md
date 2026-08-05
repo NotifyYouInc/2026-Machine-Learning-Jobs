@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/6099225004) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/6115020004) |
 
 ## About This Role
 
-This ai / ml research position at Natera was posted on 2026-06-24.
+This machine learning engineer position at Natera was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

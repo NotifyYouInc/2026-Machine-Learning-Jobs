@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brookfield](https://scoutify.ai/companies/brookfield?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Machine Learning Engineer |
+| Category | Accounting |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Toronto-Ontario/Director--Internal-Audit-Analytics---Artificial-Intelligence_R2051773) |
 
 ## About This Role
 
-This machine learning engineer position at Brookfield was posted on 2026-07-27.
+This accounting position at Brookfield was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200674440/applied-ai-scientist-multimodal-intelligence) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-07-27.
+This data scientist position at Apple was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

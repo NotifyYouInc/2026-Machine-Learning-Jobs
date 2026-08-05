@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Name-List-Screening--NLS--and-Transaction-Screening--TS--Model-Strats_R0405349) |
 
 ## About This Role
 
-This machine learning engineer position at Deutsche Bank was posted on 2026-07-27.
+This data scientist position at Deutsche Bank was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

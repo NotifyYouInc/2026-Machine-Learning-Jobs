@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Redmond, Washington, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556873489) |
+| Location | Mountain View, California, United States |
+| Category | Data Scientist |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556943926) |
 
 ## About This Role
 
-This ai / ml research position at Microsoft was posted on 2026-06-15.
+This data scientist position at Microsoft was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

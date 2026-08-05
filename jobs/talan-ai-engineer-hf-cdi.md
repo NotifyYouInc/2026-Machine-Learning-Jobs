@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | AI / ML Research |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000133643470-ai-engineer-hf-cdi) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000140276460-ai-engineer-hf-cdi) |
 
 ## About This Role
 
-This ai / ml research position at Talan was posted on 2026-06-23.
+This machine learning engineer position at Talan was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

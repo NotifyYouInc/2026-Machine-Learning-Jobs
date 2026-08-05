@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Holzkirchen, Bavaria, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132404472-abschlussarbeit-im-bereich-entwicklung-von-ml-auf-einem-fahrzeugsteuergerat-mwdiv) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140403321-abschlussarbeit-im-bereich-entwicklung-von-ml-auf-einem-fahrzeugsteuergerat-mwdiv) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-06-16.
+This machine learning engineer position at Robert Bosch was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

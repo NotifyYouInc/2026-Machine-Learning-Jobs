@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-Downtown-4/IN--Manager-AWS-Data-Engineer--Data-Analytics--Advisory--Bangalore_717571WD-1) |
 
 ## About This Role
 
-This machine learning engineer position at PwC was posted on 2026-07-28.
+This data scientist position at PwC was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

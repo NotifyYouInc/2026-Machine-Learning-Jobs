@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Senior-Staff-ML-Engineer_R0062721) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Senior-Staff-ML-Engineer_R0064985-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Geico was posted on 2026-02-25.
+This machine learning engineer position at Geico was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

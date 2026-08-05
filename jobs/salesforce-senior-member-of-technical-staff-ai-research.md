@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Senior-Member-of-Technical-Staff---AI-Research_JR339261) |
+| Location | Palo Alto, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Senior-Member-of-Technical-Staff---AI-Research_JR352724) |
 
 ## About This Role
 
-This ai / ml research position at Salesforce was posted on 2026-05-28.
+This machine learning engineer position at Salesforce was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

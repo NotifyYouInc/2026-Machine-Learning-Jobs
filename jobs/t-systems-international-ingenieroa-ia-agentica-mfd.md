@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Reus, Catalonia, Spain |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000134978386-ingenieroa-ia-agentica-mfd) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000140220099-ingenieroa-ia-agentica-mfd) |
 
 ## About This Role
 
-This ai / llm engineer position at T-Systems International was posted on 2026-06-30.
+This machine learning engineer position at T-Systems International was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

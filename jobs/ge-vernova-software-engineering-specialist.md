@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bellevue, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue-WA-US/Software-Engineering-Specialist_R5032549) |
+| Location | Hyderabad, Telangana, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad-TS-IN-26/Software-Engineer_R5048615-3) |
 
 ## About This Role
 
-This software engineer position at GE Vernova was posted on 2026-02-13.
+This machine learning engineer position at GE Vernova was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

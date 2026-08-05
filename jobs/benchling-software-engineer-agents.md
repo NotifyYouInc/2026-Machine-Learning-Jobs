@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Benchling](https://scoutify.ai/companies/benchling?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/815d941c-dff6-40cb-8307-57695acb37a7) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/c66a06b7-5d9e-4b6c-b35b-12c86bb72a71) |
 
 ## About This Role
 
-This ai / llm engineer position at Benchling was posted on 2026-04-28.
+This machine learning engineer position at Benchling was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

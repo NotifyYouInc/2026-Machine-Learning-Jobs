@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Klaviyo](https://scoutify.ai/companies/klaviyo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.klaviyo.com/careers/jobs?gh_jid=7727703003) |
+| Location | San Francisco, California, United States |
+| Category | Human Resources / People Ops |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.klaviyo.com/careers/jobs/7819493003?gh_jid=7819493003) |
 
 ## About This Role
 
-This ai / llm engineer position at Klaviyo was posted on 2026-05-29.
+This human resources / people ops position at Klaviyo was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
