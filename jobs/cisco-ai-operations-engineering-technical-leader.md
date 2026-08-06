@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/AI-Operations-Engineering-Technical-Leader_2020817) |
 
 ## About This Role
 
-This machine learning engineer position at Cisco was posted on 2026-07-29.
+This devops engineer position at Cisco was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

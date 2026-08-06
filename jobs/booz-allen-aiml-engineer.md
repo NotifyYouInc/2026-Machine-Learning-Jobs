@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Washington, District of Columbia, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-ML-Engineer_R0244065-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-ML-Engineer_R0243093) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-07-09.
+This machine learning engineer position at Booz Allen was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

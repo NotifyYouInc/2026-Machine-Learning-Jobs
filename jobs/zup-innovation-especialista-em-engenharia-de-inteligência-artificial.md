@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zup Innovation](https://scoutify.ai/companies/zupinnovation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zupinnovation/jobs/7719637003) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zupinnovation/jobs/7797762003) |
 
 ## About This Role
 
-This ai / llm engineer position at Zup Innovation was posted on 2026-07-03.
+This machine learning engineer position at Zup Innovation was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# OPS Research Engineer at University of North Florida
+
+| Field | Details |
+|-------|---------|
+| Company | [University of North Florida](https://scoutify.ai/companies/university-of-north-florida?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Jacksonville, Florida, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://unf.wd5.myworkdayjobs.com/unfjobs/job/Jacksonville-FL/OPS-Research-Engineer_JR103399) |
+
+## About This Role
+
+This machine learning engineer position at University of North Florida was posted on 2026-07-29.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

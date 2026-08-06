@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Machine Learning Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556947599) |
 
 ## About This Role
 
-This machine learning engineer position at Microsoft was posted on 2026-07-28.
+This cybersecurity engineer position at Microsoft was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

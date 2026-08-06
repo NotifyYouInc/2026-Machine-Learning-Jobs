@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gradial](https://scoutify.ai/companies/gradial?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gradial/jobs/4251115009) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gradial/jobs/4338065009) |
 
 ## About This Role
 
-This ai / llm engineer position at Gradial was posted on 2026-05-18.
+This machine learning engineer position at Gradial was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

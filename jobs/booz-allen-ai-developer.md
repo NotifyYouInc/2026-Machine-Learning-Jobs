@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/AI-Developer_R0243553) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-Developer_R0245641) |
 
 ## About This Role
 
-This ai / llm engineer position at Booz Allen was posted on 2026-07-01.
+This machine learning engineer position at Booz Allen was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

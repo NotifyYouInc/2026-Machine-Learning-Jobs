@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000136148670-finops-ir-automatizavimo-specialiste-as) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000140510795-finops-ir-automatizavimo-specialiste-as) |
 
 ## About This Role
 
-This ai / llm engineer position at Ignitis Grupe was posted on 2026-07-07.
+This devops engineer position at Ignitis Grupe was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

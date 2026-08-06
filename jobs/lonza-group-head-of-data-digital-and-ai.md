@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lonza Group](https://scoutify.ai/companies/lonza-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Basel, Basel-City, Switzerland |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/CH---Basel/Head-of-Data--Digital-and-AI_R78040) |
 
 ## About This Role
 
-This data engineer position at Lonza Group was posted on 2026-07-29.
+This machine learning engineer position at Lonza Group was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Mississauga-ON/Machine-Learning-Engineer---Express-Scripts-Canada_26003669-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Mississauga-ON/Machine-Learning-Engineer---Express-Scripts-Canada_26009410) |
 
 ## About This Role
 
-This machine learning engineer position at Cigna was posted on 2026-04-10.
+This machine learning engineer position at Cigna was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

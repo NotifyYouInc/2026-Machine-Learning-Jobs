@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Alexandria, Virginia, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/AI-and-ML-Software-Engineer_R0241274) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-and-ML-Software-Engineer_R0245492) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-06-02.
+This machine learning engineer position at Booz Allen was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

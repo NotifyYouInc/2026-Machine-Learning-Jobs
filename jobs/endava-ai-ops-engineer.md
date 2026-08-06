@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Colorado, US |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000138946537-ai-ops-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000140512149-ai-ops-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Endava was posted on 2026-07-21.
+This devops engineer position at Endava was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

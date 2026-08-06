@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valence Labs](https://scoutify.ai/companies/valence-labs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Montréal, Quebec, Canada |
-| Category | AI / ML Research |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/valencelabs/jobs/7871679) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/valencelabs/jobs/7848284) |
 
 ## About This Role
 
-This ai / ml research position at Valence Labs was posted on 2026-04-30.
+This machine learning engineer position at Valence Labs was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

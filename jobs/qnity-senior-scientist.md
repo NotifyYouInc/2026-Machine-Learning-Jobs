@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Midland-Michigan/Senior-Scientist_251741W) |
+| Location | Chiba, Chiba, Japan |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Ichihara-shi-Chiba/Senior-Scientist_251976W-1) |
 
 ## About This Role
 
-This ai / ml research position at Qnity was posted on 2026-07-01.
+This machine learning engineer position at Qnity was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

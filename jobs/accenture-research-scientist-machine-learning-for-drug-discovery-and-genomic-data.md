@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | AI / ML Research |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin/Research-Scientist--Machine-Learning-for-Drug-Discovery-and-Genomic-Data_R00333712) |
+| Category | Bioinformatics / Computational Biology |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin/Research-Scientist--Machine-Learning-for-Drug-Discovery-and-Genomic-Data_R00346952) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-06-16.
+This bioinformatics / computational biology position at Accenture was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Gen AI Developer at Citigroup
+# GEN AI Developer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Gen-AI-Developer_26931822) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/GEN-AI-Developer_26982373) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-04-28.
+This data scientist position at Citigroup was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

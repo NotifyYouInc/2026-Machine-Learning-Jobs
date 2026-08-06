@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecovadis](https://scoutify.ai/companies/ecovadis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ecovadis/744000140245349-staff-aiml-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ecovadis/744000140269659-staff-aiml-scientist) |
 
 ## About This Role
 

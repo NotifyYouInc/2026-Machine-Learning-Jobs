@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Zürich, Zurich, Switzerland |
-| Category | AI / ML Research |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckdwf473mymzfs0d6olGahqw2xsyRZZEeBK3h2niQ81ZgEjsA1Ny_i-gdysh7bgWPFwMd6Gy5LZhNjuL1DTbWUIZuo6H5aHxUdcY30yQVffYCfmbsk3pP3mDrRXTGSw%3D%3D_V2&loc=CH&title=Senior+Forward+Deployed+Engineer) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUL5NWnbJ5-DRrf9PIsHIIy0Ltys1wnFFpV1ojv6tBsSEjsA1Ny_izoHq7Ze8KU6YqjgYCVtx6023ujFX-DF7FBlmdWTBTXQhg9TvIcIcrVBysQqUDQMaMf1xBUhkg%3D%3D_V2&loc=IE&title=Senior+Forward+Deployed+Engineer) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-06-18.
+This machine learning engineer position at Google was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

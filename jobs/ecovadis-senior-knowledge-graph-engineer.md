@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ecovadis](https://scoutify.ai/companies/ecovadis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ecovadis/744000140258929-senior-knowledge-graph-engineer) |
 
 ## About This Role
 
-This data engineer position at Ecovadis was posted on 2026-07-28.
+This machine learning engineer position at Ecovadis was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

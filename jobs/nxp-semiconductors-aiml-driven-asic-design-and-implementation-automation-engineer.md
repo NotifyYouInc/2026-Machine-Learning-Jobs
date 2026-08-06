@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Semiconductor / Chip Design |
+| Location | San Diego, California, United States |
+| Category | Industrial Automation |
 | Posted | 2026-07-28 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10063274) |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/San-Diego-Treena-St/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065724) |
 
 ## About This Role
 
-This semiconductor / chip design position at NXP Semiconductors was posted on 2026-07-28.
+This industrial automation position at NXP Semiconductors was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

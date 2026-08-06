@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Wavre, Wallonia, Belgium |
-| Category | Machine Learning Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Belgium-Wavre/Vision-Engineer-VI_445125-1) |
 
 ## About This Role
 
-This machine learning engineer position at GSK was posted on 2026-07-29.
+This industrial automation position at GSK was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Puurs, Flanders, Belgium |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Belgium---Puurs/Graduaat---Bachelorstage--Optimalisatie-van-data-opzoeking-binnen-Temperature---Relative-Humidity--TRH--met-AI_4961266) |
 
 ## About This Role
 
-This data engineer position at Pfizer was posted on 2026-07-28.
+This machine learning engineer position at Pfizer was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

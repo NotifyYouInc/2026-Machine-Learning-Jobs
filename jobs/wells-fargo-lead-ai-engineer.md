@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-AI-engineer_R-561714) |
 
 ## About This Role
 
-This data engineer position at Wells Fargo was posted on 2026-07-29.
+This machine learning engineer position at Wells Fargo was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

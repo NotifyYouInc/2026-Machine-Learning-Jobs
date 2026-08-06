@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | AI / ML Research |
-| Posted | 2026-07-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465855/senior-applied-scientist-sponsored-products-bidding) |
+| Location | Palo Alto, California, United States |
+| Category | Data Scientist |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10488005/senior-applied-scientist-sponsored-products-bidding) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-07-04.
+This data scientist position at Amazon was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/LLM-Model-Developer_ATCI-5323616-S2059534-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/LLM-Model-Developer_ATCI-5689343-S2061044) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-07-23.
+This machine learning engineer position at Accenture was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

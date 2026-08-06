@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
-| Category | Data Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671566/data-engineer-battery-data-platform-ai) |
+| Location | Cupertino, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674923/data-engineer-battery-data-platform-ai) |
 
 ## About This Role
 
-This data engineer position at Apple was posted on 2026-07-08.
+This machine learning engineer position at Apple was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

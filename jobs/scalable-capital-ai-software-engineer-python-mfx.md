@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Germany |
-| Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000138629769-ai-software-engineer-python-mfx) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000140445154-ai-software-engineer-python-mfx) |
 
 ## About This Role
 
-This software engineer position at Scalable Capital was posted on 2026-07-20.
+This machine learning engineer position at Scalable Capital was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

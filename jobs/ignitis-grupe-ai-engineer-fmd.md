@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000118142475-ai-engineer-fmd) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000140632780-ai-engineer-fmd) |
 
 ## About This Role
 
-This ai / llm engineer position at Ignitis Grupe was posted on 2026-04-01.
+This machine learning engineer position at Ignitis Grupe was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

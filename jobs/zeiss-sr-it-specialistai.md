@@ -1,16 +1,16 @@
-# Sr. IT Specialist,AI at Zeiss
+# Sr. IT Specialist,AI. at Zeiss
 
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | IT & Systems Administration |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Sr-IT-Specialist-AI_JR_1049004) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Sr-IT-Specialist-AI_JR_1051716) |
 
 ## About This Role
 
-This it & systems administration position at Zeiss was posted on 2026-05-26.
+This machine learning engineer position at Zeiss was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Graja](https://scoutify.ai/companies/us2-cx-oj60724?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | Machine Learning Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://eczd.fa.us2.oraclecloud.com/jobs/#4817) |
 
 ## About This Role
 
-This machine learning engineer position at Graja was posted on 2026-07-29.
+This devops engineer position at Graja was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

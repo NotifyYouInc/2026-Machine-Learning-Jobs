@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yahoo](https://scoutify.ai/companies/yahoo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Senior-Machine-Learning-Engineer_JR0027106) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Senior-Machine-Learning-Engineer_JR0027189) |
 
 ## About This Role
 
-This machine learning engineer position at Yahoo was posted on 2026-05-29.
+This machine learning engineer position at Yahoo was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

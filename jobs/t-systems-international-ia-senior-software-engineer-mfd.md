@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Reus, Catalonia, Spain |
-| Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000136820649-ia-senior-software-engineer-mfd) |
+| Location | 7 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000140424354-ia-senior-software-engineer-mfd) |
 
 ## About This Role
 
-This software engineer position at T-Systems International was posted on 2026-07-09.
+This machine learning engineer position at T-Systems International was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

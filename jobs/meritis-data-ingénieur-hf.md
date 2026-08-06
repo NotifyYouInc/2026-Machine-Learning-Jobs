@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | France |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000140277264-data-ingenieur-hf) |
 
 ## About This Role
 
-This data engineer position at Meritis was posted on 2026-07-28.
+This machine learning engineer position at Meritis was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

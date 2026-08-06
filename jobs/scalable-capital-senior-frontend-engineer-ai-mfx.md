@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Berlin, State of Berlin, Germany |
-| Category | Frontend Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000136237720-senior-frontend-engineer-ai-mfx) |
+| Location | Germany |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000140438374-senior-frontend-engineer-ai-mfx) |
 
 ## About This Role
 
-This frontend engineer position at Scalable Capital was posted on 2026-07-07.
+This machine learning engineer position at Scalable Capital was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

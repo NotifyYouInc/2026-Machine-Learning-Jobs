@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lila Sciences](https://scoutify.ai/companies/lilasciences?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | Machine Learning Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/lilasciences/jobs/4248032009) |
 
 ## About This Role
 
-This machine learning engineer position at Lila Sciences was posted on 2026-07-28.
+This devops engineer position at Lila Sciences was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

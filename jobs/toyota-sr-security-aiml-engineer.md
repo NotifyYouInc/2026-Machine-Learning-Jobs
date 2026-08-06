@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toyota](https://scoutify.ai/companies/toyota?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Machine Learning Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Sr-Security-AI-ML-Engineer_10331988) |
 
 ## About This Role
 
-This machine learning engineer position at Toyota was posted on 2026-07-28.
+This cybersecurity engineer position at Toyota was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

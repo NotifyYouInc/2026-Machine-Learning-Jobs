@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chaska, Minnesota, United States |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Chaska-Minnesota-United-States/AI-Process-Automation-Analyst_R1312620) |
 
 ## About This Role
 
-This data engineer position at Danaher was posted on 2026-07-28.
+This machine learning engineer position at Danaher was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Staff-Software-Engineer_R-0000178205-1) |
+| Location | Calgary, Alberta, Canada |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Staff-Software-Engineer_R-0000177413-2) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-07-20.
+This machine learning engineer position at Royal Bank of Canada was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

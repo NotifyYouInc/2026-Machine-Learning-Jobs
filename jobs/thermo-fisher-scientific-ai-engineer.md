@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/So-Paulo-Brazil/AI-Engineer_R-01357884) |
+| Location | North Carolina, US |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/AI-Engineer_R-01360657-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Thermo Fisher Scientific was posted on 2026-06-25.
+This machine learning engineer position at Thermo Fisher Scientific was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

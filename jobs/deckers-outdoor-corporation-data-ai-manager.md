@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deckers Outdoor Corporation](https://scoutify.ai/companies/deckers?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Data Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://deckers.wd5.myworkdayjobs.com/deckers/job/Shanghai-China/Data---AI-Manager_21183) |
 
 ## About This Role
 
-This data engineer position at Deckers Outdoor Corporation was posted on 2026-07-28.
+This machine learning engineer position at Deckers Outdoor Corporation was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

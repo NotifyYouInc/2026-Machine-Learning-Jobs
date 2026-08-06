@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ6I6yqY_ZSKl22EUWuOiifzq2QvVwlr8CLWKdLpoRo5EjsACxwdTAcRSgP8zBgM8lCNQORRcXdKKnlNbNKvd3IdduaEjpXrLJJFyOL7LnYMbRO3Zbz5mEBGGXK7hA%3D%3D_V2&loc=US&title=Research+Scientist) |
+| Location | Mountain View, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWGbQZ-GNFha-NVaFKkF9Br5xI2cdfjg_qnAFAdl9G4JEjsA1Ny_i6ohcnDaX8r_sMoEzcEzZ3-UidaP7eOv6j7jJdBYfWHR_XonXn6vDJos9Ln7eoTxeYT-hkTeDA%3D%3D_V2&loc=US&title=Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-04-28.
+This machine learning engineer position at Google was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

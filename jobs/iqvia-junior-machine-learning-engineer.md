@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Madrid-Spain/Junior-Machine-Learning-Engineer_R1539826) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Warsaw-Poland/Junior-Machine-Learning-Engineer_R1556633) |
 
 ## About This Role
 
-This machine learning engineer position at IQVIA was posted on 2026-06-02.
+This machine learning engineer position at IQVIA was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
