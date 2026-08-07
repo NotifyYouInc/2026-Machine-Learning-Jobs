@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Indonesia |
-| Category | AI / ML Research |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Jakarta-Selatan-Jakarta-Raya/AI-Engineer_JR00125270) |
+| Location | Toronto, Ontario, Canada |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/AI-Engineer_JR00126460) |
 
 ## About This Role
 
-This ai / ml research position at Sun Life Financial was posted on 2026-06-22.
+This machine learning engineer position at Sun Life Financial was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

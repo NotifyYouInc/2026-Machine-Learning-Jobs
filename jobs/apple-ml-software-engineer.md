@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Seattle, Washington, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200669226/ml-software-engineer) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200675086/ml-software-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-07-02.
+This machine learning engineer position at Apple was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

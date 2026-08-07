@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Wernau, Baden-Wurttemberg, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140217230-praktikum-ai-integration-smart-engineering) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140826660-praktikum-ai-integration-smart-engineering) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-07-28.
+This machine learning engineer position at Robert Bosch was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

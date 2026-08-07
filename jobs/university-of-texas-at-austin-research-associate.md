@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Texas at Austin](https://scoutify.ai/companies/university-of-texas-at-austin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Austin, Texas, United States |
-| Category | AI / ML Research |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/UT-MAIN-CAMPUS/Research-Associate_R_00047209) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/UT-MAIN-CAMPUS/Research-Associate_R_00047690) |
 
 ## About This Role
 
-This ai / ml research position at University of Texas at Austin was posted on 2026-07-08.
+This machine learning engineer position at University of Texas at Austin was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

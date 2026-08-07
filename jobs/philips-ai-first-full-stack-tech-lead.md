@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/AI-First-Full-Stack-Tech-Lead_537574) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/AI-First-Full-Stack-Tech-Lead_585401) |
 
 ## About This Role
 
-This software engineer position at Philips was posted on 2026-02-13.
+This machine learning engineer position at Philips was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000139060058-ai-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000140690218-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Playtech was posted on 2026-07-22.
+This machine learning engineer position at Playtech was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

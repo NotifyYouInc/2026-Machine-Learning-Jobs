@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000139982095-senior-full-stack-engineer-with-ai-healthcare) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000140731470-senior-full-stack-engineer-with-ai-healthcare) |
 
 ## About This Role
 
-This machine learning engineer position at Sigma Software was posted on 2026-07-27.
+This machine learning engineer position at Sigma Software was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arco Educação](https://scoutify.ai/companies/arco-educao?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brazil |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/arcoeducacao/jobs/6003060004) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/arcoeducacao/jobs/6129944004) |
 
 ## About This Role
 
-This ai / llm engineer position at Arco Educação was posted on 2026-06-03.
+This machine learning engineer position at Arco Educação was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

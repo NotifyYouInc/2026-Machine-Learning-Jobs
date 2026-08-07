@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Software-Engineer_R-0000181000-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Software-Engineer_R-0000180987-2) |
 
 ## About This Role
 
-This machine learning engineer position at Royal Bank of Canada was posted on 2026-07-27.
+This machine learning engineer position at Royal Bank of Canada was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

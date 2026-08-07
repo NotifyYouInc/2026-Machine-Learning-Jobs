@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Ashburn, Virginia, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/AI-and-ML-Engineer_R0245368) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/AI-and-ML-Engineer_R0245749) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-07-27.
+This machine learning engineer position at Booz Allen was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

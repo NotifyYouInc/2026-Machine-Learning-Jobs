@@ -1,16 +1,16 @@
-# Especialista de IA at Experian
+#  Especialista de IA at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | AI / ML Research |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126749480-especialista-de-ia) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000140756202-especialista-de-ia) |
 
 ## About This Role
 
-This ai / ml research position at Experian was posted on 2026-05-15.
+This machine learning engineer position at Experian was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

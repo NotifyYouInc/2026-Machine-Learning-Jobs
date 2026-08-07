@@ -1,16 +1,16 @@
-# Machine Learning Engineering Manager - Personalization at Spotify
+# Machine Learning Engineering Manager, Personalization at Spotify
 
 | Field | Details |
 |-------|---------|
 | Company | [Spotify](https://scoutify.ai/companies/spotify?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.lever.co/spotify/3efb102a-0829-4338-bd73-28387ae010b6) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.lever.co/spotify/aca5697a-a87a-415e-8d58-627bb782cce8) |
 
 ## About This Role
 
-This engineering manager position at Spotify was posted on 2026-04-24.
+This machine learning engineer position at Spotify was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

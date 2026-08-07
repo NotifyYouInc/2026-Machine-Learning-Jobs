@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/AI---ML-Engineer_ATCP-1478768-S427531) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5682573-S2061307) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-07-29.
+This machine learning engineer position at Accenture was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

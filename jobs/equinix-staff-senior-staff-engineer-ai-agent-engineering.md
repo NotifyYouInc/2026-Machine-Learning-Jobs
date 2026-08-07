@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Toronto, Ontario, Canada |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/London/Staff---Senior-Staff-Engineer--AI-Agent-Engineering_JR-162373) |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Staff---Senior-Staff-Engineer--AI-Agent-Engineering_JR-162358) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
-| Category | AI / ML Research |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZWG9_e-zPpjRVaezQCJqjEdfXBWsx4r89FiW5050GixEjsA1Ny_ixGgMzlKW38YQMFMnE9IjHXUgbO1S0MrG5AbhXtt-4CUpxB5K3f2MSfwaPMQK3yIdHvNeZhIaA%3D%3D_V2&loc=GB&title=Research+Scientist) |
+| Location | Cambridge, Massachusetts, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSpZBqXmsffXuk_xktvypMbSbJG0RH2gbP-z5PVeZPuDEjsA1Ny_i_GbvCXo6_OM4CEIE7VLdNJHb1H6g7wKd49IQGu_bQQCcHp5fXGRG-Zp0TUDAHklOz6WkRtbnQ%3D%3D_V2&loc=US&title=Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-07-13.
+This machine learning engineer position at Google was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
