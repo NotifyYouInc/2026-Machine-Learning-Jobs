@@ -1,16 +1,16 @@
-# Ai Engineer at Fastmarkets
+# AI Engineer at Fastmarkets
 
 | Field | Details |
 |-------|---------|
 | Company | [Fastmarkets](https://scoutify.ai/companies/fastmarkets?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000137400514-ai-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000140912470-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Fastmarkets was posted on 2026-07-13.
+This machine learning engineer position at Fastmarkets was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

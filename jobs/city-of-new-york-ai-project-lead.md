@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013464956-ai-project-lead) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014380566-ai-project-lead) |
 
 ## About This Role
 
-This ai / ml research position at City of New York was posted on 2026-06-04.
+This machine learning engineer position at City of New York was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

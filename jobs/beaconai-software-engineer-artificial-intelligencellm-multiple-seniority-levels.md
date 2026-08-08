@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Carlos, Cojedes, Venezuela |
-| Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/d124201a-803d-4cbe-b2e0-0000dd541b62) |
+| Location | San Carlos, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/719936c7-483f-46ef-90af-59b857c4beb2) |
 
 ## About This Role
 
-This software engineer position at Beaconai was posted on 2026-07-15.
+This machine learning engineer position at Beaconai was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

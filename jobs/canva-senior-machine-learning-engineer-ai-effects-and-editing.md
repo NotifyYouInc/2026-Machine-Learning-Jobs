@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001146221-senior-machine-learning-engineer-ai-effects-and-editing) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001276185-senior-machine-learning-engineer-ai-effects-and-editing) |
 
 ## About This Role
 
-This machine learning engineer position at Canva was posted on 2026-06-11.
+This machine learning engineer position at Canva was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Provectus](https://scoutify.ai/companies/provectus?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Ukraine |
+| Location | Skopje, Grad Skopje, North Macedonia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.lever.co/provectus/2a9f1b79-f61d-45ae-887c-f8d8a1bff42d) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.lever.co/provectus/506f9f46-1914-461a-bb15-1716b8699fd6) |
 
 ## About This Role
 
-This machine learning engineer position at Provectus was posted on 2026-07-27.
+This machine learning engineer position at Provectus was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

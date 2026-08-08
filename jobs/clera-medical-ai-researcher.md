@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/88b61263-a54a-4f81-a880-18ded4cfaaf6) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/65d97def-780c-4ff9-8505-2647e91236df) |
 
 ## About This Role
 
-This ai / ml research position at Clera was posted on 2026-06-07.
+This machine learning engineer position at Clera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Shawbrook/744000140741098-senior-ai-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Shawbrook/744000140743458-senior-ai-engineer) |
 
 ## About This Role
 

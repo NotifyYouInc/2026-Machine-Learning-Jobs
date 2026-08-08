@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/650d7e0e-7c38-4070-82a7-306fa66b9767) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/9d5d0397-5dba-449d-a6ab-087c64fb55d2) |
 
 ## About This Role
 
-This machine learning engineer position at Clera was posted on 2026-07-17.
+This machine learning engineer position at Clera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

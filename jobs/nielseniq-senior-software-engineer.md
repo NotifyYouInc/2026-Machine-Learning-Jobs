@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132778639-senior-software-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000140905024-senior-software-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-06-18.
+This machine learning engineer position at NielsenIQ was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Diego, California, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/San-Diego-Treena-St/AI-ML-Driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065725) |
 
 ## About This Role
 
-This industrial automation position at NXP Semiconductors was posted on 2026-07-30.
+This devops engineer position at NXP Semiconductors was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8053003) |
+| Location | Pune, Maharashtra, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8078812) |
 
 ## About This Role
 
-This ai / llm engineer position at Capco was posted on 2026-07-23.
+This machine learning engineer position at Capco was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

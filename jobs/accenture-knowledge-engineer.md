@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Knowledge-Engineer_ATCI-5701434-S2061974-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Knowledge-Engineer_ATCI-5698534-S2061414-1) |
 
 ## About This Role
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Fort Collins, Colorado, United States |
-| Category | AI / ML Research |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5179749007?gh_jid=5179749007) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5201025007?gh_jid=5201025007) |
 
 ## About This Role
 
-This ai / ml research position at Anduril was posted on 2026-07-02.
+This machine learning engineer position at Anduril was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

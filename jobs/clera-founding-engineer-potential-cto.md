@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | Mobile Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/fe91e0ee-a379-4e4f-9414-cde58d235895) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/f31b117a-e599-48a7-8243-90117c15c2c2) |
 
 ## About This Role
 
-This mobile engineer position at Clera was posted on 2026-06-30.
+This machine learning engineer position at Clera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

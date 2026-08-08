@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | São Carlos, São Paulo, Brazil |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000132657500-analista-de-automacao-inteligente-pleno-python-ia-generativa-e-agentes-autonomos) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000140989549-analista-de-automacao-inteligente-pleno-python-ia-generativa-e-agentes-autonomos) |
 
 ## About This Role
 
-This ai / llm engineer position at Experian was posted on 2026-06-17.
+This machine learning engineer position at Experian was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

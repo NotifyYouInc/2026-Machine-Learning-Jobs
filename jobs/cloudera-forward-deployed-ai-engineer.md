@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Ireland |
+| Location | Prague, Prague, Czechia |
 | Category | Machine Learning Engineer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Ireland-Remote/Forward-Deployed-AI-Engineer_261077) |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Czech-Republic-Prague/Forward-Deployed-AI-Engineer_261155-1) |
 
 ## About This Role
 

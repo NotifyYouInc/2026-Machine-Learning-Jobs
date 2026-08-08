@@ -1,16 +1,16 @@
-# Senior AI Applied Software Engineer  at Backbase
+# Senior AI Applied Software Engineer   at Backbase
 
 | Field | Details |
 |-------|---------|
 | Company | [Backbase](https://scoutify.ai/companies/backbase?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Madrid, Madrid, Spain |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7756926) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/8070940) |
 
 ## About This Role
 
-This machine learning engineer position at Backbase was posted on 2026-07-27.
+This machine learning engineer position at Backbase was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

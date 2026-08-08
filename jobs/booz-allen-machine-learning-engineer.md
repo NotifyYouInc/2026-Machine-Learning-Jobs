@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Machine-Learning-Engineer_R0245170) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Machine-Learning-Engineer_R0245828) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-07-23.
+This machine learning engineer position at Booz Allen was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

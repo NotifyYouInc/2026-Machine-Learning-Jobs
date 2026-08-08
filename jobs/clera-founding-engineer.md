@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Software Engineer |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/e3fb6e96-de21-45b9-a40f-0bea9547ed92) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/c833b4a9-59a3-4118-855a-620252f5c6a9) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-07-19.
+This machine learning engineer position at Clera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 
