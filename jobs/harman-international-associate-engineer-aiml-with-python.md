@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Associate-Engineer-AI-ML-with-Python/31487) |
 
 ## About This Role
 
-This machine learning engineer position at HARMAN International was posted on 2026-07-31.
+This ai / llm engineer position at HARMAN International was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

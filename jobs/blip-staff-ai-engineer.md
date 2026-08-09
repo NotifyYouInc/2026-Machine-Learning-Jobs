@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blip](https://scoutify.ai/companies/blip-global?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brazil |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/blip-global/jobs/4324655009) |
 
 ## About This Role
 
-This machine learning engineer position at Blip was posted on 2026-07-31.
+This ai / llm engineer position at Blip was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

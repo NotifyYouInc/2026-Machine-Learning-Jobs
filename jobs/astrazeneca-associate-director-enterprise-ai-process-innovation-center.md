@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Mexico---Guadalajara/Associate-Director--Enterprise-AI-Process---Innovation-Center_R-257463) |
 
 ## About This Role
 
-This machine learning engineer position at AstraZeneca was posted on 2026-07-31.
+This ai / llm engineer position at AstraZeneca was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

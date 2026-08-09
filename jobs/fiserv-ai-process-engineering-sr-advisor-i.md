@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | Cybersecurity Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/AI---Process-Engineering---Sr-Advisor--I_R-10398810-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Fiserv was posted on 2026-07-31.
+This ai / llm engineer position at Fiserv was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

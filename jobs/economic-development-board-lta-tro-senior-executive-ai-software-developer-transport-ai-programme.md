@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/XMLNAME--LTA-TRO--SENIOR--EXECUTIVE--AI-SOFTWARE-DEVELOPER---TRANSPORT-AI-PROGRAMME_JR-10000053932) |
 
 ## About This Role
 
-This machine learning engineer position at Economic Development Board was posted on 2026-07-31.
+This ai / llm engineer position at Economic Development Board was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

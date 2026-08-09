@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Virginia Beach, Virginia, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Virginia-Beach-VA/Senior-MLOps---Generative-AI-Engineer---Remote_JR-104045) |
 
 ## About This Role
 
-This machine learning engineer position at Sentara Healthcare was posted on 2026-08-01.
+This ai / llm engineer position at Sentara Healthcare was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

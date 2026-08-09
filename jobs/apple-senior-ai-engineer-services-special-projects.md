@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | California, US |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200675256/senior-ai-engineer-services-special-projects) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-07-31.
+This ai / llm engineer position at Apple was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

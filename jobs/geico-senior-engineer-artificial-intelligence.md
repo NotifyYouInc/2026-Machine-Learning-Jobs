@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Senior-Engineer---Artificial-Intelligence_R0064887) |
 
 ## About This Role
 
-This machine learning engineer position at Geico was posted on 2026-07-30.
+This ai / llm engineer position at Geico was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

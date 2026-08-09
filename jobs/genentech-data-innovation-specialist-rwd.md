@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | South San Francisco, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Data-Innovation-Specialist--RWD-_202509-124699-1) |
 
 ## About This Role
 
-This machine learning engineer position at Genentech was posted on 2026-07-29.
+This data engineer position at Genentech was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

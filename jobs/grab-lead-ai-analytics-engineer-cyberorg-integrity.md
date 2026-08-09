@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000140857679-lead-ai-analytics-engineer-cyberorg-integrity) |
 
 ## About This Role
 
-This machine learning engineer position at Grab was posted on 2026-07-31.
+This data engineer position at Grab was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

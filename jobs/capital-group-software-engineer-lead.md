@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/London/Software-Engineer---Lead_JR6901) |
 
 ## About This Role
 
-This machine learning engineer position at Capital Group was posted on 2026-07-30.
+This ai / llm engineer position at Capital Group was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Outpost](https://scoutify.ai/companies/outpost?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Machine Learning Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/outpost/263e3525-81fd-4fca-8f30-5b69862df6aa) |
 
 ## About This Role
 
-This machine learning engineer position at Outpost was posted on 2026-07-31.
+This data engineer position at Outpost was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

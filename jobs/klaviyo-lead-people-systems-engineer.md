@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Klaviyo](https://scoutify.ai/companies/klaviyo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://www.klaviyo.com/careers/jobs/7822352003?gh_jid=7822352003) |
 
 ## About This Role
 
-This machine learning engineer position at Klaviyo was posted on 2026-07-30.
+This ai / llm engineer position at Klaviyo was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

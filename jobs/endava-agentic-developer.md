@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Perth, Western Australia, Australia |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000140820079-agentic-developer) |
 
 ## About This Role
 
-This machine learning engineer position at Endava was posted on 2026-07-31.
+This ai / llm engineer position at Endava was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

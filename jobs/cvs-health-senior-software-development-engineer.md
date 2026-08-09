@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New Jersey, US |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Pennsylvania/Senior-Software-Development-Engineer_R0992645) |
 
 ## About This Role
 
-This machine learning engineer position at CVS Health was posted on 2026-07-30.
+This ai / llm engineer position at CVS Health was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KIBBLERS NSW](https://scoutify.ai/companies/kibblers-nsw?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Australia |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://bunnings.wd3.myworkdayjobs.com/careers/job/Support-Office-VIC/AI-Engineer_R057809) |
 
 ## About This Role
 
-This machine learning engineer position at KIBBLERS NSW was posted on 2026-07-31.
+This ai / llm engineer position at KIBBLERS NSW was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

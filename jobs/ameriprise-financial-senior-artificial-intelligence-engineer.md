@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Hyderabad-Telangana-India/Senior-Artificial-Intelligence-Engineer_R26_2820) |
 
 ## About This Role
 
-This machine learning engineer position at Ameriprise Financial was posted on 2026-07-31.
+This ai / llm engineer position at Ameriprise Financial was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

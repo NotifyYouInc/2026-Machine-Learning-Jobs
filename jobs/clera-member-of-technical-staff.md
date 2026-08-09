@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/5096f149-30c2-4e62-aa8a-7d70b27849aa) |
+| Location | Palo Alto, California, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/36999769-0e4a-4610-897e-501eea7404ee) |
 
 ## About This Role
 
-This ai / ml research position at Clera was posted on 2026-06-06.
+This ai / llm engineer position at Clera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

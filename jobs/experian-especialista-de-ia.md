@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000140756202-especialista-de-ia) |
 
 ## About This Role
 
-This machine learning engineer position at Experian was posted on 2026-07-30.
+This ai / llm engineer position at Experian was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

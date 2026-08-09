@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Senior-Software-Engineer---AI-II_JREQ202530) |
 
 ## About This Role
 
-This machine learning engineer position at Thomson Reuters was posted on 2026-07-31.
+This ai / llm engineer position at Thomson Reuters was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer--AI-Process-Intelligence_JR106415) |
 
 ## About This Role
 
-This machine learning engineer position at Micron was posted on 2026-07-31.
+This ai / llm engineer position at Micron was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

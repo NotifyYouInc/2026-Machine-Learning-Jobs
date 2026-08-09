@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---Baker/Oliver-Wyman---AI-Engineer--m-f-d----Quotient-AI-Specialist---Madrid---London_R_360730-1) |
 
 ## About This Role
 
-This machine learning engineer position at Marsh & McLennan Companies was posted on 2026-07-31.
+This ai / llm engineer position at Marsh & McLennan Companies was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

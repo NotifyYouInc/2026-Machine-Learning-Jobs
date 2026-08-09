@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8658744002?gh_jid=8658744002) |
 
 ## About This Role
 
-This machine learning engineer position at SpaceX was posted on 2026-07-30.
+This ai / llm engineer position at SpaceX was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

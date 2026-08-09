@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer_R-00280718-1) |
 
 ## About This Role
 
-This machine learning engineer position at NatWest Group was posted on 2026-07-31.
+This ai / llm engineer position at NatWest Group was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

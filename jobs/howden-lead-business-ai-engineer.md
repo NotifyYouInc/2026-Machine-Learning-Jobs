@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Home---UK--England/Lead-Business-AI-Engineer_R0018645-2) |
 
 ## About This Role
 
-This machine learning engineer position at Howden was posted on 2026-07-31.
+This ai / llm engineer position at Howden was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

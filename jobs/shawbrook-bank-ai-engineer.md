@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shawbrook Bank](https://scoutify.ai/companies/shawbrookbank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Shawbrook/744000140743148-ai-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Shawbrook Bank was posted on 2026-07-30.
+This ai / llm engineer position at Shawbrook Bank was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

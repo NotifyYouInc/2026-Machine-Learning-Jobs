@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vertex Pharmaceuticals](https://scoutify.ai/companies/vrtx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Principal-Agent-Engineer--AI-Agentic-Platform_REQ-29761) |
 
 ## About This Role
 
-This machine learning engineer position at Vertex Pharmaceuticals was posted on 2026-08-01.
+This ai / llm engineer position at Vertex Pharmaceuticals was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

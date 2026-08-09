@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ixigo](https://scoutify.ai/companies/ixigo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ixigo/744000140843674-senior-full-stack-engineer-voice-ai) |
 
 ## About This Role
 
-This machine learning engineer position at ixigo was posted on 2026-07-31.
+This ai / llm engineer position at ixigo was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

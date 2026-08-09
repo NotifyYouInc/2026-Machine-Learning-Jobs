@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LiteLLM](https://scoutify.ai/companies/litellm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/litellm/jobs/Go3e4fQ-ai-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at LiteLLM was posted on 2026-07-31.
+This ai / llm engineer position at LiteLLM was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

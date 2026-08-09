@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tuam, Connacht, Ireland |
-| Category | Machine Learning Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Tuam/Quality-Data---AI-Engineer_REQ2026078447) |
 
 ## About This Role
 
-This machine learning engineer position at Valeo was posted on 2026-07-31.
+This data engineer position at Valeo was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

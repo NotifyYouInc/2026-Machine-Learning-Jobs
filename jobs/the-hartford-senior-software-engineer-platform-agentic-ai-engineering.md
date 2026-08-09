@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Hartford](https://scoutify.ai/companies/the-hartford?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Senior-Software-Engineer---Platform---Agentic-AI-Engineering_R2626287) |
 
 ## About This Role
 
-This machine learning engineer position at The Hartford was posted on 2026-07-30.
+This ai / llm engineer position at The Hartford was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

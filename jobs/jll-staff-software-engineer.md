@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Staff-Software-Engineer_REQ524296) |
 
 ## About This Role
 
-This machine learning engineer position at JLL was posted on 2026-07-31.
+This ai / llm engineer position at JLL was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

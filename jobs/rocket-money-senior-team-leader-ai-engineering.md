@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rocket Money](https://scoutify.ai/companies/rocket-money?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/truebill/jobs/7822204003) |
 
 ## About This Role
 
-This machine learning engineer position at Rocket Money was posted on 2026-07-30.
+This ai / llm engineer position at Rocket Money was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

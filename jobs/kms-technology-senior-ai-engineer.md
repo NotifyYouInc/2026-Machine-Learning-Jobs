@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KMS Technology](https://scoutify.ai/companies/kms-technology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000140999549-senior-ai-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at KMS Technology was posted on 2026-07-31.
+This ai / llm engineer position at KMS Technology was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

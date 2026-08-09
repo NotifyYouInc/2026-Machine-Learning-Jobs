@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014380566-ai-project-lead) |
 
 ## About This Role
 
-This machine learning engineer position at City of New York was posted on 2026-07-31.
+This ai / llm engineer position at City of New York was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leatherman](https://scoutify.ai/companies/recruiting-ultipro-com-oj63036?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://recruiting.ultipro.com/lea1002leath/JobBoard/164fd681-d8f9-4595-8253-112fb5d5a2da/OpportunityDetail?opportunityId=b10381d8-6887-4a5f-a0a9-346a51f5a369) |
 
 ## About This Role
 
-This machine learning engineer position at Leatherman was posted on 2026-07-31.
+This ai / llm engineer position at Leatherman was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nordstrom](https://scoutify.ai/companies/nordstrom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--AI-Agentic-Solutions--Hybrid---Seattle--WA-_R-862126) |
 
 ## About This Role
 
-This machine learning engineer position at Nordstrom was posted on 2026-07-31.
+This ai / llm engineer position at Nordstrom was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

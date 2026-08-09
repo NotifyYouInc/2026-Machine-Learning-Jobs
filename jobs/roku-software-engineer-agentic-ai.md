@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cambridge, England, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://www.weareroku.com/jobs/8096018?gh_jid=8096018) |
 
 ## About This Role
 
-This machine learning engineer position at Roku was posted on 2026-07-31.
+This ai / llm engineer position at Roku was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8095001) |
 
 ## About This Role
 
-This machine learning engineer position at DRW was posted on 2026-07-30.
+This ai / llm engineer position at DRW was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

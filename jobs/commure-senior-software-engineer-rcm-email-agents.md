@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commure](https://scoutify.ai/companies/commure?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Rio de Janeiro, Rio de Janeiro, Brazil |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/commure/f34a402a-9cec-4093-af94-aefd7d958991) |
 
 ## About This Role
 
-This machine learning engineer position at Commure was posted on 2026-07-30.
+This ai / llm engineer position at Commure was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Senior-AI-Engineer---Live-Operations_R-1098871-1) |
 
 ## About This Role
 
-This machine learning engineer position at Verizon was posted on 2026-07-30.
+This ai / llm engineer position at Verizon was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

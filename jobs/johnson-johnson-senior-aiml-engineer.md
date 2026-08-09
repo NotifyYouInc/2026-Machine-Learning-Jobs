@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Titusville, Florida, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Senior-AI-ML-Engineer_R-091524) |
 
 ## About This Role
 
-This machine learning engineer position at Johnson & Johnson was posted on 2026-07-30.
+This ai / llm engineer position at Johnson & Johnson was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

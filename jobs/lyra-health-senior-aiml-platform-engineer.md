@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lyra Health](https://scoutify.ai/companies/lyra-health?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.lever.co/lyrahealth/12b44bca-f78d-45c7-9dad-5bb7c45103a2) |
 
 ## About This Role
 
-This machine learning engineer position at Lyra Health was posted on 2026-07-30.
+This ai / llm engineer position at Lyra Health was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

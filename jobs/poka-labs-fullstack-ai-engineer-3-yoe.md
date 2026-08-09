@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Poka Labs](https://scoutify.ai/companies/poka-labs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/poka-labs/jobs/8phJ5hc-fullstack-ai-engineer-3-yoe) |
 
 ## About This Role
 
-This machine learning engineer position at Poka Labs was posted on 2026-07-31.
+This ai / llm engineer position at Poka Labs was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
