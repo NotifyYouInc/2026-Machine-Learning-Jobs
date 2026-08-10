@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amo](https://scoutify.ai/companies/amo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/amo/3bff5414-221e-4133-838a-aca3a5cddd0b) |
 
 ## About This Role
 
-This machine learning engineer position at Amo was posted on 2026-07-30.
+This software engineer position at Amo was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

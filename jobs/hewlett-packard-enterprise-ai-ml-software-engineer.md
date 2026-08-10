@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Colorado, US |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Ft-Collins-Colorado-United-States-of-America/AI---ML-Software-Engineer_1210159-2) |
 
 ## About This Role
 
-This machine learning engineer position at Hewlett Packard Enterprise was posted on 2026-07-31.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

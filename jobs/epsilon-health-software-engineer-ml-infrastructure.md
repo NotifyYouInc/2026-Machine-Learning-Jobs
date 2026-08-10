@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Epsilon Health](https://scoutify.ai/companies/epsilon-health?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/epsilon-health/b5ef89d4-1a4c-4302-8939-b6dbf3bb8c70) |
 
 ## About This Role
 
-This machine learning engineer position at Epsilon Health was posted on 2026-07-30.
+This software engineer position at Epsilon Health was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

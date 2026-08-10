@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lucid Motors](https://scoutify.ai/companies/lucidmotors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Newark, New Jersey, United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/lucidmotors/jobs/5194180007) |
 
 ## About This Role
 
-This machine learning engineer position at Lucid Motors was posted on 2026-07-31.
+This software engineer position at Lucid Motors was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

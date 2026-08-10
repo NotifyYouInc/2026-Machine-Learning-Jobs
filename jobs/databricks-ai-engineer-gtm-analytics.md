@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
+| Category | Go To Market Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002) |
 
 ## About This Role
 
-This ai / llm engineer position at Databricks was posted on 2026-07-30.
+This go to market engineer position at Databricks was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

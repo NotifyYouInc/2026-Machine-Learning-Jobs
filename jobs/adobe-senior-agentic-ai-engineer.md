@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Yerevan, Yerevan, Armenia |
+| Location | San Jose, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Senior-Agentic-AI-Engineer_R165482) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Agentic-AI-Engineer_R170895) |
 
 ## About This Role
 
-This ai / llm engineer position at Adobe was posted on 2026-03-03.
+This ai / llm engineer position at Adobe was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

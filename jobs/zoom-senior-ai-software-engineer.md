@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Senior-AI-Software-Engineer_R19473) |
 
 ## About This Role
 
-This machine learning engineer position at Zoom was posted on 2026-07-31.
+This software engineer position at Zoom was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
