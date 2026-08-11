@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Carlos, California, United States |
-| Category | DevOps Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/d25fb3ce-f9a4-48f7-82e8-9ca81333abea) |
 
 ## About This Role
 
-This devops engineer position at Beaconai was posted on 2026-07-31.
+This ai / llm engineer position at Beaconai was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

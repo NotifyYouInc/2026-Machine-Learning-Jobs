@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Machine-Learning-Scientist-III---Package-Pricing_R-105265-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Machine-Learning-Scientist-III---Package-Pricing_R-108429-1) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-04-27.
+This machine learning engineer position at Expedia was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

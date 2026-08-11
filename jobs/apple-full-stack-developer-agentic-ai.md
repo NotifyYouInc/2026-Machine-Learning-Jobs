@@ -1,0 +1,22 @@
+# Full Stack Developer : Agentic AI at Apple
+
+| Field | Details |
+|-------|---------|
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Haifa, Haifa, Israel |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674773/full-stack-developer-agentic-ai) |
+
+## About This Role
+
+This ai / llm engineer position at Apple was posted on 2026-08-03.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

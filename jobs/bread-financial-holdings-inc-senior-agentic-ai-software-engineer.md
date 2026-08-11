@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bread Financial Holdings, Inc.](https://scoutify.ai/companies/bread-financial-holdings-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_india/job/Bangalore-India/Senior-Agentic-AI-Software-Engineer_R1012947) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_india/job/Bangalore-India/Senior-Agentic-AI-Software-Engineer-2_R1012792) |
 
 ## About This Role
 
-This machine learning engineer position at Bread Financial Holdings, Inc. was posted on 2026-07-30.
+This ai / llm engineer position at Bread Financial Holdings, Inc. was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | DevOps Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Krakow-Poland/Infrastructure---Operations---AI-Automation-Engineer--f-m-d-_R1315321) |
 
 ## About This Role
 
-This devops engineer position at Danaher was posted on 2026-07-31.
+This ai / llm engineer position at Danaher was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

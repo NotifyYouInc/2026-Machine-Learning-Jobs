@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Portland, Oregon, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HangzhouCHN/Algorithm-Developer-IV_R2618604) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/PortlandOR/Algorithm-Developer-IV_R2623944) |
 
 ## About This Role
 
-This machine learning engineer position at Applied Materials was posted on 2026-04-27.
+This machine learning engineer position at Applied Materials was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

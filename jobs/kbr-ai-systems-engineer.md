@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Maryland, US |
-| Category | AI / ML Research |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Bethesda-Chevy-Chase-Maryland/AI-Systems-Engineer_R2110293) |
+| Location | Chantilly, Virginia, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/AI-Systems-Engineer_R2127250) |
 
 ## About This Role
 
-This ai / ml research position at KBR was posted on 2026-06-09.
+This ai / llm engineer position at KBR was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

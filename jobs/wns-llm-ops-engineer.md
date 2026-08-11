@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000125275348-llm-ops-engineer) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000141406389-llm-ops-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at WNS was posted on 2026-05-08.
+This ai / llm engineer position at WNS was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

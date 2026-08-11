@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000139027993-senior-ai-software-developer-3d-deep-learning-mwd) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000141250593-senior-ai-software-developer-3d-deep-learning-mwd) |
 
 ## About This Role
 
-This software engineer position at Smiths Group was posted on 2026-07-22.
+This software engineer position at Smiths Group was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

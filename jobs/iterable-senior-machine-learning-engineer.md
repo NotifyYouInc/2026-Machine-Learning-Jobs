@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer  at Iterable
+# Senior Machine Learning Engineer at Iterable
 
 | Field | Details |
 |-------|---------|
 | Company | [Iterable](https://scoutify.ai/companies/iterable?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/iterable/jobs/8092997) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/iterable/jobs/8103096) |
 
 ## About This Role
 
-This machine learning engineer position at Iterable was posted on 2026-07-30.
+This machine learning engineer position at Iterable was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

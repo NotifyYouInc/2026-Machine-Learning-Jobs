@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 5 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Applied-Model-Ops-Developer--L11-_2601157) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Applied-Model-Ops-Developer--L11-_2602180) |
 
 ## About This Role
 
-This data engineer position at Synchrony Financial was posted on 2026-04-21.
+This data engineer position at Synchrony Financial was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

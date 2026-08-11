@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United Kingdom |
-| Category | AI / ML Research |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/aab9f216-0f2e-4d63-a3bc-9fb953aac9b0) |
+| Location | China |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/2a599626-e604-496f-a92d-393846e02233) |
 
 ## About This Role
 
-This ai / ml research position at Bjak was posted on 2026-04-30.
+This machine learning engineer position at Bjak was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Richardson, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Staff-Software-Development-Engineer--Agentic-AI-ML-_R0941008-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Staff-Software-Development-Engineer--Agentic-AI-ML-_R0993323) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-06-10.
+This ai / llm engineer position at CVS Health was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

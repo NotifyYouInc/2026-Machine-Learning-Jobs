@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United Kingdom |
-| Category | Forward Deployed Engineer |
-| Posted | 2026-07-12 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002) |
 
 ## About This Role
 
-This forward deployed engineer position at Databricks was posted on 2026-07-12.
+This ai / llm engineer position at Databricks was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

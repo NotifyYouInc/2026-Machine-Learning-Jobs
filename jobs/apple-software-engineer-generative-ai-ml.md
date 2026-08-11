@@ -1,16 +1,16 @@
-# Software Engineer, Generative AI & ML at Apple
+# Software Engineer - Generative AI & ML at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200645480-3278/software-engineer-generative-ai-ml?team=SFTWR) |
+| Location | Shanghai, Shanghai, China |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200675445/software-engineer-generative-ai-ml) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-02-05.
+This ai / llm engineer position at Apple was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Penang, MY |
+| Location | Shanghai, Shanghai, China |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Software-Enabling-and-Optimization-Engineer_R02837) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Shanghai-China/Software-Enabling-and-Optimization-Engineer_R02443) |
 
 ## About This Role
 
-This machine learning engineer position at Altera Corporation was posted on 2026-07-24.
+This machine learning engineer position at Altera Corporation was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

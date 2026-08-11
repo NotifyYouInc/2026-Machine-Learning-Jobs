@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-4_R169389) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-4_R170864) |
 
 ## About This Role
 
-This machine learning engineer position at Adobe was posted on 2026-07-14.
+This machine learning engineer position at Adobe was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

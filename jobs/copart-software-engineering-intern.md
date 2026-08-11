@@ -5,12 +5,12 @@
 | Company | [Copart](https://scoutify.ai/companies/copart?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353) |
 
 ## About This Role
 
-This ai / llm engineer position at Copart was posted on 2026-07-30.
+This ai / llm engineer position at Copart was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
