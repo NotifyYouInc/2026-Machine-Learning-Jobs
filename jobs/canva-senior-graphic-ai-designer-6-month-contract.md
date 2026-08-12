@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001282666-senior-graphic-ai-designer-6-month-contract) |
 
 ## About This Role
 
-This machine learning engineer position at Canva was posted on 2026-08-04.
+This ai / ml research position at Canva was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

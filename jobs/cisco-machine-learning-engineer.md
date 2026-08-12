@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | San Jose, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seattle-Washington-US/Machine-Learning-Engineer_2017922-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer_2021531) |
 
 ## About This Role
 
-This machine learning engineer position at Cisco was posted on 2026-06-30.
+This machine learning engineer position at Cisco was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

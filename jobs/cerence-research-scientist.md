@@ -5,12 +5,12 @@
 | Company | [Cerence](https://scoutify.ai/companies/cerence?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | AI / ML Research |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Hinjewadi-Pune/Research-Scientist_R0005915) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Hinjewadi-Pune/Research-Scientist_R0005995) |
 
 ## About This Role
 
-This ai / ml research position at Cerence was posted on 2026-04-06.
+This ai / ml research position at Cerence was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

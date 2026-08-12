@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10490109/research-scientist-ii-last-mile-science) |
 
 ## About This Role
 
-This machine learning engineer position at Amazon was posted on 2026-08-03.
+This ai / ml research position at Amazon was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

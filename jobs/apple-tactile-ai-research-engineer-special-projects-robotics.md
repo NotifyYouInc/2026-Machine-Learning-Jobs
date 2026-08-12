@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200675551/tactile-ai-research-engineer-special-projects-robotics) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-08-04.
+This ai / ml research position at Apple was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

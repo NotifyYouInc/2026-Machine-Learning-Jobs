@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000126284868-ai-engineering-lead) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000141550085-ai-engineering-lead) |
 
 ## About This Role
 
-This ai / llm engineer position at Blend360 was posted on 2026-05-13.
+This ai / llm engineer position at Blend360 was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

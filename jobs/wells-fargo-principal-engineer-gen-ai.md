@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Principal-Engineer---Gen-AI_R-563682) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Principal-Engineer---Gen-AI_R-565422) |
 
 ## About This Role
 
-This ai / llm engineer position at Wells Fargo was posted on 2026-07-31.
+This ai / llm engineer position at Wells Fargo was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Large Recommendation Model Algorithm Engineer Intern (Global E-Commerce) - 2027 Start at TikTok
+# Large Recommendation Model Algorithm Engineer Intern (Global E-Commerce) - 2027 Start (PhD) at TikTok
 
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7666282799471528197/detail) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7666289053178169605/detail) |
 
 ## About This Role
 
-This machine learning engineer position at TikTok was posted on 2026-08-03.
+This ai / ml research position at TikTok was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

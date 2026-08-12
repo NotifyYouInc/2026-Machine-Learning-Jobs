@@ -1,16 +1,16 @@
-# Member of Technical Staff, Applied AI Research at DoorDash
+# Member of Technical Staff - Applied AI Research at DoorDash
 
 | Field | Details |
 |-------|---------|
 | Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/7706051) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/8105894) |
 
 ## About This Role
 
-This ai / ml research position at DoorDash was posted on 2026-07-22.
+This ai / ml research position at DoorDash was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HireVue](https://scoutify.ai/companies/hirevue?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sandy, Utah, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HireVue/744000141285569-io-product-science-intern-fully-remote-us) |
 
 ## About This Role
 
-This machine learning engineer position at HireVue was posted on 2026-08-03.
+This ai / ml research position at HireVue was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

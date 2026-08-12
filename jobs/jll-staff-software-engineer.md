@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Staff-Software-Engineer_REQ524296) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Staff-Software-Engineer_REQ526147-1) |
 
 ## About This Role
 
-This ai / llm engineer position at JLL was posted on 2026-07-31.
+This ai / llm engineer position at JLL was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

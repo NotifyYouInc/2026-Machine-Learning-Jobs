@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Sales Development (SDR / BDR) |
+| Category | AI / ML Research |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-Business-Development-Lead_R0245929) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Booz Allen was posted on 2026-08-04.
+This ai / ml research position at Booz Allen was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

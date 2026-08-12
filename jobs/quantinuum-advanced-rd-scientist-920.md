@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Quantinuum](https://scoutify.ai/companies/quantinuum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.eu.lever.co/quantinuum/04b85612-3283-4118-8310-e7a66bb6faa3) |
 
 ## About This Role
 
-This machine learning engineer position at Quantinuum was posted on 2026-08-03.
+This ai / ml research position at Quantinuum was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

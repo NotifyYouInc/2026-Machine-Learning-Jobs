@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Box](https://scoutify.ai/companies/box?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Redwood City, California, United States |
-| Category | AI / LLM Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/8077850) |
 
 ## About This Role
 
-This ai / llm engineer position at Box was posted on 2026-08-03.
+This devops engineer position at Box was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/AI-Engineer_R-0000175852-2) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/AI-Engineer_R-0000175871-1) |
 
 ## About This Role
 
-This machine learning engineer position at Royal Bank of Canada was posted on 2026-07-27.
+This ai / llm engineer position at Royal Bank of Canada was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

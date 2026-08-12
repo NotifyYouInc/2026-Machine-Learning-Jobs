@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Jalisco, Chiapas, Mexico |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/JaliscoMEX/Senior-Software-Engineer_REQ523745) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Senior-Software-Engineer_REQ526146) |
 
 ## About This Role
 
-This machine learning engineer position at JLL was posted on 2026-07-27.
+This ai / llm engineer position at JLL was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

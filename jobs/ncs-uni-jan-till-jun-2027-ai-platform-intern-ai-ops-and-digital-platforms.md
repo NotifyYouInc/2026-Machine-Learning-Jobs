@@ -1,16 +1,16 @@
-# [Uni – Jan till Jun 2027] AI Platform Intern (AI Ops and Digital Platforms) at NCS
+# [Uni - Jan till Jun 2027] AI Platform Intern (AI Ops and Digital Platforms) at NCS
 
 | Field | Details |
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001275863-uni-jan-till-jun-2027-ai-platform-intern-ai-ops-and-digital-platforms) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001287414-uni-jan-till-jun-2027-ai-platform-intern-ai-ops-and-digital-platforms) |
 
 ## About This Role
 
-This ai / llm engineer position at NCS was posted on 2026-07-31.
+This ai / llm engineer position at NCS was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

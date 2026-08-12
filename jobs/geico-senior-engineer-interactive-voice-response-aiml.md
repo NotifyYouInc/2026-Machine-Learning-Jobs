@@ -1,16 +1,16 @@
-# Senior Engineer, Interactive Voice Response - AI/ML at Geico
+# Senior Engineer,  Interactive Voice Response - AI/ML at Geico
 
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Senior-Engineer--Interactive-Voice-Response---AI-ML_R0064672) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Senior-Engineer---Interactive-Voice-Response---AI-ML_R0065037) |
 
 ## About This Role
 
-This ai / llm engineer position at Geico was posted on 2026-06-30.
+This ai / llm engineer position at Geico was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

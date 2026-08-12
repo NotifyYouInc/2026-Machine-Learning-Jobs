@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CERN](https://scoutify.ai/companies/cern?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Switzerland |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000141226797-corresponding-associateship-in-theoretical-physics) |
 
 ## About This Role
 
-This machine learning engineer position at CERN was posted on 2026-08-03.
+This ai / ml research position at CERN was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

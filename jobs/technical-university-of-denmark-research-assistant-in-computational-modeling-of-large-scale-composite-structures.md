@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Technical University of Denmark](https://scoutify.ai/companies/em2-cx-oj32255?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Roskilde, Zealand, Denmark |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://efzu.fa.em2.oraclecloud.com/jobs/#7783) |
 
 ## About This Role
 
-This machine learning engineer position at Technical University of Denmark was posted on 2026-08-03.
+This ai / ml research position at Technical University of Denmark was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

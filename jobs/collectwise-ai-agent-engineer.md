@@ -5,12 +5,12 @@
 | Company | [CollectWise](https://scoutify.ai/companies/yc-collectwise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at CollectWise was posted on 2026-05-13.
+This ai / llm engineer position at CollectWise was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

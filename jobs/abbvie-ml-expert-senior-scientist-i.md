@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014412546-ml-expert-senior-scientist-i) |
 
 ## About This Role
 
-This machine learning engineer position at AbbVie was posted on 2026-08-03.
+This ai / ml research position at AbbVie was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

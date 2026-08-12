@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Research-Scientist---Software-Architecture_R0139538) |
 
 ## About This Role
 
-This machine learning engineer position at Hitachi was posted on 2026-08-03.
+This ai / ml research position at Hitachi was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

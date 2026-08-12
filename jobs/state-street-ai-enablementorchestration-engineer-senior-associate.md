@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/AI-Enablement-Orchestration-Engineer---Senior-Associate_R-795514) |
 
 ## About This Role
 
-This data engineer position at State Street was posted on 2026-08-04.
+This ai / llm engineer position at State Street was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

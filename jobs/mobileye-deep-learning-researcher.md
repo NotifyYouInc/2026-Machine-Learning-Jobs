@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mobileye](https://scoutify.ai/companies/mobileye?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ramat Gan, Tel Aviv, Israel |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.eu.lever.co/mobileye/e8c3725e-4403-4982-a458-587c6fa25b8f) |
 
 ## About This Role
 
-This machine learning engineer position at Mobileye was posted on 2026-08-03.
+This ai / ml research position at Mobileye was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

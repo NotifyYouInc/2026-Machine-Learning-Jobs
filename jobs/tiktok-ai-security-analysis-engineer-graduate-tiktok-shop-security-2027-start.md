@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7668158657595803909/detail) |
 
 ## About This Role
 
-This machine learning engineer position at TikTok was posted on 2026-08-03.
+This cybersecurity engineer position at TikTok was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Cambridge-MA/Postdoctoral-Research-Fellow_RQ4073204) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Cambridge-MA/Postdoctoral-Research-Fellow---Apply-by-Email-Only_RQ4074944) |
 
 ## About This Role
 
-This ai / ml research position at Mass General Brigham was posted on 2026-07-22.
+This ai / ml research position at Mass General Brigham was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

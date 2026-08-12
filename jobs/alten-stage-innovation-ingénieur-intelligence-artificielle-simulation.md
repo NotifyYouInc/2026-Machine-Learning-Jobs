@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141191114-stage-innovation-ingenieur-intelligence-artificielle-simulation) |
 
 ## About This Role
 
-This machine learning engineer position at ALTEN was posted on 2026-08-03.
+This ai / ml research position at ALTEN was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

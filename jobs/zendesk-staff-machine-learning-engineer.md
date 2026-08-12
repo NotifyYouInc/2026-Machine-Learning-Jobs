@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | 4 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Melbourne-Australia/Staff-Machine-Learning-Engineer_R35193) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Krakow-Poland/Staff-Machine-Learning-Engineer_R35198) |
 
 ## About This Role
 
-This machine learning engineer position at Zendesk was posted on 2026-07-22.
+This machine learning engineer position at Zendesk was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

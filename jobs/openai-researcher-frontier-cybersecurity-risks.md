@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/openai/66e76c14-bb6e-4e26-a333-744bbe35abbb) |
 
 ## About This Role
 
-This machine learning engineer position at OpenAI was posted on 2026-08-03.
+This ai / ml research position at OpenAI was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

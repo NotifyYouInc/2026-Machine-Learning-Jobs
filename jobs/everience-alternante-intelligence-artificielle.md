@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | AI / ML Research |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000129688330-alternante-intelligence-artificielle) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000141503004-alternante-intelligence-artificielle) |
 
 ## About This Role
 
-This ai / ml research position at Everience was posted on 2026-06-02.
+This machine learning engineer position at Everience was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

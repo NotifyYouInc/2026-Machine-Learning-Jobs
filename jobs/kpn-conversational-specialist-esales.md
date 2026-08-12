@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000140196599-conversational-specialist-esales) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000141485748-conversational-specialist-esales) |
 
 ## About This Role
 
-This machine learning engineer position at KPN was posted on 2026-07-28.
+This ai / llm engineer position at KPN was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

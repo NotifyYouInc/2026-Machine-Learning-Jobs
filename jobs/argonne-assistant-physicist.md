@@ -5,12 +5,12 @@
 | Company | [Argonne](https://scoutify.ai/companies/argonne?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lemont, Illinois, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://argonne.wd1.myworkdayjobs.com/argonne_careers/job/Lemont-IL-USA/Assistant-Physicist_422961) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://argonne.wd1.myworkdayjobs.com/argonne_careers/job/Lemont-IL-USA/Assistant-Physicist_423197) |
 
 ## About This Role
 
-This ai / ml research position at Argonne was posted on 2026-06-17.
+This ai / ml research position at Argonne was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

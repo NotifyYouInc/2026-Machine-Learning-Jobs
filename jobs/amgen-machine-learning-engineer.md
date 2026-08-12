@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Machine-Learning-Engineer_R-250804) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Machine-Learning-Engineer_R-250971) |
 
 ## About This Role
 
-This machine learning engineer position at Amgen was posted on 2026-07-29.
+This machine learning engineer position at Amgen was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

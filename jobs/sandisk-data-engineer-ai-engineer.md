@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000141184679-data-engineer-ai-engineer) |
 
 ## About This Role
 
-This data engineer position at SanDisk was posted on 2026-08-03.
+This ai / llm engineer position at SanDisk was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

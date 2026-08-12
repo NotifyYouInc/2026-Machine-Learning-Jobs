@@ -1,4 +1,4 @@
-# AI Agent Algorithm Engineer Intern (Global E-Commerce, Conversational AI) - 2027 Start at TikTok
+# AI Agent Algorithm Engineer Intern (Global E-Commerce, Conversational AI) - 2027 Start (PhD) at TikTok
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7666284293297506565/detail) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7666284205945407797/detail) |
 
 ## About This Role
 

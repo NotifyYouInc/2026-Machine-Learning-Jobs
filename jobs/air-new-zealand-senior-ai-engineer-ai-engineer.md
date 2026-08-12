@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air New Zealand](https://scoutify.ai/companies/air-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Christchurch, Canterbury, New Zealand |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001233626-senior-ai-engineer-ai-engineer) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001286519-senior-ai-engineer-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Air New Zealand was posted on 2026-07-15.
+This ai / llm engineer position at Air New Zealand was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

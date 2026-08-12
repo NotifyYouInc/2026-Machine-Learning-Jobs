@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vienna, Vienna, Austria |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97008) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112546) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-02-26.
+This ai / llm engineer position at IBM was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

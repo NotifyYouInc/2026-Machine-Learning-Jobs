@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Oslo, Oslo, Norway |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000119349563-data-science-ml-engineer) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000141463831-data-science-ml-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Sopra Steria was posted on 2026-04-08.
+This machine learning engineer position at Sopra Steria was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
