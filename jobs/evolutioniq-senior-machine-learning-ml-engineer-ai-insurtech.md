@@ -5,12 +5,12 @@
 | Company | [EvolutionIQ](https://scoutify.ai/companies/evolutioniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/evolutioniq/jobs/6093879004) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/evolutioniq/jobs/6135244004) |
 
 ## About This Role
 
-This machine learning engineer position at EvolutionIQ was posted on 2026-06-18.
+This machine learning engineer position at EvolutionIQ was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

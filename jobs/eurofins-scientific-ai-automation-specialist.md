@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vejen, South Denmark, Denmark |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000137431213-ai-automation-specialist) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000141660269-ai-automation-specialist) |
 
 ## About This Role
 
-This ai / llm engineer position at Eurofins Scientific was posted on 2026-07-13.
+This ai / llm engineer position at Eurofins Scientific was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

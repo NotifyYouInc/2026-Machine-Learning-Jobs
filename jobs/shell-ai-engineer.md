@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Houston---Westhollow-Technology-Center/AI-Engineer_R200211) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Singapore/AI-Engineer_R206908) |
 
 ## About This Role
 
-This ai / llm engineer position at Shell was posted on 2026-03-25.
+This ai / llm engineer position at Shell was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

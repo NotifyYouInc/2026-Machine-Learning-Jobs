@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/IN---BENGALURU-PRIMECO-UNION-CITY/Senior-Engineer--Software-Engineering_313701-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Scientist |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Lead-Data-Scientist_325532-2) |
 
 ## About This Role
 
-This ai / llm engineer position at S&P Global was posted on 2026-03-03.
+This data scientist position at S&P Global was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

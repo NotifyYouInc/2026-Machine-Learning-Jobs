@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hyperfine](https://scoutify.ai/companies/hyperfine?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Guilford, Connecticut, United States |
+| Location | Palo Alto, California, United States |
 | Category | AI / ML Research |
-| Posted | 2025-12-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hyperfine53/jobs/5629439004) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hyperfine53/jobs/6135538004) |
 
 ## About This Role
 
-This ai / ml research position at Hyperfine was posted on 2025-12-12.
+This ai / ml research position at Hyperfine was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Sydney, New South Wales, Australia |
 | Category | Data Scientist |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/AI-ML-Computational-Scientist_R00346892) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney-International-House-3-Sussex-St/AI-ML-Computational-Science-Manager_R00340719) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-07-30.
+This data scientist position at Accenture was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000115391570-ia-data-engineer) |
+| Location | Luxembourg |
+| Category | Data Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000141849219-ia-data-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Talan was posted on 2026-03-18.
+This data engineer position at Talan was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

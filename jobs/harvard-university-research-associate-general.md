@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014271877-research-associate-general) |
+| Category | AI / ML Research |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014454606-research-associate-general) |
 
 ## About This Role
 
-This machine learning engineer position at Harvard University was posted on 2026-07-24.
+This ai / ml research position at Harvard University was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

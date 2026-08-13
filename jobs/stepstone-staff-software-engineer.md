@@ -5,12 +5,12 @@
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000126688360-staff-software-engineer) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000141706274-staff-software-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at StepStone was posted on 2026-05-15.
+This ai / llm engineer position at StepStone was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | East Hartford, Connecticut, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471) |
 
 ## About This Role
 
-This ai / ml research position at RTX was posted on 2026-07-20.
+This ai / ml research position at RTX was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

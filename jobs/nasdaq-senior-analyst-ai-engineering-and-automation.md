@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/India---Bangalore---Karnataka/Senior-Analyst-AI-Engineering-and-Automation_R0026275-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/India---Bangalore---Karnataka/Senior-Analyst-AI-Engineering-and-Automation_R0026299-1) |
 
 ## About This Role
 
-This ai / ml research position at Nasdaq was posted on 2026-06-10.
+This ai / llm engineer position at Nasdaq was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

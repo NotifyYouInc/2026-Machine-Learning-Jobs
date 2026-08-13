@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Agentic---Gen-AI---AI-50--Advisory--Bangalore_736804WD-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Agentic---Gen-AI---AI-50--Advisory--Bangalore_749626WD) |
 
 ## About This Role
 
-This ai / ml research position at PwC was posted on 2026-06-17.
+This ai / llm engineer position at PwC was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

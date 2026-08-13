@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 7 locations |
+| Location | 9 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000137468109-senior-ai-automation-engineer-mfd) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000141726170-senior-ai-automation-engineer-mfd) |
 
 ## About This Role
 
-This devops engineer position at T-Systems International was posted on 2026-07-13.
+This devops engineer position at T-Systems International was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

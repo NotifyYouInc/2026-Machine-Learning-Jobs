@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
-| Category | AI / ML Research |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-3/Senior-Analyst_JR103126) |
+| Location | Gurugram, Haryana, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Associate-Vice-President_JR120550) |
 
 ## About This Role
 
-This ai / ml research position at National Australia Bank (NAB) was posted on 2026-06-24.
+This ai / llm engineer position at National Australia Bank (NAB) was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

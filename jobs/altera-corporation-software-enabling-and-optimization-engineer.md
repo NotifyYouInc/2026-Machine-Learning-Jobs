@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Machine Learning Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Shanghai-China/Software-Enabling-and-Optimization-Engineer_R02443) |
 
 ## About This Role
 
-This machine learning engineer position at Altera Corporation was posted on 2026-08-03.
+This embedded / firmware engineer position at Altera Corporation was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

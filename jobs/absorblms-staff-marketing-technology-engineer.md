@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [absorblms](https://scoutify.ai/companies/absorblms?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/absorblms/3449c536-8e9f-4aac-8523-28b17b639f1d) |
+| Location | United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/absorblms/f4df19dc-be3f-4e34-925a-12285d354a9a) |
 
 ## About This Role
 
-This machine learning engineer position at absorblms was posted on 2026-07-29.
+This ai / llm engineer position at absorblms was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

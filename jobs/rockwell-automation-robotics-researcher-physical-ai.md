@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Waterloo, Ontario, Canada |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Robotics-Researcher---Physical-AI_R26-2154) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Robotics-Researcher---Physical-AI_R26-4200) |
 
 ## About This Role
 
-This ai / ml research position at Rockwell Automation was posted on 2026-04-07.
+This ai / ml research position at Rockwell Automation was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

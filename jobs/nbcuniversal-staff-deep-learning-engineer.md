@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000134289099-staff-deep-learning-engineer) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000141751169-staff-deep-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at NBCUniversal was posted on 2026-06-25.
+This machine learning engineer position at NBCUniversal was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

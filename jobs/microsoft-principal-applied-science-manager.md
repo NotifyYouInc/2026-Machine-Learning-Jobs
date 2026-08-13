@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556942551) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556948713) |
 
 ## About This Role
 
-This machine learning engineer position at Microsoft was posted on 2026-07-29.
+This machine learning engineer position at Microsoft was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

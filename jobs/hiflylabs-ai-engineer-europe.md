@@ -5,12 +5,12 @@
 | Company | [Hiflylabs](https://scoutify.ai/companies/hiflylabs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Hiflylabs/744000138290944-ai-engineer-europe) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Hiflylabs/744000141745655-ai-engineer-europe) |
 
 ## About This Role
 
-This ai / llm engineer position at Hiflylabs was posted on 2026-07-17.
+This ai / llm engineer position at Hiflylabs was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

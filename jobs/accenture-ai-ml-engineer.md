@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Puchong, Selangor, Malaysia |
-| Category | QA Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Puchong-PFCC-Tower-5/AI---ML-Engineer_14630576) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5468877-S2028953-1) |
 
 ## About This Role
 
-This qa engineer position at Accenture was posted on 2026-08-03.
+This machine learning engineer position at Accenture was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

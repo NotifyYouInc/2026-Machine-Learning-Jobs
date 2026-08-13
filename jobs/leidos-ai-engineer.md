@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Engineer_R-00175852) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AWS-Solutions-Engineer_R-00188788) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-11.
+This ai / llm engineer position at Leidos was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

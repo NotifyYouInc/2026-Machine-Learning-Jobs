@@ -5,12 +5,12 @@
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chengdu, Sichuan, China |
 | Category | Data Scientist |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-China-Chengdu/Manager--Data-Science_JR00009360-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-China-Chengdu/Manager--Data-Science_JR00010028) |
 
 ## About This Role
 
-This data scientist position at OCBC was posted on 2026-07-13.
+This data scientist position at OCBC was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

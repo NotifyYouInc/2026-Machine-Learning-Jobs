@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin/AI-Engineer_R00340987) |
+| Location | Málaga, Andalusia, Spain |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Malaga-Edificio-Hidalgo/AI-Engineer--Junior-Middle-_R00347456) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-07-06.
+This ai / llm engineer position at Accenture was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

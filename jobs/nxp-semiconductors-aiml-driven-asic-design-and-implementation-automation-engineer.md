@@ -1,16 +1,16 @@
-# AI/ML Driven ASIC Design and Implementation Automation Engineer at NXP Semiconductors
+# AI/ML driven ASIC Design and Implementation Automation Engineer at NXP Semiconductors
 
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Diego, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/San-Diego-Treena-St/AI-ML-Driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065725) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/San-Diego-Treena-St/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065564) |
 
 ## About This Role
 
-This devops engineer position at NXP Semiconductors was posted on 2026-07-30.
+This devops engineer position at NXP Semiconductors was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

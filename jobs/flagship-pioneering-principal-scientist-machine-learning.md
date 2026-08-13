@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flagship Pioneering](https://scoutify.ai/companies/flagshippioneeringinc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8436720002?gh_jid=8436720002) |
+| Location | Cambridge, Massachusetts, United States |
+| Category | AI / ML Research |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8684372002?gh_jid=8684372002) |
 
 ## About This Role
 
-This machine learning engineer position at Flagship Pioneering was posted on 2026-02-26.
+This ai / ml research position at Flagship Pioneering was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
