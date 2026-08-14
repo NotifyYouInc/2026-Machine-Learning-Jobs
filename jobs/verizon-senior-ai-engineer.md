@@ -5,12 +5,12 @@
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Senior-AI-Engineer_R-1097854-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Senior-AI-Engineer_R-1098867-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Verizon was posted on 2026-07-21.
+This ai / llm engineer position at Verizon was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

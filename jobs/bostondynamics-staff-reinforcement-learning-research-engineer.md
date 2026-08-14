@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bostondynamics](https://scoutify.ai/companies/bostondynamics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Waltham, Massachusetts, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://bostondynamics.wd1.myworkdayjobs.com/boston_dynamics/job/Waltham-Office-POST/Staff-Reinforcement-Learning-Research-Engineer_R2724) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://bostondynamics.wd1.myworkdayjobs.com/boston_dynamics/job/Waltham-Office-POST/Staff-Reinforcement-Learning-Research-Engineer_R2942-1) |
 
 ## About This Role
 
-This ai / ml research position at Bostondynamics was posted on 2026-05-12.
+This machine learning engineer position at Bostondynamics was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

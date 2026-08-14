@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Beavercreek, Ohio, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Staff-AI-Software-Engineer_R10221535) |
+| Location | El Segundo, California, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Staff-AI-Software-Engineer_R10243703) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-02-03.
+This ai / llm engineer position at Northrop Grumman was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

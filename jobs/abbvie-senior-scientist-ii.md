@@ -1,16 +1,16 @@
-# Senior Scientist II at AbbVie
+# Senior Scientist, II at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Worcester, Massachusetts, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013542606-senior-scientist-ii) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014474386-senior-scientist-ii) |
 
 ## About This Role
 
-This ai / ml research position at AbbVie was posted on 2026-06-09.
+This machine learning engineer position at AbbVie was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

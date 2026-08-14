@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3161805-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2) |
 
 ## About This Role
 
-This ai / ml research position at Hewlett Packard (HP) was posted on 2026-04-22.
+This ai / llm engineer position at Hewlett Packard (HP) was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

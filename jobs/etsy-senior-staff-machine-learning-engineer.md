@@ -5,12 +5,12 @@
 | Company | [Etsy](https://scoutify.ai/companies/etsy?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brooklyn, New York, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Senior-Staff-Machine-Learning-Engineer_JR5413-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Senior-Staff-Machine-Learning-Engineer_JR5795-1) |
 
 ## About This Role
 
-This machine learning engineer position at Etsy was posted on 2026-03-18.
+This machine learning engineer position at Etsy was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

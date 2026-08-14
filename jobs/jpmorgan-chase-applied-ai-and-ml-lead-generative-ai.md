@@ -5,12 +5,12 @@
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Jersey City, New Jersey, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765128) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778468) |
 
 ## About This Role
 
-This ai / llm engineer position at JPMorgan Chase was posted on 2026-07-16.
+This ai / llm engineer position at JPMorgan Chase was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

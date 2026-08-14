@@ -5,12 +5,12 @@
 | Company | [Griffith University](https://scoutify.ai/companies/griffith-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Nathan, Queensland, Australia |
 | Category | AI / ML Research |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/griffithuniversity/744000134174079-csiro-industry-phd-scholarship-training-humanoid-robots-for-high-risk-applications-using-large-and-small-ai-models) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/griffithuniversity/744000142043849-csiro-industry-phd-scholarship-training-humanoid-robots-for-high-risk-applications-using-large-and-small-ai-models) |
 
 ## About This Role
 
-This ai / ml research position at Griffith University was posted on 2026-06-25.
+This ai / ml research position at Griffith University was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

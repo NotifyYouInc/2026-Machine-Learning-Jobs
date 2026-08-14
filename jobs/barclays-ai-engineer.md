@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/London-Luke-Street-Eagle-Lab/AI-Conversational-Designer_JR-0000084666) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Engineer_JR-0000113698-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Barclays was posted on 2026-04-23.
+This ai / llm engineer position at Barclays was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

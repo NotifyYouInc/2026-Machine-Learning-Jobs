@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000141485748-conversational-specialist-esales) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000141650126-conversational-specialist-esales) |
 
 ## About This Role
 
-This ai / llm engineer position at KPN was posted on 2026-08-04.
+This ai / llm engineer position at KPN was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

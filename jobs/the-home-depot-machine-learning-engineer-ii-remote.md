@@ -1,16 +1,16 @@
-# Machine Learning Engineer II (Remote) at The Home Depot
+# MACHINE LEARNING ENGINEER  II (REMOTE) at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Georgia, US |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Machine-Learning-Engineer-II--Remote-_Req169717) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/MACHINE-LEARNING-ENGINEER--II--REMOTE-_Req188389) |
 
 ## About This Role
 
-This machine learning engineer position at The Home Depot was posted on 2026-02-25.
+This machine learning engineer position at The Home Depot was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139371520-staff-machine-learning-engineer-agentic-app-platform) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000142013444-staff-machine-learning-engineer-agentic-app-platform) |
 
 ## About This Role
 
-This machine learning engineer position at ServiceNow was posted on 2026-07-23.
+This machine learning engineer position at ServiceNow was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

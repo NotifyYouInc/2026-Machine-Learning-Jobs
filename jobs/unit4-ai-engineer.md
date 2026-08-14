@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000139968327-ai-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000141870350-ai-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Unit4 was posted on 2026-07-27.
+This ai / llm engineer position at Unit4 was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

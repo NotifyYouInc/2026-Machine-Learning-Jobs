@@ -1,16 +1,16 @@
-# AI Enablement Engineer- Developer Experience at Tulip Interfaces
+# AI Enablement Engineer-Developer Experience at Tulip Interfaces
 
 | Field | Details |
 |-------|---------|
 | Company | [Tulip Interfaces](https://scoutify.ai/companies/tulip-interfaces?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Somerville, Massachusetts, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://tulip.co/careers/job-posting/?gh_jid=7820441003) |
+| Location | Budapest, Budapest, Hungary |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://tulip.co/careers/job-posting/?gh_jid=7821217003) |
 
 ## About This Role
 
-This machine learning engineer position at Tulip Interfaces was posted on 2026-07-29.
+This ai / llm engineer position at Tulip Interfaces was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

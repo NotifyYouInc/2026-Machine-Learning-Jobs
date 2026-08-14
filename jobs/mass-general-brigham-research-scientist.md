@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cambridge, Massachusetts, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Cambridge-MA/Research-Scientist_RQ4073924) |
+| Location | Boston, Massachusetts, United States |
+| Category | AI / ML Research |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Scientist_RQ4074971) |
 
 ## About This Role
 
-This machine learning engineer position at Mass General Brigham was posted on 2026-07-27.
+This ai / ml research position at Mass General Brigham was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 
