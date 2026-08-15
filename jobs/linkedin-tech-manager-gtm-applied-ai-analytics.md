@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000127575618-tech-manager-gtm-applied-ai-analytics) |
+| Category | Go To Market Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000142169569-tech-manager-gtm-applied-ai-analytics) |
 
 ## About This Role
 
-This machine learning engineer position at LinkedIn was posted on 2026-05-21.
+This go to market engineer position at LinkedIn was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

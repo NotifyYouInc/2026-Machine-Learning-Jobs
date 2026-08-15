@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / ML Research |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQijRMNVNKX4p82DLZvevYUYkCXqi9mQjYs3DH4YP5DtEjsA1Ny_i31Tofvi0_wxM0t8jpz0YsgY2k7b2laWPmEMLb3yAfK3WOBAMXmEU1Quf3LbGtE9GH1Hxhye6w%3D%3D_V2&loc=SG&title=Staff+Research+Engineer) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTXj775a43XH7V1SDSWaeWiR2aEn1FhPnYqkZEMByX19EjsA1Ny_i5w5pHnIoyLhYDM4taVeRvRF0bRd_6wWm1Jm2nJ92p-VOyhOIPke_3TXUsZbp3qTQKChba7l6g%3D%3D_V2&loc=SG&title=Staff+Research+Engineer) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-06-22.
+This ai / ml research position at Google was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

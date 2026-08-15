@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montevideo, Montevideo Department, Uruguay |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000138887429-ai-engineer-manager) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000142192959-ai-engineer-manager) |
 
 ## About This Role
 
-This ai / llm engineer position at Blend360 was posted on 2026-07-21.
+This ai / llm engineer position at Blend360 was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Medfar](https://scoutify.ai/companies/medfar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/medfar/744000128795839-prompt-engineer) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/medfar/744000142074940-prompt-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Medfar was posted on 2026-05-27.
+This ai / llm engineer position at Medfar was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

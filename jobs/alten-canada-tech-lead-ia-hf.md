@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boulogne-Billancourt, Île-de-France, France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000130028813-tech-lead-ia-hf) |
+| Location | Paris, Île-de-France, France |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142100924-tech-lead-ia-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN Canada was posted on 2026-06-03.
+This machine learning engineer position at ALTEN Canada was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

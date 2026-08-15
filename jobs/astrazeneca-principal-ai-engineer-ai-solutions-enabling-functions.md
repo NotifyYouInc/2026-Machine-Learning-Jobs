@@ -5,12 +5,12 @@
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/Principal-AI-Engineer---AI-Solutions--Enabling-Functions-_R-256189-2) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/Principal-AI-Engineer---AI-Solutions--Enabling-Functions-_R-257843-2) |
 
 ## About This Role
 
-This ai / llm engineer position at AstraZeneca was posted on 2026-07-14.
+This ai / llm engineer position at AstraZeneca was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

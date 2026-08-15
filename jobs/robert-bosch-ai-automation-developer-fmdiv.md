@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cacia, Aveiro, Portugal |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134304559-ai-automation-developer-fmdiv) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142150504-ai-automation-developer-fmdiv) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-06-25.
+This ai / llm engineer position at Robert Bosch was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

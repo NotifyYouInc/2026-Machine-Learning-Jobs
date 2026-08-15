@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Metanet](https://scoutify.ai/companies/ocs-cx-oj69119?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://fa-eozb-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#1751) |
 
 ## About This Role
 
-This software engineer position at Metanet was posted on 2026-08-07.
+This machine learning engineer position at Metanet was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

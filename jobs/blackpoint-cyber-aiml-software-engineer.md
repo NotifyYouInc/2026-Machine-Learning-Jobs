@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackpoint Cyber](https://scoutify.ai/companies/blackpoint-20cyber?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Canada |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/blackpoint%20cyber/3e14cd73-940b-4d50-a72f-4a3e26ce375b) |
 
 ## About This Role
 
-This software engineer position at Blackpoint Cyber was posted on 2026-08-06.
+This machine learning engineer position at Blackpoint Cyber was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

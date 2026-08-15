@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Lead-Agentic-AI-Engineer_R-0000181102) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Lead-Agentic-AI-Engineer_R-0000182936-2) |
 
 ## About This Role
 
-This ai / llm engineer position at Royal Bank of Canada was posted on 2026-07-17.
+This ai / llm engineer position at Royal Bank of Canada was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

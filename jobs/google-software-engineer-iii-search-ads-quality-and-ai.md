@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Zürich, Zurich, Switzerland |
-| Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTXPYlwMBm1czWzsFq_-TCSRnaOP96NZYul0GAac0g2MEjsA1Ny_i5LDwJD6Yd0jQ1MCEzGgte69m6iMQ_iTyIwjV9PVgjregFOOYQRGV9qXcbeoRq5-Pne54X7cUg%3D%3D_V2&loc=CH&title=Software+Engineer+III) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckbvl-gqFvkLg-PvyQ0Zo5w3ZkGlJUInJAhxpV2SSY1SREjsA1Ny_i8UpsBNvNTou74_CHR8jY_edWCnMNvH8Xb6Qe_rlkRY6BbRItzrkp_NNgX6bl_VWqtqCGgzXcA%3D%3D_V2&loc=CH&title=Software+Engineer+III) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-07-06.
+This machine learning engineer position at Google was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

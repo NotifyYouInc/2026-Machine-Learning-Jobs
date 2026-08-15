@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://www.uber.com/global/en/careers/list/303759/) |
 
 ## About This Role
 
-This software engineer position at Uber was posted on 2026-08-06.
+This machine learning engineer position at Uber was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

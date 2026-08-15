@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-London-10-Paternoster-Square/Core-AI-Engineer_R0121927) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Core-AI-Engineer_R0121928-1) |
 
 ## About This Role
 
-This ai / llm engineer position at LSEG was posted on 2026-08-05.
+This ai / llm engineer position at LSEG was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

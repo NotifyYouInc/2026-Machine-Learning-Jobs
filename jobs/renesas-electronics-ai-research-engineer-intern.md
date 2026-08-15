@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000138716096-ai-research-engineer-intern) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000142205779-ai-research-engineer-intern) |
 
 ## About This Role
 
-This ai / ml research position at Renesas Electronics was posted on 2026-07-20.
+This ai / ml research position at Renesas Electronics was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

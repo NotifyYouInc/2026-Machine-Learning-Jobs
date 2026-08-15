@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10424662/software-development-engineer-conversational-ads-experience) |
+| Location | Seattle, Washington, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10496449/software-development-engineer-conversational-ads-experience) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-20.
+This ai / llm engineer position at Amazon was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Nuevo León, Baja California, Mexico |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/Sr-AI-Engineer_WD30274656) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/Sr-AI-Engineer_WD30276389) |
 
 ## About This Role
 
-This ai / llm engineer position at Johnson Controls was posted on 2026-07-16.
+This ai / llm engineer position at Johnson Controls was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

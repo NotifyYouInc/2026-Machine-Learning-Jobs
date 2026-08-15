@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Jacksonville, Florida, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Gen-AI-Software-Engineer---Vice-President_26948074) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Gen-AI-Software-Engineer---Vice-President_26948069) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-06-09.
+This ai / llm engineer position at Citigroup was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

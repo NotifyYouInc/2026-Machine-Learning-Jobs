@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Lead-Software-Engineer--AWS--Snowflake---ML-Backend-_R0000386976-1) |
 
 ## About This Role
 
-This software engineer position at Caterpillar Inc. was posted on 2026-08-07.
+This machine learning engineer position at Caterpillar Inc. was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

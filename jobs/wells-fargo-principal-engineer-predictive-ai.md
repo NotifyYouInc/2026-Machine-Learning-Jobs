@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-15 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Principal-Engineer_R-516637) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Principal-Engineer---Predictive-AI_R-564431) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-02-15.
+This ai / llm engineer position at Wells Fargo was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

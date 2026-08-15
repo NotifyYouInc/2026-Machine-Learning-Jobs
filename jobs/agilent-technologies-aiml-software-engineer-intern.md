@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Agilent Technologies](https://scoutify.ai/companies/agilent-technologies?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/China-Shanghai/AI-ML-Software-Engineer-Intern_4036431) |
 
 ## About This Role
 
-This software engineer position at Agilent Technologies was posted on 2026-08-06.
+This machine learning engineer position at Agilent Technologies was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 
