@@ -1,16 +1,16 @@
-# PhD Research Scientist Intern at Canva
+# Founding Research Engineer at Ambral
 
 | Field | Details |
 |-------|---------|
-| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Ambral](https://scoutify.ai/companies/ambral?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/ambral/jobs/gxgMYct-founding-research-engineer) |
 
 ## About This Role
 
-This ai / ml research position at Canva was posted on 2026-08-06.
+This ai / ml research position at Ambral was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

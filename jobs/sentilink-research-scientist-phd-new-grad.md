@@ -1,16 +1,16 @@
-# PhD Research Scientist Intern at Canva
+# Research Scientist, PhD New Grad at Sentilink
 
 | Field | Details |
 |-------|---------|
-| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Sentilink](https://scoutify.ai/companies/sentilink?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | AI / ML Research |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sentilink/f9a47314-c48a-4053-a113-6974b211559f) |
 
 ## About This Role
 
-This ai / ml research position at Canva was posted on 2026-08-06.
+This ai / ml research position at Sentilink was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

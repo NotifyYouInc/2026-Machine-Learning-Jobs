@@ -1,16 +1,16 @@
-# Senior Algorithm Engineer at Beacon Biosignals
+# Staff ML Engineer (ML/AI) at Lyra Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Beacon Biosignals](https://scoutify.ai/companies/beacon-biosignals?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Lyra Health](https://scoutify.ai/companies/lyra-health?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4361222009) |
+| Apply | [View on company site](https://jobs.lever.co/lyrahealth/d4806b14-3818-4aca-af97-96bb88dd0b4c) |
 
 ## About This Role
 
-This machine learning engineer position at Beacon Biosignals was posted on 2026-08-08.
+This machine learning engineer position at Lyra Health was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance) - 2027 Start at TikTok
+# Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance) - 2027 Start (PhD) at TikTok
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | San Jose, California, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-08-06 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7669913085331409205/detail) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7669908897587824949/detail) |
 
 ## About This Role
 
