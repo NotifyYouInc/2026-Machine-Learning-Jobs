@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Match Group](https://scoutify.ai/companies/matchgroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | West Hollywood, Florida, United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.lever.co/matchgroup/dcc0335f-d4bf-4919-bfab-490e8b3913f5) |
 
 ## About This Role
 
-This machine learning engineer position at Match Group was posted on 2026-08-07.
+This software engineer position at Match Group was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

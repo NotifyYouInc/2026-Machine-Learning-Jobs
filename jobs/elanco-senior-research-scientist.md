@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elanco](https://scoutify.ai/companies/elanco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/CN---Shanghai/Senior-Research-Scientist_R0026590-1) |
+| Location | Indianapolis, Indiana, United States |
+| Category | AI / ML Research |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Senior-Research-Scientist_R0026648-1) |
 
 ## About This Role
 
-This machine learning engineer position at Elanco was posted on 2026-08-01.
+This ai / ml research position at Elanco was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Profluent](https://scoutify.ai/companies/profluent-540715?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Emeryville, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/profluent/jobs/5290271008) |
 
 ## About This Role
 
-This machine learning engineer position at Profluent was posted on 2026-08-07.
+This software engineer position at Profluent was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

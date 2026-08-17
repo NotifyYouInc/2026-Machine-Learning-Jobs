@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Data Analyst |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Reporting-Insights-and-GenAI-Assistant-Vice-President_26984025) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-06.
+This ai / llm engineer position at Citigroup was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

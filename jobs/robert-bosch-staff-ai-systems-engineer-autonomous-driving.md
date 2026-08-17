@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139911929-staff-ai-systems-engineer-autonomous-driving) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142557569-staff-ai-systems-engineer-autonomous-driving) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-07-27.
+This machine learning engineer position at Robert Bosch was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Kuala-Lumpur-Malaysia/Search-Engineer--Solr--Alibaba-OpenSearch---Elasticsearch-Service-_R014845) |
 
 ## About This Role
 
-This machine learning engineer position at AVEVA was posted on 2026-08-06.
+This software engineer position at AVEVA was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

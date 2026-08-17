@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
-| Category | DevOps Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7670876223732762933/detail) |
 
 ## About This Role
 
-This devops engineer position at TikTok was posted on 2026-08-07.
+This ai / llm engineer position at TikTok was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

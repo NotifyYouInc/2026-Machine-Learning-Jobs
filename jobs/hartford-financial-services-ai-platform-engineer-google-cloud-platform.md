@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
-| Category | DevOps Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/AI-Platform-Engineer--Google-Cloud-Platform-_R2626341-1) |
 
 ## About This Role
 
-This devops engineer position at Hartford Financial Services was posted on 2026-08-07.
+This ai / llm engineer position at Hartford Financial Services was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

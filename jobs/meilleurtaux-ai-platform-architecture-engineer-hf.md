@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meilleurtaux](https://scoutify.ai/companies/meilleurtaux?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | DevOps Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000141914956-ai-platform-architecture-engineer-hf) |
 
 ## About This Role
 
-This devops engineer position at Meilleurtaux was posted on 2026-08-06.
+This ai / llm engineer position at Meilleurtaux was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

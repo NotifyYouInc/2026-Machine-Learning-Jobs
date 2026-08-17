@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000142091699-senior-ml-engineering-lead-financial-crime) |
 
 ## About This Role
 
-This machine learning engineer position at WISE was posted on 2026-08-07.
+This software engineer position at WISE was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

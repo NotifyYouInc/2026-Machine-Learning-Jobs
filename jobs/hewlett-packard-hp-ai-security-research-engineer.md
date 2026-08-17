@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bristol, England, United Kingdom |
-| Category | AI / ML Research |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bristol-Bristol-City-of-United-Kingdom/AI-Security-Research-Engineer_3164616-1) |
 
 ## About This Role
 
-This ai / ml research position at Hewlett Packard (HP) was posted on 2026-08-06.
+This cybersecurity engineer position at Hewlett Packard (HP) was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

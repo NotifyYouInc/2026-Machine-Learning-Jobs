@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [G-P](https://scoutify.ai/companies/g-p?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7827808003) |
 
 ## About This Role
 
-This devops engineer position at G-P was posted on 2026-08-07.
+This ai / llm engineer position at G-P was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

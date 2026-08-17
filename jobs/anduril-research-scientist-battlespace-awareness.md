@@ -1,16 +1,16 @@
-# Research Scientist, Battlespace Awareness  at Anduril
+# Research Scientist, Battlespace Awareness at Anduril
 
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Broomfield, Colorado, United States |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5178310007?gh_jid=5178310007) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5207729007?gh_jid=5207729007) |
 
 ## About This Role
 
-This ai / ml research position at Anduril was posted on 2026-07-01.
+This ai / ml research position at Anduril was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

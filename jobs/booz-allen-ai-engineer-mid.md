@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | DevOps Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/AI-Engineer--Mid_R0246103) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-08-07.
+This ai / llm engineer position at Booz Allen was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

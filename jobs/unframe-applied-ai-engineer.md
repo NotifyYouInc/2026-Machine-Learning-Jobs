@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Israel |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4937911101) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4949176101) |
 
 ## About This Role
 
-This machine learning engineer position at Unframe was posted on 2026-07-26.
+This ai / llm engineer position at Unframe was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

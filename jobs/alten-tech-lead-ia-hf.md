@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000142100924-tech-lead-ia-hf) |
 
 ## About This Role
 
-This machine learning engineer position at ALTEN was posted on 2026-08-07.
+This software engineer position at ALTEN was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

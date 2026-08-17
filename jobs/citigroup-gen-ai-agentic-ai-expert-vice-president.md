@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Gen-AI-Agentic-AI-Expert-Vice-President_26981386-1) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-08-06.
+This ai / llm engineer position at Citigroup was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

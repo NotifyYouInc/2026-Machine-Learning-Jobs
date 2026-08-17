@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Basel, Basel-City, Switzerland |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Basel-City/Executive-Director-of-Applied-AI_REQ-10084252-1) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Cambridge-USA/Executive-Director-of-Applied-AI_REQ-10085251) |
 
 ## About This Role
 
-This ai / llm engineer position at Novartis was posted on 2026-08-05.
+This ai / llm engineer position at Novartis was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

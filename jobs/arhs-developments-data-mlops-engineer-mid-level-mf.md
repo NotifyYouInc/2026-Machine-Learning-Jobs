@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Luxembourg |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000142109150-data-mlops-engineer-mid-level-mf) |
 
 ## About This Role
 
-This devops engineer position at ARHS Developments was posted on 2026-08-07.
+This data engineer position at ARHS Developments was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

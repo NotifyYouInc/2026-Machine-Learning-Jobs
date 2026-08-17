@@ -6,7 +6,7 @@
 | Location | Vietnam |
 | Category | Machine Learning Engineer |
 | Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141832219-bd-junior-artificial-inteligence-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141858919-bd-junior-artificial-inteligence-developer) |
 
 ## About This Role
 
