@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | AI / LLM Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Mexico---Mexico-City/Senior-Manager--Data-Science-and-Agentic-AI_R-144496) |
 
 ## About This Role
 
-This ai / llm engineer position at Coca-Cola was posted on 2026-08-08.
+This data scientist position at Coca-Cola was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

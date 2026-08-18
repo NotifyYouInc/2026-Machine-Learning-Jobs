@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000141898894-security-software-engineer-ii-ai) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000142780519-security-software-engineer-ii-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at Sixt was posted on 2026-08-06.
+This ai / llm engineer position at Sixt was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

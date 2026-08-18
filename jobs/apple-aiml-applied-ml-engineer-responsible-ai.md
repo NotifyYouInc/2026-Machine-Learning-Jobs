@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200645686/aiml-applied-ml-engineer-responsible-ai) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200676359/aiml-applied-ml-engineer-responsible-ai) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-02-12.
+This machine learning engineer position at Apple was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

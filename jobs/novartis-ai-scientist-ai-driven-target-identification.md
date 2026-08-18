@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cambridge, Massachusetts, United States |
-| Category | Bioinformatics / Computational Biology |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Cambridge-USA/AI-Scientist---AI-Driven-Target-Identification_REQ-10084383-1) |
+| Location | Basel, Basel-City, Switzerland |
+| Category | AI / ML Research |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Basel-City/AI-Scientist---AI-Driven-Target-Identification_REQ-10084379-2) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Novartis was posted on 2026-07-28.
+This ai / ml research position at Novartis was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Mexico-City-Mexico-City-Mexico/Senior-Data-Science-Engineer_JR107833) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Senior-Data-Science-Engineer_JR108346) |
 
 ## About This Role
 
-This machine learning engineer position at Sabre was posted on 2026-04-28.
+This data scientist position at Sabre was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

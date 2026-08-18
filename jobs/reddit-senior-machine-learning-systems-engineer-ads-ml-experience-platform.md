@@ -5,12 +5,12 @@
 | Company | [Reddit](https://scoutify.ai/companies/reddit?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/8022136) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/8112967) |
 
 ## About This Role
 
-This machine learning engineer position at Reddit was posted on 2026-06-22.
+This machine learning engineer position at Reddit was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

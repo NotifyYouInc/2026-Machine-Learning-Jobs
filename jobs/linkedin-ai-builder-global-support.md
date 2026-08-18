@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Go To Market Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000140314069-ai-builder-global-support) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000142783940-ai-builder-global-support) |
 
 ## About This Role
 
-This go to market engineer position at LinkedIn was posted on 2026-07-28.
+This ai / llm engineer position at LinkedIn was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

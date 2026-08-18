@@ -5,12 +5,12 @@
 | Company | [Argonne](https://scoutify.ai/companies/argonne?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lemont, Illinois, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://argonne.wd1.myworkdayjobs.com/argonne_careers/job/Lemont-IL-USA/Faculty-Research-Participant---George-Thiruvathukal_422616) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://argonne.wd1.myworkdayjobs.com/argonne_careers/job/Lemont-IL-USA/Faculty-Research-Participant---George-Thiruvathukal_423220) |
 
 ## About This Role
 
-This ai / ml research position at Argonne was posted on 2026-04-22.
+This ai / ml research position at Argonne was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

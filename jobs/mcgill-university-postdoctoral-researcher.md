@@ -5,12 +5,12 @@
 | Company | [McGill University](https://scoutify.ai/companies/mcgill?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Duff-Medical-Bldg/Postdoctoral-Researcher_JR0000078732) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/5100-de-Maisonneuve-West/Postdoctoral-Researcher_JR0000079245-1) |
 
 ## About This Role
 
-This ai / ml research position at McGill University was posted on 2026-07-21.
+This ai / ml research position at McGill University was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

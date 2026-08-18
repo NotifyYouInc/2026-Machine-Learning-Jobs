@@ -5,12 +5,12 @@
 | Company | [Jefferson Health](https://scoutify.ai/companies/jefferson-health?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jeffersonhealth.wd5.myworkdayjobs.com/thomasjeffersonexternal/job/Philadelphia-PA/Post-Doctoral-Fellow_REQ-0033362) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jeffersonhealth.wd5.myworkdayjobs.com/thomasjeffersonexternal/job/Philadelphia-PA/Post-Doctoral-Fellow_REQ-0034697-1) |
 
 ## About This Role
 
-This ai / ml research position at Jefferson Health was posted on 2026-07-22.
+This ai / ml research position at Jefferson Health was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

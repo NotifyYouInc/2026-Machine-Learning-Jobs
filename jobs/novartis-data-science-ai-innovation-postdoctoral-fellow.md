@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cambridge, Massachusetts, United States |
-| Category | Bioinformatics / Computational Biology |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Cambridge-USA/Data-Science---AI-Innovation-Postdoctoral-Fellow_REQ-10084589-1) |
+| Location | San Diego, California, United States |
+| Category | Data Scientist |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/San-Diego/Data-Science---AI-Innovation-Postdoctoral-Fellow_REQ-10085085-1) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Novartis was posted on 2026-07-29.
+This data scientist position at Novartis was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

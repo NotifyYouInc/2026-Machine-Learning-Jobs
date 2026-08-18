@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Seattle, Washington, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Spain---Madrid/Senior-Machine-Learning-Engineer_R-106991) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Machine-Learning-Engineer_R-108467) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-06-25.
+This machine learning engineer position at Expedia was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer (all genders) at Zalando
+# Senior Machine Learning Engineer (All genders) at Zalando
 
 | Field | Details |
 |-------|---------|
 | Company | [Zalando](https://scoutify.ai/companies/zalando?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://zalando.wd3.myworkdayjobs.com/zalandositewd/job/Berlin/Senior-Machine-Learning-Engineer--all-genders-_2724226) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://zalando.wd3.myworkdayjobs.com/zalandositewd/job/Berlin/Senior-Machine-Learning-Engineer--All-genders-_2724647-1) |
 
 ## About This Role
 
-This machine learning engineer position at Zalando was posted on 2026-06-10.
+This machine learning engineer position at Zalando was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

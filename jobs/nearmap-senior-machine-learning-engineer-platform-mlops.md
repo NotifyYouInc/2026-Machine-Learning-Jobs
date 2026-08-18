@@ -5,12 +5,12 @@
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New South Wales, AU |
 | Category | DevOps Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000141402399-senior-machine-learning-engineer-platform-mlops) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000142791599-senior-machine-learning-engineer-platform-mlops) |
 
 ## About This Role
 
-This devops engineer position at Nearmap was posted on 2026-08-04.
+This devops engineer position at Nearmap was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132169299-machine-learning-engineer) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000142595527-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at NielsenIQ was posted on 2026-06-15.
+This machine learning engineer position at NielsenIQ was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

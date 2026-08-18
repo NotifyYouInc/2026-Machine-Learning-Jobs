@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motional AD](https://scoutify.ai/companies/motional?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | 3 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://motional.com/open-positions/?gh_jid=7730611003#/7730611003) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://motional.com/open-positions/?gh_jid=7848484003#/7848484003) |
 
 ## About This Role
 
-This machine learning engineer position at Motional AD was posted on 2026-05-11.
+This machine learning engineer position at Motional AD was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

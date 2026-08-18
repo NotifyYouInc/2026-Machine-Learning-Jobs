@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Gen-AI-Developer_26955870) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Gen-AI-Developer_26984717-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-05-05.
+This ai / llm engineer position at Citigroup was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

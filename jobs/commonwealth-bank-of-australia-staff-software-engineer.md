@@ -5,12 +5,12 @@
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Staff-Software-Engineer_REQ263208) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Staff-Software-Engineer_REQ263209) |
 
 ## About This Role
 
-This ai / llm engineer position at Commonwealth Bank of Australia was posted on 2026-08-06.
+This ai / llm engineer position at Commonwealth Bank of Australia was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

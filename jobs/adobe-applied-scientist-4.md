@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Applied-Scientist-4_R167904-1) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Data Scientist |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Applied-Scientist-4_R171067) |
 
 ## About This Role
 
-This ai / ml research position at Adobe was posted on 2026-04-27.
+This data scientist position at Adobe was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

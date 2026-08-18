@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141918829-tech-lead-java-angular-ia-hf) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000142125322-tech-lead-java-angular-ia-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN was posted on 2026-08-06.
+This ai / llm engineer position at ALTEN was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

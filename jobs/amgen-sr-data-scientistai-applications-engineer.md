@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Data-Scientist-AI-Applications-Engineer_R-252407) |
 
 ## About This Role
 
-This ai / llm engineer position at Amgen was posted on 2026-08-07.
+This data scientist position at Amgen was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
