@@ -1,16 +1,16 @@
-# Staff AI Engineer  at Robots and Pencils
+# Staff AI Engineer at Robots and Pencils
 
 | Field | Details |
 |-------|---------|
 | Company | [Robots and Pencils](https://scoutify.ai/companies/robots-and-pencils?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | California, US |
+| Location | Houston, Texas, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5349912008) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5385934008) |
 
 ## About This Role
 
-This ai / llm engineer position at Robots and Pencils was posted on 2026-07-14.
+This ai / llm engineer position at Robots and Pencils was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

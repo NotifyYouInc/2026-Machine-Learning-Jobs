@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138272154-machine-learning-engineer) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000142827047-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Experian was posted on 2026-07-17.
+This machine learning engineer position at Experian was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

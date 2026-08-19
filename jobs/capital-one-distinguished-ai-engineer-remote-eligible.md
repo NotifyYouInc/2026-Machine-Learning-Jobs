@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/Distinguished-AI-Engineer--Remote-Eligible-_R247706-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/Distinguished-AI-Engineer--Remote-Eligible-_R248996) |
 
 ## About This Role
 
-This ai / llm engineer position at Capital One was posted on 2026-07-24.
+This ai / llm engineer position at Capital One was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

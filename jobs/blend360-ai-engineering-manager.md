@@ -1,16 +1,16 @@
-# AI Engineering Manager at Blend360
+#  AI Engineering Manager at Blend360
 
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000141549179-ai-engineering-manager) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000142960612-ai-engineering-manager) |
 
 ## About This Role
 
-This ai / llm engineer position at Blend360 was posted on 2026-08-04.
+This ai / llm engineer position at Blend360 was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

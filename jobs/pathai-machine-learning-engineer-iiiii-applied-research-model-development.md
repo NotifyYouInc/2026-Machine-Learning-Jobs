@@ -5,12 +5,12 @@
 | Company | [PathAI](https://scoutify.ai/companies/pathai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.pathai.com/careers/8062963002?gh_jid=8062963002) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.pathai.com/careers/8696752002?gh_jid=8696752002) |
 
 ## About This Role
 
-This machine learning engineer position at PathAI was posted on 2026-04-22.
+This machine learning engineer position at PathAI was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

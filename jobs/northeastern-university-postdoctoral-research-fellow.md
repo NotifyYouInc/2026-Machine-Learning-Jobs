@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northeastern University](https://scoutify.ai/companies/northeastern?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://northeastern.wd1.myworkdayjobs.com/careers/job/Portland-ME/Postdoctoral-Research-Fellow_R140142) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Fellow_R141274) |
 
 ## About This Role
 
-This ai / ml research position at Northeastern University was posted on 2026-05-28.
+This ai / ml research position at Northeastern University was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

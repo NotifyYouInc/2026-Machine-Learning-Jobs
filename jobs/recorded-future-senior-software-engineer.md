@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Recorded Future](https://scoutify.ai/companies/recorded-future?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/recordedfuture/jobs/8548004002) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/recordedfuture/jobs/8498383002) |
 
 ## About This Role
 
-This ai / llm engineer position at Recorded Future was posted on 2026-05-13.
+This ai / llm engineer position at Recorded Future was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

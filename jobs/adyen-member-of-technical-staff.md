@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7687317) |
+| Category | AI / ML Research |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/8050072) |
 
 ## About This Role
 
-This ai / llm engineer position at Adyen was posted on 2026-03-06.
+This ai / ml research position at Adyen was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Bellevue, Washington, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Associate-AI-Engineer_REQ357347) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ368120) |
 
 ## About This Role
 
-This ai / llm engineer position at T-Mobile was posted on 2026-06-11.
+This ai / llm engineer position at T-Mobile was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Location | Mountain View, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTXj775a43XH7V1SDSWaeWiR2aEn1FhPnYqkZEMByX19EjsA1Ny_i5w5pHnIoyLhYDM4taVeRvRF0bRd_6wWm1Jm2nJ92p-VOyhOIPke_3TXUsZbp3qTQKChba7l6g%3D%3D_V2&loc=SG&title=Staff+Research+Engineer) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfUfyYo7tVOhuIViFvBpebSccv1i_5w-I_O7MqlkpMy0EjsA1Ny_ixnAeG8p6TjOBlx-B0AGMRk2pIVqdydQnEYT9INy7O_mSIIABj04eCXjUarRxS6Z576c5QLY1w%3D%3D_V2&loc=US&title=Staff+Research+Engineer) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-08-07.
+This ai / ml research position at Google was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

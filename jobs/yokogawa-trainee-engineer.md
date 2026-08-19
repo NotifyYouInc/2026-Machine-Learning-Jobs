@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Saudi Arabia |
-| Category | AI / ML Research |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Al-Khobar/Trainee-Engineer_R-11044) |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Abu-Dhabi/Trainee-Engineer_R-12598) |
 
 ## About This Role
 
-This ai / ml research position at Yokogawa was posted on 2026-06-02.
+This machine learning engineer position at Yokogawa was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

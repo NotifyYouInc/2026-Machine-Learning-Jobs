@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/AI-Engineer_JR-02526418) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/AI-Engineer_JR-02593586-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Lowe's was posted on 2026-05-15.
+This ai / llm engineer position at Lowe's was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

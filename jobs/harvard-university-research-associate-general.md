@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | AI / ML Research |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014454606-research-associate-general) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014546626-research-associate-general) |
 
 ## About This Role
 
-This ai / ml research position at Harvard University was posted on 2026-08-05.
+This ai / ml research position at Harvard University was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

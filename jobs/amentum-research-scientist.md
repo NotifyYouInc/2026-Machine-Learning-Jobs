@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Research-Scientist_R0166049) |
+| Category | AI / ML Research |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Research-Scientist_R0167975) |
 
 ## About This Role
 
-This machine learning engineer position at Amentum was posted on 2026-07-27.
+This ai / ml research position at Amentum was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

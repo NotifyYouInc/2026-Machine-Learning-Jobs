@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Senior-AI-Machine-Learning-Engineer_R2625298) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Senior-AI-Machine-Learning-Engineer_R2626256) |
 
 ## About This Role
 
-This machine learning engineer position at Hartford Financial Services was posted on 2026-05-06.
+This machine learning engineer position at Hartford Financial Services was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Advisor---HIH---Evernorth_26009240) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Advisor---HIH---Evernorth_26006108-1) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-07-23.
+This ai / llm engineer position at Cigna was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

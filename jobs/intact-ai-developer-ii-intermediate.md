@@ -1,16 +1,16 @@
-# AI Developer II Intermediate at Intact
+# AI Developer II (Intermediate) at Intact
 
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/AI-Developer-II-Intermediate_R153509) |
+| Location | Montréal, Quebec, Canada |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/AI-Developer-II--Intermediate-_R154983) |
 
 ## About This Role
 
-This ai / ml research position at Intact was posted on 2026-06-01.
+This ai / llm engineer position at Intact was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

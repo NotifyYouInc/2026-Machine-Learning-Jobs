@@ -5,12 +5,12 @@
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/DEU---Berlin/Senior-AI-Engineer--Libra---Legal-AI-Assistant---m-f-d-_R0059132) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/DEU---Berlin/Senior-AI-Engineer--Libra---Legal-AI-Assistant---m-f-d-_R0059131) |
 
 ## About This Role
 
-This ai / llm engineer position at Wolters Kluwer was posted on 2026-08-05.
+This ai / llm engineer position at Wolters Kluwer was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 
