@@ -1,16 +1,16 @@
-# Principal Engineer -- AI Architect at Nagarro
+# Principal Engineer, AI Architect at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000123784970-principal-engineer-ai-architect) |
+| Location | India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000143143209-principal-engineer-ai-architect) |
 
 ## About This Role
 
-This ai / ml research position at Nagarro was posted on 2026-04-29.
+This ai / llm engineer position at Nagarro was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

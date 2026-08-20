@@ -5,12 +5,12 @@
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Waterford, Munster, Ireland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-26 |
+| Posted | 2026-08-12 |
 | Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterford-Waterford-Ireland/Lead-Machine-Learning-Engineer_JR00113192) |
 
 ## About This Role
 
-This machine learning engineer position at Sun Life Financial was posted on 2026-02-26.
+This machine learning engineer position at Sun Life Financial was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

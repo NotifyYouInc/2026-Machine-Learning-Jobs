@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Globalli](https://scoutify.ai/companies/globalli?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mexico |
+| Location | Pakistan |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/globalli/jobs/5125613007) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/globalli/jobs/5211123007) |
 
 ## About This Role
 
-This ai / llm engineer position at Globalli was posted on 2026-04-30.
+This ai / llm engineer position at Globalli was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

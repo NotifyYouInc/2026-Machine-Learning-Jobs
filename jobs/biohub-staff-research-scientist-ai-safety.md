@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Biohub](https://scoutify.ai/companies/biohub?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | New York City, New York, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/biohub/jobs/7997533) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/biohub/jobs/8127000) |
 
 ## About This Role
 
-This ai / ml research position at Biohub was posted on 2026-06-23.
+This ai / ml research position at Biohub was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior ML Engineer-AI Platform at Versant
+# Senior ML Engineer – AI Platform at Versant
 
 | Field | Details |
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Englewood Cliffs, New Jersey, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000138897839-senior-ml-engineer-ai-platform) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000143084859-senior-ml-engineer-ai-platform) |
 
 ## About This Role
 
-This machine learning engineer position at Versant was posted on 2026-07-21.
+This machine learning engineer position at Versant was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

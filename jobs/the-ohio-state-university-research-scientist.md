@@ -5,12 +5,12 @@
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Research-Scientist_R154925) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Research-Scientist_R156816-1) |
 
 ## About This Role
 
-This ai / ml research position at The Ohio State University was posted on 2026-07-17.
+This ai / ml research position at The Ohio State University was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

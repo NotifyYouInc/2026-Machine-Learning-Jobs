@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000118505282-software-engineer-machine-learning) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000143047249-software-engineer-machine-learning) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-04-02.
+This software engineer position at LinkedIn was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

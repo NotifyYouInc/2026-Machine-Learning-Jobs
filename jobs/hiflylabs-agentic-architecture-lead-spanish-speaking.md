@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hiflylabs](https://scoutify.ai/companies/hiflylabs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Blumenau, Santa Catarina, Brazil |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Hiflylabs/744000140173379-agentic-architecture-lead-spanish-speaking) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Hiflylabs/744000143107569-agentic-architecture-lead-spanish-speaking) |
 
 ## About This Role
 
-This machine learning engineer position at Hiflylabs was posted on 2026-07-28.
+This ai / llm engineer position at Hiflylabs was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

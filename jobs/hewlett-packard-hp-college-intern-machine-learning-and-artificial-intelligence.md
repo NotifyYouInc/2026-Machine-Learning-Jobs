@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Machine-Learning-and-Artificial-Intelligence_UNI2734-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Machine-Learning-and-Artificial-Intelligence_UNI4651-1) |
 
 ## About This Role
 
-This machine learning engineer position at Hewlett Packard (HP) was posted on 2026-03-18.
+This machine learning engineer position at Hewlett Packard (HP) was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

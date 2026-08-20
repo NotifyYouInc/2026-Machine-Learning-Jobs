@@ -1,16 +1,16 @@
-# Senior Software Engineer - AI at Thomson Reuters
+# Senior Software Engineer AI at Thomson Reuters
 
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Senior-Software-Engineer---AI_JREQ198126) |
+| Location | Eagan, Minnesota, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Software-Engineer-AI_JREQ202902) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-02-05.
+This ai / llm engineer position at Thomson Reuters was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | AI / LLM Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Noida/AI-security-Engineer_R0336035-2) |
 
 ## About This Role
 
-This ai / llm engineer position at Thales was posted on 2026-08-11.
+This cybersecurity engineer position at Thales was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

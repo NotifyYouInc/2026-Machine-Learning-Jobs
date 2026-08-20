@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/BI-Engineer--Snowflake-_R00282310) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok/AI-Engineer_14557410) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-08-10.
+This ai / llm engineer position at Accenture was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

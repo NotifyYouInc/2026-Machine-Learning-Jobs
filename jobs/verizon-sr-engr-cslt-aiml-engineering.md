@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | AI / ML Research |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Sr-Engr-Cslt-AI-ML-Engineering_R-1095428) |
+| Location | 3 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Sr-Engr-Cslt-AI-ML-Engineering_R-1099198-1) |
 
 ## About This Role
 
-This ai / ml research position at Verizon was posted on 2026-05-26.
+This machine learning engineer position at Verizon was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

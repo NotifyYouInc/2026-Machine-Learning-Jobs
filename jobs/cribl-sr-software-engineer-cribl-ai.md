@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cribl](https://scoutify.ai/companies/cribl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cribl.io/job-detail/?gh_jid=6008601004) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://cribl.io/job-detail/?gh_jid=6133820004) |
 
 ## About This Role
 
-This ai / ml research position at Cribl was posted on 2026-05-28.
+This ai / llm engineer position at Cribl was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

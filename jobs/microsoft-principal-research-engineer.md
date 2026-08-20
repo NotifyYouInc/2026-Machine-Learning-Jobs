@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556851181) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556961422) |
 
 ## About This Role
 
-This ai / ml research position at Microsoft was posted on 2026-03-20.
+This ai / ml research position at Microsoft was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Noida, Uttar Pradesh, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8470080002?gh_jid=8470080002) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8675375002?gh_jid=8675375002) |
 
 ## About This Role
 
-This ai / llm engineer position at VML was posted on 2026-04-23.
+This ai / llm engineer position at VML was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

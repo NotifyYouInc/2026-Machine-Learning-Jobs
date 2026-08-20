@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/AI-ML-Engineer--Lead_R0236392) |
+| Location | Ashburn, Virginia, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/AI-ML-Engineer--Lead_R0246710) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-03-20.
+This ai / llm engineer position at Booz Allen was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

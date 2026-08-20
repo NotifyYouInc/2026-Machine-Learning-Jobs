@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AvePoint](https://scoutify.ai/companies/avepoint?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Da Nang, Da Nang City, Vietnam |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://www.avepoint.com/careers/job-detail?gh_jid=8040081) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.avepoint.com/careers/job-detail?gh_jid=6328839) |
 
 ## About This Role
 
-This ai / llm engineer position at AvePoint was posted on 2026-07-10.
+This ai / llm engineer position at AvePoint was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

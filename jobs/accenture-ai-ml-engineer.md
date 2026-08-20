@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/AI---ML-Engineer_ATCI-5041135-S1866847-1) |
+| Location | Cebu City, Central Visayas, Philippines |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cebu-City/AI---ML-Engineer_ATCP-1459525-S426126) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-08-10.
+This ai / llm engineer position at Accenture was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vietnam |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141858919-bd-junior-artificial-inteligence-developer) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143064799-bd-junior-artificial-inteligence-developer) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-08-06.
+This machine learning engineer position at Robert Bosch was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

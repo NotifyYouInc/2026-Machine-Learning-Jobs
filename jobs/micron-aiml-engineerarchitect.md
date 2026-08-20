@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | AI / ML Research |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/AI-ML-Engineer-Architect_JR101749) |
+| Location | Boise, Idaho, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-ML-Engineer-Architect_JR108536) |
 
 ## About This Role
 
-This ai / ml research position at Micron was posted on 2026-05-16.
+This ai / llm engineer position at Micron was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

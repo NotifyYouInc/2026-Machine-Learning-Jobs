@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000140018174-senior-ai-backend-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000143227239-senior-ai-backend-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Version 1 was posted on 2026-07-27.
+This ai / llm engineer position at Version 1 was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
