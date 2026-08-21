@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Wuxi, Jiangsu, China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guangzhou-Juncheng/AI-Engineer_J2457125) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Wuxi/AI-Engineer_J2461057) |
 
 ## About This Role
 
-This ai / llm engineer position at Jabil was posted on 2026-07-10.
+This ai / llm engineer position at Jabil was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

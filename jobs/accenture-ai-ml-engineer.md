@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Cebu City, Central Visayas, Philippines |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cebu-City/AI---ML-Engineer_ATCP-1459525-S426126) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5482977-S2002431) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-08-11.
+This machine learning engineer position at Accenture was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

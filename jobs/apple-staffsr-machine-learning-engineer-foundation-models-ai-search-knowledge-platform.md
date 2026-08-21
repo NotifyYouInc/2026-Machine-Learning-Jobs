@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200651038/staff-sr-machine-learning-engineer-foundation-models-ai-search-knowledge-platforms) |
+| Location | Seattle, Washington, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200677962/staff-sr-machine-learning-engineer-foundation-models-ai-search-knowledge-platforms) |
 
 ## About This Role
 
-This ai / llm engineer position at Apple was posted on 2026-04-28.
+This machine learning engineer position at Apple was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Prompt-Engineer_ATCI-5642967-S2058355-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Prompt-Engineer_ATCI-5708549-S2064169-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-07-15.
+This ai / llm engineer position at Accenture was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

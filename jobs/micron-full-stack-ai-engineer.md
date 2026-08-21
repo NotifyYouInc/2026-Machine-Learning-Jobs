@@ -1,16 +1,16 @@
-# Full-Stack AI Engineer at Micron
+# Full Stack AI Engineer at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boise, Idaho, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR106377) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR108058) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-07-21.
+This ai / llm engineer position at Micron was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

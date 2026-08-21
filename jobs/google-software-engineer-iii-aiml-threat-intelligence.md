@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Málaga, Andalusia, Spain |
-| Category | Cybersecurity Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUKhpDmKasDla8_V8uSXjJrvFS5l_4LxK4ulRp_tp5eSEjsA1Ny_i3rbVsDy-sweyg58Aepe3Lu4bn0K0HB0mNgPI8uqvvauLwfzC4EmhiPEcLzFBwEuVxcplxcoJQ%3D%3D_V2&loc=ES&title=Software+Engineer+III) |
 
 ## About This Role
 
-This cybersecurity engineer position at Google was posted on 2026-08-12.
+This ai / llm engineer position at Google was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

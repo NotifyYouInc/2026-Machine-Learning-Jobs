@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Ohio, US |
+| Location | Columbus, Ohio, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/College-of-MedicineOffice-of-Health-Sciences/Post-Doctoral-Scholar--Neurology_R154603-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/College-of-MedicineOffice-of-Health-Sciences/Post-Doctoral-Scholar--Neurology_R156410-1) |
 
 ## About This Role
 
-This ai / ml research position at The Ohio State University was posted on 2026-07-08.
+This ai / ml research position at The Ohio State University was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

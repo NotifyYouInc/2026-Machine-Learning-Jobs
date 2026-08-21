@@ -5,12 +5,12 @@
 | Company | [Western Sydney University](https://scoutify.ai/companies/western-sydney-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Richmond, Victoria, Australia |
 | Category | AI / ML Research |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000001186789-postdoctoral-research-fellow-in-plant-photosynthesis-and-phenotyping) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000001315719-postdoctoral-research-fellow-in-plant-photosynthesis-and-phenotyping) |
 
 ## About This Role
 
-This ai / ml research position at Western Sydney University was posted on 2026-06-26.
+This ai / ml research position at Western Sydney University was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

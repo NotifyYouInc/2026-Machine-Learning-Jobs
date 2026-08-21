@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KIBBLERS NSW](https://scoutify.ai/companies/kibblers-nsw?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Australia |
-| Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://bunnings.wd3.myworkdayjobs.com/careers/job/Support-Office-VIC/Senior-Data-Engineer_R057939-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://bunnings.wd3.myworkdayjobs.com/careers/job/Support-Office-VIC/Senior-Software-Engineer---AI_R061714-1) |
 
 ## About This Role
 
-This software engineer position at KIBBLERS NSW was posted on 2026-04-30.
+This ai / llm engineer position at KIBBLERS NSW was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

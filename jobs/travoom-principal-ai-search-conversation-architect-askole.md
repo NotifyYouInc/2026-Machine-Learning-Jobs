@@ -5,12 +5,12 @@
 | Company | [Travoom](https://scoutify.ai/companies/travoom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Austin, Texas, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/travoom/744000139144890-principal-ai-search-conversation-architect-askole) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/travoom/744000143375199-principal-ai-search-conversation-architect-askole) |
 
 ## About This Role
 
-This ai / llm engineer position at Travoom was posted on 2026-07-22.
+This ai / llm engineer position at Travoom was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / ML Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127167589-software-engineer) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143281569-software-engineer) |
 
 ## About This Role
 
-This ai / ml research position at NielsenIQ was posted on 2026-05-19.
+This ai / llm engineer position at NielsenIQ was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

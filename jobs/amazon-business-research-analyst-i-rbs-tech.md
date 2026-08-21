@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443439/business-research-analyst-i-rbs-tech) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10500642/business-research-analyst-i-rbs-tech) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-09.
+This ai / ml research position at Amazon was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

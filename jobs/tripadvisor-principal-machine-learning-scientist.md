@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TripAdvisor](https://scoutify.ai/companies/tripadvisor?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | AI / ML Research |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tripadvisor/jobs/7950046) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tripadvisor/jobs/8127563) |
 
 ## About This Role
 
-This ai / ml research position at TripAdvisor was posted on 2026-05-21.
+This machine learning engineer position at TripAdvisor was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

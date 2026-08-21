@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Columbia, South Carolina, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000142195379-lead-ai-engineer) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000143390049-lead-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Blend360 was posted on 2026-08-07.
+This ai / llm engineer position at Blend360 was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
