@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Melbourne, Victoria, Australia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok/AI-Engineer_14557410) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/AI-Engineer_R00350886) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-08-11.
+This ai / llm engineer position at Accenture was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

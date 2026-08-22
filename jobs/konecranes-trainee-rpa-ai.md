@@ -1,16 +1,16 @@
-# Trainee RPA / AI at Konecranes
+# Trainee – RPA / AI at Konecranes
 
 | Field | Details |
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000134597599-trainee-rpa-ai) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000143497910-trainee-rpa-ai) |
 
 ## About This Role
 
-This software engineer position at Konecranes was posted on 2026-06-27.
+This machine learning engineer position at Konecranes was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

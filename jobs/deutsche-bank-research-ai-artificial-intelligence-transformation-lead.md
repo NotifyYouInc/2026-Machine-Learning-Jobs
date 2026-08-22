@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Research-AI--Artificial-Intelligence--Transformation-Lead_R0445126) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-York-1-Columbus-Circle/Research-AI--Artificial-Intelligence--Transformation-Lead_R0446692) |
 
 ## About This Role
 
-This strategy & operations position at Deutsche Bank was posted on 2026-08-12.
+This strategy & operations position at Deutsche Bank was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

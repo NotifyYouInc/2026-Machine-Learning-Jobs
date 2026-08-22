@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown](https://scoutify.ai/companies/brown?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Providence, Rhode Island, United States |
+| Location | Rhode Island, US |
 | Category | AI / ML Research |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/Bio-Med-Center/Research-Assistant_REQ209967-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/Metcalf-Research-Building/Research-Assistant_REQ210597) |
 
 ## About This Role
 
-This ai / ml research position at Brown was posted on 2026-07-06.
+This ai / ml research position at Brown was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [TOMRA](https://scoutify.ai/companies/tomra?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mülheim-Kärlich, Rheinland-Pfalz, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000143106219-machine-learning-engineer) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000143481029-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at TOMRA was posted on 2026-08-12.
+This machine learning engineer position at TOMRA was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

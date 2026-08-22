@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000142894399-senior-ai-engineer) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000143615340-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Blend360 was posted on 2026-08-11.
+This ai / llm engineer position at Blend360 was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

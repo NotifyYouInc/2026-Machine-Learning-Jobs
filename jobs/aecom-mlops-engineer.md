@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000129957479-mlops-engineer) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000143558799-mlops-engineer) |
 
 ## About This Role
 
-This devops engineer position at AECOM was posted on 2026-06-03.
+This devops engineer position at AECOM was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

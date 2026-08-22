@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Florida, US |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Work-from-home/Senior-Software-Development-Engineer_R0992387) |
+| Location | Not specified |
+| Category | Software Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Senior-Software-Development-Engineer_R0998894-1) |
 
 ## About This Role
 
-This ai / llm engineer position at CVS Health was posted on 2026-08-03.
+This software engineer position at CVS Health was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

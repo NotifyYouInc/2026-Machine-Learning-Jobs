@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Sunnyvale, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200651360/senior-computer-vision-architect) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200678007/senior-computer-vision-architect) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-03-12.
+This machine learning engineer position at Apple was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

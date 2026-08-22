@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84542) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84590) |
 
 ## About This Role
 
-This ai / llm engineer position at eClerx was posted on 2026-08-12.
+This ai / llm engineer position at eClerx was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

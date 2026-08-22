@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 6 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUJBHWMLmvFHAYE_UnKLRpsC1uzHPREmAvDtUfOe6A5IEjsA1Ny_iyzl_O4nlqKVN6XKuPIJ50miODxSsMhAf9I9KbCpKFaKkhiIeiGjtJfkv-wvGtRASfG759kKdQ%3D%3D_V2&loc=US&title=Principal+Virologist) |
+| Category | AI / ML Research |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVHogl3Qz4X4KkL5Kx-mkELjLTzNJeglX1El95Y76_kKEjsA1Ny_iz8lxinpMNqxFZvLpI4vm9JrnXbJ_3JdV28QpJ6QRiS_CbFYrqeyyatncbZK0OPh77qm-KsdcQ%3D%3D_V2&loc=US&title=Principal+Virologist) |
 
 ## About This Role
 
-This machine learning engineer position at Google was posted on 2026-07-28.
+This ai / ml research position at Google was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
