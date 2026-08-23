@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Intern--Credit-Risk-Data-LLM-Research---implementation_REQ-10119829) |
 
 ## About This Role
 
-This ai / llm engineer position at ING was posted on 2026-08-14.
+This machine learning engineer position at ING was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

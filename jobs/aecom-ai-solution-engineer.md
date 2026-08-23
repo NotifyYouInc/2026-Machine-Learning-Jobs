@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | AI / LLM Engineer |
+| Category | Sales Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000143558909-ai-solution-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at AECOM was posted on 2026-08-14.
+This sales engineer position at AECOM was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200677724/applied-data-solutions-program-machine-learning-full-time-opportunities) |
 
 ## About This Role
 
-This data scientist position at Apple was posted on 2026-08-14.
+This machine learning engineer position at Apple was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

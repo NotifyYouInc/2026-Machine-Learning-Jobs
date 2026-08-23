@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Austin, Texas, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Agentic-Data-Engineer_JR-202616159) |
 
 ## About This Role
 
-This ai / llm engineer position at General Motors was posted on 2026-08-12.
+This machine learning engineer position at General Motors was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

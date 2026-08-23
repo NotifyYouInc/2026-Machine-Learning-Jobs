@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DiDi Global](https://scoutify.ai/companies/didi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/didi/jobs/8129320) |
 
 ## About This Role
 
-This ai / llm engineer position at DiDi Global was posted on 2026-08-13.
+This machine learning engineer position at DiDi Global was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

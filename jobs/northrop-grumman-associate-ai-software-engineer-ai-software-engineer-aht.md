@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Beavercreek, Ohio, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate-AI-Software-Engineer--AI-Software-Engineer--AHT-_R10245469) |
 
 ## About This Role
 
-This ai / llm engineer position at Northrop Grumman was posted on 2026-08-12.
+This machine learning engineer position at Northrop Grumman was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

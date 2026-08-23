@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Staff-AI-Engineer---Analytics---Domain-Intelligence_JR-202617051) |
 
 ## About This Role
 
-This ai / llm engineer position at General Motors was posted on 2026-08-12.
+This machine learning engineer position at General Motors was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Artefact](https://scoutify.ai/companies/artefact?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/artefact/jobs/8716939002) |
 
 ## About This Role
 
-This ai / llm engineer position at Artefact was posted on 2026-08-15.
+This machine learning engineer position at Artefact was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

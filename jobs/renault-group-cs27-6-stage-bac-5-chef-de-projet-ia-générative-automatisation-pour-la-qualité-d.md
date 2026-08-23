@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Guyancourt, Île-de-France, France |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Guyancourt/CS27-6-Stage---BAC--5---Chef-de-projet-IA-Gnrative---Automatisation-pour-la-Qualit-des-Dossiers-d-Homologation-Automobile--H-F-_JOBREQ_50274137) |
 
 ## About This Role
 
-This ai / llm engineer position at Renault Group was posted on 2026-08-14.
+This machine learning engineer position at Renault Group was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

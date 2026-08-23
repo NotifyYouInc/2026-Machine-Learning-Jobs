@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Wuxi, Jiangsu, China |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Wuxi/AI-Engineer_J2461057) |
 
 ## About This Role
 
-This ai / llm engineer position at Jabil was posted on 2026-08-14.
+This machine learning engineer position at Jabil was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

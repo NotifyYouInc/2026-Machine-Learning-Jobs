@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackbaud](https://scoutify.ai/companies/blackbaud?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Hyderabad---India-Skyview/Software-Engineer--Staff-A-1_R0014464) |
 
 ## About This Role
 
-This ai / llm engineer position at Blackbaud was posted on 2026-08-14.
+This machine learning engineer position at Blackbaud was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

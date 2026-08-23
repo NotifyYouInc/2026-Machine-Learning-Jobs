@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brazil |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.lever.co/ciandt/abf5ef39-5849-46c3-9855-b727bc501593) |
 
 ## About This Role
 
-This ai / llm engineer position at Ciandt was posted on 2026-08-13.
+This machine learning engineer position at Ciandt was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

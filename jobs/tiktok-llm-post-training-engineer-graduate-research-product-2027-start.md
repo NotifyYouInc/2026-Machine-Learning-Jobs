@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
-| Category | AI / LLM Engineer |
+| Category | UX Researcher |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7670285949976201477/detail) |
 
 ## About This Role
 
-This ai / llm engineer position at TikTok was posted on 2026-08-12.
+This ux researcher position at TikTok was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

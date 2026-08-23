@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pragmatike](https://scoutify.ai/companies/pragmatike?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/pragmatike/942f17f8-6e76-422b-bf19-51e4fa28a044) |
 
 ## About This Role
 
-This ai / llm engineer position at Pragmatike was posted on 2026-08-14.
+This machine learning engineer position at Pragmatike was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

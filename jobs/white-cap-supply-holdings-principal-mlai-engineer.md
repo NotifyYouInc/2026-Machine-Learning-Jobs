@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [White Cap Supply Holdings](https://scoutify.ai/companies/whitecap?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://whitecap.wd1.myworkdayjobs.com/careers/job/Principal-ML-AI-Engineer_WCJR-035126) |
 
 ## About This Role
 
-This ai / llm engineer position at White Cap Supply Holdings was posted on 2026-08-14.
+This machine learning engineer position at White Cap Supply Holdings was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Lead-AI-Architect---Cogentiq-I2C_SR-43972) |
 
 ## About This Role
 
-This ai / llm engineer position at Fractal was posted on 2026-08-13.
+This machine learning engineer position at Fractal was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

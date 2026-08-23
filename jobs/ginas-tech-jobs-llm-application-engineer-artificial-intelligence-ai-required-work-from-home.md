@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ginas Tech Jobs](https://scoutify.ai/companies/ginas-tech-jobs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ginastechjobs/744000143179442-llm-application-engineer-artificial-intelligence-ai-required-work-from-home) |
 
 ## About This Role
 
-This ai / llm engineer position at Ginas Tech Jobs was posted on 2026-08-12.
+This machine learning engineer position at Ginas Tech Jobs was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fortinet](https://scoutify.ai/companies/us2-cx-oj39798?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | AI / LLM Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://edel.fa.us2.oraclecloud.com/jobs/#23821) |
 
 ## About This Role
 
-This ai / llm engineer position at Fortinet was posted on 2026-08-14.
+This devops engineer position at Fortinet was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

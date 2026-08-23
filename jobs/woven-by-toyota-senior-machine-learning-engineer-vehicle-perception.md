@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Woven by Toyota](https://scoutify.ai/companies/woven-by-toyota?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Palo Alto, California, United States |
-| Category | Robotics Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.lever.co/woven-by-toyota/263e0dfb-6bbb-409a-a5c5-8ff661030649) |
 
 ## About This Role
 
-This robotics engineer position at Woven by Toyota was posted on 2026-08-13.
+This machine learning engineer position at Woven by Toyota was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

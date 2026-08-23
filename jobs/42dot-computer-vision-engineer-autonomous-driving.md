@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [42dot](https://scoutify.ai/companies/42dot?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | South Korea |
-| Category | Robotics Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/42dot/594198ad-2f9e-4b06-b726-956d6b1507be) |
 
 ## About This Role
 
-This robotics engineer position at 42dot was posted on 2026-08-14.
+This machine learning engineer position at 42dot was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Conductor Quantum](https://scoutify.ai/companies/conductor-quantum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Albuquerque, New Mexico, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/conductor-quantum/jobs/OjWoAtF-ai-systems-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Conductor Quantum was posted on 2026-08-14.
+This machine learning engineer position at Conductor Quantum was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

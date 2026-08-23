@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lausanne, Vaud, Switzerland |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000143525589-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Nexthink was posted on 2026-08-14.
+This machine learning engineer position at Nexthink was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

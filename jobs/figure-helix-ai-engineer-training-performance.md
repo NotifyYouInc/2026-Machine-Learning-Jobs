@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Figure](https://scoutify.ai/companies/figureai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/figureai/jobs/4705296006) |
 
 ## About This Role
 
-This ai / llm engineer position at Figure was posted on 2026-08-14.
+This machine learning engineer position at Figure was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

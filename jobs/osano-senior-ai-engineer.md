@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Osano](https://scoutify.ai/companies/osano?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/osano/jobs/5390304008) |
 
 ## About This Role
 
-This ai / llm engineer position at Osano was posted on 2026-08-14.
+This machine learning engineer position at Osano was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

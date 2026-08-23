@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000143599414-junior-ai-engineer-pittsburgh-pa) |
 
 ## About This Role
 
-This ai / llm engineer position at Wavestone was posted on 2026-08-14.
+This machine learning engineer position at Wavestone was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

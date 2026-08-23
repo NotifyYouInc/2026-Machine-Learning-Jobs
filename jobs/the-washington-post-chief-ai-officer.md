@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Washington Post](https://scoutify.ai/companies/washpost?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Chief-AI-Officer_JR-90275872) |
 
 ## About This Role
 
-This ai / llm engineer position at The Washington Post was posted on 2026-08-13.
+This machine learning engineer position at The Washington Post was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bloomon](https://scoutify.ai/companies/bloomon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.lever.co/bloomon/81c577f5-866c-4915-9fa6-1451eeda3fc1) |
 
 ## About This Role
 
-This ai / llm engineer position at Bloomon was posted on 2026-08-14.
+This machine learning engineer position at Bloomon was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
-| Category | AI / LLM Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Wiesbaden-Germany/Data-Integration---AI-Automation-Engineer_330558) |
 
 ## About This Role
 
-This ai / llm engineer position at CACI was posted on 2026-08-13.
+This devops engineer position at CACI was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ClickHouse](https://scoutify.ai/companies/clickhouse?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/clickhouse/jobs/6143997004) |
 
 ## About This Role
 
-This ai / llm engineer position at ClickHouse was posted on 2026-08-14.
+This machine learning engineer position at ClickHouse was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

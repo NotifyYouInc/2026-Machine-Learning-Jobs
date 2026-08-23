@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | China |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/0ca8c5e3-6413-43f8-95b2-768353688637) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/661cdc52-cb2d-4730-a3b2-500b5c15400c) |
 
 ## About This Role
 
-This machine learning engineer position at Bjak was posted on 2026-08-04.
+This machine learning engineer position at Bjak was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

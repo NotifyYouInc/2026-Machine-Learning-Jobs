@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lightning AI](https://scoutify.ai/companies/lightning-ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/lightningai/jobs/7860628003) |
 
 ## About This Role
 
-This ai / llm engineer position at Lightning AI was posted on 2026-08-12.
+This machine learning engineer position at Lightning AI was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

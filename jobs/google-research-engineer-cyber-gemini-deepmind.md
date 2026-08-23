@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | AI / LLM Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ8-sZcXDVht33vrdtlvIS2iIccnBD-x4jTaFML4UAWJEjsA1Ny_i0CQ-DVSkhFPiO7rNE18SnBk8lrXfivuAYcluKH5z_imMpoc5rvQjIGKeQ-6gZ1_TRiEKR2vTQ%3D%3D_V2&loc=US&title=Research+Engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Google was posted on 2026-08-13.
+This ai / ml research position at Google was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

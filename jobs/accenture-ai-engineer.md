@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/AI-Engineer_R00350886) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-08-14.
+This machine learning engineer position at Accenture was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

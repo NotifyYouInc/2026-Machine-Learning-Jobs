@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Acadia Pharmaceuticals Inc.](https://scoutify.ai/companies/acadia-pharmaceuticals-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://acadia.com/en-us/careers/job-board/8643912002?gh_jid=8643912002) |
 
 ## About This Role
 
-This ai / llm engineer position at Acadia Pharmaceuticals Inc. was posted on 2026-08-13.
+This machine learning engineer position at Acadia Pharmaceuticals Inc. was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

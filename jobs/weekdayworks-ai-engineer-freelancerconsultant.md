@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Weekdayworks](https://scoutify.ai/companies/weekdayworks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.lever.co/weekdayworks/94f98799-7d1b-4e79-8a1b-432b4326bf66) |
 
 ## About This Role
 
-This ai / llm engineer position at Weekdayworks was posted on 2026-08-13.
+This machine learning engineer position at Weekdayworks was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

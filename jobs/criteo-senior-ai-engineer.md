@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Criteo](https://scoutify.ai/companies/criteo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Gurgaon/Senior-AI-Sales-Application-Engineer_r20321) |
 
 ## About This Role
 
-This ai / llm engineer position at Criteo was posted on 2026-08-13.
+This machine learning engineer position at Criteo was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

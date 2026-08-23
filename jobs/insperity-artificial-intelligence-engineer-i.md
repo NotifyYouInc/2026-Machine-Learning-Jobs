@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Insperity](https://scoutify.ai/companies/insperity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kingwood, West Virginia, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Artificial-Intelligence-Engineer-I_JR103100) |
 
 ## About This Role
 
-This ai / llm engineer position at Insperity was posted on 2026-08-15.
+This machine learning engineer position at Insperity was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

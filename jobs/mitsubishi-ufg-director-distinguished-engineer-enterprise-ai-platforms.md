@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Jersey City, New Jersey, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Director--Distinguished-Engineer--Enterprise-AI-Platforms_10078743-WD) |
 
 ## About This Role
 
-This ai / llm engineer position at Mitsubishi UFG was posted on 2026-08-13.
+This machine learning engineer position at Mitsubishi UFG was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

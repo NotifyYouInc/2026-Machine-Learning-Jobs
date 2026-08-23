@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Agentic-AI-Engineer_PT-JR041931-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Morgan Stanley was posted on 2026-08-14.
+This machine learning engineer position at Morgan Stanley was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

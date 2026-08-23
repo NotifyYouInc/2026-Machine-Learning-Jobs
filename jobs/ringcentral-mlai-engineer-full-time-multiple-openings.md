@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ringcentral](https://scoutify.ai/companies/ringcentral?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Belmont, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://ringcentral.wd1.myworkdayjobs.com/ringcentral_careers/job/Belmont-California/ML-AI-Engineer--Full-Time--Multiple-Openings-_R078414) |
 
 ## About This Role
 
-This ai / llm engineer position at Ringcentral was posted on 2026-08-13.
+This machine learning engineer position at Ringcentral was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

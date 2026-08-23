@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | France |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Sophia-Antipolis-Valbonne/Junior-Agentic-AI-Software-Engineer_R-10063084) |
 
 ## About This Role
 
-This ai / llm engineer position at NXP Semiconductors was posted on 2026-08-12.
+This machine learning engineer position at NXP Semiconductors was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

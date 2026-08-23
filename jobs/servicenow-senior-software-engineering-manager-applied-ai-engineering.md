@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143600504-senior-software-engineering-manager-applied-ai-engineering) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-08-14.
+This machine learning engineer position at ServiceNow was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

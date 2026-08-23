@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kyndryl Holdings](https://scoutify.ai/companies/kyndryl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739) |
 
 ## About This Role
 
-This ai / llm engineer position at Kyndryl Holdings was posted on 2026-08-13.
+This machine learning engineer position at Kyndryl Holdings was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

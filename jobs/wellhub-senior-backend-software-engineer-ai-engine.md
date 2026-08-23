@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wellhub](https://scoutify.ai/companies/wellhub?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brazil |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/gympass/jobs/8656474002) |
 
 ## About This Role
 
-This ai / llm engineer position at Wellhub was posted on 2026-08-14.
+This machine learning engineer position at Wellhub was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

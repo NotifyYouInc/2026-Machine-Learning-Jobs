@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/Data-Scientist---AI---ML-Engineer_R0141396) |
 
 ## About This Role
 
-This data scientist position at Hitachi was posted on 2026-08-14.
+This machine learning engineer position at Hitachi was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

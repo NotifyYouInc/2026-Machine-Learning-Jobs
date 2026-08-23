@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alation](https://scoutify.ai/companies/alation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://alation.wd503.myworkdayjobs.com/ExternalSite/job/IND-CHENNAI/DCX-Agentic-AI-Engineer_R10000767) |
 
 ## About This Role
 
-This ai / llm engineer position at Alation was posted on 2026-08-13.
+This machine learning engineer position at Alation was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

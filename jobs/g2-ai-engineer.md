@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [G2](https://scoutify.ai/companies/g2?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/g2/70a1442d-d5bc-4dca-9c4e-c7d41ac9b0c0) |
 
 ## About This Role
 
-This ai / llm engineer position at G2 was posted on 2026-08-14.
+This machine learning engineer position at G2 was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

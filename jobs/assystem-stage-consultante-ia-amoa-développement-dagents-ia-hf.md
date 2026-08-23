@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000143466594-stage-consultante-ia-amoa-developpement-dagents-ia-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at Assystem was posted on 2026-08-14.
+This machine learning engineer position at Assystem was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

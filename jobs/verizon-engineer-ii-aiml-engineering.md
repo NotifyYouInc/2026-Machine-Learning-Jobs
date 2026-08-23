@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Irving, Texas, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Engineer-II---AI-ML-Engineering_R-1099534-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Verizon was posted on 2026-08-13.
+This machine learning engineer position at Verizon was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

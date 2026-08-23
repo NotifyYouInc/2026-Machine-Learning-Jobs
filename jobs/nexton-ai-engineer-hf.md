@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000143522130-ai-engineer-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at Nexton was posted on 2026-08-14.
+This machine learning engineer position at Nexton was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

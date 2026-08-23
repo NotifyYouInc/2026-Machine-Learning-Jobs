@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Category | Compliance & Risk Management |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bengaluru-KA/Specialist--Regulatory-Affairs-Process-Digitalization---AI_R0264932) |
 
 ## About This Role
 
-This ai / llm engineer position at Fresenius Medical Care was posted on 2026-08-13.
+This compliance & risk management position at Fresenius Medical Care was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

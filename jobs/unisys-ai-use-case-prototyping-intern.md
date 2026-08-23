@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AI-Use-Case-Prototyping-Intern_REQ574595) |
 
 ## About This Role
 
-This ai / llm engineer position at Unisys was posted on 2026-08-14.
+This machine learning engineer position at Unisys was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

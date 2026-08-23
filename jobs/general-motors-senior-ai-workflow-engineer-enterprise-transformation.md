@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Senior-AI-Workflow-Engineer---Enterprise-Transformation_JR-202615966-1) |
 
 ## About This Role
 
-This ai / llm engineer position at General Motors was posted on 2026-08-14.
+This machine learning engineer position at General Motors was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

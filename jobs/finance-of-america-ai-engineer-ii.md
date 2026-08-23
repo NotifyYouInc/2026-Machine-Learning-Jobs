@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Finance of America](https://scoutify.ai/companies/recruiting-ultipro-com-oj37055?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://recruiting.ultipro.com/fin1006fioa/JobBoard/ea26052b-b8a2-489f-b1dc-3acc6bac391d/OpportunityDetail?opportunityId=14221a9b-33a1-4920-829d-f033e706c972) |
 
 ## About This Role
 
-This ai / llm engineer position at Finance of America was posted on 2026-08-13.
+This machine learning engineer position at Finance of America was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Field AI](https://scoutify.ai/companies/field-ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Irvine, California, United States |
-| Category | Robotics Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.lever.co/field-ai/bb127cde-930c-446f-908d-52e2c6f24cc9) |
 
 ## About This Role
 
-This robotics engineer position at Field AI was posted on 2026-08-14.
+This machine learning engineer position at Field AI was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

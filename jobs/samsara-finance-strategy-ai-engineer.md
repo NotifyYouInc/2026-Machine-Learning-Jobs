@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://www.samsara.com/company/careers/roles/8113356?gh_jid=8113356) |
 
 ## About This Role
 
-This ai / llm engineer position at Samsara was posted on 2026-08-12.
+This fp&a / strategic finance position at Samsara was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

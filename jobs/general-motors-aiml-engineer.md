@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/AI-ML-Engineer_JR-202602436-1) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-08-12.
+This machine learning engineer position at General Motors was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

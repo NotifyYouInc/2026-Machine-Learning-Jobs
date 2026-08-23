@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cork, Munster, Ireland |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Cork-County-Cork-Ireland/Senior-AI-Engineer_WD30276386) |
 
 ## About This Role
 
-This ai / llm engineer position at Johnson Controls was posted on 2026-08-14.
+This machine learning engineer position at Johnson Controls was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Waymo](https://scoutify.ai/companies/waymo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Robotics Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=8127006) |
 
 ## About This Role
 
-This robotics engineer position at Waymo was posted on 2026-08-13.
+This machine learning engineer position at Waymo was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

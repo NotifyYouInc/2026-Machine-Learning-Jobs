@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556958587) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-08-14.
+This ai / ml research position at Microsoft was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

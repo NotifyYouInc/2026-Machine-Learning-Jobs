@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/US-Pennsylvania-Pittsburgh/AI-Architect_R01132752) |
 
 ## About This Role
 
-This ai / llm engineer position at Solventum was posted on 2026-08-13.
+This machine learning engineer position at Solventum was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

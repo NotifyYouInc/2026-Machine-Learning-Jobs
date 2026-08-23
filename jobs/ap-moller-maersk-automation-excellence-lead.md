@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Pune-411014/Automation-Excellence-Lead_R193265) |
 
 ## About This Role
 
-This ai / llm engineer position at A.P. Moller - Maersk was posted on 2026-08-14.
+This machine learning engineer position at A.P. Moller - Maersk was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

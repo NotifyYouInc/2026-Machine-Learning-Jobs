@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lingarogroup](https://scoutify.ai/companies/lingarogroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Poland |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.lever.co/lingarogroup/8fb86f4a-5f97-4863-8f89-5f6773fce613) |
 
 ## About This Role
 
-This ai / llm engineer position at Lingarogroup was posted on 2026-08-14.
+This machine learning engineer position at Lingarogroup was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

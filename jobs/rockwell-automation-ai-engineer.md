@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Medellín, Antioquia, Colombia |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Medellin-Antioquia-Colombia/AI-Engineer_R26-5378) |
 
 ## About This Role
 
-This ai / llm engineer position at Rockwell Automation was posted on 2026-08-13.
+This machine learning engineer position at Rockwell Automation was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

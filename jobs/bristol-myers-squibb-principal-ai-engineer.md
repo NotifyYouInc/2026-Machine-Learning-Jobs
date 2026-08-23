@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Principal-AI-Engineer_R1605253) |
 
 ## About This Role
 
-This ai / llm engineer position at Bristol-Myers Squibb was posted on 2026-08-14.
+This machine learning engineer position at Bristol-Myers Squibb was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

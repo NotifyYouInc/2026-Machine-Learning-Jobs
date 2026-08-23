@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delinea](https://scoutify.ai/companies/delinea?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/delinea/77b628fc-09d2-407d-b854-1742aeb4bba4) |
 
 ## About This Role
 
-This ai / llm engineer position at Delinea was posted on 2026-08-12.
+This machine learning engineer position at Delinea was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

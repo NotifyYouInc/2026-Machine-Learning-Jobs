@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Klaviyo](https://scoutify.ai/companies/klaviyo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://www.klaviyo.com/careers/jobs/7861843003?gh_jid=7861843003) |
 
 ## About This Role
 
-This ai / llm engineer position at Klaviyo was posted on 2026-08-13.
+This machine learning engineer position at Klaviyo was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

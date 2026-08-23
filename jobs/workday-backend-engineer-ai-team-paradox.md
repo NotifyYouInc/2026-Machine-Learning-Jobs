@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Israel-Tel-Aviv/Backend-Engineer---AI-Team---Paradox_JR-0109112) |
 
 ## About This Role
 
-This ai / llm engineer position at Workday was posted on 2026-08-12.
+This machine learning engineer position at Workday was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

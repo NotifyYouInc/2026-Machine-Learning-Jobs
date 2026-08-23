@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000143279819-cmi-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Software Mind was posted on 2026-08-13.
+This machine learning engineer position at Software Mind was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Confido](https://scoutify.ai/companies/confido?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/confido/3a95d866-2e8f-432a-927d-8679386cefe2) |
 
 ## About This Role
 
-This ai / llm engineer position at Confido was posted on 2026-08-14.
+This machine learning engineer position at Confido was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

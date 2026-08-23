@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JYSK](https://scoutify.ai/companies/jysk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Denmark |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/JYSK/744000143441529-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at JYSK was posted on 2026-08-14.
+This machine learning engineer position at JYSK was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

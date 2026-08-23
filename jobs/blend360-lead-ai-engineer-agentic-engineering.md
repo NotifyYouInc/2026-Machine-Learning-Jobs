@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000143519329-lead-ai-engineer-agentic-engineering) |
 
 ## About This Role
 
-This ai / llm engineer position at Blend360 was posted on 2026-08-14.
+This machine learning engineer position at Blend360 was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

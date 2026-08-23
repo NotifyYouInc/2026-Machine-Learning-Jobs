@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Spring Health](https://scoutify.ai/companies/spring-health?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/springhealth66/jobs/4723630005) |
 
 ## About This Role
 
-This ai / llm engineer position at Spring Health was posted on 2026-08-13.
+This machine learning engineer position at Spring Health was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

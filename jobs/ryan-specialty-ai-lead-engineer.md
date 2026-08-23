@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Mumbai---India/AI-Lead-Engineer_JR26-4558-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Ryan Specialty was posted on 2026-08-14.
+This machine learning engineer position at Ryan Specialty was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

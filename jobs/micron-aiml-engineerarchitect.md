@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boise, Idaho, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-ML-Engineer-Architect_JR108536) |
 
 ## About This Role
 
-This ai / llm engineer position at Micron was posted on 2026-08-12.
+This machine learning engineer position at Micron was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

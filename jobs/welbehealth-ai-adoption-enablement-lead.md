@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WelbeHealth](https://scoutify.ai/companies/welbehealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | California, US |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/welbehealth/jobs/8692246002) |
 
 ## About This Role
 
-This ai / llm engineer position at WelbeHealth was posted on 2026-08-12.
+This machine learning engineer position at WelbeHealth was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

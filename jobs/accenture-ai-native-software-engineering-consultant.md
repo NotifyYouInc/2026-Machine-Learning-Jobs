@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Consultant_R00341058) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-08-14.
+This machine learning engineer position at Accenture was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

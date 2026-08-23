@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000143350366-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at AECOM was posted on 2026-08-13.
+This machine learning engineer position at AECOM was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://ripple.com/careers/all-jobs/job/8129099?gh_jid=8129099) |
 
 ## About This Role
 
-This ai / llm engineer position at Ripple was posted on 2026-08-15.
+This machine learning engineer position at Ripple was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 
