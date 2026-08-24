@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KIBBLERS NSW](https://scoutify.ai/companies/kibblers-nsw?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Australia |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://bunnings.wd3.myworkdayjobs.com/careers/job/Support-Office-VIC/Senior-Software-Engineer---AI_R061714-1) |
 
 ## About This Role
 
-This machine learning engineer position at KIBBLERS NSW was posted on 2026-08-13.
+This software engineer position at KIBBLERS NSW was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

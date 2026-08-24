@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Agentic-AI-Software-Engineer_JR2023179) |
 
 ## About This Role
 
-This machine learning engineer position at Nvidia was posted on 2026-08-14.
+This software engineer position at Nvidia was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

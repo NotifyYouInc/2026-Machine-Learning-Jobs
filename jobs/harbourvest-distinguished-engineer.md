@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HarbourVest](https://scoutify.ai/companies/harbourvest?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Distinguished-Engineer_R2504) |
 
 ## About This Role
 
-This machine learning engineer position at HarbourVest was posted on 2026-08-13.
+This software engineer position at HarbourVest was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Senior-Software-Engineer---AI---Agentic-Automation_2021749) |
 
 ## About This Role
 
-This machine learning engineer position at Cisco was posted on 2026-08-13.
+This software engineer position at Cisco was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Voya Financial](https://scoutify.ai/companies/godirect?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/CT-Windsor-One-Orange-Way/AI-Principal-Engineer_JR0033045) |
 
 ## About This Role
 
-This machine learning engineer position at Voya Financial was posted on 2026-08-13.
+This software engineer position at Voya Financial was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

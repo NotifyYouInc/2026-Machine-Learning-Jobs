@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gusto](https://scoutify.ai/companies/gusto?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/gusto/jobs/8095028) |
 
 ## About This Role
 
-This machine learning engineer position at Gusto was posted on 2026-08-14.
+This software engineer position at Gusto was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

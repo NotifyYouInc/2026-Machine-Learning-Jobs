@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Socure](https://scoutify.ai/companies/socure?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/socure/d4231c05-fb34-488c-9a9b-325e09dc1aa8) |
 
 ## About This Role
 
-This machine learning engineer position at Socure was posted on 2026-08-14.
+This software engineer position at Socure was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

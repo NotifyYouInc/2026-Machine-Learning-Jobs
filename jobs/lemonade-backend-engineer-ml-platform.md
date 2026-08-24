@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lemonade](https://scoutify.ai/companies/lemonade?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/lemonade/7cdf4386-e378-42b6-8f52-58ef7ff99ba8) |
 
 ## About This Role
 
-This machine learning engineer position at Lemonade was posted on 2026-08-13.
+This software engineer position at Lemonade was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sibiu, Sibiu County, Romania |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000143245969-it-developer-engineer-mfd) |
 
 ## About This Role
 
-This machine learning engineer position at Aumovio was posted on 2026-08-13.
+This software engineer position at Aumovio was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wellhub](https://scoutify.ai/companies/wellhub?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brazil |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/gympass/jobs/8656474002) |
 
 ## About This Role
 
-This machine learning engineer position at Wellhub was posted on 2026-08-14.
+This software engineer position at Wellhub was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Principal-Software-Engineer---Observability_10157430) |
 
 ## About This Role
 
-This machine learning engineer position at Disney was posted on 2026-08-13.
+This software engineer position at Disney was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

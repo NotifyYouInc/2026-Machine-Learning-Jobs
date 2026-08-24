@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Mexico---Mexico-City/Manager--Data-Science-and-AI_4954097) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Data Scientist |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Mumbai/Manager--Data-Science-and-AI_4961853-1) |
 
 ## About This Role
 
-This machine learning engineer position at Pfizer was posted on 2026-03-23.
+This data scientist position at Pfizer was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

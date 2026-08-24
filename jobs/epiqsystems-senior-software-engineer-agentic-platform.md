@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-New-York-NY-1166-Avenue-of-Americas/Senior-Software-Engineer---Agentic-Platform_R0034979) |
 
 ## About This Role
 
-This machine learning engineer position at Epiqsystems was posted on 2026-08-13.
+This software engineer position at Epiqsystems was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

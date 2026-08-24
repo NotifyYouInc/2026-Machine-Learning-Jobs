@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | California, US |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-E/R-D-Software-Engineer_R026809) |
 
 ## About This Role
 
-This machine learning engineer position at Broadcom was posted on 2026-08-14.
+This software engineer position at Broadcom was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

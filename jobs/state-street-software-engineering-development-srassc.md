@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hangzhou, Zhejiang, China |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering---Development--SrAssc_R-795531) |
 
 ## About This Role
 
-This machine learning engineer position at State Street was posted on 2026-08-14.
+This software engineer position at State Street was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

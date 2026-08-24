@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Garner Health](https://scoutify.ai/companies/garnerhealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/garnerhealth/jobs/6121272004) |
 
 ## About This Role
 
-This machine learning engineer position at Garner Health was posted on 2026-08-13.
+This data scientist position at Garner Health was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

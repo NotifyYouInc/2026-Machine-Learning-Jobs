@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-Research-Scientist--Multimodal-Foundation-Models---Healthcare_JR2022219) |
 
 ## About This Role
 
-This ai / ml research position at Nvidia was posted on 2026-08-13.
+This data scientist position at Nvidia was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

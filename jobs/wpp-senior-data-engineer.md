@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Denmark |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8642410002) |
 
 ## About This Role
 
-This machine learning engineer position at WPP was posted on 2026-08-13.
+This software engineer position at WPP was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

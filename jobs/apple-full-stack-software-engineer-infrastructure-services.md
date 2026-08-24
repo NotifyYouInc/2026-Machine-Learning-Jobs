@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200677849/full-stack-software-engineer-infrastructure-services) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-08-14.
+This software engineer position at Apple was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Senior-Data-Science-Engineer_JR108346) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Senior-Data-Science-Engineer_JR108521) |
 
 ## About This Role
 
-This data scientist position at Sabre was posted on 2026-08-10.
+This data scientist position at Sabre was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

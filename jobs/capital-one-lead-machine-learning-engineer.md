@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 3 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Machine-Learning-Engineer_R248938-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Machine-Learning-Engineer_R249142-1) |
 
 ## About This Role
 
-This machine learning engineer position at Capital One was posted on 2026-08-12.
+This machine learning engineer position at Capital One was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

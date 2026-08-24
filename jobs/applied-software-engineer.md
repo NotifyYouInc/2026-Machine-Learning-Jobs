@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [applied](https://scoutify.ai/companies/applied?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/applied/43286c63-937d-4384-a5ff-12cb31baa225) |
 
 ## About This Role
 
-This machine learning engineer position at applied was posted on 2026-08-13.
+This software engineer position at applied was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hangzhou, Zhejiang, China |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Zhejiang---Hangzhou/_4961848) |
 
 ## About This Role
 
-This machine learning engineer position at Pfizer was posted on 2026-08-13.
+This software engineer position at Pfizer was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

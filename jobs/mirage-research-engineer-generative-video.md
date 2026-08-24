@@ -5,12 +5,12 @@
 | Company | [Mirage](https://scoutify.ai/companies/mirage?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mirage/ffbda52e-3b05-44a8-ac89-6e87e8e3f757) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mirage/48f6319b-9db8-45ae-b328-1f59547cde95) |
 
 ## About This Role
 
-This machine learning engineer position at Mirage was posted on 2026-08-02.
+This machine learning engineer position at Mirage was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

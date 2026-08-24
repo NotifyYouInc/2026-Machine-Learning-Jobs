@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000143231395-staff-software-engineer-machine-learning) |
 
 ## About This Role
 
-This machine learning engineer position at LinkedIn was posted on 2026-08-13.
+This software engineer position at LinkedIn was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

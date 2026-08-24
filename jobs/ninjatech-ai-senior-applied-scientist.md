@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NinjaTech AI](https://scoutify.ai/companies/ninjatech-ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/ninjatech.ai/77d5011c-290a-497a-8502-d7874b49529f) |
 
 ## About This Role
 
-This ai / ml research position at NinjaTech AI was posted on 2026-08-14.
+This data scientist position at NinjaTech AI was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

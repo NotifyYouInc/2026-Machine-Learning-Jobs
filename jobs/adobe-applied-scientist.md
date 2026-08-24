@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Applied-Scientist_R171218) |
 
 ## About This Role
 
-This machine learning engineer position at Adobe was posted on 2026-08-14.
+This data scientist position at Adobe was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

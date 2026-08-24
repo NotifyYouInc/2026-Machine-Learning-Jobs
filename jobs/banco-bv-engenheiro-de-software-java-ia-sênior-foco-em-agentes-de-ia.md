@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco BV](https://scoutify.ai/companies/banco-bv?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.lever.co/bv/e924988a-1cbe-4c7c-9715-a435c9147ec7) |
 
 ## About This Role
 
-This machine learning engineer position at Banco BV was posted on 2026-08-13.
+This software engineer position at Banco BV was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

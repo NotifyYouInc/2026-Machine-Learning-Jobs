@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Beavercreek, Ohio, United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Principal-AI-Software-Engineer--AHT-_R10245473-1) |
 
 ## About This Role
 
-This machine learning engineer position at Northrop Grumman was posted on 2026-08-12.
+This software engineer position at Northrop Grumman was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
