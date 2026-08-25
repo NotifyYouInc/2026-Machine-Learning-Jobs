@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Ireland---Dublin-College-Park/Associate-Director--Digital-Diagnostics---AI_R-256441) |
+| Category | Data Scientist |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Ireland---Dublin-College-Park/Associate-Director--Digital-Diagnostics---AI_R-258292) |
 
 ## About This Role
 
-This machine learning engineer position at AstraZeneca was posted on 2026-07-15.
+This data scientist position at AstraZeneca was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

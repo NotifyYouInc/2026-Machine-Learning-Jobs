@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000130166375-ai-engineer-fm) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000143972419-ai-engineer-fm) |
 
 ## About This Role
 
-This ai / llm engineer position at QIMA was posted on 2026-06-04.
+This machine learning engineer position at QIMA was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

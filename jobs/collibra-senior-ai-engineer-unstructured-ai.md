@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Collibra](https://scoutify.ai/companies/collibra?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8092080) |
+| Location | New York City, New York, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8136480) |
 
 ## About This Role
 
-This machine learning engineer position at Collibra was posted on 2026-07-28.
+This software engineer position at Collibra was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

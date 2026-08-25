@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer, Growth at HelloFresh
+# Senior Machine Learning Engineer [GROWTH] at HelloFresh
 
 | Field | Details |
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Poland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7744069?gh_jid=7744069) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8119649?gh_jid=8119649) |
 
 ## About This Role
 
-This machine learning engineer position at HelloFresh was posted on 2026-04-24.
+This machine learning engineer position at HelloFresh was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

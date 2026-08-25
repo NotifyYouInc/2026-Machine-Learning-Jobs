@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM](https://scoutify.ai/companies/asm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | Phoenix, Arizona, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4935504101) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4942900101) |
 
 ## About This Role
 
-This data scientist position at ASM was posted on 2026-07-30.
+This data scientist position at ASM was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

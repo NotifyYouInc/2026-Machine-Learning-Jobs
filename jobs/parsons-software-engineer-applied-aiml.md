@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Maryland, US |
 | Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Annapolis-Junction/Software-Engineer---Applied-AI-ML_R181931) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Annapolis-Junction/Software-Engineer---Applied-AI-ML_R184902-1) |
 
 ## About This Role
 
-This software engineer position at Parsons was posted on 2026-06-16.
+This software engineer position at Parsons was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

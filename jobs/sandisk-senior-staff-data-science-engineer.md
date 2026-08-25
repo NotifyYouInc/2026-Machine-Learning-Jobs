@@ -1,16 +1,16 @@
-# Senior Staff data science engineer at SanDisk
+# Senior Staff Data Science Engineer at SanDisk
 
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Milpitas, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000129232160-senior-staff-data-science-engineer) |
+| Category | Data Scientist |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000143940619-senior-staff-data-science-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at SanDisk was posted on 2026-05-29.
+This data scientist position at SanDisk was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

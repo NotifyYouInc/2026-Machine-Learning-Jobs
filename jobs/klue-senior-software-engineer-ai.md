@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Klue](https://scoutify.ai/companies/klue?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/klue/2fdcccfe-6520-4536-a7f3-3acf79829784) |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/klue/25683e0d-db43-499b-9dd1-7bcecb763e61) |
 
 ## About This Role
 
-This ai / llm engineer position at Klue was posted on 2026-04-22.
+This software engineer position at Klue was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

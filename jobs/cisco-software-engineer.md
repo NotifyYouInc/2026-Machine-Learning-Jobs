@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bratislava-Slovakia/Software-Engineer_2021443) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2018976-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-13.
+This software engineer position at Cisco was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

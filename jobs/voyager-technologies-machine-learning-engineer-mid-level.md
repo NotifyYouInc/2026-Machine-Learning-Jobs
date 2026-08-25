@@ -5,12 +5,12 @@
 | Company | [Voyager Technologies](https://scoutify.ai/companies/voyager-technologies?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4173802009) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356982009) |
 
 ## About This Role
 
-This machine learning engineer position at Voyager Technologies was posted on 2026-05-08.
+This machine learning engineer position at Voyager Technologies was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

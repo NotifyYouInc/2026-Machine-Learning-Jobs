@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Machine-Learning-Engineer-2_UNI3321) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Machine-Learning-Engineer-2_UNI3326-1) |
 
 ## About This Role
 
-This machine learning engineer position at Hewlett Packard (HP) was posted on 2026-05-21.
+This machine learning engineer position at Hewlett Packard (HP) was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

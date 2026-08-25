@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Woonsocket, Rhode Island, United States |
+| Location | Irving, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Machine-Learning-Engineer_R0942367) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Sr-Machine-Learning-Engineer_R1011923) |
 
 ## About This Role
 
-This machine learning engineer position at CVS Health was posted on 2026-06-20.
+This machine learning engineer position at CVS Health was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

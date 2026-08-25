@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | South San Francisco, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8014859) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8137997) |
 
 ## About This Role
 
-This machine learning engineer position at Stripe was posted on 2026-07-10.
+This machine learning engineer position at Stripe was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

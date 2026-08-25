@@ -5,12 +5,12 @@
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Sunnyvale/Senior-Machine-Learning-R-D-Engineer---Matterport_R39459) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Sunnyvale/Senior-Machine-Learning-R-D-Engineer---Matterport_R39608) |
 
 ## About This Role
 
-This ai / ml research position at CoStar Group was posted on 2026-07-23.
+This ai / ml research position at CoStar Group was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

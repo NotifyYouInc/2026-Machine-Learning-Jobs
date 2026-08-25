@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kota](https://scoutify.ai/companies/kota?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/kota/a265cd0d-5179-4452-952a-069c3ee4d4aa) |
+| Location | United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kota/891b3b57-ec1a-44e3-8b7a-bcd559935158) |
 
 ## About This Role
 
-This ai / llm engineer position at Kota was posted on 2026-07-01.
+This machine learning engineer position at Kota was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

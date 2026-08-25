@@ -1,16 +1,16 @@
-# AI Ops Engineer at Endava
+# AI Ops Engineer  at Endava
 
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Colorado, US |
-| Category | DevOps Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000140512149-ai-ops-engineer) |
+| Location | United States |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000143929539-ai-ops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-07-29.
+This software engineer position at Endava was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

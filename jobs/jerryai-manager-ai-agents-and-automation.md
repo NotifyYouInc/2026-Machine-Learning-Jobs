@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | Technical Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/4f1d924d-b589-4a34-b509-e6c5b8319f82) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/925d702d-08af-4196-ae91-0d236a3dca62) |
 
 ## About This Role
 
-This technical product manager position at Jerry.ai was posted on 2026-07-13.
+This technical product manager position at Jerry.ai was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

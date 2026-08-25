@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United Kingdom |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/UK-Offsite/Senior-AI-Engineer---Centre-of-Excellence_10078633-WD-1) |
+| Location | London, England, United Kingdom |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/Senior-AI-Engineer---Centre-of-Excellence_10078636-WD-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Mitsubishi UFG was posted on 2026-08-07.
+This machine learning engineer position at Mitsubishi UFG was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

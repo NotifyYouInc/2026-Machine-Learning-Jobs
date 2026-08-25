@@ -1,16 +1,16 @@
-# Machine learning Engineer at SIA
+# Machine Learning Engineer at SIA
 
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000143090239-machine-learning-engineer) |
+| Location | Belgium |
+| Category | Data Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000144000089-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at SIA was posted on 2026-08-12.
+This data engineer position at SIA was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000136393537-staff-genai-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000143767699-staff-genai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at SIA was posted on 2026-07-08.
+This software engineer position at SIA was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

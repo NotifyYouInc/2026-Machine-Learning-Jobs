@@ -1,16 +1,16 @@
-# Lead AI Engineer – Lead Engineer, VP  at Deutsche Bank
+# Lead AI Engineer – Lead Engineer , VP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Lead-Data-Scientist-Lead-Engineer--VP_R0412532) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Lead-AI-Engineer---Lead-Engineer---VP_R0414873) |
 
 ## About This Role
 
-This ai / llm engineer position at Deutsche Bank was posted on 2026-04-30.
+This machine learning engineer position at Deutsche Bank was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

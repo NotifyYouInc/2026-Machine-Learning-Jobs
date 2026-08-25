@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/AI-ML-Engineer--Data-Engineering---AI-Focus-_R191732) |
 
 ## About This Role
 
-This machine learning engineer position at A.P. Moller - Maersk was posted on 2026-08-17.
+This data engineer position at A.P. Moller - Maersk was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

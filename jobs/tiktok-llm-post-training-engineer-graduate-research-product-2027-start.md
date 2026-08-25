@@ -1,16 +1,16 @@
-# LLM Post-training Engineer Graduate (Research & Product) - 2027 Start at TikTok
+# LLM Post-Training Engineer Graduate (Research & Product) - 2027 Start at TikTok
 
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
 | Category | UX Researcher |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7670285949976201477/detail) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7673672141012093189/detail) |
 
 ## About This Role
 
-This ux researcher position at TikTok was posted on 2026-08-12.
+This ux researcher position at TikTok was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

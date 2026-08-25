@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000140423284-ai-engineer-cloud) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000144000219-ai-engineer-cloud) |
 
 ## About This Role
 
-This devops engineer position at KPN was posted on 2026-07-29.
+This devops engineer position at KPN was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

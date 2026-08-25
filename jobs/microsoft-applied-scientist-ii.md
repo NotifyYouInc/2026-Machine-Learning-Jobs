@@ -1,16 +1,16 @@
-# Applied Scientist- II at Microsoft
+# Applied Scientist II at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556875421) |
+| Location | Mountain View, California, United States |
+| Category | Data Scientist |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556960240) |
 
 ## About This Role
 
-This ai / ml research position at Microsoft was posted on 2026-06-22.
+This data scientist position at Microsoft was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

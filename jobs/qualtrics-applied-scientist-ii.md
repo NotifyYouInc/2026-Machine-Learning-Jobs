@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qualtrics](https://scoutify.ai/companies/qualtrics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.qualtrics.com/careers/us/en/job/8017422?gh_jid=8017422) |
+| Location | Reston, Virginia, United States |
+| Category | Data Scientist |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.qualtrics.com/careers/us/en/job/8115079?gh_jid=8115079) |
 
 ## About This Role
 
-This ai / ml research position at Qualtrics was posted on 2026-06-22.
+This data scientist position at Qualtrics was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mountain View, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556943926) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556962007) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-07-29.
+This data scientist position at Microsoft was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
