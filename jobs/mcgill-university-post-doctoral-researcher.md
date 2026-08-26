@@ -1,16 +1,16 @@
-# Post-doctoral researcher at McGill University
+# Post-Doctoral Researcher at McGill University
 
 | Field | Details |
 |-------|---------|
 | Company | [McGill University](https://scoutify.ai/companies/mcgill?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | AI / ML Research |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Rutherford-Physics/Post-doctoral-researcher_JR0000078353) |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Medical-Simulation/Post-Doctoral-Researcher_JR0000079499) |
 
 ## About This Role
 
-This ai / ml research position at McGill University was posted on 2026-07-15.
+This software engineer position at McGill University was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

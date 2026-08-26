@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Costa Mesa, California, United States |
-| Category | Robotics Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5114446007?gh_jid=5114446007) |
+| Location | Washington, District of Columbia, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5202963007?gh_jid=5202963007) |
 
 ## About This Role
 
-This robotics engineer position at Anduril was posted on 2026-04-20.
+This machine learning engineer position at Anduril was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

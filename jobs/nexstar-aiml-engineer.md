@@ -5,12 +5,12 @@
 | Company | [Nexstar](https://scoutify.ai/companies/nexstar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/NY-New-York1301-Avenue-of-the-Americas-Nexstar/AI-ML-Engineer_REQ-41499) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/NY-New-York1301-Avenue-of-the-Americas-Nexstar/AI-ML-Engineer_REQ-41632) |
 
 ## About This Role
 
-This machine learning engineer position at Nexstar was posted on 2026-05-19.
+This machine learning engineer position at Nexstar was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

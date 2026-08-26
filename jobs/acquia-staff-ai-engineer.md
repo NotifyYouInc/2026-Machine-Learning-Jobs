@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acquia](https://scoutify.ai/companies/acquia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/acquia/jobs/8014352) |
+| Location | Canada |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/acquia/jobs/8133955) |
 
 ## About This Role
 
-This ai / llm engineer position at Acquia was posted on 2026-06-23.
+This machine learning engineer position at Acquia was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

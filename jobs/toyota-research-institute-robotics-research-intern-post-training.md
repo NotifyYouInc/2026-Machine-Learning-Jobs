@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toyota Research Institute](https://scoutify.ai/companies/tri?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Los Altos, California, United States |
-| Category | AI / ML Research |
+| Category | Robotics Engineer |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0) |
 
 ## About This Role
 
-This ai / ml research position at Toyota Research Institute was posted on 2026-08-17.
+This robotics engineer position at Toyota Research Institute was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

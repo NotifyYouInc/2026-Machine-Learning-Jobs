@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | AI / ML Research |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Prague/AI-Developer_700936WD) |
+| Location | Bucharest, București, Romania |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bucharest/AI-Developer_753196WD) |
 
 ## About This Role
 
-This ai / ml research position at PwC was posted on 2026-04-23.
+This machine learning engineer position at PwC was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Helsing](https://scoutify.ai/companies/helsing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://helsing.ai/jobs/4902953101?gh_jid=4902953101) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://helsing.ai/jobs/4953562101?gh_jid=4953562101) |
 
 ## About This Role
 
-This machine learning engineer position at Helsing was posted on 2026-06-18.
+This machine learning engineer position at Helsing was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

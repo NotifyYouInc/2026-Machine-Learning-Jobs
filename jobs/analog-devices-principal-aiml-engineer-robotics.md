@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 5 locations |
-| Category | AI / ML Research |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Principal-AI-ML-Engineer--Robotics-_R260377) |
+| Location | 4 locations |
+| Category | Robotics Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Principal-AI-ML-Engineer--Robotics-_R265198) |
 
 ## About This Role
 
-This ai / ml research position at Analog Devices was posted on 2026-03-23.
+This robotics engineer position at Analog Devices was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133692982-ai-research-engineer-agentic-ai) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144172049-ai-research-engineer-agentic-ai) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-06-23.
+This ai / ml research position at Robert Bosch was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

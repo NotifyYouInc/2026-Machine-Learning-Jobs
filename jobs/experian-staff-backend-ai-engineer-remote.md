@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000132935202-staff-backend-ai-engineer-remote) |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144164359-staff-backend-ai-engineer-remote) |
 
 ## About This Role
 
-This ai / ml research position at Experian was posted on 2026-06-18.
+This software engineer position at Experian was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

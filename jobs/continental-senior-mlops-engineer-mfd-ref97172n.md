@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
-| Category | DevOps Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000143523169-senior-mlops-engineer-mfd-ref97172n) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000144092250-senior-mlops-engineer-mfd-ref97172n) |
 
 ## About This Role
 
-This devops engineer position at Continental was posted on 2026-08-14.
+This machine learning engineer position at Continental was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

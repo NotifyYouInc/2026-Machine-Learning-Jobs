@@ -1,16 +1,16 @@
-# Lead AI Engineer at Blend360
+# Lead, AI Engineer at Blend360
 
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Columbia, South Carolina, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000143390049-lead-ai-engineer) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Scientist |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000144231229-lead-ai-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Blend360 was posted on 2026-08-13.
+This data scientist position at Blend360 was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

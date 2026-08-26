@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Software-Engineer_R182616) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Software-Engineer_R193590-1) |
 
 ## About This Role
 
-This software engineer position at A.P. Moller - Maersk was posted on 2026-06-09.
+This software engineer position at A.P. Moller - Maersk was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

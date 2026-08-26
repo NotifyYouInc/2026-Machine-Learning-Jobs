@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cupertino, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Robotics Engineer |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200677453/robot-ml-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-08-17.
+This robotics engineer position at Apple was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

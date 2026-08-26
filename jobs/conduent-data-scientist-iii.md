@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Conduent](https://scoutify.ai/companies/us2-cx-oj25423?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Software Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#24916) |
 
 ## About This Role
 
-This software engineer position at Conduent was posted on 2026-08-17.
+This data scientist position at Conduent was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

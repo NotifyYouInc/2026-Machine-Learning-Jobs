@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Jose, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8050555?gh_jid=8050555) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/8139816?gh_jid=8139816) |
 
 ## About This Role
 
-This machine learning engineer position at Roku was posted on 2026-07-24.
+This machine learning engineer position at Roku was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

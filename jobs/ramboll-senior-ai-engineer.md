@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Denmark |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000135030719-senior-ai-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000144033589-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Ramboll was posted on 2026-06-30.
+This machine learning engineer position at Ramboll was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

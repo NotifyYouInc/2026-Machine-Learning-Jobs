@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ulm, Baden-Wurttemberg, Germany |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000137460729-generative-aiagentic-ai-engineer-dfm-26084) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000144035939-generative-aiagentic-ai-engineer-dfm-26084) |
 
 ## About This Role
 
-This ai / llm engineer position at Sopra Steria was posted on 2026-07-13.
+This devops engineer position at Sopra Steria was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

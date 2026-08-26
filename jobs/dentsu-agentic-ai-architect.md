@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Agentic-AI-Architect_R1128451) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Bengaluru/Agentic-AI-Architect_R1129564-1) |
 
 ## About This Role
 
-This machine learning engineer position at Dentsu was posted on 2026-07-27.
+This machine learning engineer position at Dentsu was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

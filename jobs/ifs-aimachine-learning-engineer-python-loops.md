@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Palo Alto, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000130065959-aimachine-learning-engineer-python-loops) |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000144170159-aimachine-learning-engineer-python-loops) |
 
 ## About This Role
 
-This machine learning engineer position at IFS was posted on 2026-06-03.
+This software engineer position at IFS was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

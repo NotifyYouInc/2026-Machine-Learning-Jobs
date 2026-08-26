@@ -5,12 +5,12 @@
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135653101-stage-dataops-ai-integration-hf) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000144234189-stage-dataops-ai-integration-hf) |
 
 ## About This Role
 
-This data engineer position at INPOST was posted on 2026-07-03.
+This data engineer position at INPOST was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 
