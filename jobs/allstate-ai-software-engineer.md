@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Illinois, US |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/AI-Software-Engineer_R32187-1) |
+| Category | Software Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/AI-Software-Engineer_R34190) |
 
 ## About This Role
 
-This ai / llm engineer position at Allstate was posted on 2026-07-01.
+This software engineer position at Allstate was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

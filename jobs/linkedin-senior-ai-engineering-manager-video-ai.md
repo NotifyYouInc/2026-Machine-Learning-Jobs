@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Engineering Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000139163359-senior-ai-engineering-manager-video-ai) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000144381279-senior-ai-engineering-manager-video-ai) |
 
 ## About This Role
 
-This engineering manager position at LinkedIn was posted on 2026-07-22.
+This machine learning engineer position at LinkedIn was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

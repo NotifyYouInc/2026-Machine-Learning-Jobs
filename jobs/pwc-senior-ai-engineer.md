@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Prague/Senior-AI-Engineer_707124WD) |
+| Location | Lviv, Lviv, Ukraine |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Lviv/Senior-AI-Engineer_715054WD) |
 
 ## About This Role
 
-This ai / llm engineer position at PwC was posted on 2026-02-18.
+This machine learning engineer position at PwC was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckebCNq-9eZDLUi8u5mUd4JWulEXZK-JrGYiDySZCsfGjEjsACxwdTE2DtN_NYjJu8Nd9UFoZNQnjamElyF4C6YwB6neWXFMIQ_1vJeJngT7UbWEVnXEAWWPe4VLBWA%3D%3D_V2&loc=US&title=Senior+Staff+Software+Engineer) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUwmSsVgkUyWkWHNxrnDp_AybP2rVc8AvihS94MFqLcoEjsA1Ny_i3oYlhwgpztS_VyrWHmkjuYtkWT0kdXn6W0fSxyBB1pOdkAsfx4afXK3_BQyMymlBgYoevTLqA%3D%3D_V2&loc=US&title=Senior+Staff+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-06-09.
+This software engineer position at Google was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

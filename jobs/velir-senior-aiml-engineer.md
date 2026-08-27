@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Velir](https://scoutify.ai/companies/velir?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/velir/jobs/5237507008) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/velir/jobs/5395652008) |
 
 ## About This Role
 
-This ai / llm engineer position at Velir was posted on 2026-06-08.
+This machine learning engineer position at Velir was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

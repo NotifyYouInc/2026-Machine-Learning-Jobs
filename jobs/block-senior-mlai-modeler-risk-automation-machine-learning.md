@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](http://block.xyz/careers/jobs/5198103008?gh_jid=5198103008) |
+| Location | Bay, Arkansas, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5394441008?gh_jid=5394441008) |
 
 ## About This Role
 
-This ai / ml research position at Block was posted on 2026-06-04.
+This machine learning engineer position at Block was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

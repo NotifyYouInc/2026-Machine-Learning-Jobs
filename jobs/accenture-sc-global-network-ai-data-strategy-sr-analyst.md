@@ -1,16 +1,16 @@
-# S&C Global Network - AI - Data Strategy – Sr. Analyst at Accenture
+# S&C Global Network - AI - Data Strategy – Sr Analyst at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Strategy & Operations |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune-PDC2C/S-C-Global-Network---AI---Data-Strategy---Sr-Analyst_R00303556) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad-HDC2A/S-C-Global-Network---AI---Data-Strategy---Sr-Analyst_R00303535) |
 
 ## About This Role
 
-This strategy & operations position at Accenture was posted on 2026-08-18.
+This strategy & operations position at Accenture was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

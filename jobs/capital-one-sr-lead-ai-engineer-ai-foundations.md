@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Sr-Lead-AI-Engineer--AI-Foundations-_R239699-1) |
+| Location | 5 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Sr-Lead-AI-Engineer--AI-Foundations-_R249669-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Capital One was posted on 2026-04-02.
+This machine learning engineer position at Capital One was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

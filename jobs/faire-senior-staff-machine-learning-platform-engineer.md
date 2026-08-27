@@ -5,12 +5,12 @@
 | Company | [Faire](https://scoutify.ai/companies/faire?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8618460002?gh_jid=8618460002) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8731172002?gh_jid=8731172002) |
 
 ## About This Role
 
-This machine learning engineer position at Faire was posted on 2026-07-02.
+This machine learning engineer position at Faire was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

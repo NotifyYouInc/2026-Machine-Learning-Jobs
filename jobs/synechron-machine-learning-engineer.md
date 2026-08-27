@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Belgrade/Machine-Learning-Engineer_JR1041717) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Novi-Sad/Machine-Learning-Engineer_JR1043360) |
 
 ## About This Role
 
-This machine learning engineer position at Synechron was posted on 2026-07-09.
+This machine learning engineer position at Synechron was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

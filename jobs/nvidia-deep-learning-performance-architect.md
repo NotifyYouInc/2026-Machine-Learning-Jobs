@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Architect_JR2021807) |
+| Location | 2 locations |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Architect_JR2022306) |
 
 ## About This Role
 
-This machine learning engineer position at Nvidia was posted on 2026-07-26.
+This semiconductor / chip design position at Nvidia was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

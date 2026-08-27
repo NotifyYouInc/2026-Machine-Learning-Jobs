@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/AI-Engineer_R1555457) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/So-Paulo-Brazil/AI-Engineer_R1554081) |
 
 ## About This Role
 
-This ai / llm engineer position at IQVIA was posted on 2026-08-12.
+This machine learning engineer position at IQVIA was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

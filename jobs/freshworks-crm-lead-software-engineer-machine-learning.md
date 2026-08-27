@@ -5,12 +5,12 @@
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000141503314-lead-software-engineer-machine-learning) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000144452829-lead-software-engineer-machine-learning) |
 
 ## About This Role
 
-This software engineer position at Freshworks CRM was posted on 2026-08-04.
+This software engineer position at Freshworks CRM was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Machine Learning Engineer |
+| Category | Learning & Development |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Chicago---Illinois---Wacker/Artificial-Intelligence-and-Machine-Learning-Manager_JR26-5117-1) |
 
 ## About This Role
 
-This machine learning engineer position at Ryan Specialty was posted on 2026-08-19.
+This learning & development position at Ryan Specialty was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000144229879-security-software-engineer-ii-ai) |
 
 ## About This Role
 
-This software engineer position at Sixt was posted on 2026-08-19.
+This cybersecurity engineer position at Sixt was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

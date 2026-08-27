@@ -5,12 +5,12 @@
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000140523368-senior-ai-engineer-llms-agentic-ai) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000144456619-senior-ai-engineer-llms-agentic-ai) |
 
 ## About This Role
 
-This machine learning engineer position at Applaudo Studios was posted on 2026-07-29.
+This machine learning engineer position at Applaudo Studios was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113537771-senior-research-engineerscientist) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144418699-senior-research-engineerscientist) |
 
 ## About This Role
 
-This ai / ml research position at ServiceNow was posted on 2026-03-09.
+This ai / ml research position at ServiceNow was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

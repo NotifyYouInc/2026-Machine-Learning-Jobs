@@ -1,16 +1,16 @@
-# Junior AI Developer [12 Months Contract] at Experian
+# Junior AI Developer - (12 Months Contract) at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Malaysia |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000142562859-junior-ai-developer-12-months-contract) |
+| Category | Software Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144484720-junior-ai-developer-12-months-contract) |
 
 ## About This Role
 
-This ai / llm engineer position at Experian was posted on 2026-08-10.
+This software engineer position at Experian was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

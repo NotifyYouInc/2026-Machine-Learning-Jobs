@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Frankfurt am Main, Hesse, Germany |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000140921449-ai-ml-lead-consultant-mwd) |
+| Location | Not specified |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000144501494-ai-ml-lead-consultant-mwd) |
 
 ## About This Role
 
-This ai / llm engineer position at Devoteam was posted on 2026-07-31.
+This machine learning engineer position at Devoteam was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

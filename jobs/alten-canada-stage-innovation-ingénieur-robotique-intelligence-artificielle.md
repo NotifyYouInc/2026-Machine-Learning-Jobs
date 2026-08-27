@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toulouse, Occitanie, France |
-| Category | Robotics Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000134201574-stage-innovation-ingenieur-robotique-intelligence-artificielle) |
+| Location | Grenoble, Rhône-Alpes, France |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000144247304-stage-innovation-ingenieur-robotique-intelligence-artificielle) |
 
 ## About This Role
 
-This robotics engineer position at ALTEN Canada was posted on 2026-06-25.
+This machine learning engineer position at ALTEN Canada was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

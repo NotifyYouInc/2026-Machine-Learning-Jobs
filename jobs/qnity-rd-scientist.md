@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Tianjin, CN |
+| Location | Marlborough, Massachusetts, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Binhai-Tianjin/R-D-Scientist_252123W) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Marlborough-Massachusetts/R-D-Scientist_252711W) |
 
 ## About This Role
 
-This ai / ml research position at Qnity was posted on 2026-07-02.
+This ai / ml research position at Qnity was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

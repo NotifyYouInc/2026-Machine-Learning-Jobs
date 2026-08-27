@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Vice-President---AI-Engineer_JR-0000101368-3) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Vice-President---AI-Engineer_JR-0000102510) |
 
 ## About This Role
 
-This machine learning engineer position at Barclays was posted on 2026-07-30.
+This machine learning engineer position at Barclays was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

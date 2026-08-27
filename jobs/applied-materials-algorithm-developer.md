@@ -1,16 +1,16 @@
-# Algorithm developer at Applied Materials
+# Algorithm Developer at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Reẖovot, Central District, Israel |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Algorithm-developer_R2625048) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChennaiIND/Algorithm-Developer_R2625806) |
 
 ## About This Role
 
-This machine learning engineer position at Applied Materials was posted on 2026-07-30.
+This machine learning engineer position at Applied Materials was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

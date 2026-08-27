@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | Grenoble, Rhône-Alpes, France |
 | Category | Robotics Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000134201574-stage-innovation-ingenieur-robotique-intelligence-artificielle) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000144247304-stage-innovation-ingenieur-robotique-intelligence-artificielle) |
 
 ## About This Role
 
-This robotics engineer position at ALTEN was posted on 2026-06-25.
+This robotics engineer position at ALTEN was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

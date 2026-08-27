@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Sr-Software-Engineer---Applied-AI_R0062059) |
+| Location | 4 locations |
+| Category | Software Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Sr-Software-Engineer---Applied-AI_R0064350) |
 
 ## About This Role
 
-This ai / llm engineer position at Geico was posted on 2026-04-16.
+This software engineer position at Geico was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

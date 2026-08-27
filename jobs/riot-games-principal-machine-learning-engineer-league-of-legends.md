@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | Los Angeles, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/7702437?gh_jid=7702437) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/7944656?gh_jid=7944656) |
 
 ## About This Role
 
-This machine learning engineer position at Riot Games was posted on 2026-03-11.
+This machine learning engineer position at Riot Games was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

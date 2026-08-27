@@ -5,12 +5,12 @@
 | Company | [University of Edinburgh](https://scoutify.ai/companies/em3-cx-oj33816?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Edinburgh, Scotland, United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://elxw.fa.em3.oraclecloud.com/jobs/#14631) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://elxw.fa.em3.oraclecloud.com/jobs/#14742) |
 
 ## About This Role
 
-This ai / ml research position at University of Edinburgh was posted on 2026-08-05.
+This ai / ml research position at University of Edinburgh was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Internship Artificial Intelligence Agent Developer at ING
+# Internship - Artificial Intelligence Agent Developer at ING
 
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/ACT-Amsterdam---Acanthus/Internship-Artificial-Intelligence-Agent-Developer_REQ-10120054) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/ACT-Amsterdam---Acanthus/Internship---Artificial-Intelligence-Agent-Developer_REQ-10120227) |
 
 ## About This Role
 
-This machine learning engineer position at ING was posted on 2026-08-18.
+This machine learning engineer position at ING was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

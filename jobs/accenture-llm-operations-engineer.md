@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/LLM-Operations-Engineer_ATCI-5682601-S2058773-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/LLM-Operations-Engineer_ATCI-5727151-S2064783-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-07-16.
+This devops engineer position at Accenture was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

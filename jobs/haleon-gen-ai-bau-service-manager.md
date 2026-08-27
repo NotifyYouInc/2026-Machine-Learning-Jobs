@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Gen-AI-BAU-Service-Manager_543658-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Gen-AI-BAU-Service-Manager_547172) |
 
 ## About This Role
 
-This it & systems administration position at Haleon was posted on 2026-06-01.
+This machine learning engineer position at Haleon was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

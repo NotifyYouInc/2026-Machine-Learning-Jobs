@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Automation Anywhere](https://scoutify.ai/companies/automation-anywhere?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/Mumbai-India/Sr-AI-Engineer_JR1269) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/Bengaluru-India/Sr-AI-Engineer_JR1262) |
 
 ## About This Role
 
-This ai / llm engineer position at Automation Anywhere was posted on 2026-04-17.
+This machine learning engineer position at Automation Anywhere was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

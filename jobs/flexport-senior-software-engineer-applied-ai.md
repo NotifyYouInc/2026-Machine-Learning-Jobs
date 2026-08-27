@@ -1,16 +1,16 @@
-# Senior Software Engineer: Applied AI at Flexport
+# Senior Software Engineer, Applied AI at Flexport
 
 | Field | Details |
 |-------|---------|
 | Company | [Flexport](https://scoutify.ai/companies/flexport?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/7311835?gh_jid=7311835) |
+| Category | Software Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flexport/jobs/8141246) |
 
 ## About This Role
 
-This ai / llm engineer position at Flexport was posted on 2026-06-25.
+This software engineer position at Flexport was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

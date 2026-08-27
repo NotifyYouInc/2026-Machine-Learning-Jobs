@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | 9 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---DIF---MEXICO-CITY/AI-Engineer_51587064-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/AI-Engineer_51587426) |
 
 ## About This Role
 
-This machine learning engineer position at DXC Technology was posted on 2026-08-18.
+This machine learning engineer position at DXC Technology was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

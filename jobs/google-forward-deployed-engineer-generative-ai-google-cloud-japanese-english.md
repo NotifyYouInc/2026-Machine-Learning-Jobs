@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | AI / ML Research |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeFZUbzy_uux5floEIbsuquGPibb_32TawkYE0_Rah-hEjsACxwdTC-pJtZlDB7ukWK37KGB98PQPXxzYfFRc5CGCARSIwPQVlR4a3X3qJ3s6yYjR6adFGvy8dsREA%3D%3D_V2&loc=JP&title=Forward+Deployed+Engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbVOBJmWoiuNbqTHmnloaNxwt_kO9WPXm9j-Qw6xZxrHEjsA1Ny_i_61-ol5FcDbpeaUcmh4H-yYmIrYXMHgHQCpiOQCO-cyrJeHrc_aRGMvRwaHz-Iv7explI6dKA%3D%3D_V2&loc=JP&title=Forward+Deployed+Engineer) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-05-18.
+This machine learning engineer position at Google was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

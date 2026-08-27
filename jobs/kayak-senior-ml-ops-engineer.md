@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kayak](https://scoutify.ai/companies/kayak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/kayak/0ca031e9-b4ce-42fc-b28d-cac043b577b0) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kayak/9a8cb9fa-299c-44d2-9922-7f1c5c463a4e) |
 
 ## About This Role
 
-This machine learning engineer position at Kayak was posted on 2026-07-03.
+This devops engineer position at Kayak was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

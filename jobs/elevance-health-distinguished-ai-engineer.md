@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Walnut Creek, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/CA-WALNUT-CREEK-2121-N-CALIFORNIA-BLVD-7TH-FL/Distinguished-AI-Engineer_JR195741) |
+| Location | 4 locations |
+| Category | Software Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Distinguished-AI-Engineer_JR202107) |
 
 ## About This Role
 
-This ai / llm engineer position at Elevance Health was posted on 2026-06-28.
+This software engineer position at Elevance Health was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 
