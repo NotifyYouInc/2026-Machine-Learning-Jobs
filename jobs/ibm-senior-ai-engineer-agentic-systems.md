@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116572) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=129785) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-05-29.
+This machine learning engineer position at IBM was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

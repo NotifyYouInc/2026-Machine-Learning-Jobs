@@ -5,12 +5,12 @@
 | Company | [STR](https://scoutify.ai/companies/systemstechnologyresearch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4696627006) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4706987006) |
 
 ## About This Role
 
-This machine learning engineer position at STR was posted on 2026-07-14.
+This machine learning engineer position at STR was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

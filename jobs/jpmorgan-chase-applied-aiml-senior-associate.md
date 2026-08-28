@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750782) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776153) |
 
 ## About This Role
 
-This ai / ml research position at JPMorgan Chase was posted on 2026-05-28.
+This machine learning engineer position at JPMorgan Chase was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

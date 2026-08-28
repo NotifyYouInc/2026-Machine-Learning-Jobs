@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Robotics Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000144499789-senior-software-engineer-perception-robotics) |
 
 ## About This Role
 
-This robotics engineer position at Grab was posted on 2026-08-20.
+This machine learning engineer position at Grab was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Heidi Health](https://scoutify.ai/companies/heidihealth.com.au?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Heidi Health](https://scoutify.ai/companies/heidihealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/99f0a483-51bf-45e2-87e6-fee6060eb53c) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/f2a33fd0-e4bc-4e0b-84e3-c136a32af0ab) |
 
 ## About This Role
 
-This ai / llm engineer position at Heidi Health was posted on 2026-03-15.
+This machine learning engineer position at Heidi Health was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

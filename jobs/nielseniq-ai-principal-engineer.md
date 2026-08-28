@@ -1,16 +1,16 @@
-# AI Principal Engineer  at NielsenIQ
+# AI Principal Engineer at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Madrid, Madrid, Spain |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000140210509-ai-principal-engineer) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000144785233-ai-principal-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at NielsenIQ was posted on 2026-07-28.
+This machine learning engineer position at NielsenIQ was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

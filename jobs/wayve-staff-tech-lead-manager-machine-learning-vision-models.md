@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8728746002) |
 
 ## About This Role
 
-This software engineer position at Wayve was posted on 2026-08-19.
+This machine learning engineer position at Wayve was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

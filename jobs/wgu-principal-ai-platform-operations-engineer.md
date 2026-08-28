@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Raleigh, North Carolina, United States |
-| Category | DevOps Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Raleigh-NC/Principal-AI-Platform-Operations-Engineer_JR-025961) |
 
 ## About This Role
 
-This devops engineer position at WGU was posted on 2026-08-19.
+This machine learning engineer position at WGU was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

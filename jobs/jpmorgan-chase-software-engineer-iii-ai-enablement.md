@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781351) |
 
 ## About This Role
 
-This software engineer position at JPMorgan Chase was posted on 2026-08-20.
+This machine learning engineer position at JPMorgan Chase was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

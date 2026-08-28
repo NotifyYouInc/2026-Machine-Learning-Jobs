@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sensata](https://scoutify.ai/companies/sensata?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Software Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Sofia-Bulgaria/Applied-Artificial-Intelligence--AI--Engineer_IRC98293) |
+| Location | Pune, Maharashtra, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Pune-India/Applied-Artificial-Intelligence--AI--Engineer_IRC98320) |
 
 ## About This Role
 
-This software engineer position at Sensata was posted on 2026-08-19.
+This machine learning engineer position at Sensata was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

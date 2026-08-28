@@ -1,0 +1,22 @@
+# NVIDIA 2027 New College Graduate: Deep Learning and High-Performance Computing Engineering - China at Nvidia
+
+| Field | Details |
+|-------|---------|
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | 3 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107) |
+
+## About This Role
+
+This machine learning engineer position at Nvidia was posted on 2026-08-21.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

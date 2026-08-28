@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trupanion](https://scoutify.ai/companies/trupanion?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trupanion1/744000142010382-senior-analyst-finance-ai-automation-solutions-6-month-contract) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trupanion1/744000144619549-senior-analyst-finance-ai-automation-solutions-6-month-contract) |
 
 ## About This Role
 
-This ai / llm engineer position at Trupanion was posted on 2026-08-06.
+This fp&a / strategic finance position at Trupanion was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

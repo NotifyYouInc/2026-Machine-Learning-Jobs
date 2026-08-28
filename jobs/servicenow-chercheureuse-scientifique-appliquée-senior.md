@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144399109-chercheureuse-scientifique-appliquee-senior) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-08-19.
+This machine learning engineer position at ServiceNow was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

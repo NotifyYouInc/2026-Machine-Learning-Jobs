@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRORUZXAgRCvajoJsILK0VTwTx4K-YaLwUjsYeUyHky3EjsA1Ny_i55wv93zIEd86VVPnB9ZqUyslM_MDuKlIcnGixELryO5v5aFyZJvUiNyWlkv5_ZKvgtze7Kk8A%3D%3D_V2&loc=IL&title=Software+Engineer+III) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-08-20.
+This machine learning engineer position at Google was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

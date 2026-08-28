@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Switzerland |
-| Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000137813919-ai-software-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000144691699-ai-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Avaloq was posted on 2026-07-15.
+This machine learning engineer position at Avaloq was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

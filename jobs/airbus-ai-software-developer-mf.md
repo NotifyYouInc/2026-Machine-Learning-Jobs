@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/AI-Software-Developer--M-F-_JR10432748-1) |
 
 ## About This Role
 
-This software engineer position at Airbus was posted on 2026-08-20.
+This machine learning engineer position at Airbus was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

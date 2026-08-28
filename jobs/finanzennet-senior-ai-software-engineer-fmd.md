@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Finanzen.net](https://scoutify.ai/companies/finanzennetgmbh?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karlsruhe, Baden-Wurttemberg, Germany |
+| Location | 3 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FinanzennetGmbH/744000140546069-senior-ai-software-engineer-fmd) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FinanzennetGmbH/744000144795325-senior-ai-software-engineer-fmd) |
 
 ## About This Role
 
-This machine learning engineer position at Finanzen.net was posted on 2026-07-29.
+This machine learning engineer position at Finanzen.net was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

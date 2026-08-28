@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baseten](https://scoutify.ai/companies/baseten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/baseten/b13ec426-d09d-4122-8112-cf25adbd7d60) |
 
 ## About This Role
 
-This software engineer position at Baseten was posted on 2026-08-20.
+This machine learning engineer position at Baseten was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8484911002) |
 
 ## About This Role
 
-This software engineer position at WPP was posted on 2026-08-19.
+This machine learning engineer position at WPP was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

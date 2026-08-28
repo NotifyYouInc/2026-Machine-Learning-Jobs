@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200648466/sr-machine-learning-research-engineer-siri-speech) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200663638/sr-machine-learning-research-engineer-siri-speech) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2026-04-24.
+This ai / ml research position at Apple was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

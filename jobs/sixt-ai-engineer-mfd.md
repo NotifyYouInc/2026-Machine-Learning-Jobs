@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | AI / ML Research |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000133921769-ai-engineer-mfd) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000144781671-ai-engineer-mfd) |
 
 ## About This Role
 
-This ai / ml research position at Sixt was posted on 2026-06-24.
+This machine learning engineer position at Sixt was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5395775008?gh_jid=5395775008) |
 
 ## About This Role
 
-This software engineer position at Scopely was posted on 2026-08-20.
+This machine learning engineer position at Scopely was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psu](https://scoutify.ai/companies/psu?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | State College, Pennsylvania, United States |
+| Location | University, Florida, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://psu.wd1.myworkdayjobs.com/psu_academic/job/Penn-State-University-Park/Postdoctoral-Scholar-in-the-Department-of-Mechanical-Engineering_REQ_0000079832) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://psu.wd1.myworkdayjobs.com/psu_academic/job/Penn-State-University-Park/Postdoctoral-Scholar-in-the-Department-of-Mechanical-Engineering_REQ_0000081524-1) |
 
 ## About This Role
 
-This ai / ml research position at Psu was posted on 2026-07-07.
+This ai / ml research position at Psu was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

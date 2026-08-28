@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=8052679) |
 
 ## About This Role
 
-This software engineer position at Pinterest was posted on 2026-08-19.
+This machine learning engineer position at Pinterest was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

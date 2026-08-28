@@ -1,16 +1,16 @@
-# Engineer Lead, Artificial Intelligence / Machine Learning (GitHub Copilot) at Fidelity National Information Services
+# Engineer Lead, Artificial Intelligence / Machine Learning (GitHub copilot) at Fidelity National Information Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-PUNE-FL7/Engineer-Lead--Artificial-Intelligence---Machine-Learning--GitHub-Copilot-_JR0305474) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-BNGL-FL2-3-TWR-3/Engineer-Lead--Artificial-Intelligence---Machine-Learning--GitHub-copilot-_JR0305475-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Fidelity National Information Services was posted on 2026-03-19.
+This machine learning engineer position at Fidelity National Information Services was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

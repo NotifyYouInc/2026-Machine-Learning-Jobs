@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Changning, Shanghai, China |
-| Category | Robotics Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Changning-Shanghai-CN/Principal-Perception-Engineer_R00257214) |
 
 ## About This Role
 
-This robotics engineer position at Magna was posted on 2026-08-20.
+This machine learning engineer position at Magna was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

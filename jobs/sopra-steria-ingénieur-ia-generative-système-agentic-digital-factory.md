@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140483349-ingenieur-ia-generative-systeme-agentic-digital-factory) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000144776409-ingenieur-ia-generative-systeme-agentic-digital-factory) |
 
 ## About This Role
 
-This machine learning engineer position at Sopra Steria was posted on 2026-07-29.
+This machine learning engineer position at Sopra Steria was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

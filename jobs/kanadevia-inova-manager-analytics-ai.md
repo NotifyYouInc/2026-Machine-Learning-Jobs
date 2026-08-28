@@ -5,12 +5,12 @@
 | Company | [Kanadevia Inova](https://scoutify.ai/companies/kanadeviainova?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Zürich, Zurich, Switzerland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000144250014-manager-analytics-ai) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000144543819-manager-analytics-ai) |
 
 ## About This Role
 
-This machine learning engineer position at Kanadevia Inova was posted on 2026-08-19.
+This machine learning engineer position at Kanadevia Inova was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

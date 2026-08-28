@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kodaira, Tokyo, Japan |
-| Category | Technical Writer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000133298059-hpc-ai) |
+| Category | Data Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000144678159-hpc-ai) |
 
 ## About This Role
 
-This technical writer position at Renesas Electronics was posted on 2026-06-22.
+This data engineer position at Renesas Electronics was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

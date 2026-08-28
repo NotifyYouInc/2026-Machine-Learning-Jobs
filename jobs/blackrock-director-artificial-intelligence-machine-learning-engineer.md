@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Director--Artificial-Intelligence---Machine-Learning-Engineer_R263900) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Edinburgh-Scotland/Director--Artificial-Intelligence---Machine-Learning-Engineer_R265977-1) |
 
 ## About This Role
 
-This machine learning engineer position at Blackrock was posted on 2026-05-01.
+This machine learning engineer position at Blackrock was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

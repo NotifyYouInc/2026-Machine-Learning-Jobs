@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Torc Robotics](https://scoutify.ai/companies/torc-robotics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/torcrobotics/jobs/8728727002) |
 
 ## About This Role
 
-This software engineer position at Torc Robotics was posted on 2026-08-20.
+This machine learning engineer position at Torc Robotics was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

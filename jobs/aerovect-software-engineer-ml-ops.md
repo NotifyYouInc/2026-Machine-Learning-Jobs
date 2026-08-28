@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aerovect](https://scoutify.ai/companies/aerovect?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/aerovect/20b9d482-1913-4718-ac0a-1b0a7e5b0f92) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/aerovect/701fa96b-d96a-4664-901a-cf4ce951726c) |
 
 ## About This Role
 
-This software engineer position at Aerovect was posted on 2026-04-22.
+This machine learning engineer position at Aerovect was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

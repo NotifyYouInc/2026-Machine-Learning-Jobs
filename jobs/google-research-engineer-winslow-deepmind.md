@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckX4PKghnoOwYwH0ZunBg6TWbz9FAOw55ff36rWaZpX0ZEjsA1Ny_iz4_20fejJOYdZtoDkbx5FBDeAtv0KQCQdSh9MGRJ3PMpZmWJYuTSEGTrZDjyWyrTVk3StHDAw%3D%3D_V2&loc=US&title=Research+Engineer) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdywanBNL7z14klsbc3Lic8viX76BseSNomioxHNTWzLEjsA1Ny_i6bz9mNmY6f7hj44zbgc_t8WhuzMF-fAkGSxF8QuvhiSCeitHafgA2iEEOOH-jQeaWkvPvVzeA%3D%3D_V2&loc=US&title=Research+Engineer) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-07-21.
+This ai / ml research position at Google was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

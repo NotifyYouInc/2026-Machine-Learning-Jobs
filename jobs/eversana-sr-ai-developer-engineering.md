@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000143345359-sr-ai-developer-engineering) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000144788350-sr-ai-developer-engineering) |
 
 ## About This Role
 
-This software engineer position at EVERSANA was posted on 2026-08-13.
+This machine learning engineer position at EVERSANA was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

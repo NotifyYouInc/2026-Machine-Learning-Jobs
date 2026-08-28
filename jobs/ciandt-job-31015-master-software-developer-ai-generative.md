@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brazil |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.lever.co/ciandt/10de7b79-fbe3-4522-b8ce-74b76815c0fb) |
 
 ## About This Role
 
-This software engineer position at Ciandt was posted on 2026-08-19.
+This machine learning engineer position at Ciandt was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

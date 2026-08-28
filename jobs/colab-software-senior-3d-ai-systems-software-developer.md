@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CoLab Software](https://scoutify.ai/companies/colab-software?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/colabsoftware/jobs/5386531008) |
 
 ## About This Role
 
-This software engineer position at CoLab Software was posted on 2026-08-20.
+This machine learning engineer position at CoLab Software was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

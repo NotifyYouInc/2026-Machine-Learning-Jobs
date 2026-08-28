@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | AI / ML Research |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Applied-Researcher-II--AI-Foundations--LLM-Core-and-Agentic-AI-_R231858-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-II--AI-Foundations--LLM-Core-and-Agentic-AI-_R249452-1) |
 
 ## About This Role
 
-This ai / ml research position at Capital One was posted on 2026-04-27.
+This ai / ml research position at Capital One was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

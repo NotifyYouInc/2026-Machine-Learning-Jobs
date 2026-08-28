@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Boston-Massachusetts/Associate-Machine-Learning-Engineer_JR26030080) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Associate-Machine-Learning-Engineer_JR26081025) |
 
 ## About This Role
 
-This machine learning engineer position at Manulife was posted on 2026-04-20.
+This machine learning engineer position at Manulife was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

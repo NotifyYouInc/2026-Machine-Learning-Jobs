@@ -5,12 +5,12 @@
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/4a7c71b8-d637-4093-a53e-244aebd549c9) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/2b1ba5a0-6e86-4e33-993c-922cd54738ca) |
 
 ## About This Role
 
-This machine learning engineer position at Clera was posted on 2026-08-05.
+This machine learning engineer position at Clera was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

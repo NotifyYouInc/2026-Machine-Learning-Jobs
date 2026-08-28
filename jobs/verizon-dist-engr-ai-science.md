@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Bangalore-India/Dist-Engr-AI-Science_R-1097308) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Dist-Engr-AI-Science_R-1099828-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Verizon was posted on 2026-07-13.
+This machine learning engineer position at Verizon was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

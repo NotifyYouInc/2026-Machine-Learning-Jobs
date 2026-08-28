@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
-| Category | DevOps Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7670875283026053381/detail) |
 
 ## About This Role
 
-This devops engineer position at TikTok was posted on 2026-08-19.
+This machine learning engineer position at TikTok was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

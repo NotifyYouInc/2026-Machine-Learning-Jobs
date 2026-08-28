@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lucid Motors](https://scoutify.ai/companies/lucidmotors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Michigan, US |
-| Category | Robotics Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/lucidmotors/jobs/5197938007) |
 
 ## About This Role
 
-This robotics engineer position at Lucid Motors was posted on 2026-08-19.
+This machine learning engineer position at Lucid Motors was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | AI / ML Research |
+| Category | UX Researcher |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Agentic-Canvas-Interactions_26WD100616-1) |
 
 ## About This Role
 
-This ai / ml research position at Autodesk was posted on 2026-08-19.
+This ux researcher position at Autodesk was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

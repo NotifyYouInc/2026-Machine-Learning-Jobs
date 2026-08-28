@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Full-Stack-AI-Lead-Developer_J2462184) |
 
 ## About This Role
 
-This software engineer position at Jabil was posted on 2026-08-20.
+This machine learning engineer position at Jabil was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

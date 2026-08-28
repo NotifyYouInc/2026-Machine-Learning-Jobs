@@ -1,16 +1,16 @@
-# Software Engineering Lead Analyst- HIH - Evernorth at Cigna
+# Software Engineering Lead Analyst - HIH - Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Lead-Analyst--HIH---Evernorth_26006729) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Lead-Analyst---HIH---Evernorth_26010447) |
 
 ## About This Role
 
-This ai / llm engineer position at Cigna was posted on 2026-06-22.
+This machine learning engineer position at Cigna was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

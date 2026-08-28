@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Aberdeen, South Dakota, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Aberdeen/AI-ML-Software-Engineer_R185009) |
 
 ## About This Role
 
-This software engineer position at Parsons was posted on 2026-08-19.
+This machine learning engineer position at Parsons was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

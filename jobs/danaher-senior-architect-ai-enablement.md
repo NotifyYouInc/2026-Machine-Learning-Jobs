@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Senior-Architect---AI-Enablement_R1317010) |
 
 ## About This Role
 
-This software engineer position at Danaher was posted on 2026-08-20.
+This machine learning engineer position at Danaher was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

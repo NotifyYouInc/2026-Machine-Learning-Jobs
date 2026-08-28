@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kraken](https://scoutify.ai/companies/kraken?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/kraken.com/233914aa-9008-4c52-bd23-029526fdb8a6) |
 
 ## About This Role
 
-This software engineer position at Kraken was posted on 2026-08-20.
+This machine learning engineer position at Kraken was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

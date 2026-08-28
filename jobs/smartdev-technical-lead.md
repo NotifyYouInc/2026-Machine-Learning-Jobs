@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SmartDev](https://scoutify.ai/companies/smartdev?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Poland |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000144515144-technical-lead) |
 
 ## About This Role
 
-This software engineer position at SmartDev was posted on 2026-08-20.
+This machine learning engineer position at SmartDev was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
