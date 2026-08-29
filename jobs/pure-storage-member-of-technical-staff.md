@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8143670) |
 
 ## About This Role
 
-This machine learning engineer position at Pure Storage was posted on 2026-08-21.
+This ai / llm engineer position at Pure Storage was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

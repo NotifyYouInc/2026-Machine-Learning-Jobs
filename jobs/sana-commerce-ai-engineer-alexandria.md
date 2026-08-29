@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sana Commerce](https://scoutify.ai/companies/sana-commerce?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Alexandria, Alexandria, Egypt |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/sanacommerce/744000144451329-ai-engineer-alexandria) |
 
 ## About This Role
 
-This machine learning engineer position at Sana Commerce was posted on 2026-08-20.
+This ai / llm engineer position at Sana Commerce was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

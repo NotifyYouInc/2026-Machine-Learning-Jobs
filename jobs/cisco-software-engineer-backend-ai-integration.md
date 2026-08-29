@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer---Backend---AI-Integration_2023508) |
 
 ## About This Role
 
-This machine learning engineer position at Cisco was posted on 2026-08-20.
+This ai / llm engineer position at Cisco was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/ull-Stack-Developer--UI---Backend---GCP---AI--AVP_R0447730) |
 
 ## About This Role
 
-This machine learning engineer position at Deutsche Bank was posted on 2026-08-21.
+This ai / llm engineer position at Deutsche Bank was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

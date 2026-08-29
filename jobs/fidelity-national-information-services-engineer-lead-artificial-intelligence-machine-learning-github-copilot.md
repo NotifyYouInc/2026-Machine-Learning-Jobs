@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-BNGL-FL2-3-TWR-3/Engineer-Lead--Artificial-Intelligence---Machine-Learning--GitHub-copilot-_JR0305475-1) |
 
 ## About This Role
 
-This machine learning engineer position at Fidelity National Information Services was posted on 2026-08-20.
+This ai / llm engineer position at Fidelity National Information Services was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

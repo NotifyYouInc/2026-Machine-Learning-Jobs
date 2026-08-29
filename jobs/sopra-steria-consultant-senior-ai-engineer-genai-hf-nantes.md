@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Saint-Herblain, Pays de la Loire, France |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000144576528-consultant-senior-ai-engineer-genai-hf-nantes) |
 
 ## About This Role
 
-This machine learning engineer position at Sopra Steria was posted on 2026-08-20.
+This ai / llm engineer position at Sopra Steria was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

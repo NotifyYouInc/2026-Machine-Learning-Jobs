@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/GenAI-Prompt-Security-Engineer_25897143-1) |
 
 ## About This Role
 
-This machine learning engineer position at Citigroup was posted on 2026-08-20.
+This ai / llm engineer position at Citigroup was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Paraform](https://scoutify.ai/companies/paraform?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/paraform/301b3163-a3fb-40e1-bfb1-fcd992046e0d) |
 
 ## About This Role
 
-This machine learning engineer position at Paraform was posted on 2026-08-20.
+This software engineer position at Paraform was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BEUMER Group](https://scoutify.ai/companies/beumergroup1?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dortmund, North Rhine-Westphalia, Germany |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BEUMERGroup1/744000144715728-ai-engineer-mfd) |
 
 ## About This Role
 
-This machine learning engineer position at BEUMER Group was posted on 2026-08-21.
+This ai / llm engineer position at BEUMER Group was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

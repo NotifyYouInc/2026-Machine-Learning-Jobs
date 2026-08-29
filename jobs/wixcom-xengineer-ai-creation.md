@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Israel |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000144468829-xengineer-ai-creation) |
 
 ## About This Role
 
-This machine learning engineer position at Wix.com was posted on 2026-08-20.
+This software engineer position at Wix.com was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

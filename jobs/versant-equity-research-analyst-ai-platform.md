@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
-| Category | Financial Analyst |
+| Category | Investment Banking |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000144452430-equity-research-analyst-ai-platform) |
 
 ## About This Role
 
-This financial analyst position at Versant was posted on 2026-08-20.
+This investment banking position at Versant was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

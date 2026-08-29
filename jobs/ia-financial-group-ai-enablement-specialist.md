@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [iA Financial Group](https://scoutify.ai/companies/ia-financial-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Learning & Development |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/Professional/job/Montreal-Quebec/AI-Enablement-Specialist_JR10027423) |
 
 ## About This Role
 
-This learning & development position at iA Financial Group was posted on 2026-08-20.
+This ai / llm engineer position at iA Financial Group was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

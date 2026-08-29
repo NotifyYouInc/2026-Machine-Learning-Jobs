@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Poland |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8139882?gh_jid=8139882) |
 
 ## About This Role
 
-This machine learning engineer position at HelloFresh was posted on 2026-08-21.
+This software engineer position at HelloFresh was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

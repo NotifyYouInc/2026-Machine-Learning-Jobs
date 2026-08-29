@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AXIS Capital](https://scoutify.ai/companies/axis-capital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/Alpharetta-GA/Senior-AI-Operations-Engineer_REQ06595) |
 
 ## About This Role
 
-This machine learning engineer position at AXIS Capital was posted on 2026-08-21.
+This ai / llm engineer position at AXIS Capital was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

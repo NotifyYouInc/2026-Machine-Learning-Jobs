@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Associate-Machine-Learning-Engineer_JR26081025) |
 
 ## About This Role
 
-This machine learning engineer position at Manulife was posted on 2026-08-21.
+This ai / llm engineer position at Manulife was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/INDKABangalore--Epip-Area-Hoodi-Village-Whitefield-Rd---Eqp-Plot-111112-Epip-Area-Hoodi-Village-Whitefield-Road/Sr-Specialist-System-Engineering--GenAI-Engineer---Network-Automation---RCA-_R-120272) |
 
 ## About This Role
 
-This machine learning engineer position at AT&T was posted on 2026-08-21.
+This ai / llm engineer position at AT&T was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

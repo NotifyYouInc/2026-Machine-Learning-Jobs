@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Provectus](https://scoutify.ai/companies/provectus?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | North Macedonia |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.lever.co/provectus/76d97b29-ccb1-4417-aaf6-fbb05aa2bf86) |
 
 ## About This Role
 
-This machine learning engineer position at Provectus was posted on 2026-08-21.
+This ai / llm engineer position at Provectus was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

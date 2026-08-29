@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AlertMedia](https://scoutify.ai/companies/alertmedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/alertmedia/jobs/8735080002) |
 
 ## About This Role
 
-This machine learning engineer position at AlertMedia was posted on 2026-08-20.
+This ai / llm engineer position at AlertMedia was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

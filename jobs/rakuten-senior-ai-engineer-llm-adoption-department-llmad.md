@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Senior-AI-Engineer---LLM-Adoption-Department--LLMAD-_1036882-97) |
 
 ## About This Role
 
-This machine learning engineer position at Rakuten was posted on 2026-08-21.
+This ai / llm engineer position at Rakuten was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

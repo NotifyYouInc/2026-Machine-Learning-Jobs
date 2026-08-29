@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Artificial-Intelligence---Machine-Learning-Engineer--Vice-President---AI-Labs_R265982) |
 
 ## About This Role
 
-This machine learning engineer position at Blackrock was posted on 2026-08-21.
+This ai / llm engineer position at Blackrock was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

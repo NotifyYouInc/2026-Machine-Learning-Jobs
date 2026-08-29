@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8700100002) |
 
 ## About This Role
 
-This machine learning engineer position at Dialpad was posted on 2026-08-21.
+This ai / llm engineer position at Dialpad was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

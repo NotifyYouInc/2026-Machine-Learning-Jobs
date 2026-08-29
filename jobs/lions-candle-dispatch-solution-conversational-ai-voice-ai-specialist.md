@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000144796949-conversational-ai-voice-ai-specialist) |
 
 ## About This Role
 
-This machine learning engineer position at Lions Candle-Dispatch Solution was posted on 2026-08-21.
+This ai / llm engineer position at Lions Candle-Dispatch Solution was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

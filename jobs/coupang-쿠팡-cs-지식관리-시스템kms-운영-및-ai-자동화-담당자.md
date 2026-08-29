@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8146619) |
 
 ## About This Role
 
-This machine learning engineer position at Coupang was posted on 2026-08-21.
+This ai / llm engineer position at Coupang was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

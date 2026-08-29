@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/04559598-b320-4bcd-ace8-fb9cc551a02c) |
 
 ## About This Role
 
-This machine learning engineer position at Snowflake was posted on 2026-08-20.
+This ai / llm engineer position at Snowflake was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

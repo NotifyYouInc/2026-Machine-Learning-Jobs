@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Prague, Prague, Czechia |
-| Category | Learning & Development |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000144699339-ai-machine-learning-lead-consultant-prague) |
 
 ## About This Role
 
-This learning & development position at Devoteam was posted on 2026-08-21.
+This ai / llm engineer position at Devoteam was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

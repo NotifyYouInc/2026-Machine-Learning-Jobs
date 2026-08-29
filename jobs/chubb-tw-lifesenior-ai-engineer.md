@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chubb](https://scoutify.ai/companies/ocs-cx-oj28119?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Taiwan |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#35443) |
 
 ## About This Role
 
-This machine learning engineer position at Chubb was posted on 2026-08-20.
+This ai / llm engineer position at Chubb was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Junior-Data-Scientist---AI-engineer---m-w-d--in-the-field-of-Data-Processing---Analytics_JR10433316) |
 
 ## About This Role
 
-This data scientist position at Airbus was posted on 2026-08-20.
+This ai / llm engineer position at Airbus was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

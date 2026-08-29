@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Dallas/Sr-Staff-AI-Engineer_262876) |
 
 ## About This Role
 
-This machine learning engineer position at Blue Yonder was posted on 2026-08-20.
+This ai / llm engineer position at Blue Yonder was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

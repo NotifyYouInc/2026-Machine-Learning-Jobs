@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/4a995552-e961-48c0-92b0-08bfa7e4c5e9) |
 
 ## About This Role
 
-This machine learning engineer position at Airwallex was posted on 2026-08-21.
+This ai / llm engineer position at Airwallex was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

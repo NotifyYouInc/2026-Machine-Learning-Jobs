@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
+| Category | Product Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Director--Data-Systems---AI--Enterprise-Competitive-Intelligence_REQ-10085867) |
 
 ## About This Role
 
-This data engineer position at Novartis was posted on 2026-08-21.
+This product marketing position at Novartis was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

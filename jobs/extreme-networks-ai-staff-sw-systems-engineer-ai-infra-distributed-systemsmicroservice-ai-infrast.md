@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Extreme Networks](https://scoutify.ai/companies/extreme-networks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.lever.co/extremenetworks/0100b069-56f7-4aec-96b8-c34cae660a5d) |
 
 ## About This Role
 
-This machine learning engineer position at Extreme Networks was posted on 2026-08-21.
+This ai / llm engineer position at Extreme Networks was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

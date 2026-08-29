@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Collectorsuniverse](https://scoutify.ai/companies/collectorsuniverse?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New Jersey, US |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---New-Jersey---Other/Senior-Engineer--Applied-AI_JR106155) |
 
 ## About This Role
 
-This machine learning engineer position at Collectorsuniverse was posted on 2026-08-21.
+This ai / llm engineer position at Collectorsuniverse was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

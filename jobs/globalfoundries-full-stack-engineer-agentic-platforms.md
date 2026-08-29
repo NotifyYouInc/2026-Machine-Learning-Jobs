@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Austin/Full-Stack-Engineer---Agentic-Platforms_JR-2603866) |
 
 ## About This Role
 
-This machine learning engineer position at GlobalFoundries was posted on 2026-08-20.
+This ai / llm engineer position at GlobalFoundries was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

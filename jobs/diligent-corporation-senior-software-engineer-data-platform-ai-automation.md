@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vancouver, British Columbia, Canada |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/6139798004) |
 
 ## About This Role
 
-This data engineer position at Diligent Corporation was posted on 2026-08-20.
+This ai / llm engineer position at Diligent Corporation was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Appliances](https://scoutify.ai/companies/ge-appliances?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Louisville, Kentucky, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Principal-Applied-AI-Engineer_REQ-26545-1) |
 
 ## About This Role
 
-This machine learning engineer position at GE Appliances was posted on 2026-08-21.
+This ai / llm engineer position at GE Appliances was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

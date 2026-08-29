@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Phoenix, Arizona, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Phoenix-AZ/Engineer-I---AI-Forward-Engineer_R13619) |
 
 ## About This Role
 
-This machine learning engineer position at Western Alliance Bancorporation was posted on 2026-08-20.
+This ai / llm engineer position at Western Alliance Bancorporation was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

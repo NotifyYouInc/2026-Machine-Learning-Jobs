@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verisk](https://scoutify.ai/companies/ocs-cx-oj114447?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4667) |
 
 ## About This Role
 
-This machine learning engineer position at Verisk was posted on 2026-08-21.
+This ai / llm engineer position at Verisk was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

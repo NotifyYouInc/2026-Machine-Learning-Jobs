@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kodaira, Tokyo, Japan |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000144678159-hpc-ai) |
 
 ## About This Role
 
-This data engineer position at Renesas Electronics was posted on 2026-08-21.
+This ai / llm engineer position at Renesas Electronics was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

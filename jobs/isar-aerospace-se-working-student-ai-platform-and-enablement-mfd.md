@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Isar Aerospace SE](https://scoutify.ai/companies/isar-aerospace-se?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bavaria, DE |
-| Category | Machine Learning Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4958455101) |
 
 ## About This Role
 
-This machine learning engineer position at Isar Aerospace SE was posted on 2026-08-21.
+This devops engineer position at Isar Aerospace SE was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

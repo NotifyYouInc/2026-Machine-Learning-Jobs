@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Director--AI-Engineering_JR113479) |
 
 ## About This Role
 
-This machine learning engineer position at ServiceTitan was posted on 2026-08-19.
+This ai / llm engineer position at ServiceTitan was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

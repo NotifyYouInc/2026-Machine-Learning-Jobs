@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Lead-I---Autonomous-AI---Analytics-Orchestration_321035-1) |
 
 ## About This Role
 
-This machine learning engineer position at S&P Global was posted on 2026-08-21.
+This ai / llm engineer position at S&P Global was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

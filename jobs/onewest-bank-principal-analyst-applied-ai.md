@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OneWest Bank](https://scoutify.ai/companies/onewest-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Principal-Analyst---Applied-AI_24752-1) |
 
 ## About This Role
 
-This data scientist position at OneWest Bank was posted on 2026-08-21.
+This ai / llm engineer position at OneWest Bank was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

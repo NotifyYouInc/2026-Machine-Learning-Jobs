@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lifted, an Upwork Company™](https://scoutify.ai/companies/liftedanupworkcompany?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990014736041-132210-ai-platform-technical-lead) |
 
 ## About This Role
 
-This machine learning engineer position at Lifted, an Upwork Company™ was posted on 2026-08-21.
+This ai / llm engineer position at Lifted, an Upwork Company™ was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

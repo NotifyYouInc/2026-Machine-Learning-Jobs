@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000144506612-ai-engineer-model-pipeline-deployment) |
 
 ## About This Role
 
-This machine learning engineer position at Jobs for Humanity was posted on 2026-08-20.
+This ai / llm engineer position at Jobs for Humanity was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbVOBJmWoiuNbqTHmnloaNxwt_kO9WPXm9j-Qw6xZxrHEjsA1Ny_i_61-ol5FcDbpeaUcmh4H-yYmIrYXMHgHQCpiOQCO-cyrJeHrc_aRGMvRwaHz-Iv7explI6dKA%3D%3D_V2&loc=JP&title=Forward+Deployed+Engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Google was posted on 2026-08-20.
+This ai / llm engineer position at Google was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Artefact](https://scoutify.ai/companies/artefact?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://www.artefact.com/careers/7800887002?gh_jid=7800887002) |
 
 ## About This Role
 
-This data scientist position at Artefact was posted on 2026-08-21.
+This ai / llm engineer position at Artefact was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

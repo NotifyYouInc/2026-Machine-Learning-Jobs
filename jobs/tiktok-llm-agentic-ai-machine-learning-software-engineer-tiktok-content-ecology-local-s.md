@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7675877203024775477/detail) |
 
 ## About This Role
 
-This machine learning engineer position at TikTok was posted on 2026-08-20.
+This ai / llm engineer position at TikTok was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

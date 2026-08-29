@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/xero/bec9946f-d4fc-4d66-8cda-39aa93dba6dc) |
 
 ## About This Role
 
-This machine learning engineer position at Xero was posted on 2026-08-21.
+This software engineer position at Xero was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

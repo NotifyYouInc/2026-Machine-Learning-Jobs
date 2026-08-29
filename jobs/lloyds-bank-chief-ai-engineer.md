@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/Chief-AI-Engineer_160758-2) |
 
 ## About This Role
 
-This machine learning engineer position at Lloyds Bank was posted on 2026-08-20.
+This ai / llm engineer position at Lloyds Bank was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

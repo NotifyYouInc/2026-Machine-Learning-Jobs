@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990014700791-principal-software-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at HelloKindred was posted on 2026-08-20.
+This ai / llm engineer position at HelloKindred was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

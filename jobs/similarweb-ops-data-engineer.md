@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Similarweb](https://scoutify.ai/companies/similarweb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Israel |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/similarweb/jobs/8143476) |
 
 ## About This Role
 
-This data engineer position at Similarweb was posted on 2026-08-20.
+This ai / llm engineer position at Similarweb was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

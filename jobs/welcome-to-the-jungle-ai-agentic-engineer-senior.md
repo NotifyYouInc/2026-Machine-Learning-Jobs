@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Welcome to the Jungle](https://scoutify.ai/companies/welcome-to-the-jungle?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/artefactjobs/jobs/8731956002) |
 
 ## About This Role
 
-This machine learning engineer position at Welcome to the Jungle was posted on 2026-08-20.
+This ai / llm engineer position at Welcome to the Jungle was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

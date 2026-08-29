@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Silgan Dispensing Systems](https://scoutify.ai/companies/silgan-dispensing-systems?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brookfield, Wisconsin, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://silgancontainers.wd1.myworkdayjobs.com/silgan/job/Brookfield-WI/Senior-AI-Application-Developer_R8031-1) |
 
 ## About This Role
 
-This machine learning engineer position at Silgan Dispensing Systems was posted on 2026-08-21.
+This ai / llm engineer position at Silgan Dispensing Systems was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

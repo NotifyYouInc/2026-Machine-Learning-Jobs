@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Overland Park, Kansas, United States |
-| Category | Learning & Development |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000144795997-ai-engineering-enablement-lead) |
 
 ## About This Role
 
-This learning & development position at EVERSANA was posted on 2026-08-21.
+This ai / llm engineer position at EVERSANA was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

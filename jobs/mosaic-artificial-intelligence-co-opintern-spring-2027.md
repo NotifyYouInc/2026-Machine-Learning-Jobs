@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mosaic](https://scoutify.ai/companies/mosaic?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tampa, Florida, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Spring-2027_64729) |
 
 ## About This Role
 
-This machine learning engineer position at Mosaic was posted on 2026-08-20.
+This ai / llm engineer position at Mosaic was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

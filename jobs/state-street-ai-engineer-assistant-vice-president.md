@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/AI-Engineer--Assistant-Vice-President_R-796423) |
 
 ## About This Role
 
-This machine learning engineer position at State Street was posted on 2026-08-21.
+This ai / llm engineer position at State Street was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

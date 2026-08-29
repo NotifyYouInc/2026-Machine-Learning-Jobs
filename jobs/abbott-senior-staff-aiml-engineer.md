@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Santa-Clara/Senior-Staff-AI-ML-Engineer_31159595-2) |
 
 ## About This Role
 
-This machine learning engineer position at Abbott was posted on 2026-08-20.
+This ai / llm engineer position at Abbott was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

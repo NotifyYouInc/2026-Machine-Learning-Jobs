@@ -5,12 +5,12 @@
 | Company | [University of British Columbia (UBC)](https://scoutify.ai/companies/university-of-british-columbia-ubc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Postdoctoral-Research-Fellow_JR23702) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Postdoctoral-Research-Fellow_JR25683-1) |
 
 ## About This Role
 
-This ai / ml research position at University of British Columbia (UBC) was posted on 2026-03-02.
+This ai / ml research position at University of British Columbia (UBC) was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

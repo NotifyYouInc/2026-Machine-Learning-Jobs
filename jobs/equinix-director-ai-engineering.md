@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Redwood City, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Redwood-City/Director--AI-Engineering_JR-162996) |
 
 ## About This Role
 
-This machine learning engineer position at Equinix was posted on 2026-08-20.
+This ai / llm engineer position at Equinix was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Artificial-Intelligence-Software-Engineer_R0247474) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-08-20.
+This ai / llm engineer position at Booz Allen was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

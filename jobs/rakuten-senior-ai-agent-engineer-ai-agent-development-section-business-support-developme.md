@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Senior-AI-Agent-Engineer---AI-Agent-Development-Section--Business-Support-Development-Department--BSD-_1036839-147) |
 
 ## About This Role
 
-This machine learning engineer position at Rakuten was posted on 2026-08-20.
+This ai / llm engineer position at Rakuten was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Senior-Software-Engineer_R000105670) |
 
 ## About This Role
 
-This machine learning engineer position at Warner Bros Discovery was posted on 2026-08-20.
+This ai / llm engineer position at Warner Bros Discovery was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

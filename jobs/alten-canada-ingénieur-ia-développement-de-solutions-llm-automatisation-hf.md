@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Nantes, Pays de la Loire, France |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000144584179-ingenieur-ia-developpement-de-solutions-llm-automatisation-hf) |
 
 ## About This Role
 
-This machine learning engineer position at ALTEN Canada was posted on 2026-08-20.
+This ai / llm engineer position at ALTEN Canada was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

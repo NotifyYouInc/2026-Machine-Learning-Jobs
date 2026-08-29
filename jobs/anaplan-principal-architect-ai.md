@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8717704002) |
 
 ## About This Role
 
-This machine learning engineer position at Anaplan was posted on 2026-08-20.
+This ai / llm engineer position at Anaplan was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

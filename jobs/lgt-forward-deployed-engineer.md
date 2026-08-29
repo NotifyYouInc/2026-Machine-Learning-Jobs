@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LGT](https://scoutify.ai/companies/lgt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://lgt.wd3.myworkdayjobs.com/lgtcurrentvacancies/job/London/Forward-Deployed-Engineer_JR8152-2) |
 
 ## About This Role
 
-This machine learning engineer position at LGT was posted on 2026-08-21.
+This ai / llm engineer position at LGT was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

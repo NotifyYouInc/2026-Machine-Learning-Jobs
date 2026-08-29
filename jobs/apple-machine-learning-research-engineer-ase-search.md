@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | AI / ML Research |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200679268/machine-learning-research-engineer-ase-search) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2026-08-20.
+This ai / llm engineer position at Apple was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

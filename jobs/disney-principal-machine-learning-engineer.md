@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York, US |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Principal-Machine-Learning-Engineer_10143393) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Principal-Machine-Learning-Engineer_10157433-2) |
 
 ## About This Role
 
-This machine learning engineer position at Disney was posted on 2026-02-25.
+This machine learning engineer position at Disney was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

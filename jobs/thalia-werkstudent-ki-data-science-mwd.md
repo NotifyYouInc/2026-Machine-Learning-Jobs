@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thalia](https://scoutify.ai/companies/thaliabchergmbh1?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Münster, North Rhine-Westphalia, Germany |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ThaliaBcherGmbH1/744000144482119-werkstudent-ki-data-science-mwd) |
 
 ## About This Role
 
-This data scientist position at Thalia was posted on 2026-08-20.
+This ai / llm engineer position at Thalia was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

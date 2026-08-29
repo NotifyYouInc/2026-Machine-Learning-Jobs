@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Copenhagen, Capital Region, Denmark |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/DKCPH55---Copenhagen---Esplanaden-50/Software-Engineer_R193814) |
 
 ## About This Role
 
-This machine learning engineer position at A.P. Moller - Maersk was posted on 2026-08-20.
+This software engineer position at A.P. Moller - Maersk was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

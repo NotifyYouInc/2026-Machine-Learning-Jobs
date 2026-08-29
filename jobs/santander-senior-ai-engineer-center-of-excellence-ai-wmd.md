@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mönchengladbach, North Rhine-Westphalia, Germany |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Mnchengladbach---Santander-Platz/Experienced-Applied-AI-Engineer--w-m-d-_Req1515536-1) |
 
 ## About This Role
 
-This machine learning engineer position at Santander was posted on 2026-08-20.
+This ai / llm engineer position at Santander was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

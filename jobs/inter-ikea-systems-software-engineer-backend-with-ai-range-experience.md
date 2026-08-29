@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inter Ikea Systems](https://scoutify.ai/companies/interikeasystems?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Malmö, Skåne, Sweden |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000144558039-software-engineer-backend-with-ai-range-experience) |
 
 ## About This Role
 
-This machine learning engineer position at Inter Ikea Systems was posted on 2026-08-20.
+This ai / llm engineer position at Inter Ikea Systems was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

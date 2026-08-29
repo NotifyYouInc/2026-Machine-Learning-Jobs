@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caylent](https://scoutify.ai/companies/caylent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Canada |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/caylent/jobs/5973733004) |
 
 ## About This Role
 
-This machine learning engineer position at Caylent was posted on 2026-08-21.
+This ai / llm engineer position at Caylent was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

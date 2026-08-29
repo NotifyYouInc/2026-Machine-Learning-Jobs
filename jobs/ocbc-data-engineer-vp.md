@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/Data-Engineer--VP-_JR00010409) |
 
 ## About This Role
 
-This data engineer position at OCBC was posted on 2026-08-20.
+This ai / llm engineer position at OCBC was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

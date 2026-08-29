@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tulip Interfaces](https://scoutify.ai/companies/tulip-interfaces?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Somerville, Massachusetts, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://tulip.co/careers/job-posting/?gh_jid=7916769003) |
 
 ## About This Role
 
-This machine learning engineer position at Tulip Interfaces was posted on 2026-08-20.
+This ai / llm engineer position at Tulip Interfaces was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

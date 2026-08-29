@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Hartford](https://scoutify.ai/companies/the-hartford?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Sr-AI-Data-Engineer_R2626312) |
 
 ## About This Role
 
-This data engineer position at The Hartford was posted on 2026-08-20.
+This ai / llm engineer position at The Hartford was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
