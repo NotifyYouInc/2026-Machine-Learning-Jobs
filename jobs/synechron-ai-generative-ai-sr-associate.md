@@ -1,16 +1,16 @@
-# Advanced Engineer-AI/ML at HARMAN International
+# AI / Generative AI Sr. Associate at Synechron
 
 | Field | Details |
 |-------|---------|
-| Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-08-23 |
-| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Advanced-Engineer-AI-ML/32662) |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Bellandur-GTP/AI---Generative-AI-Sr-Associate_JR1043353-6) |
 
 ## About This Role
 
-This ai / llm engineer position at HARMAN International was posted on 2026-08-23.
+This ai / llm engineer position at Synechron was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

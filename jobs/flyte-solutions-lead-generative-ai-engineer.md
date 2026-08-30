@@ -1,16 +1,16 @@
-# Advanced Engineer-AI/ML at HARMAN International
+# Lead Generative AI Engineer at Flyte Solutions
 
 | Field | Details |
 |-------|---------|
-| Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Flyte Solutions](https://scoutify.ai/companies/flytesolutionsltd?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Dhaka, Dhaka Division, Bangladesh |
 | Category | AI / LLM Engineer |
 | Posted | 2026-08-23 |
-| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Advanced-Engineer-AI-ML/32662) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FlyteSolutionsLtd/744000145030591-lead-generative-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at HARMAN International was posted on 2026-08-23.
+This ai / llm engineer position at Flyte Solutions was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 
