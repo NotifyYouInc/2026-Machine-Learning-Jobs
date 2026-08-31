@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heriot-Watt University](https://scoutify.ai/companies/em3-cx-oj52832?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Edinburgh, Scotland, United Kingdom |
-| Category | Semiconductor / Chip Design |
+| Category | AI / ML Research |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://enzj.fa.em3.oraclecloud.com/jobs/#4989) |
 
 ## About This Role
 
-This semiconductor / chip design position at Heriot-Watt University was posted on 2026-08-21.
+This ai / ml research position at Heriot-Watt University was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

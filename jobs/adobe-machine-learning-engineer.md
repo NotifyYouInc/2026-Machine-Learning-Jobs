@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171337) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-4_R170857) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-08-18.
+This machine learning engineer position at Adobe was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PT SMART Tbk](https://scoutify.ai/companies/pt-smart-tbk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/AI-Engineer_R-26001237) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/AI-Engineer_R-26001264) |
 
 ## About This Role
 
-This machine learning engineer position at PT SMART Tbk was posted on 2026-08-14.
+This ai / llm engineer position at PT SMART Tbk was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Alphen aan den Rijn, South Holland, The Netherlands |
+| Location | Warsaw, Mazovia, Poland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/NLD---Alphen-Aan-Den-Rijn/Principal-Full-Stack-Engineer--AI-Platform---Agents_R0051737-2) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/POL---Warsaw-Przyokopowa/Principal-Full-Stack-Engineer--AI-Platform---Agents_R0059270) |
 
 ## About This Role
 
-This ai / llm engineer position at Wolters Kluwer was posted on 2026-04-24.
+This ai / llm engineer position at Wolters Kluwer was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

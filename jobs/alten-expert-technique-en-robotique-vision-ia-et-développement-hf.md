@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Robotics Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135947115-expert-technique-en-robotique-vision-ia-et-developpement-hf) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000145219881-expert-technique-en-robotique-vision-ia-et-developpement-hf) |
 
 ## About This Role
 
-This robotics engineer position at ALTEN was posted on 2026-07-06.
+This machine learning engineer position at ALTEN was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

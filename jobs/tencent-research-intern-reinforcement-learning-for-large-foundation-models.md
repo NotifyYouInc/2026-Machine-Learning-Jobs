@@ -5,12 +5,12 @@
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / ML Research |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Research-Intern---Reinforcement-Learning-for-Large-Foundation-Models_R107774) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Research-Intern---Reinforcement-Learning-for-Large-Foundation-Models_R108024) |
 
 ## About This Role
 
-This ai / ml research position at Tencent was posted on 2026-07-09.
+This ai / ml research position at Tencent was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ostrava, Moravskoslezský, Czechia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ostrava-Moravskoslezsk-kraj-Czechia/GenAI-LLM-Application-Developer_JR00038438-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ostrava-Moravskoslezsk-kraj-Czechia/GenAI-LLM-Application-Developer_JR00038450) |
 
 ## About This Role
 
-This ai / llm engineer position at ABB was posted on 2026-06-22.
+This ai / llm engineer position at ABB was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

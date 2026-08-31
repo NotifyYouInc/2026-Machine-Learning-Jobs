@@ -6,7 +6,7 @@
 | Location | Münster, North Rhine-Westphalia, Germany |
 | Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ThaliaBcherGmbH1/744000144482119-werkstudent-ki-data-science-mwd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ThaliaBcherGmbH1/744000144567032-werkstudent-ki-data-science-mwd) |
 
 ## About This Role
 

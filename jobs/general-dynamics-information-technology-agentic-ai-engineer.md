@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Agentic-AI-Engineer_RQ220935) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Agentic-AI-Engineer_RQ226997-2) |
 
 ## About This Role
 
-This ai / llm engineer position at General Dynamics Information Technology was posted on 2026-05-28.
+This ai / llm engineer position at General Dynamics Information Technology was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

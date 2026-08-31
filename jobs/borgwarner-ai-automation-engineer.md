@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | DevOps Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bucharest---Romania/AI---Automation-Engineer_R2026-3180) |
 
 ## About This Role
 
-This devops engineer position at BorgWarner was posted on 2026-08-20.
+This ai / llm engineer position at BorgWarner was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
