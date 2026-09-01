@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000135761384-ai-engineer) |
+| Location | Rotterdam, South Holland, The Netherlands |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000145428079-ai-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at KPN was posted on 2026-07-03.
+This ai / llm engineer position at KPN was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

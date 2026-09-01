@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
-| Category | AI / ML Research |
-| Posted | 2026-05-22 |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Lead-Engineer---AI-Productivity-Lab_156909) |
 
 ## About This Role
 
-This ai / ml research position at Lloyds Bank was posted on 2026-05-22.
+This ai / llm engineer position at Lloyds Bank was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

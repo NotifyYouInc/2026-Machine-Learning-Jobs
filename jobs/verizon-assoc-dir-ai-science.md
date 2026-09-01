@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Assoc-Dir-AI-Science_R-1099744) |
 
 ## About This Role
 
-This ai / ml research position at Verizon was posted on 2026-08-21.
+This data scientist position at Verizon was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | AI / ML Research |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bucharest/Python-AI-Agent-Engineer--Mid-level-_R0326213-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bucharest/Python-AI-Agent-Engineer--Mid-level-_R0338175) |
 
 ## About This Role
 
-This ai / ml research position at Thales was posted on 2026-06-18.
+This ai / llm engineer position at Thales was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

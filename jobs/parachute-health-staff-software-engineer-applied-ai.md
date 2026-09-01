@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parachute Health](https://scoutify.ai/companies/parachute-health?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/parachutehealth/jobs/4542648007) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/parachutehealth/jobs/5220321007) |
 
 ## About This Role
 
-This ai / llm engineer position at Parachute Health was posted on 2026-06-12.
+This ai / llm engineer position at Parachute Health was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

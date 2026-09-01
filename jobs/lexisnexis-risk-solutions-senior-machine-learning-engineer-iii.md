@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mexico |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-13 |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Mexico/Senior-Machine-Learning-Engineer-III_R110959-1) |
 
 ## About This Role
 
-This machine learning engineer position at LexisNexis Risk Solutions was posted on 2026-05-13.
+This ai / llm engineer position at LexisNexis Risk Solutions was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

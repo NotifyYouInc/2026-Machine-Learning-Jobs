@@ -5,12 +5,12 @@
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore-Remote/Forward-Deployed-AI-Engineer_261081) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Forward-Deployed-AI-Engineer_261237-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Cloudera was posted on 2026-08-06.
+This ai / llm engineer position at Cloudera was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

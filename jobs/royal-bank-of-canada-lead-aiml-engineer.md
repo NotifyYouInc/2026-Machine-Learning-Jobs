@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mississauga, Ontario, Canada |
-| Category | Engineering Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/Lead-AI-ML-Engineer_R-0000178124) |
+| Location | Toronto, Ontario, Canada |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-AI-ML-Engineer_R-0000183356) |
 
 ## About This Role
 
-This engineering manager position at Royal Bank of Canada was posted on 2026-06-24.
+This ai / llm engineer position at Royal Bank of Canada was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

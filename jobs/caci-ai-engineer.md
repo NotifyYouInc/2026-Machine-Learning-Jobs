@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | O'Fallon, Missouri, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/AI-Engineer_330347) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/AI-Engineer_331005) |
 
 ## About This Role
 
-This ai / llm engineer position at CACI was posted on 2026-08-10.
+This ai / llm engineer position at CACI was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

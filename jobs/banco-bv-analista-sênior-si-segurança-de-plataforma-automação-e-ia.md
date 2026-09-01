@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco BV](https://scoutify.ai/companies/banco-bv?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Cybersecurity Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.lever.co/bv/af366d4c-302f-4f78-85b8-319853da7147) |
 
 ## About This Role
 
-This cybersecurity engineer position at Banco BV was posted on 2026-08-24.
+This ai / llm engineer position at Banco BV was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

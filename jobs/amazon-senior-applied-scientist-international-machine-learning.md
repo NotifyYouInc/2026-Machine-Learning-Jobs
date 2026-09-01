@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10479670/senior-applied-scientist-international-machine-learning) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10513309/senior-applied-scientist-international-machine-learning) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-07-21.
+This data scientist position at Amazon was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

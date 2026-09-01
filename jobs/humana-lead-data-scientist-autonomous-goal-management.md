@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Lead-Data-Scientist---Autonomous-Goal-Management_R-427650) |
 
 ## About This Role
 
-This ai / ml research position at Humana was posted on 2026-08-21.
+This data scientist position at Humana was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

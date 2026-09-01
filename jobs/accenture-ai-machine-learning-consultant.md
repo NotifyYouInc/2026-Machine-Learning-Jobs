@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Learning & Development |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/AI---Machine-Learning-Consultant_14602234) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/AI---Machine-Learning-Consultant_R00352454) |
 
 ## About This Role
 
-This learning & development position at Accenture was posted on 2026-08-20.
+This ai / llm engineer position at Accenture was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

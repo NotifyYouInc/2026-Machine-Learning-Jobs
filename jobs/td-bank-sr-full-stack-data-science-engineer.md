@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-03-02 |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Full-Stack-Data-Science-Engineer_R_1475726) |
 
 ## About This Role
 
-This software engineer position at TD Bank was posted on 2026-03-02.
+This data scientist position at TD Bank was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

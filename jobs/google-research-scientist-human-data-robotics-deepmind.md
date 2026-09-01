@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYMRP8T_J6YgONgaUI94kivxi9OlSHj00BQW5NzWB2JhEjsA1Ny_i3zJNEJ3G_hAuuiRicZgaqPGtMF6SZgCGSgrPcaBF_RrnSMyV9W5oGFraF5vxRqirV9pQBbXug%3D%3D_V2&loc=GB&title=Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-08-21.
+This data scientist position at Google was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

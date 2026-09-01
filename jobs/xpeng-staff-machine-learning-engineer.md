@@ -5,12 +5,12 @@
 | Company | [XPENG](https://scoutify.ai/companies/xpeng?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xpengmotors/jobs/8606674002) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xpengmotors/jobs/8743596002) |
 
 ## About This Role
 
-This machine learning engineer position at XPENG was posted on 2026-06-24.
+This machine learning engineer position at XPENG was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | San Jose, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Software-Development-Engineer_R169120) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R171324-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Adobe was posted on 2026-05-25.
+This ai / llm engineer position at Adobe was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

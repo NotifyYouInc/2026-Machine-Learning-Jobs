@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bangalore-India/Software-Engineer-II_10141492-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-II_10148551-2) |
 
 ## About This Role
 
-This software engineer position at Disney was posted on 2026-02-12.
+This software engineer position at Disney was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

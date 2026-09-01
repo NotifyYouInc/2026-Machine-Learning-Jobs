@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/xero/7c3e039c-02ee-4eba-9dc2-d2c19ba21c6a) |
 
 ## About This Role
 
-This ai / ml research position at Xero was posted on 2026-08-24.
+This data scientist position at Xero was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
