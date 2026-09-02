@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Embedded / Firmware Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000145427739-embedded-ai-engineering-intern-ida00058) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Aumovio was posted on 2026-08-25.
+This machine learning engineer position at Aumovio was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

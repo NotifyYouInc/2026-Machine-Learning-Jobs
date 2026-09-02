@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Illinois, US |
-| Category | Data Scientist |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Scientist-Applied-Research_31158100-1) |
+| Category | AI / ML Research |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Scientist-Applied-Research_31159710-1) |
 
 ## About This Role
 
-This data scientist position at Abbott was posted on 2026-08-08.
+This ai / ml research position at Abbott was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

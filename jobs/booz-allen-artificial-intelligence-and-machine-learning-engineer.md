@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Fort Meade, Maryland, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Artificial-Intelligence-and-Machine-Learning-Engineer_R0240090) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Artificial-Intelligence-and-Machine-Learning-Engineer_R0247840) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-05-14.
+This ai / llm engineer position at Booz Allen was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

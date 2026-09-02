@@ -5,12 +5,12 @@
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Hyderabad/Agentic-AI-Engineer_R-102058) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Hyderabad/Agentic-AI-Engineer_R-102390) |
 
 ## About This Role
 
-This ai / llm engineer position at Rimini Street was posted on 2026-03-03.
+This ai / llm engineer position at Rimini Street was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

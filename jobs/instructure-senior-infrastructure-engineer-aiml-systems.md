@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Instructure](https://scoutify.ai/companies/instructure?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | DevOps Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/instructure/bd3ccf27-fe4b-4382-a446-fd735a277e57) |
 
 ## About This Role
 
-This devops engineer position at Instructure was posted on 2026-08-24.
+This machine learning engineer position at Instructure was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

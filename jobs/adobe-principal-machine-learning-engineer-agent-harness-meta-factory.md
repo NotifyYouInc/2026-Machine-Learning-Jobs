@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Machine-Learning-Engineer--Agent-Harness---Meta-Factory_R170441-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Machine-Learning-Engineer--Agent-Harness---Meta-Factory_R171463) |
 
 ## About This Role
 
-This machine learning engineer position at Adobe was posted on 2026-07-14.
+This ai / llm engineer position at Adobe was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

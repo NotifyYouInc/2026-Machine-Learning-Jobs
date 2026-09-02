@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000145314499-senior-applied-scientist) |
 
 ## About This Role
 
-This data scientist position at ASOS was posted on 2026-08-24.
+This ai / ml research position at ASOS was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

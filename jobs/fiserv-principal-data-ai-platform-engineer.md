@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Principal--Data---AI-Platform-Engineer_R-10392992) |
 
 ## About This Role
 
-This data engineer position at Fiserv was posted on 2026-05-14.
+This data engineer position at Fiserv was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

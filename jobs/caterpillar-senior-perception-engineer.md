@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Robotics Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Pittsburgh-Pennsylvania/Senior-Perception-Engineer_R0000365096) |
+| Location | Irving, Texas, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Senior-Perception-Engineer_R0000389884) |
 
 ## About This Role
 
-This robotics engineer position at Caterpillar was posted on 2026-04-20.
+This machine learning engineer position at Caterpillar was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

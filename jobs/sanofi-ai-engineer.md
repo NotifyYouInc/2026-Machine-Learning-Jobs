@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Barcelona, Catalonia, Spain |
-| Category | AI / ML Research |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Barcelona/AI-Engineer_R2860000) |
+| Location | Toronto, Ontario, Canada |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/AI-Engineer_R2868511-1) |
 
 ## About This Role
 
-This ai / ml research position at Sanofi was posted on 2026-06-16.
+This ai / llm engineer position at Sanofi was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

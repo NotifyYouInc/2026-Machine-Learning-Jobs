@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000139928840-expert-ai-engineer-ref5708u) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000145514564-expert-ai-engineer-ref5708u) |
 
 ## About This Role
 
-This machine learning engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-07-27.
+This ai / llm engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

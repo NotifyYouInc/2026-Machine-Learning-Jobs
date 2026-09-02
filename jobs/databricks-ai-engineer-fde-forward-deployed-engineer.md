@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8749859002) |
 
 ## About This Role
 
-This ai / llm engineer position at Databricks was posted on 2026-08-03.
+This ai / llm engineer position at Databricks was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Data Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Engineer_R0242011-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Engineer_R0247887) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-06-11.
+This ai / llm engineer position at Booz Allen was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

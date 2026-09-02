@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5213288007) |
 
 ## About This Role
 
-This data scientist position at The Trade Desk was posted on 2026-08-24.
+This ai / ml research position at The Trade Desk was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

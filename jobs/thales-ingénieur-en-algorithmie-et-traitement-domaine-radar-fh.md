@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
-| Category | Embedded / Firmware Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bordeaux/Ingnieur-en-Algorithmie-et-Traitement---Domaine-Radar--F-H-_R0337914-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Thales was posted on 2026-08-25.
+This machine learning engineer position at Thales was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10513233/senior-applied-scientist-amazon-global-data-center-ops-central-insight-and-analytics-team) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-08-25.
+This ai / ml research position at Amazon was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

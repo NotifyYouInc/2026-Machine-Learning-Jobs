@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Hyderabad/AI-MLOps-SRE-Lead-Engineer_R50034) |
 
 ## About This Role
 
-This devops engineer position at Regeneron was posted on 2026-08-25.
+This machine learning engineer position at Regeneron was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

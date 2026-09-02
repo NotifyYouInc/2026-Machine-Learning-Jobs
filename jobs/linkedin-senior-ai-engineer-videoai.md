@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000141988607-senior-ai-engineer-videoai) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000145607880-senior-ai-engineer-videoai) |
 
 ## About This Role
 
-This ai / llm engineer position at LinkedIn was posted on 2026-08-06.
+This ai / llm engineer position at LinkedIn was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

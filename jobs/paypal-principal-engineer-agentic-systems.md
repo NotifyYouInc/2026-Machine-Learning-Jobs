@@ -5,12 +5,12 @@
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Principal-Engineer--Agentic-Systems_R0135696-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Principal-Engineer--Agentic-Systems_R0136786) |
 
 ## About This Role
 
-This ai / llm engineer position at PayPal was posted on 2026-03-19.
+This ai / llm engineer position at PayPal was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

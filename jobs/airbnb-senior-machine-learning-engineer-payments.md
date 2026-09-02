@@ -5,12 +5,12 @@
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-26 |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://careers.airbnb.com/positions/7755758?gh_jid=7755758) |
 
 ## About This Role
 
-This ai / llm engineer position at Airbnb was posted on 2026-03-26.
+This ai / llm engineer position at Airbnb was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

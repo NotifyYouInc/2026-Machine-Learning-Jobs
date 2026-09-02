@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=83604) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130294) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-05-14.
+This machine learning engineer position at IBM was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

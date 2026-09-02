@@ -1,0 +1,22 @@
+# AI Architect and Program Manager at Van Andel Institute
+
+| Field | Details |
+|-------|---------|
+| Company | [Van Andel Institute](https://scoutify.ai/companies/vai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Grand Rapids, Michigan, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://vai.wd1.myworkdayjobs.com/vaicareers/job/Van-Andel-Research-Institute/AI-Architect-and-Program-Manager_R1645) |
+
+## About This Role
+
+This ai / llm engineer position at Van Andel Institute was posted on 2026-08-25.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

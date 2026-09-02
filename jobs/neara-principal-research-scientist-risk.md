@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Neara](https://scoutify.ai/companies/neara?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/neara/9b470204-6e9c-4c90-bc8c-1ba51a174668) |
+| Category | AI / ML Research |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/neara/0bd72521-970d-4b03-9727-80f440dbe35f) |
 
 ## About This Role
 
-This machine learning engineer position at Neara was posted on 2026-07-29.
+This ai / ml research position at Neara was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

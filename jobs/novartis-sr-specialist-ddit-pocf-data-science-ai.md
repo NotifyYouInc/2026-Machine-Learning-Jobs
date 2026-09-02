@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-03 |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Sr-Specialist-DDIT-PO-CF-Data-Science---AI_REQ-10079677-1) |
 
 ## About This Role
 
-This ai / ml research position at Novartis was posted on 2026-06-03.
+This ai / llm engineer position at Novartis was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
