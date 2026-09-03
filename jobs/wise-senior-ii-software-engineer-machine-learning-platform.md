@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000135268605-senior-ii-software-engineer-machine-learning-platform) |
+| Category | Software Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000145759379-senior-ii-software-engineer-machine-learning-platform) |
 
 ## About This Role
 
-This machine learning engineer position at WISE was posted on 2026-07-01.
+This software engineer position at WISE was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

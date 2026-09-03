@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | 4 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder--Emerging-Talent_JR341699-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Salesforce was posted on 2026-05-07.
+This ai / llm engineer position at Salesforce was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

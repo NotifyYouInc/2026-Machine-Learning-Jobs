@@ -5,12 +5,12 @@
 | Company | [7-Eleven](https://scoutify.ai/companies/my7elevenhr?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Machine-Learning-Engineer-II_R26_5112-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Machine-Learning-Engineer-II_R26_5114) |
 
 ## About This Role
 
-This machine learning engineer position at 7-Eleven was posted on 2026-08-20.
+This machine learning engineer position at 7-Eleven was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

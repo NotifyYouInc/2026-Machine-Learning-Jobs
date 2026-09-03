@@ -5,12 +5,12 @@
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Bangalore/R-D-Trainee-Apprentice-VIE_REQ2026071886) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/R-D-Trainee-Apprentice-VIE_REQ2026072348) |
 
 ## About This Role
 
-This machine learning engineer position at Valeo was posted on 2026-03-13.
+This machine learning engineer position at Valeo was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/AI-Engineer-II---Blue-Ring_R60898) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/AI-Engineer-II---Blue-Ring_R71045) |
 
 ## About This Role
 
-This ai / llm engineer position at Blue Origin was posted on 2026-02-21.
+This ai / llm engineer position at Blue Origin was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

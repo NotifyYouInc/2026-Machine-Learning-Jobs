@@ -1,16 +1,16 @@
-# Post-Doctoral Scholar- Medical Oncology at The Ohio State University
+# Post-doctoral Scholar-Medical Oncology at The Ohio State University
 
 | Field | Details |
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | AI / ML Research |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/College-of-MedicineOffice-of-Health-Sciences/Post-Doctoral-Scholar--Medical-Oncology_R150551) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/College-of-MedicineOffice-of-Health-Sciences/Post-doctoral-Scholar-Medical-Oncology_R157987-1) |
 
 ## About This Role
 
-This ai / ml research position at The Ohio State University was posted on 2026-07-09.
+This ai / ml research position at The Ohio State University was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

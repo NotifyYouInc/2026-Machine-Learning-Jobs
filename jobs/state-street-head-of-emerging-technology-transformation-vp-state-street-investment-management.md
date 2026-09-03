@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-05-21 |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Head-of-Emerging-Technology---Transformation--VP---State-Street-Investment-Management_R-790967) |
 
 ## About This Role
 
-This engineering manager position at State Street was posted on 2026-05-21.
+This ai / llm engineer position at State Street was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

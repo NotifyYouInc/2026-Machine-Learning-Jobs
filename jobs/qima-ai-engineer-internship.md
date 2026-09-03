@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cebu City, Central Visayas, Philippines |
-| Category | AI / ML Research |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000133278869-ai-engineer-internship) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000145906434-ai-engineer-internship) |
 
 ## About This Role
 
-This ai / ml research position at QIMA was posted on 2026-06-22.
+This ai / llm engineer position at QIMA was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

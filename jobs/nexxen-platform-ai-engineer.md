@@ -5,12 +5,12 @@
 | Company | [Nexxen](https://scoutify.ai/companies/nexxen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/nexxen/edf2c400-2eda-4bf1-b438-9b19de42a25f) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nexxen/2c291707-eb72-439f-881c-ea33a2394e2d) |
 
 ## About This Role
 
-This ai / llm engineer position at Nexxen was posted on 2026-04-13.
+This ai / llm engineer position at Nexxen was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

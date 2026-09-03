@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer  at Censys
+# Senior Machine Learning Engineer at Censys
 
 | Field | Details |
 |-------|---------|
 | Company | [Censys](https://scoutify.ai/companies/censys?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/censys/jobs/8500292002) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/censys/jobs/8731027002) |
 
 ## About This Role
 
-This machine learning engineer position at Censys was posted on 2026-05-15.
+This machine learning engineer position at Censys was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

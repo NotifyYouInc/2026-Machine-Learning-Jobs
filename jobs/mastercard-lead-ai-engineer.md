@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Lead-AI-Engineer_R-288104) |
+| Location | Pune, Maharashtra, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-AI-Engineer_R-289116-1) |
 
 ## About This Role
 
-This machine learning engineer position at Mastercard was posted on 2026-08-17.
+This ai / llm engineer position at Mastercard was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Machine-Learning-Scientist-II_R-108124-1) |
+| Location | Switzerland |
+| Category | Data Scientist |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Switzerland---Geneva/Machine-Learning-Scientist-II_R-108939-2) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-08-05.
+This data scientist position at Expedia was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

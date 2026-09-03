@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Distinguished-AI-Engineer_JR202107) |
+| Location | Indianapolis, Indiana, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Distinguished-AI-Engineer_JR195476) |
 
 ## About This Role
 
-This software engineer position at Elevance Health was posted on 2026-08-19.
+This ai / llm engineer position at Elevance Health was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

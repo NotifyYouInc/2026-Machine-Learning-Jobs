@@ -1,16 +1,16 @@
-# Senior Software Engineer, AI at Thomson Reuters
+# Senior Software Engineer AI at Thomson Reuters
 
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Senior-Software-Engineer--AI_JREQ198637) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Senior-Software-Engineer-AI_JREQ202940) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-08-17.
+This software engineer position at Thomson Reuters was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

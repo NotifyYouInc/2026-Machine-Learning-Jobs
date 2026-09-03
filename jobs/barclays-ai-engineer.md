@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/AI-Engineer_JR-0000111867) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/AI-Engineer_JR-0000123038-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-08-18.
+This ai / llm engineer position at Barclays was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

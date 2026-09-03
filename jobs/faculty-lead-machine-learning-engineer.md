@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Faculty](https://scoutify.ai/companies/faculty?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/faculty/70340093-7182-4d2c-b0d4-f383190856bf) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/faculty/73372b67-3d4d-43ec-98b7-282aaec7fd09) |
 
 ## About This Role
 
-This engineering manager position at Faculty was posted on 2026-06-04.
+This machine learning engineer position at Faculty was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

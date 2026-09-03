@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-4_R170864) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-4_R171478-1) |
 
 ## About This Role
 
-This machine learning engineer position at Adobe was posted on 2026-08-03.
+This machine learning engineer position at Adobe was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

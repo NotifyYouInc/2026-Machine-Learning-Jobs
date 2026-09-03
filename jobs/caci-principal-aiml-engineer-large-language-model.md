@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Aurora/Principal-AI-ML-Engineer--Large-Language-Model-_324356) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Aurora-CO-US/Principal-AI-ML-Engineer--Large-Language-Model-_331078) |
 
 ## About This Role
 
-This ai / llm engineer position at CACI was posted on 2026-04-03.
+This ai / llm engineer position at CACI was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
