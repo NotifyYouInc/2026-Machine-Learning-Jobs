@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-05-26 |
+| Category | Data Engineer |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Digital-Assets-Data-Architecture-and-Engineering---Vice-President_R-789783) |
 
 ## About This Role
 
-This ai / ml research position at State Street was posted on 2026-05-26.
+This data engineer position at State Street was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

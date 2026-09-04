@@ -5,12 +5,12 @@
 | Company | [Healthcare of Ontario Pension Plan](https://scoutify.ai/companies/hoopp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/AI-Enablement-Business-Parter_JR102530) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/AI-Enablement-Business-Partner_JR102544) |
 
 ## About This Role
 
-This ai / llm engineer position at Healthcare of Ontario Pension Plan was posted on 2026-08-25.
+This ai / llm engineer position at Healthcare of Ontario Pension Plan was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

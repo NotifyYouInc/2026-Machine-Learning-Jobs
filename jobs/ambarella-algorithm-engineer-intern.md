@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ambarella](https://scoutify.ai/companies/ambarella?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Parma, Emilia-Romagna, Italy |
+| Location | United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/Italy-Parma/Algorithm-Engineer-Intern_JR100131-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100359) |
 
 ## About This Role
 
-This machine learning engineer position at Ambarella was posted on 2026-05-24.
+This machine learning engineer position at Ambarella was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Kolkata, West Bengal, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/IND---Bangalore---Beckman-Coulter-India-Private-Limited/Senior-AI-Engineer_R1317369) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Kolkata-West-Bengal-India/Senior-AI-Engineer_R1317462) |
 
 ## About This Role
 
-This ai / llm engineer position at Danaher was posted on 2026-08-25.
+This ai / llm engineer position at Danaher was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

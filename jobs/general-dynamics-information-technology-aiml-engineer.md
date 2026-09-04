@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-ML-Engineer_RQ219482) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-ML-Engineer_RQ227314) |
 
 ## About This Role
 
-This machine learning engineer position at General Dynamics Information Technology was posted on 2026-07-08.
+This ai / llm engineer position at General Dynamics Information Technology was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

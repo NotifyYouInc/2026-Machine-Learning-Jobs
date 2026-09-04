@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [F5](https://scoutify.ai/companies/f5?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Dublin/AI-Inference-Engineer_RP1037299) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/San-Jose/AI-Inference-Engineer_RP1038660) |
 
 ## About This Role
 
-This ai / llm engineer position at F5 was posted on 2026-04-16.
+This ai / llm engineer position at F5 was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

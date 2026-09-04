@@ -1,16 +1,16 @@
-# AIML Research Associate at Analytical Mechanics Associates
+# AI/ML Research Associate at Analytical Mechanics Associates
 
 | Field | Details |
 |-------|---------|
 | Company | [Analytical Mechanics Associates](https://scoutify.ai/companies/amainc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/AIML-Research-Associate_R-100498) |
+| Location | California, US |
+| Category | AI / ML Research |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---California/AI-ML-Research-Associate_R-100750-1) |
 
 ## About This Role
 
-This machine learning engineer position at Analytical Mechanics Associates was posted on 2026-03-02.
+This ai / ml research position at Analytical Mechanics Associates was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

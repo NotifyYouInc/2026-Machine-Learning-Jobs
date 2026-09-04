@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ashburn, Virginia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer_330802) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer_324104) |
 
 ## About This Role
 
-This machine learning engineer position at CACI was posted on 2026-08-19.
+This ai / llm engineer position at CACI was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

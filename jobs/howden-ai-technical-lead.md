@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London/AI-Technical-Lead_R0018386-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London/AI-Technical-Lead_R0018994-1) |
 
 ## About This Role
 
-This machine learning engineer position at Howden was posted on 2026-07-27.
+This ai / llm engineer position at Howden was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

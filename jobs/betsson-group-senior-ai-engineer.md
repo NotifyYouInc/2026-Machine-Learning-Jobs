@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Betsson Group](https://scoutify.ai/companies/betsson-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Malta |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/8146686) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/8161411) |
 
 ## About This Role
 
-This ai / llm engineer position at Betsson Group was posted on 2026-08-21.
+This ai / llm engineer position at Betsson Group was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

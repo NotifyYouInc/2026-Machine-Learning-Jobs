@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Colombia |
-| Category | AI / ML Research |
-| Posted | 2026-05-27 |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7750230003) |
 
 ## About This Role
 
-This ai / ml research position at Sezzle was posted on 2026-05-27.
+This ai / llm engineer position at Sezzle was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

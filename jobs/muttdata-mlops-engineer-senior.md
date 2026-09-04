@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Muttdata](https://scoutify.ai/companies/muttdata?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Machine Learning Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://jobs.lever.co/muttdata/13eecb22-e4e5-4a24-be80-431aad3fa70a) |
 
 ## About This Role
 
-This machine learning engineer position at Muttdata was posted on 2026-08-26.
+This devops engineer position at Muttdata was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

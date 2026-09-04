@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grimco](https://scoutify.ai/companies/grimco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Owensville, Missouri, United States |
-| Category | Industrial Automation |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/grimco/3743990014880301-process-optimization-engineer) |
 
 ## About This Role
 
-This industrial automation position at Grimco was posted on 2026-08-26.
+This machine learning engineer position at Grimco was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

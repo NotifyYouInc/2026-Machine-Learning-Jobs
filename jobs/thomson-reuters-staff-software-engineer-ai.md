@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Staff-Software-Engineer-AI_JREQ198064-1) |
+| Location | London, England, United Kingdom |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Staff-Software-Engineer-AI_JREQ202939) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-02-03.
+This ai / llm engineer position at Thomson Reuters was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

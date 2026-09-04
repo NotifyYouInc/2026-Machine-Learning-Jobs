@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mitratech](https://scoutify.ai/companies/mitratech?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United Kingdom |
+| Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mitratech/jobs/8059185) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mitratech/jobs/8155220) |
 
 ## About This Role
 
-This ai / llm engineer position at Mitratech was posted on 2026-08-11.
+This ai / llm engineer position at Mitratech was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

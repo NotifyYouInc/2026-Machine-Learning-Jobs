@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Tomball, Texas, United States |
+| Location | Guelph, Ontario, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137951869-lead-researcher) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000146021360-lead-researcher) |
 
 ## About This Role
 
-This ai / ml research position at Veolia was posted on 2026-07-15.
+This ai / ml research position at Veolia was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

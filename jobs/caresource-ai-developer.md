@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CareSource](https://scoutify.ai/companies/caresource?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/AI-Developer_R10487) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/AI-Developer_R12673-1) |
 
 ## About This Role
 
-This ai / llm engineer position at CareSource was posted on 2026-02-26.
+This ai / llm engineer position at CareSource was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

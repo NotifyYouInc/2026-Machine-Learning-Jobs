@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Machine Learning Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8750467002) |
 
 ## About This Role
 
-This machine learning engineer position at Databricks was posted on 2026-08-26.
+This technical & solutions architect position at Databricks was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

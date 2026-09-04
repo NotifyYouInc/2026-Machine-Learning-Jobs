@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | West Palm Beach, Florida, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000145590319-senior-machine-learning-engineer) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000146006939-senior-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at ServiceNow was posted on 2026-08-25.
+This machine learning engineer position at ServiceNow was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

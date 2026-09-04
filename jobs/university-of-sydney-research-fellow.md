@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University of Sydney](https://scoutify.ai/companies/university-of-sydney?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | St Leonards, New South Wales, Australia |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/St-Leonards/Research-Fellow_0153740) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/Darlington-Campus/Research-Fellow_0153314-1) |
 
 ## About This Role
 
-This ai / ml research position at University of Sydney was posted on 2026-07-17.
+This ai / ml research position at University of Sydney was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

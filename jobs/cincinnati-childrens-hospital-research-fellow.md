@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cincinnati Children's Hospital](https://scoutify.ai/companies/cincinnati-children-s-hospital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Ohio, US |
+| Location | Burnet, Texas, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Research-Fellow_JR222655) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Research-Fellow_JR224943) |
 
 ## About This Role
 
-This ai / ml research position at Cincinnati Children's Hospital was posted on 2026-06-27.
+This ai / ml research position at Cincinnati Children's Hospital was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

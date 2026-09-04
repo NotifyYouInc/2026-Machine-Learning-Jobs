@@ -5,12 +5,12 @@
 | Company | [CERN](https://scoutify.ai/companies/cern?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Switzerland |
 | Category | AI / ML Research |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000138581914-experimental-physicist-ep-di-2026-29-ld) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000145967675-experimental-physicist-ep-di-2026-29-ld) |
 
 ## About This Role
 
-This ai / ml research position at CERN was posted on 2026-07-20.
+This ai / ml research position at CERN was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

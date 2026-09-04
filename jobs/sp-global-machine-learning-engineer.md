@@ -5,12 +5,12 @@
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Machine-Learning-Engineer_330717-2) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Machine-Learning-Engineer_328025-1) |
 
 ## About This Role
 
-This machine learning engineer position at S&P Global was posted on 2026-08-12.
+This machine learning engineer position at S&P Global was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
