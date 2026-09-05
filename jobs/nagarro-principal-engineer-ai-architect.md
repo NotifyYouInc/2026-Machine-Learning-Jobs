@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000143143209-principal-engineer-ai-architect) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000146229427-principal-engineer-ai-architect) |
 
 ## About This Role
 
-This ai / llm engineer position at Nagarro was posted on 2026-08-12.
+This ai / llm engineer position at Nagarro was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

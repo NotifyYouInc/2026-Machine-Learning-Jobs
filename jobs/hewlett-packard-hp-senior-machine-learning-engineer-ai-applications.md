@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Porto Alegre, Rio Grande do Sul, Brazil |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Senior-Machine-Learning-Engineer---AI-Applications_3164333-2) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Senior-Machine-Learning-Engineer---AI-Applications_3164342-1) |
 
 ## About This Role
 
-This machine learning engineer position at Hewlett Packard (HP) was posted on 2026-06-12.
+This ai / llm engineer position at Hewlett Packard (HP) was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

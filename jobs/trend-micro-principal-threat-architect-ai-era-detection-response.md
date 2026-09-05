@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / ML Research |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/US-Off-Site/Principal-Threat-Architect--AI-Era-Detection---Response_R0010046) |
 
 ## About This Role
 
-This ai / ml research position at Trend Micro was posted on 2026-08-27.
+This cybersecurity engineer position at Trend Micro was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

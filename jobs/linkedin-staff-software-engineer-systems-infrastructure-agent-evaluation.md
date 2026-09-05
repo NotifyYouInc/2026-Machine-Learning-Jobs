@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000144634589-staff-software-engineer-systems-infrastructure-agent-evaluation) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000146232399-staff-software-engineer-systems-infrastructure-agent-evaluation) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-08-20.
+This software engineer position at LinkedIn was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

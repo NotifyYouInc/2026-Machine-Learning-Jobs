@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 7 locations |
 | Category | AI / ML Research |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-AI-Research-Scientist---Foundation-Models---Agentic-AI_R-548727) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-AI-Research-Scientist---Foundation-Models---Agentic-AI_R-553358) |
 
 ## About This Role
 
-This ai / ml research position at Wells Fargo was posted on 2026-06-15.
+This ai / ml research position at Wells Fargo was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

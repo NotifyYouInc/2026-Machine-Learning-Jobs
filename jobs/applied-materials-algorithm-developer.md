@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChennaiIND/Algorithm-Developer_R2625806) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChennaiIND/Algorithm-Developer_R2627487) |
 
 ## About This Role
 
-This machine learning engineer position at Applied Materials was posted on 2026-08-19.
+This machine learning engineer position at Applied Materials was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

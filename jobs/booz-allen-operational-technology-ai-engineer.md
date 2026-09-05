@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chantilly, Virginia, United States |
-| Category | AI / LLM Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Operational-Technology-AI-Engineer_R0247527) |
 
 ## About This Role
 
-This ai / llm engineer position at Booz Allen was posted on 2026-08-26.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

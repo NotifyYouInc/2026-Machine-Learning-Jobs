@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Machine-Learning-Engineer--Causal-Inference--Level-5_R0046007) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Machine-Learning-Engineer--Causal-Inference--Level-5_R0046616) |
 
 ## About This Role
 
-This machine learning engineer position at Snapchat was posted on 2026-06-30.
+This machine learning engineer position at Snapchat was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

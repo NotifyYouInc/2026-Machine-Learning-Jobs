@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Eagan, Minnesota, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-AI-Forward-Engineer_JREQ201044) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Lead-AI-Forward-Engineer_JREQ203316) |
 
 ## About This Role
 
-This ai / llm engineer position at Thomson Reuters was posted on 2026-05-28.
+This ai / llm engineer position at Thomson Reuters was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

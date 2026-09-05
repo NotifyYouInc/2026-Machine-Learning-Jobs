@@ -5,12 +5,12 @@
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
 | Category | AI / ML Research |
-| Posted | 2026-04-22 |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://www.metacareers.com/profile/job_details/1647169276484472) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-04-22.
+This ai / ml research position at Meta was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

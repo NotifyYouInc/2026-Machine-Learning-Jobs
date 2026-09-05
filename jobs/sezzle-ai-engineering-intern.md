@@ -1,16 +1,16 @@
-# AI Engineering Intern  at Sezzle
+# A.I. Engineering Intern  at Sezzle
 
 | Field | Details |
 |-------|---------|
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Peru |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7906563003) |
+| Location | Chile |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7979992003) |
 
 ## About This Role
 
-This machine learning engineer position at Sezzle was posted on 2026-08-19.
+This ai / llm engineer position at Sezzle was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

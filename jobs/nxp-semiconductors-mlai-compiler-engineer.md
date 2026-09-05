@@ -5,12 +5,12 @@
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/ML-AI-Compiler-Engineer_R-10066027) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/ML-AI-Compiler-Engineer_R-10066028) |
 
 ## About This Role
 
-This software engineer position at NXP Semiconductors was posted on 2026-08-26.
+This software engineer position at NXP Semiconductors was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

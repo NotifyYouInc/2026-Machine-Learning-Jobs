@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Nanterre, Île-de-France, France |
-| Category | AI / ML Research |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000121777034-cheffe-de-projet-ia-en-alternance-36-mois) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000146172119-cheffe-de-projet-ia-en-alternance-36-mois) |
 
 ## About This Role
 
-This ai / ml research position at Everience was posted on 2026-04-20.
+This machine learning engineer position at Everience was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

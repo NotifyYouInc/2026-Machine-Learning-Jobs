@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
-| Category | AI / ML Research |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Large-Model-AI-Infrastructure-Intern_R107571) |
+| Location | United Kingdom |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom/Large-Model-AI-Infrastructure-Intern_R108093) |
 
 ## About This Role
 
-This ai / ml research position at Tencent was posted on 2026-05-27.
+This ai / llm engineer position at Tencent was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

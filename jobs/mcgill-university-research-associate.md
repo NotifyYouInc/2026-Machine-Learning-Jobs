@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McGill University](https://scoutify.ai/companies/mcgill?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sherbrooke, Quebec, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Sherbrooke-680/Research-Associate_JR0000079707-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Duff-Medical-Bldg/Research-Associate_JR0000079870) |
 
 ## About This Role
 
-This ai / ml research position at McGill University was posted on 2026-08-26.
+This ai / ml research position at McGill University was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

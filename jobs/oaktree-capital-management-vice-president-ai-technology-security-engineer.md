@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oaktree Capital Management](https://scoutify.ai/companies/oaktree?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Los-Angeles-California/AVP-or-VP_2026-419) |
 
 ## About This Role
 
-This ai / llm engineer position at Oaktree Capital Management was posted on 2026-08-27.
+This cybersecurity engineer position at Oaktree Capital Management was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
