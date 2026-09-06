@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Spain---Madrid/Machine-Learning-Engineer-III_R-106994-1) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Machine-Learning-Engineer-III_R-109254-1) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-06-25.
+This machine learning engineer position at Expedia was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 
