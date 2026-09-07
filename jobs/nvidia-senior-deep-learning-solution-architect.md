@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-27 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Senior-Deep-Learning-Solution-Architect_JR2024045) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Senior-Deep-Learning-Solution-Architect_JR2024043) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-08-27.
+This ai / llm engineer position at Nvidia was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

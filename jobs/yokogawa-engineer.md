@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Karnataka, IN |
-| Category | AI / ML Research |
-| Posted | 2026-04-20 |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/YIL_Bangalore-SATP-5th-Floor-Corporate-Office/Engineer_R-10818) |
 
 ## About This Role
 
-This ai / ml research position at Yokogawa was posted on 2026-04-20.
+This ai / llm engineer position at Yokogawa was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

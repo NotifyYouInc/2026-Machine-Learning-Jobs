@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Belgium |
-| Category | Data Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000144000089-machine-learning-engineer) |
+| Location | Paris, Île-de-France, France |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000146460709-machine-learning-engineer) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-08-18.
+This machine learning engineer position at SIA was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#77232) |
+| Location | Pune, Maharashtra, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#81016) |
 
 ## About This Role
 
-This software engineer position at BNY was posted on 2026-06-26.
+This ai / llm engineer position at BNY was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

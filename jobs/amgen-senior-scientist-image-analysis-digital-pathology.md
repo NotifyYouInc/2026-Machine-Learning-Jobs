@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Scientist---Image-Analysis---Digital-Pathology_R-243471) |
+| Category | Bioinformatics / Computational Biology |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Scientist---Image-Analysis---Digital-Pathology_R-243472) |
 
 ## About This Role
 
-This ai / ml research position at Amgen was posted on 2026-06-15.
+This bioinformatics / computational biology position at Amgen was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

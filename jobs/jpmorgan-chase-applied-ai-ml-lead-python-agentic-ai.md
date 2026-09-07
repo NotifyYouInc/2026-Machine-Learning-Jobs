@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
-| Category | AI / ML Research |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730468) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785622) |
 
 ## About This Role
 
-This ai / ml research position at JPMorgan Chase was posted on 2026-05-25.
+This ai / llm engineer position at JPMorgan Chase was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

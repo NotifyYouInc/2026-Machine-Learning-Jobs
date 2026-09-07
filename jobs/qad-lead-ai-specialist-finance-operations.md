@@ -6,7 +6,7 @@
 | Location | Mumbai, Maharashtra, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000145900799-lead-ai-specialist-finance-operations) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000145952004-lead-ai-specialist-finance-operations) |
 
 ## About This Role
 
