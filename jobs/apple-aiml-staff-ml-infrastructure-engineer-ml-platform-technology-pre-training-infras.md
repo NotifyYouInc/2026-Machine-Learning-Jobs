@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
-| Category | AI / ML Research |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662426/aiml-staff-ml-infrastructure-engineer-ml-platform-technology-pre-training-infrastructure) |
+| Location | California, US |
+| Category | DevOps Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200680978/aiml-staff-ml-infrastructure-engineer-ml-platform-technology-pre-training-infrastructure) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2026-05-12.
+This devops engineer position at Apple was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

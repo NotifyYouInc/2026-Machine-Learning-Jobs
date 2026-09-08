@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Psu](https://scoutify.ai/companies/psu?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | University, Florida, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://psu.wd1.myworkdayjobs.com/psu_academic/job/Penn-State-University-Park/Postdoctoral-Scholar-in-RF-Neuromorphic-Systems--Das-Lab_REQ_0000081197-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Psu was posted on 2026-08-28.
+This ai / ml research position at Psu was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

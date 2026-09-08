@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FedEx](https://scoutify.ai/companies/fedex?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | 6 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://fedex.wd1.myworkdayjobs.com/fxe-eu_external/job/FXE-EUPRTOPOSSCOPOSSCRLIONESA/Automation---AI-Engineer_RC783802-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://fedex.wd1.myworkdayjobs.com/fxe-eu_external/job/FXE-EUPRTOPOSSCOPOSSCRLIONESA/Automation---AI-Engineer_RC783929-1) |
 
 ## About This Role
 
-This ai / llm engineer position at FedEx was posted on 2026-08-27.
+This ai / llm engineer position at FedEx was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

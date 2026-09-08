@@ -5,12 +5,12 @@
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/Principal-Senior-Manager--AI-Engineer---Future-Capabilities-_JR-10000047590) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/Senior-Manager--AI-Engineer---Future-Capabilities-_JR-10000054985) |
 
 ## About This Role
 
-This ai / llm engineer position at Economic Development Board was posted on 2026-04-23.
+This ai / llm engineer position at Economic Development Board was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

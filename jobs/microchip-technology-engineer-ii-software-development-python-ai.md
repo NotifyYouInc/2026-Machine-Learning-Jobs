@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chandler, Arizona, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Engineer-II---Software-Development--Python---AI-_R1502-26) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Engineer-II---Software-Development--Python---AI-_R3765-26) |
 
 ## About This Role
 
-This software engineer position at Microchip Technology was posted on 2026-04-08.
+This ai / llm engineer position at Microchip Technology was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior AI Engineer, Vice President at Citigroup
+# Senior AI Engineer - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Jersey City, New Jersey, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Senior-AI-Engineer--Vice-President_26977110) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Senior-AI-Engineer---Vice-President_26988992) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-08-11.
+This ai / llm engineer position at Citigroup was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wyetech](https://scoutify.ai/companies/wyetech?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Maryland, US |
-| Category | Software Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.lever.co/wyetechllc/ce18f861-2b70-4022-805c-047909c2b1c3) |
+| Location | Laurel, Maryland, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.lever.co/wyetechllc/6cf05554-2c74-40b4-aac5-3a904e09c4fb) |
 
 ## About This Role
 
-This software engineer position at Wyetech was posted on 2026-08-19.
+This cybersecurity engineer position at Wyetech was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

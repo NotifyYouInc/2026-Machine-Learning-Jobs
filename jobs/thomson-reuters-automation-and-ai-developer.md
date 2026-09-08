@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Automation-and-AI-Developer_JREQ199611) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Automation-and-AI-Developer_JREQ201915-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Thomson Reuters was posted on 2026-06-25.
+This ai / llm engineer position at Thomson Reuters was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

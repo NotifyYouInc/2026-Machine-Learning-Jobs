@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/3250422131797159) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1774440550364950) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-03-02.
+This ai / ml research position at Meta was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

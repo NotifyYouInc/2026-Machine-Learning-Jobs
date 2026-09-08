@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Missouri---St-Louis---Lackland/AI-Engineer_J00176917) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Missouri---St-Louis---Lackland/AI-Engineer_J00178639) |
 
 ## About This Role
 
-This ai / llm engineer position at Equifax was posted on 2026-05-20.
+This ai / llm engineer position at Equifax was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

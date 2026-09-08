@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200659025/perception-algorithm-engineer) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200681047/perception-algorithm-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-06-26.
+This machine learning engineer position at Apple was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

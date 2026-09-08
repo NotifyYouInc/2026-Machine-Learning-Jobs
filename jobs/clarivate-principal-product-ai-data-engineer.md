@@ -5,12 +5,12 @@
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-05-25 |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Principal-Product-AI-Data-Engineer_JREQ135703) |
 
 ## About This Role
 
-This data engineer position at Clarivate was posted on 2026-05-25.
+This data engineer position at Clarivate was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

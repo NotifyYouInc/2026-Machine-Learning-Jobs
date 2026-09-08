@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QAD](https://scoutify.ai/companies/qad?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000133685779-software-engineer-ai-agent-platform) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000146521777-software-engineer-ai-agent-platform) |
 
 ## About This Role
 
-This ai / llm engineer position at QAD was posted on 2026-06-23.
+This ai / llm engineer position at QAD was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

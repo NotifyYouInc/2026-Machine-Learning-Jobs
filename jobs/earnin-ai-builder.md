@@ -5,12 +5,12 @@
 | Company | [EarnIn](https://scoutify.ai/companies/earnin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/8013281) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/8167727) |
 
 ## About This Role
 
-This ai / llm engineer position at EarnIn was posted on 2026-06-18.
+This ai / llm engineer position at EarnIn was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

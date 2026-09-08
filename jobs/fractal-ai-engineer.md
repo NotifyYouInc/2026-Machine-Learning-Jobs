@@ -5,12 +5,12 @@
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Texas, US |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Texas/AI-Engineer_SR-41736-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Texas/AI-Engineer_SR-45356-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Fractal was posted on 2026-07-09.
+This ai / llm engineer position at Fractal was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

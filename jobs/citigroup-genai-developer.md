@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/GenAI-Developer_26984353) |
+| Location | Gurugram, Haryana, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/GenAI-Developer_26987783) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-08-17.
+This ai / llm engineer position at Citigroup was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

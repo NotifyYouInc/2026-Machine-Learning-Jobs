@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Machine-Learning-Engineer_JR-0108809-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Machine-Learning-Engineer_JR-0109545-1) |
 
 ## About This Role
 
-This machine learning engineer position at Workday was posted on 2026-07-31.
+This machine learning engineer position at Workday was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
