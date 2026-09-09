@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144838319-staff-machine-learning-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000146824899-staff-machine-learning-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-08-21.
+This machine learning engineer position at ServiceNow was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

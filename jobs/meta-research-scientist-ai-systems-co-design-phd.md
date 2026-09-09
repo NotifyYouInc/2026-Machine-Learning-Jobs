@@ -1,16 +1,16 @@
-# Research Scientist, AI & Systems Co-design (PhD) at Meta
+# Research Scientist, AI & Systems Co-Design (PhD) at Meta
 
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Menlo Park, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/981521268137572) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1120530887203915) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-06-11.
+This ai / ml research position at Meta was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

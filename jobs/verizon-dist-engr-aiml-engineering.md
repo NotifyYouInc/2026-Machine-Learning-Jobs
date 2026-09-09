@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Dist-Engr-AI-ML-Engineering_R-1095390) |
+| Location | 3 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Dist-Engr-AI-ML-Engineering_R-1100291-2) |
 
 ## About This Role
 
-This machine learning engineer position at Verizon was posted on 2026-05-21.
+This ai / llm engineer position at Verizon was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Fort Collins, Colorado, United States |
 | Category | AI / ML Research |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5203023007?gh_jid=5203023007) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5228071007?gh_jid=5228071007) |
 
 ## About This Role
 
-This ai / ml research position at Anduril was posted on 2026-08-04.
+This ai / ml research position at Anduril was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

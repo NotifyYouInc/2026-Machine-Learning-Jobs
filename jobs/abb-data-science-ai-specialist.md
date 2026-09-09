@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Frosinone, Lazio, Italy |
+| Location | Xiamen, Fujian, China |
 | Category | Data Scientist |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Frosinone-Frosinone-Italy/Data-Science---AI-Specialist_JR00041118) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Data-Science---AI-Specialist_JR00045075) |
 
 ## About This Role
 
-This data scientist position at ABB was posted on 2026-07-10.
+This data scientist position at ABB was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

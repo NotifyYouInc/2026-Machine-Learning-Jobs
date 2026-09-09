@@ -1,16 +1,16 @@
-# Research Technical Assistant - AI and Multimodal Foundation Models  at University Health Network
+# Research Technical Assistant - AI and Multimodal Foundation Models at University Health Network
 
 | Field | Details |
 |-------|---------|
 | Company | [University Health Network](https://scoutify.ai/companies/universityhealthnetwork?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000133677547-research-technical-assistant-ai-and-multimodal-foundation-models) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000146744019-research-technical-assistant-ai-and-multimodal-foundation-models) |
 
 ## About This Role
 
-This ai / ml research position at University Health Network was posted on 2026-06-23.
+This ai / ml research position at University Health Network was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

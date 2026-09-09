@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130570) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130565) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-08-27.
+This ai / llm engineer position at IBM was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

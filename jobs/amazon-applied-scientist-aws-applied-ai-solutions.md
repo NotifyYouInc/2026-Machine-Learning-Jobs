@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3184564/applied-scientist-aws-applied-ai-solutions) |
+| Location | Seattle, Washington, United States |
+| Category | Data Scientist |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10525121/applied-scientist-aws-applied-ai-solutions) |
 
 ## About This Role
 
-This ai / llm engineer position at Amazon was posted on 2026-02-19.
+This data scientist position at Amazon was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

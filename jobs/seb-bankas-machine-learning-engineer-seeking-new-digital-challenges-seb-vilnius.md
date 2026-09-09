@@ -5,12 +5,12 @@
 | Company | [SEB bankas](https://scoutify.ai/companies/seb-bankas?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.eu.lever.co/seb/0c39a653-71e4-4d86-8701-1018aea8e093) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.eu.lever.co/seb/250e0c5c-3b2e-45d2-93ef-177379fab5e4) |
 
 ## About This Role
 
-This machine learning engineer position at SEB bankas was posted on 2026-03-25.
+This machine learning engineer position at SEB bankas was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

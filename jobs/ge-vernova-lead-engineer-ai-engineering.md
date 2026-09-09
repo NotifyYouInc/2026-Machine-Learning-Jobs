@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Niskayuna, New York, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Niskayuna/Lead-Engineer---AI-Engineering_R5049708-3) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Lead-Engineer---AI-Engineering_R5050532-2) |
 
 ## About This Role
 
-This ai / llm engineer position at GE Vernova was posted on 2026-08-10.
+This ai / llm engineer position at GE Vernova was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

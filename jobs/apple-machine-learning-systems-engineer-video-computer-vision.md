@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Mount Laurel, New Jersey, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671637/machine-learning-systems-engineer-video-computer-vision) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200681055/machine-learning-systems-engineer-video-computer-vision) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-07-11.
+This machine learning engineer position at Apple was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

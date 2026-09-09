@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/LLM-Model-Developer_ATCI-5727148-S2064774-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/LLM-Model-Developer_ATCI-5749105-S2067154) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-08-19.
+This ai / llm engineer position at Accenture was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

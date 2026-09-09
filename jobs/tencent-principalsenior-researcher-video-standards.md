@@ -5,12 +5,12 @@
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Principal-Senior-Researcher---Video-Standards_R108029-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Principal-Senior-Researcher---Video-Standards_R108030) |
 
 ## About This Role
 
-This ai / ml research position at Tencent was posted on 2026-08-25.
+This ai / ml research position at Tencent was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

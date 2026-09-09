@@ -5,12 +5,12 @@
 | Company | [Virtuos](https://scoutify.ai/companies/ocs-cx-oj115944?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | China |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://fa-exhj-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2079) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://fa-exhj-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2254) |
 
 ## About This Role
 
-This ai / llm engineer position at Virtuos was posted on 2026-06-11.
+This ai / llm engineer position at Virtuos was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

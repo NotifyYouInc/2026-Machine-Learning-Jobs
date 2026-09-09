@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | South San Francisco, California, United States |
-| Category | Bioinformatics / Computational Biology |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014844276-senior-scientist-ii-computational-pathology-precision-medicine-pathology) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014979847-senior-scientist-ii-computational-pathology-precision-medicine-pathology) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at AbbVie was posted on 2026-08-25.
+This machine learning engineer position at AbbVie was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

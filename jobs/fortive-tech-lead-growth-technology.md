@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fortive](https://scoutify.ai/companies/us6-cx-oj39813?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Karnataka, IN |
-| Category | Software Engineer |
+| Category | Growth Marketing |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://ejta.fa.us6.oraclecloud.com/jobs/#10660) |
 
 ## About This Role
 
-This software engineer position at Fortive was posted on 2026-09-01.
+This growth marketing position at Fortive was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

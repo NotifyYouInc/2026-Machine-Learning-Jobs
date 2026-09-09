@@ -5,12 +5,12 @@
 | Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000146449779-praktikantwerkstudent-wmd-generative-ai-automatisierung) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000146674909-praktikantwerkstudent-wmd-generative-ai-automatisierung) |
 
 ## About This Role
 
-This ai / llm engineer position at Drees & Sommer was posted on 2026-08-31.
+This ai / llm engineer position at Drees & Sommer was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

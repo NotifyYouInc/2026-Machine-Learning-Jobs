@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10523576/sr-applied-scientist-amazon-shipping) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-09-01.
+This data scientist position at Amazon was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

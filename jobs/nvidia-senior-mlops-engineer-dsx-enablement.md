@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-MLOps-Engineer---DSX-Enablement_JR2023055) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Senior-MLOps-Engineer---DSX-Enablement_JR2024830-1) |
 
 ## About This Role
 
-This machine learning engineer position at Nvidia was posted on 2026-08-20.
+This machine learning engineer position at Nvidia was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

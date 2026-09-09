@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-30 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Sr-Associate-Gen-AI-Emerging-Businesses-Advisory-Bangalore_757783WD) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Sr-Associate-Gen-AI-Emerging-Businesses-Advisory-Bangalore_755819WD-1) |
 
 ## About This Role
 
-This ai / llm engineer position at PwC was posted on 2026-08-30.
+This ai / llm engineer position at PwC was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

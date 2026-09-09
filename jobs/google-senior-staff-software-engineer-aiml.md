@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfNmqHa9NGWtb9X66IRfEOG1l80T1-06EQKj2ee_o_kOEjsA1Ny_i4rhTdj9IdrEQ5FEnUqgMi0eZSuZZX716QfgQWumnYG3MN8MKdEVnXpyl8PzGwpNEb6RsZ1D5A%3D%3D_V2&loc=US&title=Senior+Staff+Software+Engineer) |
+| Location | 3 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcMXL6WTb2AiukE3x8iRh0HisGEANHCeE8cj38XQmWe0EjsA1Ny_i0LYGez_VbwGwfvSKif0mJfsBnIpC9vcM11cKqCfNiUIfUdU83SORYpk-IkiD7EftwIcGPbkig%3D%3D_V2&loc=US&title=Senior+Staff+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-07-22.
+This ai / llm engineer position at Google was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

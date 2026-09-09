@@ -5,12 +5,12 @@
 | Company | [Prudential Financial](https://scoutify.ai/companies/prudential-financial?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Newark, New Jersey, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Lead--Machine-Learning-Engineer_R-124026-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Lead--Machine-Learning-Engineer_R-124920-1) |
 
 ## About This Role
 
-This machine learning engineer position at Prudential Financial was posted on 2026-03-27.
+This machine learning engineer position at Prudential Financial was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

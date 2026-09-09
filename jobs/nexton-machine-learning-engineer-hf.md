@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000132789534-machine-learning-engineer-hf) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000146731090-machine-learning-engineer-hf) |
 
 ## About This Role
 
-This machine learning engineer position at Nexton was posted on 2026-06-18.
+This machine learning engineer position at Nexton was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
