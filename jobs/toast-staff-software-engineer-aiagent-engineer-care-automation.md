@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=8147449) |
 
 ## About This Role
 
-This ai / llm engineer position at Toast was posted on 2026-09-01.
+This software engineer position at Toast was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

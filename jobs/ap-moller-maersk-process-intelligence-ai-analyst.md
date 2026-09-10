@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Pune-411014/Process-Intelligence---AI-Analyst_R195468) |
 
 ## About This Role
 
-This ai / llm engineer position at A.P. Moller - Maersk was posted on 2026-09-01.
+This machine learning engineer position at A.P. Moller - Maersk was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco BV](https://scoutify.ai/companies/banco-bv?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brazil |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.lever.co/bv/2434b256-9312-4f27-99eb-7030fcc7f6a8) |
 
 ## About This Role
 
-This ai / llm engineer position at Banco BV was posted on 2026-09-01.
+This machine learning engineer position at Banco BV was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

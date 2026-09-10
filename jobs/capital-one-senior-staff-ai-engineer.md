@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 5 locations |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/Senior-Staff-AI-Engineer_R999693-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Capital One was posted on 2026-09-01.
+This machine learning engineer position at Capital One was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

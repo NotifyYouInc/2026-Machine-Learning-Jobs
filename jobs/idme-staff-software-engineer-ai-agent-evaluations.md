@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ID.me](https://scoutify.ai/companies/idme?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-09 |
+| Category | Software Engineer |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/idme/jobs/7766372003) |
 
 ## About This Role
 
-This ai / llm engineer position at ID.me was posted on 2026-06-09.
+This software engineer position at ID.me was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

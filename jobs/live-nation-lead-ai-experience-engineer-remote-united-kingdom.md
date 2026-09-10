@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United Kingdom |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Remote---United-Kingdom/Lead-AI-Experience-Engineer--Remote--United-Kingdom-_JR-92429-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Live Nation was posted on 2026-09-01.
+This machine learning engineer position at Live Nation was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

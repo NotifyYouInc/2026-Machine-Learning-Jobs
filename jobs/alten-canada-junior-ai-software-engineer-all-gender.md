@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000146926079-junior-ai-software-engineer-all-gender) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN Canada was posted on 2026-09-02.
+This software engineer position at ALTEN Canada was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

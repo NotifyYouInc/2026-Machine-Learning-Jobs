@@ -5,12 +5,12 @@
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Machine-Learning-Engineer--AVP_R-00274531) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Machine-Learning-Engineer--AVP_R-00284531) |
 
 ## About This Role
 
-This machine learning engineer position at NatWest Group was posted on 2026-03-17.
+This machine learning engineer position at NatWest Group was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7951041) |
+| Category | Software Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=8053797) |
 
 ## About This Role
 
-This ai / ml research position at Instacart was posted on 2026-05-29.
+This software engineer position at Instacart was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

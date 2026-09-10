@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Gen-AI-Emerging-Businesses-Advisory-Bangalore_758600WD-2) |
 
 ## About This Role
 
-This ai / llm engineer position at PwC was posted on 2026-09-02.
+This machine learning engineer position at PwC was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

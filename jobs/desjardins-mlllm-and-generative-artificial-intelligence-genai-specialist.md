@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Spcialiste-en-ingnierie-ML-LLM-et-en-intelligence-artificielle-gnrative--GenAI-_R2610562-2) |
 
 ## About This Role
 
-This ai / llm engineer position at Desjardins was posted on 2026-09-01.
+This machine learning engineer position at Desjardins was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

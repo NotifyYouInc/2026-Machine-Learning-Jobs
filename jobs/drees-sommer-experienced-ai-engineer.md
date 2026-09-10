@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Málaga, Andalusia, Spain |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000146967459-experienced-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Drees & Sommer was posted on 2026-09-02.
+This machine learning engineer position at Drees & Sommer was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

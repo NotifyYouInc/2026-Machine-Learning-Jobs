@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Manila-Philippines/Sr-AI-Engineer_JR5101) |
 
 ## About This Role
 
-This ai / llm engineer position at Axos Bank was posted on 2026-09-02.
+This machine learning engineer position at Axos Bank was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

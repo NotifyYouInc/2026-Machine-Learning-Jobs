@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
+| Location | Seoul, Seoul, South Korea |
 | Category | Software Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Software-Enabling-and-Optimization-Engineer_JR0286177) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/South-Korea-Seoul/Software-Enabling-and-Optimization-Engineer_JR0286865) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-07-31.
+This software engineer position at Intel was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

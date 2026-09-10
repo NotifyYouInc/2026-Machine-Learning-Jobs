@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
-| Category | AI / ML Research |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000133623902-applied-ai-engineer-ifs-loops) |
+| Category | Software Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000147161239-applied-ai-engineer-ifs-loops) |
 
 ## About This Role
 
-This ai / ml research position at IFS was posted on 2026-06-23.
+This software engineer position at IFS was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SMG Swiss Marketplace Group](https://scoutify.ai/companies/smgswissmarketplacegroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Belgrade, Central Serbia, Serbia |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SMGSwissMarketplaceGroup/744000146941550-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at SMG Swiss Marketplace Group was posted on 2026-09-02.
+This machine learning engineer position at SMG Swiss Marketplace Group was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

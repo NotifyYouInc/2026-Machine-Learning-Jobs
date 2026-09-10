@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000143045834-senior-software-engineer-contact-automation-ai) |
+| Category | Software Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000146997019-senior-software-engineer-contact-automation-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at WISE was posted on 2026-08-12.
+This software engineer position at WISE was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

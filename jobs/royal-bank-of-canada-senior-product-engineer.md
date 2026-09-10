@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Product-Engineer_R-0000184848-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Royal Bank of Canada was posted on 2026-09-01.
+This software engineer position at Royal Bank of Canada was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

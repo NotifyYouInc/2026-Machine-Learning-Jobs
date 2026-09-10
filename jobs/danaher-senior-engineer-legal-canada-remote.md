@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Canada |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/CAN---Remote/Senior-Engineer--Legal---Canada-Remote_R1314805) |
 
 ## About This Role
 
-This ai / llm engineer position at Danaher was posted on 2026-09-01.
+This software engineer position at Danaher was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

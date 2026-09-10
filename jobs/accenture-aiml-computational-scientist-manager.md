@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Italy |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Data Scientist |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Roma/AI-ML-Computational-Scientist-Manager_R00347722) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/AI-ML-Computational-Scientist-Manager_R00352452) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-07-29.
+This data scientist position at Accenture was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

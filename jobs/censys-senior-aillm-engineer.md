@@ -1,16 +1,16 @@
-# Senior AI/LLM Engineer  at Censys
+# Senior AI/LLM Engineer at Censys
 
 | Field | Details |
 |-------|---------|
 | Company | [Censys](https://scoutify.ai/companies/censys?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/censys/jobs/8540995002) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/censys/jobs/8731018002) |
 
 ## About This Role
 
-This ai / llm engineer position at Censys was posted on 2026-07-30.
+This machine learning engineer position at Censys was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/8171620) |
 
 ## About This Role
 
-This ai / llm engineer position at DoorDash was posted on 2026-09-01.
+This software engineer position at DoorDash was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014893066-aiml-engineer) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990015026726-aiml-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at SOSi was posted on 2026-08-27.
+This machine learning engineer position at SOSi was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

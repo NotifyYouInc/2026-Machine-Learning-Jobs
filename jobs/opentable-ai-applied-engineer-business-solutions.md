@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OpenTable](https://scoutify.ai/companies/opentable?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8769522002) |
 
 ## About This Role
 
-This ai / llm engineer position at OpenTable was posted on 2026-09-01.
+This software engineer position at OpenTable was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

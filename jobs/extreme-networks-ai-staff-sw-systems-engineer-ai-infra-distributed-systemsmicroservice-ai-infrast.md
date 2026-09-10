@@ -1,16 +1,16 @@
-# AI Staff SW Systems Engineer -AI Infra -Distributed Systems,Microservice, AI Infrastructure,Agentic systems at Extreme Networks
+# AI Staff SW Systems Engineer -AI Infra -Distributed Systems,Microservice, AI Infrastructure,Agentic systems-10355 at Extreme Networks
 
 | Field | Details |
 |-------|---------|
 | Company | [Extreme Networks](https://scoutify.ai/companies/extreme-networks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.lever.co/extremenetworks/0100b069-56f7-4aec-96b8-c34cae660a5d) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.lever.co/extremenetworks/2a0c7b1c-12f2-44ef-b032-d4dbb36f6440) |
 
 ## About This Role
 
-This ai / llm engineer position at Extreme Networks was posted on 2026-08-21.
+This software engineer position at Extreme Networks was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

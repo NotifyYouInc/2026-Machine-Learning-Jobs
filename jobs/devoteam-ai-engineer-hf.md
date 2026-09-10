@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135936035-ai-engineer-hf) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000146978082-ai-engineer-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at Devoteam was posted on 2026-07-06.
+This machine learning engineer position at Devoteam was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

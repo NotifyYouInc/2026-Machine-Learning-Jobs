@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rossum](https://scoutify.ai/companies/rossum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Prague, Prague, Czechia |
-| Category | AI / LLM Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/rossum.ai/6fd2d518-3673-461b-aca9-2e5ecfede08a) |
 
 ## About This Role
 
-This ai / llm engineer position at Rossum was posted on 2026-09-01.
+This data scientist position at Rossum was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Appnovation Technologies](https://scoutify.ai/companies/appnovation-technologies?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/appnovation/jobs/8769849002) |
 
 ## About This Role
 
-This ai / llm engineer position at Appnovation Technologies was posted on 2026-09-01.
+This software engineer position at Appnovation Technologies was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCTO Technology](https://scoutify.ai/companies/octotechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000146502967-stage-implementation-dun-agent-de-code-ia-souverain-et-securitaire-fhn) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000146942900-stage-implementation-dun-agent-de-code-ia-souverain-et-securitaire-fhn) |
 
 ## About This Role
 
-This ai / llm engineer position at OCTO Technology was posted on 2026-08-31.
+This machine learning engineer position at OCTO Technology was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

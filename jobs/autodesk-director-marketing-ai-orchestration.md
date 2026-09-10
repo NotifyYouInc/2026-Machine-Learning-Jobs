@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | California, US |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Director--Marketing-AI-Orchestration_26WD100176) |
 
 ## About This Role
 
-This ai / llm engineer position at Autodesk was posted on 2026-09-01.
+This machine learning engineer position at Autodesk was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

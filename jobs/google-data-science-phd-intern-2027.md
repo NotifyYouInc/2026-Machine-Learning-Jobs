@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Scientist |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdlaEke1g0O0Xxu0r8i6B2xnLGQOZoIuOvkmR8vr-F1cEjsA1Ny_i1AvCW3FCvGQxtBoMGDrlqRuI2j8_ycaB2Os0VhK37qCyYuPRyG5oxpQL_n2N2ZGo8CnBJIpvA%3D%3D_V2&loc=GB&title=Data+Science+PhD+Intern) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckft3h0IMRBxps1WragyE0eEr-9LZ2NRe3Apgws5Rtx5IEjsA1Ny_i0cJbnbbYuV7o4d9p4HjkkJejlpvJEEkPfrGiqAAqAPGx-80OSqRMjug8rpyd7jBYJwQMCEOaA%3D%3D_V2&loc=PL&title=Data+Science+PhD+Intern) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-08-17.
+This data scientist position at Google was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

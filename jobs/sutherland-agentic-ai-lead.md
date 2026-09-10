@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000146898274-agentic-ai-lead) |
 
 ## About This Role
 
-This ai / llm engineer position at Sutherland was posted on 2026-09-02.
+This software engineer position at Sutherland was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

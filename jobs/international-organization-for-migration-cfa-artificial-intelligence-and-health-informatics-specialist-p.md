@@ -1,0 +1,22 @@
+# CFA - Artificial Intelligence and Health Informatics Specialist (P) at International Organization for Migration
+
+| Field | Details |
+|-------|---------|
+| Company | [International Organization for Migration](https://scoutify.ai/companies/ocs-cx-oj55254?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Valencia, Valencia, Spain |
+| Category | Data Scientist |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#22558) |
+
+## About This Role
+
+This data scientist position at International Organization for Migration was posted on 2026-09-03.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

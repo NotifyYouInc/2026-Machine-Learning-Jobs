@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | AI / LLM Engineer |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000146957489-ai-project-manager-marketing-analytics-mfd) |
 
 ## About This Role
 
-This ai / llm engineer position at Sixt was posted on 2026-09-02.
+This digital / performance marketing position at Sixt was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

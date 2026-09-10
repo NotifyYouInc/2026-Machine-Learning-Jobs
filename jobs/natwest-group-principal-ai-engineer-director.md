@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Principal-AI-Engineer--Director_R-00281537-1) |
 
 ## About This Role
 
-This ai / llm engineer position at NatWest Group was posted on 2026-09-02.
+This machine learning engineer position at NatWest Group was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

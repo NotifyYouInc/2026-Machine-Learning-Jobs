@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/AI-Engineer_JR00126460) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/AI-Engineer_JR00127634) |
 
 ## About This Role
 
-This ai / llm engineer position at Sun Life Financial was posted on 2026-07-31.
+This machine learning engineer position at Sun Life Financial was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

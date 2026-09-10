@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | AI / LLM Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Developer---Data--AI--Platform---Support_R260024870) |
 
 ## About This Role
 
-This ai / llm engineer position at Bank of Montreal was posted on 2026-09-01.
+This data engineer position at Bank of Montreal was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

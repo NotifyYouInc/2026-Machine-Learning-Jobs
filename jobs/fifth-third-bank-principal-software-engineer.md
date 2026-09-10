@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Fifth-Third-Center-Cincinnati/Principal-Software-Engineer_R68785-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Fifth Third Bank was posted on 2026-09-01.
+This software engineer position at Fifth Third Bank was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

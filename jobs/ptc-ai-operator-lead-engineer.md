@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/AI-Operator-Lead-Engineer_JR112664) |
 
 ## About This Role
 
-This ai / llm engineer position at PTC was posted on 2026-09-01.
+This software engineer position at PTC was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

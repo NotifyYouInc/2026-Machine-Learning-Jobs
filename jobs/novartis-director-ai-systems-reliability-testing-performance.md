@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/London-The-Westworks/Director--AI-Systems-Reliability--Testing---Performance_REQ-10085850-1) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Dublin-NOCC/Director--AI-Systems-Reliability--Testing---Performance_REQ-10086854) |
 
 ## About This Role
 
-This ai / llm engineer position at Novartis was posted on 2026-08-25.
+This machine learning engineer position at Novartis was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

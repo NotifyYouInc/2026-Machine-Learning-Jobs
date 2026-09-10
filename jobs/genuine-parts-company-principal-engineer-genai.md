@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Krakow-Malopolskie-Poland/Principal-Engineer-GenAI_R26_0000025842) |
 
 ## About This Role
 
-This ai / llm engineer position at Genuine Parts Company was posted on 2026-09-01.
+This software engineer position at Genuine Parts Company was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [OCTO Technology](https://scoutify.ai/companies/octotechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000146503209-stage-agent-ops-fhn) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000146943719-stage-agent-ops-fhn) |
 
 ## About This Role
 
-This machine learning engineer position at OCTO Technology was posted on 2026-08-31.
+This machine learning engineer position at OCTO Technology was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

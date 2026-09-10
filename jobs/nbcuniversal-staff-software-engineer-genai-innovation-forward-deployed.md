@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Universal City, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000146552435-staff-software-engineer-genai-innovation-forward-deployed) |
+| Category | Software Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000146814580-staff-software-engineer-genai-innovation-forward-deployed) |
 
 ## About This Role
 
-This ai / llm engineer position at NBCUniversal was posted on 2026-08-31.
+This software engineer position at NBCUniversal was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

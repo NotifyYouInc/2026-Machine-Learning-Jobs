@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Senior-Python-Developer---Quant-Models-AI-Automation---Vice-President_26987807-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-09-01.
+This software engineer position at Citigroup was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

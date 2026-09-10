@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/India/AI-Engineer_R13700-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/India/AI-Engineer_R14234) |
 
 ## About This Role
 
-This ai / llm engineer position at Proofpoint was posted on 2026-03-04.
+This machine learning engineer position at Proofpoint was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

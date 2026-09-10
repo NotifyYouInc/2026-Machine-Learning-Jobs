@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ambral](https://scoutify.ai/companies/ambral?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/ambral/jobs/vK7JuLl-member-of-technical-staff-evals-post-training) |
 
 ## About This Role
 
-This ai / llm engineer position at Ambral was posted on 2026-09-01.
+This machine learning engineer position at Ambral was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

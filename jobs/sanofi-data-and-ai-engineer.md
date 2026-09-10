@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data-and-AI-Engineer_R2861422) |
+| Location | Lyon, Rhône-Alpes, France |
+| Category | Data Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/Data-and-AI-Engineer_R2864478) |
 
 ## About This Role
 
-This ai / llm engineer position at Sanofi was posted on 2026-07-17.
+This data engineer position at Sanofi was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

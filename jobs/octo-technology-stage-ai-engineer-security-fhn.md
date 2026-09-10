@@ -5,12 +5,12 @@
 | Company | [OCTO Technology](https://scoutify.ai/companies/octotechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000146504309-stage-ai-engineer-security-fhn) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000146940465-stage-ai-engineer-security-fhn) |
 
 ## About This Role
 
-This cybersecurity engineer position at OCTO Technology was posted on 2026-08-31.
+This cybersecurity engineer position at OCTO Technology was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200670460/senior-machine-learning-engineer-senior-applied-scientist-search-ai) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200681501/senior-machine-learning-engineer-senior-applied-scientist-search-ai) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-06-30.
+This data scientist position at Apple was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

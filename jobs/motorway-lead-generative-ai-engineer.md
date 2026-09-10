@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorway](https://scoutify.ai/companies/motorway?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/motorway/64e7a546-c2a7-4ad1-8e1d-be4b1e5c1ddd) |
 
 ## About This Role
 
-This ai / llm engineer position at Motorway was posted on 2026-09-02.
+This machine learning engineer position at Motorway was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

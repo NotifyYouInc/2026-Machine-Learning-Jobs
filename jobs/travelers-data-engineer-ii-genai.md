@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hartford, Connecticut, United States |
-| Category | AI / LLM Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-II--GenAI_R-52261) |
 
 ## About This Role
 
-This ai / llm engineer position at Travelers was posted on 2026-09-01.
+This data engineer position at Travelers was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

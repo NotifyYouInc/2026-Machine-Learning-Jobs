@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Championx](https://scoutify.ai/companies/championx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sugar Land, Texas, United States |
-| Category | AI / LLM Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://championx.wd1.myworkdayjobs.com/championx_external/job/USA---Texas---Sugar-Land/Data-Scientist---AI-Solutions_R00135899-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Championx was posted on 2026-09-01.
+This data scientist position at Championx was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

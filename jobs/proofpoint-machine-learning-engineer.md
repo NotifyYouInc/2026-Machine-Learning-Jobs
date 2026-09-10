@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Córdoba, Cordoba, Argentina |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Cordoba-Argentina/Machine-Learning-Engineer_R14503) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/India/Machine-Learning-Engineer_R14232) |
 
 ## About This Role
 
-This machine learning engineer position at Proofpoint was posted on 2026-07-27.
+This machine learning engineer position at Proofpoint was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

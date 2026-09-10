@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | North Carolina, US |
-| Category | AI / LLM Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/North-Carolina/Senior-Applied-AI-Engineer_R14627) |
 
 ## About This Role
 
-This ai / llm engineer position at Proofpoint was posted on 2026-09-01.
+This ai / ml research position at Proofpoint was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCTO Technology](https://scoutify.ai/companies/octotechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000146502850-stage-ai-engineer-agentic-gen-ai-fhn) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000146942880-stage-ai-engineer-agentic-gen-ai-fhn) |
 
 ## About This Role
 
-This ai / llm engineer position at OCTO Technology was posted on 2026-08-31.
+This machine learning engineer position at OCTO Technology was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | AI / LLM Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Lead-Consultant---Snowflake-and-Cortex-AI-Engineer_R-259277-1) |
 
 ## About This Role
 
-This ai / llm engineer position at AstraZeneca was posted on 2026-09-02.
+This data engineer position at AstraZeneca was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

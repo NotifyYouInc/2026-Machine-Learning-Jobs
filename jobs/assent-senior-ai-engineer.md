@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Assent](https://scoutify.ai/companies/assent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000137498519-senior-ai-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000147050648-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Assent was posted on 2026-07-13.
+This machine learning engineer position at Assent was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

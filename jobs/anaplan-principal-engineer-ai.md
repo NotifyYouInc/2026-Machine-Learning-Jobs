@@ -1,16 +1,16 @@
-# Principal Engineer, AI at Anaplan
+# Principal Engineer - AI  at Anaplan
 
 | Field | Details |
 |-------|---------|
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Pennsylvania, US |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8580672002) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8556904002) |
 
 ## About This Role
 
-This ai / llm engineer position at Anaplan was posted on 2026-06-05.
+This software engineer position at Anaplan was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

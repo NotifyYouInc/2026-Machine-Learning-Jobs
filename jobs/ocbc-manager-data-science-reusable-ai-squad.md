@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chengdu, Sichuan, China |
-| Category | AI / LLM Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-China-Chengdu/Manager--Data-Science---Reusable-AI-Squad_JR00010708) |
 
 ## About This Role
 
-This ai / llm engineer position at OCBC was posted on 2026-09-02.
+This data scientist position at OCBC was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

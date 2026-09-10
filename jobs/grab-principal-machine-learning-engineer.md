@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000138301739-principal-machine-learning-engineer) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000147146029-principal-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Grab was posted on 2026-07-17.
+This machine learning engineer position at Grab was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

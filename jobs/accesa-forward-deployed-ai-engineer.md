@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accesa](https://scoutify.ai/companies/accesa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ACCESA/744000146947809-forward-deployed-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Accesa was posted on 2026-09-02.
+This machine learning engineer position at Accesa was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

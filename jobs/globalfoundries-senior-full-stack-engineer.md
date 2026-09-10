@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Senior-Full-Stack-Engineer_JR-2605160) |
 
 ## About This Role
 
-This ai / llm engineer position at GlobalFoundries was posted on 2026-09-02.
+This software engineer position at GlobalFoundries was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

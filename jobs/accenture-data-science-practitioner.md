@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Data-Science-Practitioner_ATCI-5595287-S2027322-1) |
+| Category | Data Scientist |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Data-Science-Practitioner_ATCI-5748853-S2066938-1) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-06-03.
+This data scientist position at Accenture was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

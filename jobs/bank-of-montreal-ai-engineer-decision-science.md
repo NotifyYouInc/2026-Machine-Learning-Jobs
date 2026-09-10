@@ -1,16 +1,16 @@
-# AI Engineer- Decision Science at Bank of Montreal
+# AI Engineer - Decision Science at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | AI / ML Research |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer--Decision-Science_R260017629) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer---Decision-Science_R260025226-1) |
 
 ## About This Role
 
-This ai / ml research position at Bank of Montreal was posted on 2026-06-17.
+This machine learning engineer position at Bank of Montreal was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York, US |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/6de9c390-d879-444d-b90b-9c6a33a1fb96) |
+| Location | Chicago, Illinois, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/9d538c1b-16fa-4d21-8549-d1d1993aa201) |
 
 ## About This Role
 
-This ai / llm engineer position at Snowflake was posted on 2026-03-02.
+This machine learning engineer position at Snowflake was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

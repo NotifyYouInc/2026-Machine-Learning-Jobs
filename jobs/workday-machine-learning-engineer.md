@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Dublin, Leinster, Ireland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Machine-Learning-Engineer_JR-0109545-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Machine-Learning-Engineer_JR-0109754) |
 
 ## About This Role
 
-This machine learning engineer position at Workday was posted on 2026-09-01.
+This machine learning engineer position at Workday was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

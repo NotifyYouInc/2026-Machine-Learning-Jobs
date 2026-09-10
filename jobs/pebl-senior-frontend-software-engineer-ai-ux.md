@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pebl](https://scoutify.ai/companies/pebl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Palo Alto, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/pebl/1dc905fd-cfb1-48cc-b97f-c6dd08175c6e) |
 
 ## About This Role
 
-This ai / llm engineer position at Pebl was posted on 2026-09-01.
+This software engineer position at Pebl was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

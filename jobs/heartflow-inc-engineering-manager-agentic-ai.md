@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HeartFlow, Inc](https://scoutify.ai/companies/heartflow-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/heartflowinc/jobs/6177330004) |
 
 ## About This Role
 
-This ai / llm engineer position at HeartFlow, Inc was posted on 2026-09-01.
+This machine learning engineer position at HeartFlow, Inc was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

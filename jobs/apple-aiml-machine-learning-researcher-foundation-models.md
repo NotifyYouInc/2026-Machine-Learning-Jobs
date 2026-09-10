@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | Cupertino, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200641998/aiml-machine-learning-researcher-foundation-models) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667299/aiml-machine-learning-researcher-foundation-models) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2026-08-31.
+This ai / ml research position at Apple was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

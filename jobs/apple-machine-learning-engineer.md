@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Sunnyvale, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200679377/machine-learning-engineer) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200681088/machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-08-24.
+This machine learning engineer position at Apple was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

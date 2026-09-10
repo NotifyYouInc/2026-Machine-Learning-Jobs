@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000146566518-manager-forward-deployed-engineer) |
+| Location | San Francisco, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000146822484-manager-forward-deployed-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at SIA was posted on 2026-08-31.
+This machine learning engineer position at SIA was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

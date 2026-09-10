@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
-| Category | AI / ML Research |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668104/machine-learning-applied-researcher-speech-vision-and-audio) |
+| Location | Cambridge, Massachusetts, United States |
+| Category | Data Scientist |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200680745/machine-learning-applied-researcher-speech-vision-and-audio) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2026-06-17.
+This data scientist position at Apple was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

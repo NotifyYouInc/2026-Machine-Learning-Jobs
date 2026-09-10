@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Senior-Software-Engineer---AI-ML_R1605657-1) |
+| Category | Software Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Senior-Software-Engineer---AI-ML_R1605905) |
 
 ## About This Role
 
-This ai / llm engineer position at Bristol-Myers Squibb was posted on 2026-08-26.
+This software engineer position at Bristol-Myers Squibb was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

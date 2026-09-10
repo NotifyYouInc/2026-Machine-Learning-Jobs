@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | AI / LLM Engineer |
+| Category | Marketing Operations |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://www.metacareers.com/profile/job_details/1079103644598047) |
 
 ## About This Role
 
-This ai / llm engineer position at Meta was posted on 2026-09-01.
+This marketing operations position at Meta was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

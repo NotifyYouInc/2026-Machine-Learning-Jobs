@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Lead-AI-Engineer_R2624827) |
 
 ## About This Role
 
-This ai / llm engineer position at Applied Materials was posted on 2026-09-02.
+This machine learning engineer position at Applied Materials was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

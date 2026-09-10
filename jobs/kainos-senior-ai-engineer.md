@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kainos](https://scoutify.ai/companies/kainos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | Halifax, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Senior-AI-Engineer_JR_17950) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Halifax/Senior-AI-Engineer_JR_18314) |
 
 ## About This Role
 
-This machine learning engineer position at Kainos was posted on 2026-06-19.
+This machine learning engineer position at Kainos was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

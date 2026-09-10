@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ukraine |
-| Category | AI / LLM Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://careers.n-ix.com/jobs/4960375101?gh_jid=4960375101) |
 
 ## About This Role
 
-This ai / llm engineer position at N-iX was posted on 2026-09-02.
+This devops engineer position at N-iX was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200680115/language-engineer-mexican-spanish-global-siri) |
 
 ## About This Role
 
-This ai / llm engineer position at Apple was posted on 2026-09-01.
+This machine learning engineer position at Apple was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

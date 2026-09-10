@@ -5,12 +5,12 @@
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1533572801746755) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1725888355192236) |
 
 ## About This Role
 
-This machine learning engineer position at Meta was posted on 2026-06-26.
+This machine learning engineer position at Meta was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [M9 Solutions](https://scoutify.ai/companies/m9-solutions?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Virginia, US |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/m9solutions/jobs/5227223007) |
 
 ## About This Role
 
-This ai / llm engineer position at M9 Solutions was posted on 2026-09-01.
+This machine learning engineer position at M9 Solutions was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

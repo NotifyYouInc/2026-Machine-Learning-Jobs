@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Principal-Software-Engineer--Intelligent-Quality-Solutions_R-428495) |
 
 ## About This Role
 
-This ai / llm engineer position at Humana was posted on 2026-09-01.
+This software engineer position at Humana was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

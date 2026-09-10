@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer – Generative AI (Remote) at The Home Depot
+# Senior Machine Learning Engineer- Generative AI (REMOTE) at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Georgia, US |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Senior-Machine-Learning-Engineer---Generative-AI--Remote-_Req172351) |
+| Location | Atlanta, Georgia, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Senior-Machine-Learning-Engineer--Generative-AI--REMOTE-_Req191646) |
 
 ## About This Role
 
-This ai / llm engineer position at The Home Depot was posted on 2026-03-17.
+This machine learning engineer position at The Home Depot was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

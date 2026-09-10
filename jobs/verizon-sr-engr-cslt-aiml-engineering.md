@@ -5,12 +5,12 @@
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Sr-Engr-Cslt-AI-ML-Engineering_R-1099198-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Sr-Engr-Cslt-AI-ML-Engineering_R-1100292-1) |
 
 ## About This Role
 
-This machine learning engineer position at Verizon was posted on 2026-08-13.
+This machine learning engineer position at Verizon was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

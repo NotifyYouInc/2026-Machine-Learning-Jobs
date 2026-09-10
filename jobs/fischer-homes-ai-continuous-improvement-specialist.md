@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fischer Homes](https://scoutify.ai/companies/f1sch3rh0m3s?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Erlanger, Kentucky, United States |
-| Category | AI / LLM Engineer |
+| Category | Strategy & Operations |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/f1sch3rh0m3s/jobs/7983582003) |
 
 ## About This Role
 
-This ai / llm engineer position at Fischer Homes was posted on 2026-09-01.
+This strategy & operations position at Fischer Homes was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

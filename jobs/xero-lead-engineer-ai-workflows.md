@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Vancouver, British Columbia, Canada |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/xero/29b71925-11ff-4ed1-b515-50daab030565) |
 
 ## About This Role
 
-This ai / llm engineer position at Xero was posted on 2026-09-02.
+This software engineer position at Xero was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Florida, US |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Principal-Engineer--Agentic-AI_R-0012773) |
 
 ## About This Role
 
-This ai / llm engineer position at Raymond James Financial was posted on 2026-09-01.
+This software engineer position at Raymond James Financial was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

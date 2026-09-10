@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Viavi Solutions](https://scoutify.ai/companies/viavisolutions?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Singapore-Techpt-SGP/Rotational-Program-Development-Engineer_260005054) |
 
 ## About This Role
 
-This ai / llm engineer position at Viavi Solutions was posted on 2026-09-01.
+This software engineer position at Viavi Solutions was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

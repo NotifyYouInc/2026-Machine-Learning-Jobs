@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Distinguished-Engineer---Applied-AI-Solutions_R-1100363-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Verizon was posted on 2026-09-01.
+This software engineer position at Verizon was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [US Foods](https://scoutify.ai/companies/usfoods?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Rosemont, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---AI-Automation--Hybrid--Onsite---Remote-_R282109) |
 
 ## About This Role
 
-This ai / llm engineer position at US Foods was posted on 2026-09-01.
+This machine learning engineer position at US Foods was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

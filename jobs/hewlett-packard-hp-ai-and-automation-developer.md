@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Developer-AI-and-Automation_3159829-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Hewlett Packard (HP) was posted on 2026-09-01.
+This software engineer position at Hewlett Packard (HP) was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
