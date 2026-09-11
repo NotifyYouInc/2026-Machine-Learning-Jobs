@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland-Mountain-View/Senior-Data-Scientist_R-279898) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Scientist |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Data-Scientist_R-278158-1) |
 
 ## About This Role
 
-This machine learning engineer position at Mastercard was posted on 2026-06-16.
+This data scientist position at Mastercard was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

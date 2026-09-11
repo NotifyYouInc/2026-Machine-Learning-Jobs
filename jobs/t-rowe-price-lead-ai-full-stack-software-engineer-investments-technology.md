@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T. Rowe Price](https://scoutify.ai/companies/t-rowe-price?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Washington-DC/Lead-AI-Full-Stack-Software-Engineer---Investments-Technology_80657-1) |
+| Location | Baltimore, Maryland, United States |
+| Category | Software Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Lead-AI-Full-Stack-Software-Engineer---Investments-Technology_83488) |
 
 ## About This Role
 
-This ai / llm engineer position at T. Rowe Price was posted on 2026-03-12.
+This software engineer position at T. Rowe Price was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

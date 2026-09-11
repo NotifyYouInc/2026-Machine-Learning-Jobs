@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inferact](https://scoutify.ai/companies/inferact?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/inferact/bc3e42e7-0a71-438a-9815-67a88d5a1efc) |
+| Location | United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/inferact/ef7198da-ad0a-4c02-963f-6250a15e3534) |
 
 ## About This Role
 
-This ai / llm engineer position at Inferact was posted on 2026-06-24.
+This machine learning engineer position at Inferact was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

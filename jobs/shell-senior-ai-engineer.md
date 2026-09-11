@@ -1,0 +1,22 @@
+# Senior AI Engineer at Shell
+
+| Field | Details |
+|-------|---------|
+| Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Singapore, Singapore |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Singapore---Metropolis/Senior-AI-Engineer_R210402) |
+
+## About This Role
+
+This machine learning engineer position at Shell was posted on 2026-09-04.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

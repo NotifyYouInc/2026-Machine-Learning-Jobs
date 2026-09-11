@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DigiCert](https://scoutify.ai/companies/digicert?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cape Town, Western Cape, South Africa |
-| Category | Machine Learning Engineer |
+| Category | Technical Product Manager |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8756641002) |
 
 ## About This Role
 
-This machine learning engineer position at DigiCert was posted on 2026-09-02.
+This technical product manager position at DigiCert was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

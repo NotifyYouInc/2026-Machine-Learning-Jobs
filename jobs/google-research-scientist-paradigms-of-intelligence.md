@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
 | Category | AI / ML Research |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfO_jT1jDC_HEuuKdbi9VUo4RyLpoQmO2ejZ2VlmNNr7EjsA1Ny_i30EGiLCGksba4xmZ0_Ztk2ZDxKk-9SXY0M04m2jCGaSlu4Mdj44-XLlPyVU4Ww6yPuK7pAq8Q%3D%3D_V2&loc=CA&title=Research+Scientist) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbJ6WMNzpZT4P8u_1TK3P4KCg-0yhyo2gxDutdAD6sPPEjsA1Ny_i2LZLUjL-CHEUW8Q1vZj0nL19SWpFggQLwVn9p4BzXfj5xdbd6zDnIK-_Bjh6IxNs47QLNKa_g%3D%3D_V2&loc=CA&title=Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-07-03.
+This ai / ml research position at Google was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

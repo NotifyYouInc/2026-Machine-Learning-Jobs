@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCTO Technology](https://scoutify.ai/companies/octotechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Lille, Hauts-de-France, France |
-| Category | Data Scientist |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000146935059-stage-devdataia-outillage-ia-fhn) |
+| Location | Marcq-en-Barœul, Hauts-de-France, France |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000147200281-stage-devdataia-outillage-ia-fhn) |
 
 ## About This Role
 
-This data scientist position at OCTO Technology was posted on 2026-09-02.
+This machine learning engineer position at OCTO Technology was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

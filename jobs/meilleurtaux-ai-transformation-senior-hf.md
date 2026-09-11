@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meilleurtaux](https://scoutify.ai/companies/meilleurtaux?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000138831589-ai-transformation-senior-hf) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000147464339-ai-transformation-senior-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at Meilleurtaux was posted on 2026-07-21.
+This machine learning engineer position at Meilleurtaux was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

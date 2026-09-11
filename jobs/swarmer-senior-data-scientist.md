@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Swarmer](https://scoutify.ai/companies/swarmer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/swarmer/168331f3-fe33-4e3c-b91a-383cf4ab8819) |
 
 ## About This Role
 
-This data engineer position at Swarmer was posted on 2026-09-02.
+This data scientist position at Swarmer was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

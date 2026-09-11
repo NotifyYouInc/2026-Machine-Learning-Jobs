@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | Leadership Development Program |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/YIL_Bangalore-SATP-4th-Floor-ODC-Office/Graduate-Trainee-Engineer---AI-ML_R-12837) |
 
 ## About This Role
 
-This machine learning engineer position at Yokogawa was posted on 2026-09-03.
+This leadership development program position at Yokogawa was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

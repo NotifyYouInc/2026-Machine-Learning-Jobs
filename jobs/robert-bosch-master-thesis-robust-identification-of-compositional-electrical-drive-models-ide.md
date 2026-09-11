@@ -1,16 +1,16 @@
-# Master Thesis Robust Identification of Compositional Electrical Drive Models — Identifiability, Sensitivity & Excitation Analysis at Robert Bosch
+# Master Thesis Robust Identification of Compositional Electrical Drive Models - Identifiability, Sensitivity & Excitation Analysis at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Renningen, Baden-Wurttemberg, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146149459-master-thesis-robust-identification-of-compositional-electrical-drive-models-identifiability-sensitivity-excitation-analysis) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000147445610-master-thesis-robust-identification-of-compositional-electrical-drive-models-identifiability-sensitivity-excitation-analysis) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-08-28.
+This machine learning engineer position at Robert Bosch was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

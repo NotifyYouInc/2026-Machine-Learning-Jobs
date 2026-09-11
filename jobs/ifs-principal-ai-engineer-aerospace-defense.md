@@ -1,16 +1,16 @@
-# Principal AI Engineer - Aerospace & Defense at IFS
+# Principal AI Engineer, Aerospace & Defense at IFS
 
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Itasca, Illinois, United States |
+| Location | Ottawa, Ontario, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000140056939-principal-ai-engineer-aerospace-defense) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000147240909-principal-ai-engineer-aerospace-defense) |
 
 ## About This Role
 
-This machine learning engineer position at IFS was posted on 2026-07-27.
+This machine learning engineer position at IFS was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GlobeMed](https://scoutify.ai/companies/globemedgroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Beirut, Beyrouth, Lebanon |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GlobeMedGroup/744000146012493-senior-ai-ml-engineer) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GlobeMedGroup/744000147245720-senior-ai-ml-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at GlobeMed was posted on 2026-08-27.
+This machine learning engineer position at GlobeMed was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

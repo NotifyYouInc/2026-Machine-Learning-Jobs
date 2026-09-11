@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scripps Research](https://scoutify.ai/companies/scripps-research?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | La Jolla, California, United States |
+| Location | California, US |
 | Category | AI / ML Research |
-| Posted | 2025-12-18 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/scr1003tsri/JobBoard/98759e7d-7ede-4c0b-ac7b-2c6293c7b522/OpportunityDetail?opportunityId=695bde1f-9209-4063-b44d-91083c1daa17) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/scr1003tsri/JobBoard/98759e7d-7ede-4c0b-ac7b-2c6293c7b522/OpportunityDetail?opportunityId=b64f826d-922a-454e-a9f0-d4a72ed60410) |
 
 ## About This Role
 
-This ai / ml research position at Scripps Research was posted on 2025-12-18.
+This ai / ml research position at Scripps Research was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Sr-AI-Delivery---Operations-Engineer_34414R) |
+| Category | Software Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Edina-MN-55435/Sr-AI-Delivery---Operations-Engineer_34885R) |
 
 ## About This Role
 
-This machine learning engineer position at Vizient was posted on 2026-07-30.
+This software engineer position at Vizient was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

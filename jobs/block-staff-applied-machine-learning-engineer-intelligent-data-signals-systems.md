@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | California, US |
+| Location | Bay, Arkansas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](http://block.xyz/careers/jobs/5248631008?gh_jid=5248631008) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/4959469008?gh_jid=4959469008) |
 
 ## About This Role
 
-This machine learning engineer position at Block was posted on 2026-06-04.
+This machine learning engineer position at Block was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-DOWNTOWN-OFFICE/AI-Engineer_R000156658) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-DOWNTOWN-OFFICE/AI-Engineer_R000154533) |
 
 ## About This Role
 
-This ai / llm engineer position at Procter & Gamble was posted on 2026-08-11.
+This machine learning engineer position at Procter & Gamble was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Work-From-Home---UK/Lead-Data---AI-Platform-Engineer--Remote--United-Kingdom-_JR-90907-2) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Remote---United-Kingdom/Lead-Data---AI-Platform-Engineer--Remote--United-Kingdom-_JR-90837) |
 
 ## About This Role
 
-This data engineer position at Live Nation was posted on 2026-06-12.
+This data engineer position at Live Nation was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

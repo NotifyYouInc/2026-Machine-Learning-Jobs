@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Principal-AI-Researcher_2023189-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Principal-AI-Researcher_2022614) |
 
 ## About This Role
 
-This ai / ml research position at Cisco was posted on 2026-08-20.
+This ai / ml research position at Cisco was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
