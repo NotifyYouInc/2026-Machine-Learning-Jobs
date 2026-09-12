@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ulm, Baden-Wurttemberg, Germany |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Ulm-Area/Entwickler-in-fr-Generative-AI-Agentic-AI--d-m-w-_JR10435127-1) |
 
 ## About This Role
 
-This software engineer position at Airbus was posted on 2026-09-03.
+This ai / llm engineer position at Airbus was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

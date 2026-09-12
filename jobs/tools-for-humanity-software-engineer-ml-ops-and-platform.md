@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tools For Humanity](https://scoutify.ai/companies/tools-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/tools%20for%20humanity/544ee202-4266-42d7-8e0f-1bdff20ecdd8) |
 
 ## About This Role
 
-This devops engineer position at Tools For Humanity was posted on 2026-09-03.
+This software engineer position at Tools For Humanity was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

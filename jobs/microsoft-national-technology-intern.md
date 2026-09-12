@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556988021) |
 
 ## About This Role
 
-This machine learning engineer position at Microsoft was posted on 2026-09-04.
+This ai / llm engineer position at Microsoft was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

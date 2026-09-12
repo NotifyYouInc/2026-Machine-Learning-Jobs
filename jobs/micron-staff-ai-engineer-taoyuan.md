@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Taoyuan, Taiwan, Taiwan |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/Staff-AI-Engineer--Taoyuan-_JR110269) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-09-04.
+This ai / llm engineer position at Micron was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

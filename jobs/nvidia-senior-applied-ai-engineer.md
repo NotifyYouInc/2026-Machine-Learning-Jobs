@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Israel |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Applied-AI-Engineer_JR2023080) |
 
 ## About This Role
 
-This machine learning engineer position at Nvidia was posted on 2026-09-04.
+This ai / llm engineer position at Nvidia was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

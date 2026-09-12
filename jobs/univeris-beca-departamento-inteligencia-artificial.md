@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Univeris](https://scoutify.ai/companies/univeris?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.lever.co/univeris.com/6be1a926-4ad0-448e-8b67-c48522770a1f) |
 
 ## About This Role
 
-This machine learning engineer position at Univeris was posted on 2026-09-04.
+This ai / llm engineer position at Univeris was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

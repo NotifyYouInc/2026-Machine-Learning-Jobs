@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amperesand](https://scoutify.ai/companies/amperesand?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/amperesand/jobs/4395761009) |
 
 ## About This Role
 
-This software engineer position at Amperesand was posted on 2026-09-04.
+This ai / llm engineer position at Amperesand was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

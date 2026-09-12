@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Singapore---Metropolis/Senior-AI-Engineer_R210402) |
 
 ## About This Role
 
-This machine learning engineer position at Shell was posted on 2026-09-04.
+This ai / llm engineer position at Shell was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

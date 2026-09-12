@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Director--RGM-Product-AI-Engineering_R-145116) |
 
 ## About This Role
 
-This software engineer position at Coca-Cola was posted on 2026-09-03.
+This ai / llm engineer position at Coca-Cola was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

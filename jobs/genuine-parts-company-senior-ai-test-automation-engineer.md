@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Birmingham, Alabama, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Senior-AI-Test-Automation-Engineer_R26_0000029425) |
 
 ## About This Role
 
-This machine learning engineer position at Genuine Parts Company was posted on 2026-09-03.
+This ai / llm engineer position at Genuine Parts Company was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

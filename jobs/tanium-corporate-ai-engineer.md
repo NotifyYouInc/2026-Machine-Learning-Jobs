@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tanium](https://scoutify.ai/companies/tanium?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tanium/jobs/7759897) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tanium/jobs/8180082) |
 
 ## About This Role
 
-This ai / llm engineer position at Tanium was posted on 2026-03-26.
+This ai / llm engineer position at Tanium was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

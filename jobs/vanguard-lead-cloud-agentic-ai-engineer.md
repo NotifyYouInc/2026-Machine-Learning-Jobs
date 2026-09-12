@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/Lead-Cloud---Agentic-AI-Engineer_182122-1) |
 
 ## About This Role
 
-This software engineer position at Vanguard was posted on 2026-09-03.
+This ai / llm engineer position at Vanguard was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

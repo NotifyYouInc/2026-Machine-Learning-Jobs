@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ochsner Health System](https://scoutify.ai/companies/ochsner-health-system?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New Orleans, Louisiana, United States |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://ochsner.wd1.myworkdayjobs.com/ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/AI-ML-Back-end-Engineer_REQ_00273014) |
 
 ## About This Role
 
-This software engineer position at Ochsner Health System was posted on 2026-09-03.
+This ai / llm engineer position at Ochsner Health System was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

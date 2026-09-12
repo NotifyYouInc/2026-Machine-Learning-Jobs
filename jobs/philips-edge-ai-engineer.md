@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Embedded / Firmware Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Edge-AI-Engineer_589507-2) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Philips was posted on 2026-09-04.
+This ai / llm engineer position at Philips was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

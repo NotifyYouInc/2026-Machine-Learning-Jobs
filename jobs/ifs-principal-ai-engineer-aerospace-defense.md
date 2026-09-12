@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ottawa, Ontario, Canada |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000147240909-principal-ai-engineer-aerospace-defense) |
 
 ## About This Role
 
-This machine learning engineer position at IFS was posted on 2026-09-03.
+This ai / llm engineer position at IFS was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

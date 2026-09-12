@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [International Organization for Migration](https://scoutify.ai/companies/ocs-cx-oj55254?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Valencia, Valencia, Spain |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#22558) |
 
 ## About This Role
 
-This data scientist position at International Organization for Migration was posted on 2026-09-03.
+This ai / llm engineer position at International Organization for Migration was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

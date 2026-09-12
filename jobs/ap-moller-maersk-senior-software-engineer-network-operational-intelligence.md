@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Senior-Software-Engineer--Network-Operational-Intelligence_R195479) |
 
 ## About This Role
 
-This software engineer position at A.P. Moller - Maersk was posted on 2026-09-04.
+This ai / llm engineer position at A.P. Moller - Maersk was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

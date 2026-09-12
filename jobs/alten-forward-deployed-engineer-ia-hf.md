@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000147426709-forward-deployed-engineer-ia-hf) |
 
 ## About This Role
 
-This machine learning engineer position at ALTEN was posted on 2026-09-04.
+This ai / llm engineer position at ALTEN was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

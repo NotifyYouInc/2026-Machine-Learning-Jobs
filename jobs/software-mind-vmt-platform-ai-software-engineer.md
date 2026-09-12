@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000131891710-vmt-platform-ai-software-engineer) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000147554539-vmt-platform-ai-software-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Software Mind was posted on 2026-06-12.
+This ai / llm engineer position at Software Mind was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

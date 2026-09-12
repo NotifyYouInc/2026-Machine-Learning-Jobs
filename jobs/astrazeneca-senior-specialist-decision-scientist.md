@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Specialist---Decision-Scientist_R-259294-1) |
 
 ## About This Role
 
-This data scientist position at AstraZeneca was posted on 2026-09-03.
+This ai / llm engineer position at AstraZeneca was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

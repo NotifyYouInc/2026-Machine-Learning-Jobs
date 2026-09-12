@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Healthcare of Ontario Pension Plan](https://scoutify.ai/companies/hoopp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Senior-Manager--Total-Fund-Data-Science-and-Modeling_JR102529) |
 
 ## About This Role
 
-This data scientist position at Healthcare of Ontario Pension Plan was posted on 2026-09-03.
+This ai / llm engineer position at Healthcare of Ontario Pension Plan was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

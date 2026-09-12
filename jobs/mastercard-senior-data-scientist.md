@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Data-Scientist_R-278158-1) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-09-04.
+This ai / llm engineer position at Mastercard was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

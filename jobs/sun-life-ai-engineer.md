@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/AI-Engineer_JR00127634) |
 
 ## About This Role
 
-This software engineer position at Sun Life was posted on 2026-09-03.
+This ai / llm engineer position at Sun Life was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

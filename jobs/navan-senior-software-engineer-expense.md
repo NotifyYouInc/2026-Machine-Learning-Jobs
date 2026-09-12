@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Navan](https://scoutify.ai/companies/navan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://navan.com/careers/openings?gh_jid=8174882) |
 
 ## About This Role
 
-This software engineer position at Navan was posted on 2026-09-04.
+This ai / llm engineer position at Navan was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

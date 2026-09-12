@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Meyrin, Geneva, Switzerland |
+| Location | Switzerland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000146182279-ai-platform-engineer-plugins-marketplace) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000147543059-ai-platform-engineer-plugins-marketplace) |
 
 ## About This Role
 
-This ai / llm engineer position at Talan was posted on 2026-08-28.
+This ai / llm engineer position at Talan was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

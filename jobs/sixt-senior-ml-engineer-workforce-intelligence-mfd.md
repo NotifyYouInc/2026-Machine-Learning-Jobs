@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bavaria, DE |
+| Location | Munich, Bavaria, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000135271169-senior-ml-engineer-workforce-intelligence-mfd) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000147591064-senior-ml-engineer-workforce-intelligence-mfd) |
 
 ## About This Role
 
-This machine learning engineer position at Sixt was posted on 2026-07-01.
+This machine learning engineer position at Sixt was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

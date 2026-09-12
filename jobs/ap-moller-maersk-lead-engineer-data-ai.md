@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Copenhagen, Capital Region, Denmark |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/DKCPH55---Copenhagen---Esplanaden-50/Lead-Engineer---Data---AI_R194567) |
 
 ## About This Role
 
-This data engineer position at A.P. Moller - Maersk was posted on 2026-09-03.
+This ai / llm engineer position at A.P. Moller - Maersk was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

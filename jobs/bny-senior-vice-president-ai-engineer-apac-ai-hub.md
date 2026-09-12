@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#81072) |
 
 ## About This Role
 
-This software engineer position at BNY was posted on 2026-09-03.
+This ai / llm engineer position at BNY was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

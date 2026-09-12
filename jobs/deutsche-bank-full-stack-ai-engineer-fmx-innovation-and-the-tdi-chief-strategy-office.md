@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Berlin-Otto-Suhr-Allee-16/Full-Stack-AI-Engineer--f-m-x----Innovation-and-the-TDI-Chief-Strategy-Office_R0448108) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-09-04.
+This ai / llm engineer position at Deutsche Bank was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

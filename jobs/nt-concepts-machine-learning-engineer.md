@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NT Concepts](https://scoutify.ai/companies/ntconcepts?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ntconcepts/jobs/5792441004) |
+| Location | Chantilly, Virginia, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ntconcepts/jobs/6183111004) |
 
 ## About This Role
 
-This software engineer position at NT Concepts was posted on 2026-02-06.
+This machine learning engineer position at NT Concepts was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

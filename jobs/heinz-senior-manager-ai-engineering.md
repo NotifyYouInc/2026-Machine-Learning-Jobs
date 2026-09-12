@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Chicago-IL/Senior-Manager--AI-Engineering_R-106345) |
 
 ## About This Role
 
-This machine learning engineer position at Heinz was posted on 2026-09-04.
+This ai / llm engineer position at Heinz was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dataminr](https://scoutify.ai/companies/dataminr?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/New-York-NY/Software-Engineer-II_JR2100) |
 
 ## About This Role
 
-This software engineer position at Dataminr was posted on 2026-09-03.
+This ai / llm engineer position at Dataminr was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qualysoft](https://scoutify.ai/companies/qualysoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.lever.co/qualysoft/2bd97e29-094d-474c-a91e-1e11bd7b40e0) |
 
 ## About This Role
 
-This machine learning engineer position at Qualysoft was posted on 2026-09-04.
+This ai / llm engineer position at Qualysoft was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

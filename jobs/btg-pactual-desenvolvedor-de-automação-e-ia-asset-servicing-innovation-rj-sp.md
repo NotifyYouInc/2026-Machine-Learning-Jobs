@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6181358004) |
 
 ## About This Role
 
-This software engineer position at BTG Pactual was posted on 2026-09-03.
+This ai / llm engineer position at BTG Pactual was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

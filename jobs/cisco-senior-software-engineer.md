@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Senior-Software-Engineer_2023422) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-09-03.
+This ai / llm engineer position at Cisco was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

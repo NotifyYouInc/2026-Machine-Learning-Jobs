@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200681022/principal-software-architect-finance-technology-platform) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-09-03.
+This ai / llm engineer position at Apple was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

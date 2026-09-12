@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Analytics-Consultant_R-571616-1) |
 
 ## About This Role
 
-This data scientist position at Wells Fargo was posted on 2026-09-03.
+This ai / llm engineer position at Wells Fargo was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

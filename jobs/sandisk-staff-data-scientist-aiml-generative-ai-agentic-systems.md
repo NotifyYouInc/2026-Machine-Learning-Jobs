@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Milpitas, California, United States |
-| Category | Data Scientist |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000135539787-staff-data-scientist-aiml-generative-ai-agentic-systems) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000147594229-staff-data-scientist-aiml-generative-ai-agentic-systems) |
 
 ## About This Role
 
-This data scientist position at SanDisk was posted on 2026-07-02.
+This ai / llm engineer position at SanDisk was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

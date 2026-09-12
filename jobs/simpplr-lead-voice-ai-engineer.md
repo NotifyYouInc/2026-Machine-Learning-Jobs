@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Simpplr](https://scoutify.ai/companies/simpplr?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/simpplr/jobs/6161156004) |
 
 ## About This Role
 
-This software engineer position at Simpplr was posted on 2026-09-03.
+This ai / llm engineer position at Simpplr was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

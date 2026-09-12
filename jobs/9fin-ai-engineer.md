@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [9Fin](https://scoutify.ai/companies/9fin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/9fin/72764c55-33d0-4f03-bb39-f8ca8af5eb16) |
 
 ## About This Role
 
-This machine learning engineer position at 9Fin was posted on 2026-09-03.
+This ai / llm engineer position at 9Fin was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

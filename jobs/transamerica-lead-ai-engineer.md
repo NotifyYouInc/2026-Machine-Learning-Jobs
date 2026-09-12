@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Transamerica](https://scoutify.ai/companies/transamerica?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Work-From-Home-USA/Lead-AI-Engineer_R20062677) |
 
 ## About This Role
 
-This machine learning engineer position at Transamerica was posted on 2026-09-03.
+This ai / llm engineer position at Transamerica was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

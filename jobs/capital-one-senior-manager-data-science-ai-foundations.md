@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Data-Science---AI-Foundations_R244156-1) |
+| Category | Data Scientist |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Manager--Data-Science---AI-Foundations_R1000043-1) |
 
 ## About This Role
 
-This ai / ml research position at Capital One was posted on 2026-06-09.
+This data scientist position at Capital One was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

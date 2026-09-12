@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Remote---India/Full-Stack-AI-Lead-Developer_J2460267) |
 
 ## About This Role
 
-This software engineer position at Jabil was posted on 2026-09-04.
+This ai / llm engineer position at Jabil was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

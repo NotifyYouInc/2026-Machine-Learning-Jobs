@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shenzhen, Guangdong, China |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/Agent_R108051-1) |
 
 ## About This Role
 
-This software engineer position at Tencent was posted on 2026-09-03.
+This ai / llm engineer position at Tencent was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

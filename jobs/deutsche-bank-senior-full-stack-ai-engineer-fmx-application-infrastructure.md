@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Germany |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Frankfurt-Theodor-H-A-IBC/Senior-Full-stack-AI-Engineer--f-m-x----Application-Infrastructure_R0425688) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-09-04.
+This ai / llm engineer position at Deutsche Bank was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

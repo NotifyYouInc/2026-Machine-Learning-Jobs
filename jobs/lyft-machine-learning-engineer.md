@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | New York City, New York, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8620859002?gh_jid=8620859002) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8689127002?gh_jid=8689127002) |
 
 ## About This Role
 
-This machine learning engineer position at Lyft was posted on 2026-07-06.
+This machine learning engineer position at Lyft was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

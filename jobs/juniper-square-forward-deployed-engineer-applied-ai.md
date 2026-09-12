@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Juniper Square](https://scoutify.ai/companies/juniper-square?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/junipersquare/c50425b0-16e5-47ac-a829-5547e2ccaff6) |
 
 ## About This Role
 
-This machine learning engineer position at Juniper Square was posted on 2026-09-03.
+This ai / llm engineer position at Juniper Square was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

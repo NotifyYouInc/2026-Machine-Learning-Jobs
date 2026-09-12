@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tampa, Florida, United States |
-| Category | Data Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4710646006?gh_jid=4710646006) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4711009006?gh_jid=4711009006) |
 
 ## About This Role
 
-This data engineer position at Accenture Federal Services was posted on 2026-09-02.
+This ai / llm engineer position at Accenture Federal Services was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

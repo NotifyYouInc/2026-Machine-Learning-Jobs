@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The City of Fort Worth](https://scoutify.ai/companies/cityoffortworth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Fort Worth, Texas, United States |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://boards.greenhouse.io/cityoffortworth/jobs/7985366003?gh_jid=7985366003) |
 
 ## About This Role
 
-This software engineer position at The City of Fort Worth was posted on 2026-09-03.
+This ai / llm engineer position at The City of Fort Worth was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

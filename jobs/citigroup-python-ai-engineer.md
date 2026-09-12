@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Python-AI-Engineer_26987863) |
 
 ## About This Role
 
-This machine learning engineer position at Citigroup was posted on 2026-09-03.
+This ai / llm engineer position at Citigroup was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

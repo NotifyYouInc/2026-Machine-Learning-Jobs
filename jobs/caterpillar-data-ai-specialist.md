@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Jiangsu, CN |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wujiang-Jiangsu/Data---AI-Specialist_R0000391949) |
 
 ## About This Role
 
-This data engineer position at Caterpillar was posted on 2026-09-04.
+This ai / llm engineer position at Caterpillar was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/xero/03e1237c-db16-4cd5-8cc8-0a1eef12e36e) |
 
 ## About This Role
 
-This software engineer position at Xero was posted on 2026-09-03.
+This ai / llm engineer position at Xero was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

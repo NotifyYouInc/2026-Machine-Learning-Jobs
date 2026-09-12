@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wordware](https://scoutify.ai/companies/wordware?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/wordware/jobs/Au7v8f1-senior-ai-frontend-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Wordware was posted on 2026-09-04.
+This ai / llm engineer position at Wordware was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

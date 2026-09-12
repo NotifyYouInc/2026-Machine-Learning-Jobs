@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Senior-Lead-AI-Engineer--LLM-Gateway--FM-Hosting-_R999857) |
 
 ## About This Role
 
-This machine learning engineer position at Capital One was posted on 2026-09-03.
+This ai / llm engineer position at Capital One was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

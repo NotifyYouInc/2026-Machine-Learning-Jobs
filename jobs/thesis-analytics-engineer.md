@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thesis](https://scoutify.ai/companies/thesiscareers?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/thesiscareers/jobs/5229799007) |
 
 ## About This Role
 
-This data engineer position at Thesis was posted on 2026-09-03.
+This ai / llm engineer position at Thesis was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

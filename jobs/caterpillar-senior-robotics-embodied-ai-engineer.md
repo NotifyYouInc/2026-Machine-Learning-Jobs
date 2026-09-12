@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/San-Francisco-California/Senior-Robotics---Embodied-AI-Engineer_R0000392521) |
 
 ## About This Role
 
-This machine learning engineer position at Caterpillar was posted on 2026-09-04.
+This ai / llm engineer position at Caterpillar was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

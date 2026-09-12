@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200664887/lead-ai-engineer-finance-digital-transformation) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200679654/lead-ai-engineer-finance-digital-transformation) |
 
 ## About This Role
 
-This ai / llm engineer position at Apple was posted on 2026-06-09.
+This ai / llm engineer position at Apple was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

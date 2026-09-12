@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Greece-Thessaloniki-Chortiatis/Sr-Manager--AI-Solutions-Tech-Lead_4963060) |
 
 ## About This Role
 
-This software engineer position at Pfizer was posted on 2026-09-03.
+This ai / llm engineer position at Pfizer was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

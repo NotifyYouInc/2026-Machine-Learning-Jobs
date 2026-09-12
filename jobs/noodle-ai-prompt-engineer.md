@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Noodle](https://scoutify.ai/companies/noodle?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | South Africa |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.lever.co/noodle/ec93a840-7b57-43db-bfaa-2f74fbd0a217) |
 
 ## About This Role
 
-This machine learning engineer position at Noodle was posted on 2026-09-03.
+This ai / llm engineer position at Noodle was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

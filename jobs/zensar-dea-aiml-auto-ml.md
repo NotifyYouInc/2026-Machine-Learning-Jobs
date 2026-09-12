@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zensar](https://scoutify.ai/companies/ocs-cx-oj119068?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#150640) |
 
 ## About This Role
 
-This software engineer position at Zensar was posted on 2026-09-04.
+This ai / llm engineer position at Zensar was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

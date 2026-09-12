@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Bangalore-India/Machine-Learning-Ops-Engineer_JR_053664) |
 
 ## About This Role
 
-This devops engineer position at ResMed was posted on 2026-09-04.
+This ai / llm engineer position at ResMed was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

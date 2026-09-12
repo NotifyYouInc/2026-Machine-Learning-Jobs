@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8177456) |
 
 ## About This Role
 
-This machine learning engineer position at Capco was posted on 2026-09-03.
+This ai / llm engineer position at Capco was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

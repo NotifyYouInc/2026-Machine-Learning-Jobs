@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Telangana, IN |
-| Category | DevOps Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/IT-Developer---LLM-Engineer_R76677-1) |
 
 ## About This Role
 
-This devops engineer position at Medtronic was posted on 2026-09-04.
+This ai / llm engineer position at Medtronic was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

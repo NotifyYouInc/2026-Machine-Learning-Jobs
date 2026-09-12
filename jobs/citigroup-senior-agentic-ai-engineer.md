@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-Agentic-AI-Engineer_26984352) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-Agentic-AI-Engineer_26992895-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-08-11.
+This ai / llm engineer position at Citigroup was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

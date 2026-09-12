@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Jose, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Applied-Scientist_R171218) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Scientist_R165817) |
 
 ## About This Role
 
-This data scientist position at Adobe was posted on 2026-08-14.
+This data scientist position at Adobe was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

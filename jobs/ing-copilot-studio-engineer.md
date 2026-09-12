@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bratislava, Bratislava Region, Slovakia |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bratislava/Copilot-Studio-Engineer_REQ-10120100-1) |
 
 ## About This Role
 
-This software engineer position at ING was posted on 2026-09-03.
+This ai / llm engineer position at ING was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

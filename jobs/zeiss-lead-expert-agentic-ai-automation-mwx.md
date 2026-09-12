@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Oberkochen, Baden-Wurttemberg, Germany |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Lead-Expert-Agentic-AI---Automation--m-w-x-_JR_1052018-1) |
 
 ## About This Role
 
-This machine learning engineer position at Zeiss was posted on 2026-09-03.
+This ai / llm engineer position at Zeiss was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://instacart.careers/job/?gh_jid=8175843) |
 
 ## About This Role
 
-This software engineer position at Instacart was posted on 2026-09-03.
+This ai / llm engineer position at Instacart was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

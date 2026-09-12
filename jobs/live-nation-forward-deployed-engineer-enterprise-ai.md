@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Beverly Hills, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Forward-Deployed-Engineer--Enterprise-AI_JR-92882) |
 
 ## About This Role
 
-This machine learning engineer position at Live Nation was posted on 2026-09-03.
+This ai / llm engineer position at Live Nation was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

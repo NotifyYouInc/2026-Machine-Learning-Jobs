@@ -5,12 +5,12 @@
 | Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/59c997bf-7ec3-4631-bc4a-3dc5dbe30f28) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/4bb1232c-3f1e-4fd7-8894-fcd68f96e3db) |
 
 ## About This Role
 
-This ai / llm engineer position at Mercor was posted on 2026-08-27.
+This ai / llm engineer position at Mercor was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

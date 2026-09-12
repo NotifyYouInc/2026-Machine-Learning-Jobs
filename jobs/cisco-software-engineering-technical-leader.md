@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Boulder, Colorado, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boulder-Colorado-US/Software-Engineering-Technical-Leader_2019188) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineering-Technical-Leader_2023550-1) |
 
 ## About This Role
 
-This machine learning engineer position at Cisco was posted on 2026-07-25.
+This ai / llm engineer position at Cisco was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

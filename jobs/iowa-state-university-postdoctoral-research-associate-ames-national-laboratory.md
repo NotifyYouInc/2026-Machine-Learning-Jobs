@@ -5,12 +5,12 @@
 | Company | [Iowa State University](https://scoutify.ai/companies/iowa-state-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ames, Iowa, United States |
 | Category | AI / ML Research |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Postdoctoral-Research-Associate---Ames-National-Laboratory_R19826) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Postdoctoral-Research-Associate---Ames-National-Laboratory_R19911) |
 
 ## About This Role
 
-This ai / ml research position at Iowa State University was posted on 2026-08-22.
+This ai / ml research position at Iowa State University was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

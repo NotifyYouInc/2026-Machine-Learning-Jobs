@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [9th Way Solutions](https://scoutify.ai/companies/9th-way-solutions?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5393451008) |
 
 ## About This Role
 
-This machine learning engineer position at 9th Way Solutions was posted on 2026-09-03.
+This ai / llm engineer position at 9th Way Solutions was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

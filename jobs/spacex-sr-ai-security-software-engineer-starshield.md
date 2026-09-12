@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Cybersecurity Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8782453002?gh_jid=8782453002) |
 
 ## About This Role
 
-This cybersecurity engineer position at SpaceX was posted on 2026-09-03.
+This ai / llm engineer position at SpaceX was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

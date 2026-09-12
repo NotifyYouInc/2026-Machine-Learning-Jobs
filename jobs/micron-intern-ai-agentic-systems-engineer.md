@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-09-03.
+This ai / llm engineer position at Micron was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
