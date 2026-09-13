@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brooklyn Park, Minnesota, United States |
-| Category | AI / LLM Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Principal-Engineer---Security-AI--Hybrid-_R0000448494) |
 
 ## About This Role
 
-This ai / llm engineer position at Target was posted on 2026-09-03.
+This cybersecurity engineer position at Target was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

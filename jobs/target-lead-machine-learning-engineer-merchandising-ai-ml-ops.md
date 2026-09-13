@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brooklyn Park, Minnesota, United States |
-| Category | Data Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Machine-Learning-Engineer---Merchandising-AI--ML-Ops-_R0000439821) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Machine-Learning-Engineer---Merchandising-AI--ML-Ops-_R0000451054) |
 
 ## About This Role
 
-This data engineer position at Target was posted on 2026-05-22.
+This machine learning engineer position at Target was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

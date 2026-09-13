@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 5 locations |
-| Category | AI / LLM Engineer |
+| Category | Strategy & Operations |
 | Posted | 2026-09-05 |
 | Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ATLANTA-GEORGIA/AI-Lead---HR-Transformation_R0074031-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Global Payments was posted on 2026-09-05.
+This strategy & operations position at Global Payments was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

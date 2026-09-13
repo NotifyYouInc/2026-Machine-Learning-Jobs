@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | AI / LLM Engineer |
+| Category | Program Manager |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/EMEA-Operations-DX---AI-Transformation--VP_10079148-WD-2) |
 
 ## About This Role
 
-This ai / llm engineer position at Mitsubishi UFG was posted on 2026-09-03.
+This program manager position at Mitsubishi UFG was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

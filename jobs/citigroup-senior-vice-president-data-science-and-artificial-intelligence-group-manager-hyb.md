@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Senior-Vice-President---Data-Science-and-Artificial-Intelligence-Group-Manager---Hybrid_26990936-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-09-04.
+This data scientist position at Citigroup was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

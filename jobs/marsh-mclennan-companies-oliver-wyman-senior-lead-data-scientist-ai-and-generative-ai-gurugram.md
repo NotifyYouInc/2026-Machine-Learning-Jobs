@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | AI / LLM Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---Two-Horizon/Oliver-Wyman---Senior---Lead-Data-Scientist--AI-and-Generative-AI----Gurugram_R_364835-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Marsh & McLennan Companies was posted on 2026-09-04.
+This data scientist position at Marsh & McLennan Companies was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
