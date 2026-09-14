@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 6 locations |
-| Category | AI / ML Research |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUMIB4f-9zARE8e80hNzQjo8l4NDOjzbGocF0x4qwnarEjsA1Ny_ixe_X32dVFRW2PQXMh73W7R86rPAmpD7f7o7yhyr2vNLztt0QhsxDHFJEb8NY26QRWBD7tDK5g%3D%3D_V2&loc=US&title=Senior+Research+Scientist) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQFkVMOYjmIlj3iA1kRj01piZXDHC4dYLObvipKAytX5EjsA1Ny_iynOMz6YlH68Jn1sfFxKQqnWBabNK7MfNH1KCPUcczUXGe8bWTmileLKXdzxqk34Pe12t1Ku2w%3D%3D_V2&loc=US&title=Senior+Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-07-01.
+This semiconductor / chip design position at Google was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Nantes, Pays de la Loire, France |
+| Location | Cholet, Pays de la Loire, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000144584179-ingenieur-ia-developpement-de-solutions-llm-automatisation-hf) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000147916834-ingenieur-ia-developpement-de-solutions-llm-automatisation-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN was posted on 2026-08-20.
+This ai / llm engineer position at ALTEN was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

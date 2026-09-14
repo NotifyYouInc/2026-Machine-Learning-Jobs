@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Telangana, IN |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135418038-aiml-engineer-ms) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000147834699-aiml-engineer-ms) |
 
 ## About This Role
 
-This ai / llm engineer position at Robert Bosch was posted on 2026-07-02.
+This ai / llm engineer position at Robert Bosch was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

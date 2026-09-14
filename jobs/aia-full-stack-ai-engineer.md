@@ -5,12 +5,12 @@
 | Company | [Aia](https://scoutify.ai/companies/aia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/amplifyhealthexternal/job/Singapore-SG-Amplify-Health/Full-Stack-AI-Engineer_JR-69383) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/amplifyhealthexternal/job/Singapore-SG-Amplify-Health/Full-Stack-AI-Engineer_JR-69711) |
 
 ## About This Role
 
-This ai / llm engineer position at Aia was posted on 2026-09-03.
+This ai / llm engineer position at Aia was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

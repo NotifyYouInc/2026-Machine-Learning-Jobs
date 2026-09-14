@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hildesheim, Lower Saxony, Germany |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140828505-phd-predictive-occupancy-world-models-for-end-to-end-autonomous-driving) |
+| Category | AI / ML Research |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000147844939-phd-predictive-occupancy-world-models-for-end-to-end-autonomous-driving) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-07-31.
+This ai / ml research position at Robert Bosch was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

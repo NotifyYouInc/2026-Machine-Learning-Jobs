@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Taoyuan, Taiwan, Taiwan |
+| Location | Hyderabad, Telangana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/SR-AI-ENGINEER--SMAI_JR110199) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/SR-AI-ENGINEER--SMAI_JR110811) |
 
 ## About This Role
 
-This ai / llm engineer position at Micron was posted on 2026-08-31.
+This ai / llm engineer position at Micron was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

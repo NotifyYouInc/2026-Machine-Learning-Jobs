@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Digitalturbine](https://scoutify.ai/companies/digitalturbine?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York, US |
+| Location | Israel |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://digitalturbine.wd501.myworkdayjobs.com/digital_turbine_external_careers/job/United-States---New-York/Senior-Machine-Learning-Engineer_JR101030) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://digitalturbine.wd501.myworkdayjobs.com/digital_turbine_external_careers/job/Israel---Petah-Tikva/Senior-Machine-Learning-Engineer_JR101052) |
 
 ## About This Role
 
-This machine learning engineer position at Digitalturbine was posted on 2026-08-13.
+This machine learning engineer position at Digitalturbine was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
