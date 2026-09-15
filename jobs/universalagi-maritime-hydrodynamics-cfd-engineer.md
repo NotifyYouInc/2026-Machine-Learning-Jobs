@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UniversalAGI](https://scoutify.ai/companies/universalagi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/universalagi/0a91e2bc-51f2-495f-b1aa-bab661572ac4) |
 
 ## About This Role
 
-This ai / ml research position at UniversalAGI was posted on 2026-09-04.
+This machine learning engineer position at UniversalAGI was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

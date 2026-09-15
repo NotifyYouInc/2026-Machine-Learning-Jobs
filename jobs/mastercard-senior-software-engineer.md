@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Israel |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland-Mountain-View/Senior-Software-Engineer_R-280213) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Ramat-Gan-Israel/Senior-Software-Engineer_R-288198) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-06-18.
+This ai / llm engineer position at Mastercard was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-05 |
 | Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Fellow--PGY2--Bujakowska-_RQ4076328) |
 
 ## About This Role
 
-This ai / ml research position at Mass General Brigham was posted on 2026-09-05.
+This machine learning engineer position at Mass General Brigham was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

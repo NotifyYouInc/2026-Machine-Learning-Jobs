@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Waterloo, Iowa, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVnBWNyCpA96KzqSNUTm6-26z1Qyjx4VgFtCKB1DualNEjsA1Ny_i7yy4DCpfTolRyrOR5AqHZ8rQSwgm1IpsooT0HZ708TfWfJwCqPEg1kjr6PwjF6UuNoGjakzvA%3D%3D_V2&loc=CA&title=Senior+Software+Developer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-09-04.
+This machine learning engineer position at Google was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Juan, Texas, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-05 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Juan-Puerto-Rico-Puerto-Rico/Full-Stack-AI-Engineer_1212272-3) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-09-05.
+This machine learning engineer position at Hewlett Packard Enterprise was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

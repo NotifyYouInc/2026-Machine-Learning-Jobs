@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-06-09 |
+| Category | DevOps Engineer |
+| Posted | 2026-09-07 |
 | Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Cloud-Platform-Engineer-Senior-Consultant-I_R30429-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Allstate was posted on 2026-06-09.
+This devops engineer position at Allstate was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

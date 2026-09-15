@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Atlanta-Metro-Area/CATT-Technical-Delivery-AI-Software-Engineer---Fall-2027_JR121013) |
 
 ## About This Role
 
-This software engineer position at RSM was posted on 2026-09-04.
+This machine learning engineer position at RSM was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

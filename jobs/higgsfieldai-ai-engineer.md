@@ -5,12 +5,12 @@
 | Company | [Higgsfieldai](https://scoutify.ai/companies/higgsfieldai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Almaty, Almaty, Kazakhstan |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-29 |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/higgsfieldai/192e7e3c-e604-4991-a8a3-51cffbba3f51) |
 
 ## About This Role
 
-This ai / llm engineer position at Higgsfieldai was posted on 2026-04-29.
+This ai / llm engineer position at Higgsfieldai was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

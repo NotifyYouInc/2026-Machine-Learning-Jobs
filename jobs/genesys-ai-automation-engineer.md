@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tamil Nadu, IN |
-| Category | AI / LLM Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Tamil-Nadu-India/AI-Automation-Engineer_JR112219-2) |
 
 ## About This Role
 
-This ai / llm engineer position at Genesys was posted on 2026-09-04.
+This devops engineer position at Genesys was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-23 |
-| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Advanced-Engineer-AI-ML/32662) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Advanced-Engineer-AI-ML/32656) |
 
 ## About This Role
 
-This ai / llm engineer position at HARMAN International was posted on 2026-08-23.
+This ai / llm engineer position at HARMAN International was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Senior-Software-Engineer_JR00035157) |
 
 ## About This Role
 
-This software engineer position at ABB was posted on 2026-09-07.
+This machine learning engineer position at ABB was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

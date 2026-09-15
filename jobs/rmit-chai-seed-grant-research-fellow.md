@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RMIT](https://scoutify.ai/companies/rmit?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://rmit.wd3.myworkdayjobs.com/rmit_jobs/job/Melbourne/CHAI-Seed-Grant-Research-Fellow_JR50689) |
 
 ## About This Role
 
-This ai / ml research position at RMIT was posted on 2026-09-07.
+This machine learning engineer position at RMIT was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

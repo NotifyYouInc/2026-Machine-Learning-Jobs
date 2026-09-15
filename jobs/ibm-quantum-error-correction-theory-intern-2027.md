@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Yorktown Heights, New York, United States |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=131910) |
 
 ## About This Role
 
-This ai / ml research position at IBM was posted on 2026-09-04.
+This machine learning engineer position at IBM was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

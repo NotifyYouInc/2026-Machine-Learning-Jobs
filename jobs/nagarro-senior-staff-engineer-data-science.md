@@ -1,16 +1,16 @@
-# Senior Staff Engineer, Data Science at Nagarro
+# Senior Staff Engineer - Data Science at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121749556-senior-staff-engineer-data-science) |
+| Location | Guadalajara, Jalisco, Mexico |
+| Category | Data Scientist |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000147980819-senior-staff-engineer-data-science) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-20.
+This data scientist position at Nagarro was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

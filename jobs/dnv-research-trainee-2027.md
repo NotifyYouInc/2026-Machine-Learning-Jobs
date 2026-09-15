@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DNV](https://scoutify.ai/companies/em2-cx-oj30289?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Oslo, Oslo, Norway |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://ecyq.fa.em2.oraclecloud.com/jobs/#7400) |
 
 ## About This Role
 
-This ai / ml research position at DNV was posted on 2026-09-07.
+This machine learning engineer position at DNV was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

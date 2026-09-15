@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Menlo Park, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2030632494556913) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1412780974120239) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-03-30.
+This machine learning engineer position at Meta was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

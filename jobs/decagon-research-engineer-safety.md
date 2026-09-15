@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Decagon](https://scoutify.ai/companies/decagon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/decagon/f84db19b-8de3-49d6-a954-c9ee2e365956) |
 
 ## About This Role
 
-This ai / ml research position at Decagon was posted on 2026-09-04.
+This machine learning engineer position at Decagon was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

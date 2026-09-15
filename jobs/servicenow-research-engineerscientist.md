@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000147907588-research-engineerscientist) |
 
 ## About This Role
 
-This ai / ml research position at ServiceNow was posted on 2026-09-07.
+This machine learning engineer position at ServiceNow was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

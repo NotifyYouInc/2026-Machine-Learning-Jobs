@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | North Carolina, US |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Winston-Salem-NC---1913-Beach-St/Postdoctoral-Researcher---Radiation-Oncology_R264211) |
 
 ## About This Role
 
-This ai / ml research position at Advocate Health was posted on 2026-09-04.
+This machine learning engineer position at Advocate Health was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

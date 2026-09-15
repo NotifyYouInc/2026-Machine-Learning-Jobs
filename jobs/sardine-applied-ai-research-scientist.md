@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sardine](https://scoutify.ai/companies/sardine?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/sardine/44cf5225-547a-4584-a271-c0c6ddc7b0b6) |
 
 ## About This Role
 
-This ai / ml research position at Sardine was posted on 2026-09-04.
+This machine learning engineer position at Sardine was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

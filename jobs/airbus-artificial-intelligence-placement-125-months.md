@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bristol, England, United Kingdom |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Artificial-Intelligence-Placement--125-months-_JR10424830) |
 
 ## About This Role
 
-This ai / ml research position at Airbus was posted on 2026-09-07.
+This machine learning engineer position at Airbus was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

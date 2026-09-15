@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Granada, Andalusia, Spain |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000139118489-senior-ai-engineer-mfd) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000148178646-senior-ai-engineer-mfd) |
 
 ## About This Role
 
-This ai / llm engineer position at T-Systems International was posted on 2026-07-22.
+This ai / llm engineer position at T-Systems International was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

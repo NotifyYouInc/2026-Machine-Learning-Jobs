@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | DevOps Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000140445658-ai-platform-engineer-mfx) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000147966144-ai-platform-engineer-mfx) |
 
 ## About This Role
 
-This devops engineer position at Scalable Capital was posted on 2026-07-29.
+This ai / llm engineer position at Scalable Capital was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

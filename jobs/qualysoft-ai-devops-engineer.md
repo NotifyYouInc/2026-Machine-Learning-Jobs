@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qualysoft](https://scoutify.ai/companies/qualysoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | AI / LLM Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://jobs.lever.co/qualysoft/450a4e53-5802-4d40-a65a-f4af582dc8e6) |
 
 ## About This Role
 
-This ai / llm engineer position at Qualysoft was posted on 2026-09-07.
+This devops engineer position at Qualysoft was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

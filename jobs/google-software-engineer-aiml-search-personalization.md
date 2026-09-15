@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSN8AK_Pr3P-90TEfSuIWkgZKH5zLAf_eLY2lD13Lex1EjsA1Ny_iwcNrzbVSr6B9Wrb28hnXNXM026lt5U3s8drM0oCtKnG3R-f3C_sAH-eu0l89o0wa1aCe-cNaw%3D%3D_V2&loc=US&title=Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-09-07.
+This machine learning engineer position at Google was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

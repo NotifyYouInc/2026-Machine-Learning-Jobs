@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/AI-ML-Computational-Science-Assoc-Mgr_AIOC-S01635377-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/AI-ML-Computational-Science-Assoc-Mgr_AIOC-S01664466-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-02.
+This ai / llm engineer position at Accenture was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

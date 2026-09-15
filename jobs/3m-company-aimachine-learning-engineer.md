@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Maplewood, Minnesota, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/AI-Machine-Learning-Engineer_R01170506) |
 
 ## About This Role
 
-This software engineer position at 3M Company was posted on 2026-09-04.
+This machine learning engineer position at 3M Company was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

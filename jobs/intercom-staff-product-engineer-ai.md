@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intercom](https://scoutify.ai/companies/intercom?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/7393922) |
 
 ## About This Role
 
-This software engineer position at Intercom was posted on 2026-09-04.
+This machine learning engineer position at Intercom was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

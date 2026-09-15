@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Psu](https://scoutify.ai/companies/psu?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hershey, Pennsylvania, United States |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://psu.wd1.myworkdayjobs.com/psu_academic/job/College-of-Medicine/Researcher_REQ_0000081701-3) |
 
 ## About This Role
 
-This ai / ml research position at Psu was posted on 2026-09-04.
+This machine learning engineer position at Psu was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

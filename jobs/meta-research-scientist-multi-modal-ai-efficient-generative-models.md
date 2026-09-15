@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://www.metacareers.com/profile/job_details/1135049325524963) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-09-04.
+This machine learning engineer position at Meta was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

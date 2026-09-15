@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZGBStDV-IT32EbiBARuNot_Ib2SgK6l3MQeeTPRk31AEjsA1Ny_i725bXboZh1YUzzyrzPskz0GRPSXOAkCY94IAr--cHdJLJ2jzRskHOGTgWmlSva-F0lTvDp2GQ%3D%3D_V2&loc=US&title=Post-training+Agentic+Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-09-04.
+This machine learning engineer position at Google was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

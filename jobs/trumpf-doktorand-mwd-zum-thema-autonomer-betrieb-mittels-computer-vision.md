@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trumpf](https://scoutify.ai/companies/trumpf?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ditzingen, Baden-Wurttemberg, Germany |
-| Category | AI / ML Research |
-| Posted | 2026-07-02 |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://trumpf.wd3.myworkdayjobs.com/trumpf_graduates_and_professionals/job/Ditzingen/Doktorand--m-w-d--zum-Thema-Autonomer-Betrieb-mittels-Computer-Vision_R00040511) |
 
 ## About This Role
 
-This ai / ml research position at Trumpf was posted on 2026-07-02.
+This machine learning engineer position at Trumpf was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7677848679684655413/detail) |
 
 ## About This Role
 
-This ai / ml research position at TikTok was posted on 2026-09-07.
+This machine learning engineer position at TikTok was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

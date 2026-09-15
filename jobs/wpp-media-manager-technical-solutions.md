@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York, US |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5373468008) |
 
 ## About This Role
 
-This software engineer position at WPP Media was posted on 2026-09-04.
+This machine learning engineer position at WPP Media was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

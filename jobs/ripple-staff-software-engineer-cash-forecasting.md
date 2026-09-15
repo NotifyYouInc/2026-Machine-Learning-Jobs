@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://ripple.com/careers/all-jobs/job/8180204?gh_jid=8180204) |
 
 ## About This Role
 
-This software engineer position at Ripple was posted on 2026-09-04.
+This machine learning engineer position at Ripple was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

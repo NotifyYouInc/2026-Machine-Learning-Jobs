@@ -5,12 +5,12 @@
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Pune-India/Senior-Member-Of-Technical-Staff--Machine-Learning-_R15168) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Pune-India/Senior-Member-Of-Technical-Staff--Machine-Learning-_R15461) |
 
 ## About This Role
 
-This machine learning engineer position at Athena Health was posted on 2026-06-05.
+This machine learning engineer position at Athena Health was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

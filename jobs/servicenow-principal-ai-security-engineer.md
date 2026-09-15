@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Israel |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000140410695-principal-ai-security-engineer) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000148150349-principal-ai-security-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at ServiceNow was posted on 2026-07-29.
+This cybersecurity engineer position at ServiceNow was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-06 |
 | Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=7841778002) |
 
 ## About This Role
 
-This software engineer position at Databricks was posted on 2026-09-06.
+This machine learning engineer position at Databricks was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Diego, California, United States |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200682044/applied-ai-ml-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-09-04.
+This machine learning engineer position at Apple was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

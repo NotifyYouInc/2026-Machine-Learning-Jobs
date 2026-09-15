@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Specialist-Platform-Engineer---Python-Developer_REQ-10086851) |
 
 ## About This Role
 
-This ai / llm engineer position at Novartis was posted on 2026-09-04.
+This devops engineer position at Novartis was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ludvika, Dalarna, Sweden |
-| Category | Electrical / Hardware Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Simulation-Model-Engineer_R0139896) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-09-07.
+This machine learning engineer position at Hitachi was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

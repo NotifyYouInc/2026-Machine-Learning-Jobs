@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PubMatic](https://scoutify.ai/companies/pubmatic?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://pubmatic.com/job/?gh_jid=5255366008) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://pubmatic.com/job/?gh_jid=5417872008) |
 
 ## About This Role
 
-This software engineer position at PubMatic was posted on 2026-06-11.
+This data engineer position at PubMatic was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

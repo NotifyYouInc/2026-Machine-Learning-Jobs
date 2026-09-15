@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Dublin, Leinster, Ireland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Principal-AI-Engineer_R-282066) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Principal-AI-Engineer_R-289641) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-07-14.
+This ai / llm engineer position at Mastercard was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

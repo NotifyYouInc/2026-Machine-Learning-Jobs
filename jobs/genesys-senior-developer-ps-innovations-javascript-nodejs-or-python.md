@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Tamil-Nadu-India/Senior-developer---PS-Innovations_JR110813-1) |
 
 ## About This Role
 
-This software engineer position at Genesys was posted on 2026-09-07.
+This data engineer position at Genesys was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

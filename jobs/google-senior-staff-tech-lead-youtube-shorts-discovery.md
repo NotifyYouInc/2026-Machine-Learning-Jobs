@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTC-obWuiSEIeR4fIrWn_tXxkYF9lB7sEIP_NZ_oQetfEjsA1Ny_i9F7kfK80nJc-TFDsMe-0KV436LzWj8wVaGqfEjsYphAfnycVSi6wYLNjpT3b5OG4C9EO9JfuA%3D%3D_V2&loc=US&title=Senior+Staff+Tech+Lead) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-09-07.
+This machine learning engineer position at Google was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

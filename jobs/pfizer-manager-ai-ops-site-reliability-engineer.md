@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Thessaloníki, Central Macedonia, Greece |
-| Category | AI / LLM Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Greece-Thessaloniki-Chortiatis/Manager--AI-Ops-Site-Reliability-Engineer_4963026-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Pfizer was posted on 2026-09-07.
+This devops engineer position at Pfizer was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
