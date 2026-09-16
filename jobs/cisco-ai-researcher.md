@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/AI-Researcher_2018032) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/AI-Researcher_2024219) |
 
 ## About This Role
 
-This ai / ml research position at Cisco was posted on 2026-06-18.
+This machine learning engineer position at Cisco was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

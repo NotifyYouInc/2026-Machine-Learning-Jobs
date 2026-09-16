@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Batu Kawan, Penang, Malaysia |
+| Location | Israel |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000146145479-artificial-intelligence-machine-learning-engineer) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000148406639-artificial-intelligence-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at SanDisk was posted on 2026-08-28.
+This machine learning engineer position at SanDisk was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

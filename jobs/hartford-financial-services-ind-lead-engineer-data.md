@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
-| Category | Data Scientist |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Lead-Engineer--Data_R2626565) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Lead-Engineer--Data_R2626946) |
 
 ## About This Role
 
-This data scientist position at Hartford Financial Services was posted on 2026-08-29.
+This ai / llm engineer position at Hartford Financial Services was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000140320709-senior-ai-application-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000148235614-senior-ai-application-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at EVERSANA was posted on 2026-07-28.
+This ai / llm engineer position at EVERSANA was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

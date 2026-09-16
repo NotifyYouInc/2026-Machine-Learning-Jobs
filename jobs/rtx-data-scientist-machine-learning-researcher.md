@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/Gloucester-South-Gloucestershire/Data-Scientist---Machine-Learning-Researcher_01841980) |
+| Location | 3 locations |
+| Category | Data Scientist |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/Gloucester-South-Gloucestershire/Data-Scientist---Machine-Learning-Researcher_01873349) |
 
 ## About This Role
 
-This ai / ml research position at RTX was posted on 2026-05-08.
+This data scientist position at RTX was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

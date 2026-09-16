@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Maryland, US |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Rockville-MD/Senior-AI-Engineer_R-00186145) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Senior-AI-Engineer_R-00191651) |
 
 ## About This Role
 
-This ai / llm engineer position at Leidos was posted on 2026-06-25.
+This ai / llm engineer position at Leidos was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

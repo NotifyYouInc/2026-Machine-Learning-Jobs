@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Nürnberg, Bavaria, Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141224620-ai-engineer-agentic-development-and-enablement-all-gender) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000148473479-ai-engineer-agentic-development-and-enablement-all-gender) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN was posted on 2026-08-03.
+This ai / llm engineer position at ALTEN was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

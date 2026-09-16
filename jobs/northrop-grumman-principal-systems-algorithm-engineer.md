@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Baltimore, Maryland, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal-Systems-Algorithm-Engineer_R10237302) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal-Systems-Algorithm-Engineer_R10249856) |
 
 ## About This Role
 
-This ai / ml research position at Northrop Grumman was posted on 2026-06-23.
+This machine learning engineer position at Northrop Grumman was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

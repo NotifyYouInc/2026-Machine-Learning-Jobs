@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LLNL](https://scoutify.ai/companies/llnl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Livermore, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990014571367-atomistic-and-data-driven-modeling-of-materials-for-energy-applications-postdoctoral-researcher) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990015109016-atomistic-and-data-driven-modeling-of-materials-for-energy-applications-postdoctoral-researcher) |
 
 ## About This Role
 
-This ai / ml research position at LLNL was posted on 2026-08-12.
+This machine learning engineer position at LLNL was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

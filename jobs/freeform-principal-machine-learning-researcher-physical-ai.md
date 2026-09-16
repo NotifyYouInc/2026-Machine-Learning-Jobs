@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freeform](https://scoutify.ai/companies/freeformfuturecorp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692962003) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7989254003) |
 
 ## About This Role
 
-This ai / ml research position at Freeform was posted on 2026-05-15.
+This machine learning engineer position at Freeform was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

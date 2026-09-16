@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cambium Learning](https://scoutify.ai/companies/cambiumlearning?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4461) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610) |
 
 ## About This Role
 
-This ai / ml research position at Cambium Learning was posted on 2026-05-27.
+This ai / llm engineer position at Cambium Learning was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

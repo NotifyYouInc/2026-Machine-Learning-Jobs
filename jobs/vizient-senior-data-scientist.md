@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | Data Scientist |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Senior-Data-Scientist_34796R) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Senior-Data-Scientist_34386R) |
 
 ## About This Role
 
-This data scientist position at Vizient was posted on 2026-08-20.
+This ai / llm engineer position at Vizient was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAN-FRANCISCO-CA/Principal-AI-Engineer_R-542281) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAN-FRANCISCO-CA/Principal-AI-Engineer_R-573382) |
 
 ## About This Role
 
-This ai / llm engineer position at Wells Fargo was posted on 2026-05-11.
+This ai / llm engineer position at Wells Fargo was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

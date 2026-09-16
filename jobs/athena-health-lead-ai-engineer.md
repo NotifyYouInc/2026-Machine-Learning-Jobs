@@ -5,12 +5,12 @@
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Bangalore---Whitefield-India/Lead-AI-Engineer_R15449) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Bangalore---Whitefield-India/Lead-AI-Engineer_R15450-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Athena Health was posted on 2026-09-04.
+This ai / llm engineer position at Athena Health was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

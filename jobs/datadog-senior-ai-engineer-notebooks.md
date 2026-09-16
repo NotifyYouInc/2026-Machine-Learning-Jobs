@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 7 locations |
+| Location | Portugal |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/8112183/?gh_jid=8112183) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/8188027/?gh_jid=8188027) |
 
 ## About This Role
 
-This ai / llm engineer position at Datadog was posted on 2026-08-06.
+This ai / llm engineer position at Datadog was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

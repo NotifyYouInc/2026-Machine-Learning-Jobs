@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aviva](https://scoutify.ai/companies/aviva?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Markham, Ontario, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Intermediate-Machine-Learning-Engineer_R-165431) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Intermediate-Machine-Learning-Engineer_R-172771) |
 
 ## About This Role
 
-This machine learning engineer position at Aviva was posted on 2026-02-19.
+This machine learning engineer position at Aviva was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

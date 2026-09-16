@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Evendale, Ohio, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/AI-ML-Software-Engineer_R5035945-1) |
+| Location | United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/AI-ML-Software-Engineer_R5039862-1) |
 
 ## About This Role
 
-This software engineer position at GE Aerospace was posted on 2026-07-21.
+This ai / llm engineer position at GE Aerospace was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

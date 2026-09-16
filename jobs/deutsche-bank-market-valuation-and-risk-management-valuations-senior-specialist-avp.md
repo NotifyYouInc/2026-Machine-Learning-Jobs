@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Compliance & Risk Management |
+| Category | Data Scientist |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Manila/Market-Valuation-and-Risk-Management---Valuations-Senior-Specialist---AVP_R0450568) |
 
 ## About This Role
 
-This compliance & risk management position at Deutsche Bank was posted on 2026-09-07.
+This data scientist position at Deutsche Bank was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
