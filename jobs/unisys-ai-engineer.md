@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Assoc-Eng-Software-Eng_REQ573961-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AI-Engineer_REQ575365) |
 
 ## About This Role
 
-This ai / llm engineer position at Unisys was posted on 2026-08-04.
+This ai / llm engineer position at Unisys was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

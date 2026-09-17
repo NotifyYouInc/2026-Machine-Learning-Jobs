@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Nantes, Pays de la Loire, France |
+| Location | Cholet, Pays de la Loire, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000147921099-ingenieur-ia-developpement-de-solutions-llm-automatisation-secteur-defense-hf) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148445069-ingenieur-ia-developpement-de-solutions-llm-automatisation-secteur-defense-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at ALTEN Canada was posted on 2026-09-07.
+This ai / llm engineer position at ALTEN Canada was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

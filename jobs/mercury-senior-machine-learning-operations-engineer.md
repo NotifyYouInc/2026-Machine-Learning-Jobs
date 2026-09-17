@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mercury](https://scoutify.ai/companies/mercury?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mercury/jobs/6097372004) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mercury/jobs/6186862004) |
 
 ## About This Role
 
-This devops engineer position at Mercury was posted on 2026-06-18.
+This machine learning engineer position at Mercury was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

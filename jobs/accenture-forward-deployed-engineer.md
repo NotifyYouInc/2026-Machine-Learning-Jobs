@@ -1,16 +1,16 @@
-# Forward Deployed Engineer at Accenture
+# *Forward Deployed Engineer* at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Forward-Deployed-Engineer_ATCI-5632931-S2030406) |
+| Location | Melbourne, Victoria, Australia |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/XMLNAME--Forward-Deployed-Engineer-_R00337380) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-06-18.
+This ai / llm engineer position at Accenture was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Loenbro](https://scoutify.ai/companies/loenbro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Westminster, Colorado, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/loenbro/jobs/4381581009) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/loenbro/jobs/4400800009) |
 
 ## About This Role
 
-This ai / llm engineer position at Loenbro was posted on 2026-08-25.
+This ai / llm engineer position at Loenbro was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

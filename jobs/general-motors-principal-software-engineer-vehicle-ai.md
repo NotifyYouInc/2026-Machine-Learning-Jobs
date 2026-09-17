@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Principal-Software-Engineer---Vehicle-AI_JR-202615229) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Principal-Software-Engineer---Vehicle-AI_JR-202619113-1) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-07-15.
+This ai / llm engineer position at General Motors was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

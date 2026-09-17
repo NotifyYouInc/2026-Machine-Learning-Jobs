@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556948694) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556991772) |
 
 ## About This Role
 
-This machine learning engineer position at Microsoft was posted on 2026-07-28.
+This machine learning engineer position at Microsoft was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

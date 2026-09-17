@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Poland |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Poland-Remote/Director--AI-Platforms----Data---Technology_R0000044120) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Romania-Remote/Director--AI-Platforms----Data---Technology_R0000044120) |
 
 ## About This Role
 
-This machine learning engineer position at Parexel was posted on 2026-07-30.
+This ai / llm engineer position at Parexel was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

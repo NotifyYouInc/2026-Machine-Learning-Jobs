@@ -5,12 +5,12 @@
 | Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7769058003) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7990802003) |
 
 ## About This Role
 
-This ai / llm engineer position at Toss was posted on 2026-06-11.
+This ai / llm engineer position at Toss was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

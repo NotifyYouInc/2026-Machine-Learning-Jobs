@@ -5,12 +5,12 @@
 | Company | [Nationwide Building Society](https://scoutify.ai/companies/em2-cx-oj74935?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Swindon, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://dnn.fa.em2.oraclecloud.com/jobs/#4857) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://dnn.fa.em2.oraclecloud.com/jobs/#5062) |
 
 ## About This Role
 
-This data engineer position at Nationwide Building Society was posted on 2026-08-28.
+This data engineer position at Nationwide Building Society was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

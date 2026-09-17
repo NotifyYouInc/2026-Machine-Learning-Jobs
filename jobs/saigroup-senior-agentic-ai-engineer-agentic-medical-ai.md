@@ -5,12 +5,12 @@
 | Company | [SAIGroup](https://scoutify.ai/companies/saigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/saigroup/jobs/5056172008) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/saigroup/jobs/5419235008) |
 
 ## About This Role
 
-This ai / llm engineer position at SAIGroup was posted on 2026-05-17.
+This ai / llm engineer position at SAIGroup was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

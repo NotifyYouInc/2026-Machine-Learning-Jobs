@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000141704069-senior-full-stack-engineer-with-ai-healthcare) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000148729848-senior-full-stack-engineer-with-ai-healthcare) |
 
 ## About This Role
 
-This ai / llm engineer position at Sigma Software was posted on 2026-08-05.
+This ai / llm engineer position at Sigma Software was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

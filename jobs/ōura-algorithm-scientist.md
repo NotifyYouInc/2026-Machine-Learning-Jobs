@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ōura](https://scoutify.ai/companies/ura?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Oulu, North Ostrobothnia, Finland |
-| Category | AI / ML Research |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/oura/jobs/4194213009) |
+| Location | San Francisco, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oura/jobs/4398806009) |
 
 ## About This Role
 
-This ai / ml research position at Ōura was posted on 2026-06-17.
+This machine learning engineer position at Ōura was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

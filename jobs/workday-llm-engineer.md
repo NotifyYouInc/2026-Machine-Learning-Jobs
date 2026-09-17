@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Israel-Tel-Aviv/LLM-Engineer_JR-0103197) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Israel-Tel-Aviv/LLM-Engineer_JR-0107197) |
 
 ## About This Role
 
-This ai / llm engineer position at Workday was posted on 2026-07-13.
+This ai / llm engineer position at Workday was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

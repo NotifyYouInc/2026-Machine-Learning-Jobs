@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Principal-Machine-Learning-Engineer_JR-0107128) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Machine-Learning-Engineer_JR-0109752) |
 
 ## About This Role
 
-This machine learning engineer position at Workday was posted on 2026-05-07.
+This machine learning engineer position at Workday was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
-| Category | AI / ML Research |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200681288/aiml-senior-machine-learning-research-engineer-llm-post-training-multilinguality) |
+| Location | Cupertino, California, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200682761/aiml-senior-machine-learning-research-engineer-llm-post-training-multilinguality) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2026-09-01.
+This machine learning engineer position at Apple was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

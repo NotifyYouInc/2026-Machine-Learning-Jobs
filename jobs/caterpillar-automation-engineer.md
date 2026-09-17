@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Industrial Automation |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Automation-Engineer_R0000374226) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | DevOps Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Automation-Engineer_R0000374145) |
 
 ## About This Role
 
-This industrial automation position at Caterpillar was posted on 2026-06-03.
+This devops engineer position at Caterpillar was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

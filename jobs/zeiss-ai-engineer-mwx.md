@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Oberkochen, Baden-Wurttemberg, Germany |
-| Category | AI / LLM Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/AI-Engineer--m-w-x-_JR_1052196-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Zeiss was posted on 2026-09-09.
+This data engineer position at Zeiss was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

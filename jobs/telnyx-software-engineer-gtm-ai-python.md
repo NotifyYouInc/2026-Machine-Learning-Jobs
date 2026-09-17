@@ -5,12 +5,12 @@
 | Company | [Telnyx](https://scoutify.ai/companies/telnyx?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Brazil |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/telnyx54/jobs/7764933003) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/telnyx54/jobs/7989641003) |
 
 ## About This Role
 
-This ai / llm engineer position at Telnyx was posted on 2026-06-05.
+This ai / llm engineer position at Telnyx was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Austin, Texas, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Advanced-Analytics-Research-Scientist---Industrial-Agentic-AI_R26-4509) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Advanced-Analytics-Research-Scientist---Industrial-Agentic-AI_R26-4512) |
 
 ## About This Role
 
-This ai / ml research position at Rockwell Automation was posted on 2026-06-30.
+This machine learning engineer position at Rockwell Automation was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

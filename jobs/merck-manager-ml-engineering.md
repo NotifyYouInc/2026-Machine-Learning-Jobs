@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Engineering Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Manager--ML-Engineering_R396128-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Manager--ML-Engineering_R396128-1) |
 
 ## About This Role
 
-This engineering manager position at Merck was posted on 2026-05-25.
+This machine learning engineer position at Merck was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-PUNE-FL7/AI-Developer_JR0308914) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-PUNE-FL7/Consultant-Senior--Professional-Services_JR0309131) |
 
 ## About This Role
 
-This ai / llm engineer position at Fidelity National Information Services was posted on 2026-08-25.
+This ai / llm engineer position at Fidelity National Information Services was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

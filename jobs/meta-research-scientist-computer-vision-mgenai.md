@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | AI / ML Research |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2356417134850441) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1742722760127197) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-04-22.
+This machine learning engineer position at Meta was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

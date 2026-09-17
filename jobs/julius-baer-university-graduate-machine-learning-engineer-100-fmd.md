@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Switzerland |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/University-Graduate---Machine-Learning-Engineer-100---f-m-d-_r-17698-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/University-Graduate---Machine-Learning-Engineer-100---f-m-d-_r-19676-1) |
 
 ## About This Role
 
-This software engineer position at Julius Baer was posted on 2026-02-11.
+This machine learning engineer position at Julius Baer was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

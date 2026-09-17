@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Scientist |
+| Category | Data Engineer |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Scientist---Protein-Data-Pipelines_R-253580) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-09-09.
+This data engineer position at Amgen was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

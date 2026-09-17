@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Senior-Software-Engineer---AI---Agentic-Automation_2021749) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Senior-Software-Engineer---AI---Agentic-Automation_2024562) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-13.
+This ai / llm engineer position at Cisco was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

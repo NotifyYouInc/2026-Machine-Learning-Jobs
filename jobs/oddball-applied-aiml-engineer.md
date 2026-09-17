@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oddball](https://scoutify.ai/companies/oddball?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/oddball/jobs/7861208003) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oddball/jobs/7990328003) |
 
 ## About This Role
 
-This machine learning engineer position at Oddball was posted on 2026-08-12.
+This ai / llm engineer position at Oddball was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

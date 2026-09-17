@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Italy |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin-1-Grand-Canal-Square/AI-ML-Engineer_R00302327-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/AI-ML-Engineer_R00319871) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-04-06.
+This machine learning engineer position at Accenture was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

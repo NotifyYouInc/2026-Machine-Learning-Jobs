@@ -5,12 +5,12 @@
 | Company | [Garner Health](https://scoutify.ai/companies/garnerhealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/garnerhealth/jobs/6030505004) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/garnerhealth/jobs/6186647004) |
 
 ## About This Role
 
-This machine learning engineer position at Garner Health was posted on 2026-06-16.
+This machine learning engineer position at Garner Health was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

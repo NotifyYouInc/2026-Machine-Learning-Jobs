@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Software-Engineer-II_R54792-1) |
+| Location | Cork, Munster, Ireland |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CORK-01/Software-Engineer-II_R56140) |
 
 ## About This Role
 
-This ai / ml research position at Cadence Design Systems was posted on 2026-05-28.
+This ai / llm engineer position at Cadence Design Systems was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

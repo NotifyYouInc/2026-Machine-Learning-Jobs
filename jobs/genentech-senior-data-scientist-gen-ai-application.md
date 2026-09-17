@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | South San Francisco, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Data-Scientist--Gen-AI-Application_202602-104491-1) |
+| Category | Data Scientist |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Data-Scientist--Gen-AI-Application_202609-122461-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Genentech was posted on 2026-03-05.
+This data scientist position at Genentech was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

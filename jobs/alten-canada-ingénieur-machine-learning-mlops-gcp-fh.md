@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
-| Category | Machine Learning Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000147435149-ingenieur-machine-learning-mlops-gcp-fh) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148561179-ingenieur-machine-learning-mlops-gcp-fh) |
 
 ## About This Role
 
-This machine learning engineer position at ALTEN Canada was posted on 2026-09-04.
+This devops engineer position at ALTEN Canada was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

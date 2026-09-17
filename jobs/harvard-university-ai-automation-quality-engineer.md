@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014974487-ai-automation-quality-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990015141696-ai-automation-quality-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Harvard University was posted on 2026-09-01.
+This ai / llm engineer position at Harvard University was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

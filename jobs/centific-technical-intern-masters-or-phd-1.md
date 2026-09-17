@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD--1_JR107482-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD--1_JR108363-1) |
 
 ## About This Role
 
-This ai / ml research position at Centific was posted on 2026-06-11.
+This ai / llm engineer position at Centific was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

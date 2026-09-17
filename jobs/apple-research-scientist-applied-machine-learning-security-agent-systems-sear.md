@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cupertino, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200681653/research-scientist-applied-machine-learning-security-agent-systems-sear) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200682701/research-scientist-applied-machine-learning-security-agent-systems-sear) |
 
 ## About This Role
 
-This ai / ml research position at Apple was posted on 2026-09-03.
+This cybersecurity engineer position at Apple was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
