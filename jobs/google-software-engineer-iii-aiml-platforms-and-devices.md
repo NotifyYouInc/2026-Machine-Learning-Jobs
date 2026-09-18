@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeRQZfpgl70yEgc90RYFzvXEKzpwXj4jgV8tZ_6Ldh21EjsA1Ny_i024kpzfGPguloZSZ78iR3ICPWuTBaZqd6FRusMxQmnopEnlDoAiYohDwlSn4nHZHF1Cdwxbfg%3D%3D_V2&loc=US&title=Software+Engineer+III) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckX6YK5UK31U42ubjtQHXU-IE1vFnTR90VnaqqrLsppGSEjsA9yzvghXi1KVhmOJk3hoVDqmOh8sZCqYz4Lo0M6v9cTBPEBc4HvW2b6ZCNwuwmDnII7kvEfWvZf-rVQ%3D%3D_V2&loc=US&title=Software+Engineer+III) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-07-16.
+This machine learning engineer position at Google was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

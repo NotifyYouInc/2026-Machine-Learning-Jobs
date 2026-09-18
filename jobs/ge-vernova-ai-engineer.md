@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Greenville, North Carolina, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue-WA-US/AI-Engineer_R5041190) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/AI-Engineer_R5051916-2) |
 
 ## About This Role
 
-This ai / llm engineer position at GE Vernova was posted on 2026-05-13.
+This ai / llm engineer position at GE Vernova was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

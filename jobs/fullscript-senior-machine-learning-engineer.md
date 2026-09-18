@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fullscript](https://scoutify.ai/companies/fullscript?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Ottawa, Ontario, Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.lever.co/fullscript/0bc489f5-de05-4797-b1f8-8cb05c082670) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.lever.co/fullscript/fbd252ba-c7c9-4be8-8f97-ac07acd4355a) |
 
 ## About This Role
 
-This machine learning engineer position at Fullscript was posted on 2026-05-06.
+This ai / llm engineer position at Fullscript was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Florham Park, New Jersey, United States |
-| Category | AI / ML Research |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Research-Engineer---Optimization-and-Dynamical-Systems_330962) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Research-Engineer---Optimization-and-Dynamical-Systems_331759) |
 
 ## About This Role
 
-This ai / ml research position at CACI was posted on 2026-08-21.
+This machine learning engineer position at CACI was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

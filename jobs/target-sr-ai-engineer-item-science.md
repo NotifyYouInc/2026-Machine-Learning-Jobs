@@ -1,16 +1,16 @@
-# Sr AI Engineer-Item Science at Target
+# Sr AI Engineer- Item Science at Target
 
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-AI-Engineer-Item-Science_R0000436742-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-AI-Engineer--Item-Science_R0000450918) |
 
 ## About This Role
 
-This ai / llm engineer position at Target was posted on 2026-06-03.
+This ai / llm engineer position at Target was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/942627615400207) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2316600655751692) |
 
 ## About This Role
 
-This machine learning engineer position at Meta was posted on 2026-05-14.
+This machine learning engineer position at Meta was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

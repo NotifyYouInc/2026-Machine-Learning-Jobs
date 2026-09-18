@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-AI-Engineer_R249956-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-AI-Engineer_R1000438-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Capital One was posted on 2026-08-27.
+This ai / llm engineer position at Capital One was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

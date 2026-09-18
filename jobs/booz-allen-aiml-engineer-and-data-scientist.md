@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Fort Belvoir, Virginia, United States |
+| Location | Riverdale, Georgia, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/AI-ML-Engineer-and-Data-Scientist_R0246671) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Riverdale-MD/AI-ML-Engineer-and-Data-Scientist_R0248874) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-08-12.
+This data scientist position at Booz Allen was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

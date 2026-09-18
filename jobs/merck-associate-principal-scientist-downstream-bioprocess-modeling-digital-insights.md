@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
-| Category | Bioinformatics / Computational Biology |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Principal-Scientist--Downstream-Bioprocess-Modeling--Digital-Insights_R416304) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Merck was posted on 2026-09-09.
+This machine learning engineer position at Merck was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

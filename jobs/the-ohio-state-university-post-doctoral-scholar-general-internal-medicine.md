@@ -1,16 +1,16 @@
-# Post Doctoral scholar- General Internal Medicine at The Ohio State University
+# Post Doctoral Scholar-General Internal Medicine at The Ohio State University
 
 | Field | Details |
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | AI / ML Research |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/OSU-Health-Plan/Post-Doctoral-scholar--General-Internal-Medicine_R156568-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/OSU-Health-Plan/Post-Doctoral-Scholar-General-Internal-Medicine_R158521-1) |
 
 ## About This Role
 
-This ai / ml research position at The Ohio State University was posted on 2026-08-27.
+This machine learning engineer position at The Ohio State University was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

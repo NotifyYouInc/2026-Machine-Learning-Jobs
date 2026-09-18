@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / ML Research |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXSC4BcyxkYlolWpzsR-IG4SzFHladXzGZk9lT7EVPt5EjsA1Ny_i9y4C9gGAn9l7e-o7SgXK7S8FViiMvWiXMKUBv84VLIq1eNHhbH0l6ZRKHev4-TZSeno02d2JQ%3D%3D_V2&loc=US&title=Clinical+Specialist) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXYZYv8vhN_A1ZYBgqXvJvZz1-Lk-TFecx7T18mmzbrYEjsA9yzvghezwm8OHig92OI7jpjWQZ5anS8jPDGTNlkCiJGHODqk80XNo3OBodvE055WYtUdiLEq9cHAVA%3D%3D_V2&loc=US&title=Clinical+Specialist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-08-05.
+This machine learning engineer position at Google was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

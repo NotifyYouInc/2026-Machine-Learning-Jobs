@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Woodland Hills, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Principal---Sr-Principal-Signal---Image-Processing-Engineer_R10223881) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Principal---Sr-Principal-Signal---Image-Processing-Engineer_R10250445) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-02-24.
+This machine learning engineer position at Northrop Grumman was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

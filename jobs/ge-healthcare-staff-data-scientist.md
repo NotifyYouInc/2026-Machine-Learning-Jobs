@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Staff-Data-Scientist_R4038883-1) |
+| Category | Data Scientist |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Staff-Data-Scientist_R4046213-1) |
 
 ## About This Role
 
-This machine learning engineer position at GE HealthCare was posted on 2026-04-02.
+This data scientist position at GE HealthCare was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

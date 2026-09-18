@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000144140669-sr-software-engineer-automation-engineering) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000148771129-sr-software-engineer-automation-engineering) |
 
 ## About This Role
 
-This software engineer position at NBCUniversal was posted on 2026-08-18.
+This ai / llm engineer position at NBCUniversal was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

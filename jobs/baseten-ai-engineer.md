@@ -5,12 +5,12 @@
 | Company | [Baseten](https://scoutify.ai/companies/baseten?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/baseten/b13ec426-d09d-4122-8112-cf25adbd7d60) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/baseten/64181d8a-960d-4aa4-8d98-3cb22b1e0616) |
 
 ## About This Role
 
-This ai / llm engineer position at Baseten was posted on 2026-08-20.
+This ai / llm engineer position at Baseten was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

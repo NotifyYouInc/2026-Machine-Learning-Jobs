@@ -6,7 +6,7 @@
 | Location | Köln, North Rhine-Westphalia, Germany |
 | Category | DevOps Engineer |
 | Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000148501852-mid-level-mlops-engineer-mfd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000148511594-mid-level-mlops-engineer-mfd) |
 
 ## About This Role
 

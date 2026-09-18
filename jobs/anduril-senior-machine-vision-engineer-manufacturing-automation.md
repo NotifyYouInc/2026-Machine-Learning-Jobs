@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Costa Mesa, California, United States |
-| Category | Robotics Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5154534007?gh_jid=5154534007) |
+| Category | Industrial Automation |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5234605007?gh_jid=5234605007) |
 
 ## About This Role
 
-This robotics engineer position at Anduril was posted on 2026-06-03.
+This industrial automation position at Anduril was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

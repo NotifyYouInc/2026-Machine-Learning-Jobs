@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#155996) |
+| Location | Hyderabad, Telangana, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#157386) |
 
 ## About This Role
 
-This data engineer position at Honeywell was posted on 2026-08-18.
+This ai / llm engineer position at Honeywell was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

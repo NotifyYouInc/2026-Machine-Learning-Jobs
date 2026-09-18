@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Renningen, Baden-Wurttemberg, Germany |
-| Category | AI / ML Research |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137080495-phd-safety-contracts-for-physical-ai) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000148953271-phd-safety-contracts-for-physical-ai) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-07-10.
+This machine learning engineer position at Robert Bosch was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

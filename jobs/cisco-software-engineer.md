@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2021804) |
+| Location | Budapest, Budapest, Hungary |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Budapest-Hungary/Software-Engineer_2024880) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-19.
+This ai / llm engineer position at Cisco was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

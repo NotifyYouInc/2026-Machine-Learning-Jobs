@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sertis](https://scoutify.ai/companies/sertis?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sertis/jobs/8729405002) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sertis/jobs/8798258002) |
 
 ## About This Role
 
-This machine learning engineer position at Sertis was posted on 2026-08-19.
+This ai / llm engineer position at Sertis was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medfar](https://scoutify.ai/companies/medfar?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/medfar/744000139151750-senior-ai-full-stack-developer-healthcare-saas) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/medfar/744000148867529-senior-ai-full-stack-developer-healthcare-saas) |
 
 ## About This Role
 
-This software engineer position at Medfar was posted on 2026-07-22.
+This ai / llm engineer position at Medfar was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plaid](https://scoutify.ai/companies/plaid?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/plaid/9d6855e9-3b05-4dc6-820e-3227201c494b) |
+| Location | New York City, New York, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/plaid/a1db9566-d51d-495e-9e87-4d57ac307d3c) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Plaid was posted on 2026-05-08.
+This machine learning engineer position at Plaid was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

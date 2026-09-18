@@ -5,12 +5,12 @@
 | Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Arkansas, US |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-09 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-TN/Applied---Agentic-AI-Engineer_R71450) |
 
 ## About This Role
 
-This ai / llm engineer position at Sedgwick Group was posted on 2026-03-09.
+This ai / llm engineer position at Sedgwick Group was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

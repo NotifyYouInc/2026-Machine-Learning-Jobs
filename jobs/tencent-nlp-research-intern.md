@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Business-Tower/NLP-Research-Intern_R107026) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/SKorea-Seoul/NLP-Research-Intern_R108056) |
 
 ## About This Role
 
-This ai / llm engineer position at Tencent was posted on 2026-03-09.
+This machine learning engineer position at Tencent was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

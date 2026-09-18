@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Mountain View, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8146344) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8090443) |
 
 ## About This Role
 
-This machine learning engineer position at Coupang was posted on 2026-08-21.
+This machine learning engineer position at Coupang was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

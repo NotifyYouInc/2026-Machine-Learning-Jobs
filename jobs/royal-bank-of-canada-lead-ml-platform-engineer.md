@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Calgary, Alberta, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Lead-ML-Platform-Engineer_R-0000160666) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Lead-ML-Platform-Engineer_R-0000187384-1) |
 
 ## About This Role
 
-This devops engineer position at Royal Bank of Canada was posted on 2026-02-27.
+This devops engineer position at Royal Bank of Canada was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
