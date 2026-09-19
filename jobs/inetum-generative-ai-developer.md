@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000117655142-generative-ai-developer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000149063139-generative-ai-developer) |
 
 ## About This Role
 
-This ai / llm engineer position at Inetum was posted on 2026-03-30.
+This ai / llm engineer position at Inetum was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

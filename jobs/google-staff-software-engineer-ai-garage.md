@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckR7VOI5sdfu9MAUqdN0AtY6tGLpXC-hPhKwzYvIJXjO_EjsA1Ny_i6aqpiwy4gtNKa-InTnEqqTXgBsLp01s7avoYSBO7g2iIgUi2i8Mi1PJdYMGNPcpYFU3CMeopQ%3D%3D_V2&loc=IN&title=Staff+Software+Engineer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfuapoKl0fZylKuE2KqbHL78w_AQubBDXOq8xsXC0bxfEjsA9yzvgiwd9lO_nK-i7yXE4mOyOByRQebdCQ3kHhNEIjf8XiLDQ2dMS6py87yVABglKJVwAUAEYUT4SQ%3D%3D_V2&loc=IN&title=Staff+Software+Engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Google was posted on 2026-07-27.
+This machine learning engineer position at Google was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

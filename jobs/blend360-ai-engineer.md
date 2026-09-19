@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Montevideo, Montevideo Department, Uruguay |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000133418959-ai-engineer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000149078761-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Blend360 was posted on 2026-06-22.
+This ai / llm engineer position at Blend360 was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

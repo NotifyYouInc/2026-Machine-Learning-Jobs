@@ -5,12 +5,12 @@
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2125487) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135237) |
 
 ## About This Role
 
-This machine learning engineer position at Fidelity was posted on 2026-03-04.
+This machine learning engineer position at Fidelity was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

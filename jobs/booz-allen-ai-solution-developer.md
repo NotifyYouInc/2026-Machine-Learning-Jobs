@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chantilly, Virginia, United States |
-| Category | Data Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/AI-Solution-Developer_R0249048) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/AI-Solution-Developer_R0249256) |
 
 ## About This Role
 
-This data engineer position at Booz Allen was posted on 2026-09-09.
+This ai / llm engineer position at Booz Allen was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

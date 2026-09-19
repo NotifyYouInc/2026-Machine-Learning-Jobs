@@ -5,12 +5,12 @@
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-15 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Senior-Manager--AI--and-Data-Engineering_4956480-1) |
 
 ## About This Role
 
-This data engineer position at Pfizer was posted on 2026-05-15.
+This data engineer position at Pfizer was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

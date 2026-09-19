@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Pleasanton, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Machine-Learning-Engineer_JR-0109754) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer-III_JR-0109848) |
 
 ## About This Role
 
-This machine learning engineer position at Workday was posted on 2026-09-03.
+This machine learning engineer position at Workday was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

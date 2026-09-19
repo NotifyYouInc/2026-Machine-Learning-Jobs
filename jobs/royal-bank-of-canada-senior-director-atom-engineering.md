@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Engineering Manager |
-| Posted | 2026-05-24 |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Director--ATOM-Engineering_R-0000173776-1) |
 
 ## About This Role
 
-This engineering manager position at Royal Bank of Canada was posted on 2026-05-24.
+This machine learning engineer position at Royal Bank of Canada was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Engineer--Machine-Learning_R262583-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Engineer--Machine-Learning_R265599) |
 
 ## About This Role
 
-This machine learning engineer position at Analog Devices was posted on 2026-05-20.
+This machine learning engineer position at Analog Devices was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

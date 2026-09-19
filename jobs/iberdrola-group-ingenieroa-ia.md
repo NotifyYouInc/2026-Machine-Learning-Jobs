@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/Spain-Madrid/INGENIERO-A-IA_R-31247) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/Spain-Madrid/INGENIERO-A-IA_R-31196-1) |
 
 ## About This Role
 
-This machine learning engineer position at Iberdrola Group was posted on 2026-07-21.
+This ai / llm engineer position at Iberdrola Group was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

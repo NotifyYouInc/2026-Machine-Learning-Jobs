@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000145376219-principal-machine-learning-engineer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000149124199-principal-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at ServiceNow was posted on 2026-08-24.
+This machine learning engineer position at ServiceNow was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

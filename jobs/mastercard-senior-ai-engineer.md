@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-AI-Engineer_R-288922) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Senior-AI-Engineer_R-289918-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-09-09.
+This ai / llm engineer position at Mastercard was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

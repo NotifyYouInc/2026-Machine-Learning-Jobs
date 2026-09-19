@@ -5,12 +5,12 @@
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/AI-Engineer_R1130101) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Chicago---N-State/AI-Engineer_R1131381) |
 
 ## About This Role
 
-This ai / llm engineer position at Dentsu was posted on 2026-08-26.
+This ai / llm engineer position at Dentsu was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

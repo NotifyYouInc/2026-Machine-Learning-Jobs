@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | AI / ML Research |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Post-Doctoral-Scholar_R158478-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Post-Doctoral-Scholar_R158757-2) |
 
 ## About This Role
 
-This ai / ml research position at The Ohio State University was posted on 2026-09-03.
+This machine learning engineer position at The Ohio State University was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

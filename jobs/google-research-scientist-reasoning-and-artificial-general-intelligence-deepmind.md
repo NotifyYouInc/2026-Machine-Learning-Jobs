@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | AI / ML Research |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZcIaOHHY6K91joQ5IhJsfTzd2IB_nuXbYmFtOFVF3DxEjsA1Ny_i_fGn6J3wFvzSKi2NJQJIuq8wX31n84ald1gmhHo5Tp-SKGCtfcZICf1lfkBYsc89xLoC-mtWA%3D%3D_V2&loc=SG&title=Research+Scientist) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckds7TZkk69-NfYu8rM5wmvFgfIJRB2RL3Z4q5Lq69zYeEjsA9yzvgovqVIQ4iYrO29mI2AUGVjnTLi7ZDXZ4HSqJUoeZQQoA6zgter_TwhE9ayKF3GFmuh36GV4EPA%3D%3D_V2&loc=SG&title=Research+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-07-02.
+This machine learning engineer position at Google was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

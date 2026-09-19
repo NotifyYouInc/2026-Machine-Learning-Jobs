@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altusgroup](https://scoutify.ai/companies/altusgroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-14 |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://altusgroup.wd3.myworkdayjobs.com/altusgroup/job/Toronto-Ontario/Lead-AI-Engineer_R0013639) |
 
 ## About This Role
 
-This software engineer position at Altusgroup was posted on 2026-02-14.
+This ai / llm engineer position at Altusgroup was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

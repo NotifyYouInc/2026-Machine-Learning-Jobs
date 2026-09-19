@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Plaid](https://scoutify.ai/companies/plaid?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Machine Learning Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/plaid/a1db9566-d51d-495e-9e87-4d57ac307d3c) |
 
 ## About This Role
 
-This machine learning engineer position at Plaid was posted on 2026-09-10.
+This embedded / firmware engineer position at Plaid was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
