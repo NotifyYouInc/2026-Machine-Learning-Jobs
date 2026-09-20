@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Lead-Software-Engineer_R2625527) |
+| Location | Telangana, IN |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Lead-Software-Engineer_R2627041-1) |
 
 ## About This Role
 
-This software engineer position at Hartford Financial Services was posted on 2026-05-26.
+This ai / llm engineer position at Hartford Financial Services was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

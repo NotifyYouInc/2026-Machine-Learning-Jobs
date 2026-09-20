@@ -1,16 +1,16 @@
-# AI Engineer at Similarweb
+# AI Architect | Digital Products & AI at PA Consulting
 
 | Field | Details |
 |-------|---------|
-| Company | [Similarweb](https://scoutify.ai/companies/similarweb?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Prague, Prague, Czechia |
+| Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
+| Location | Charlotte, North Carolina, United States |
 | Category | AI / LLM Engineer |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/similarweb/jobs/8198659) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000149162919-ai-architect-digital-products-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at Similarweb was posted on 2026-09-12.
+This ai / llm engineer position at PA Consulting was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

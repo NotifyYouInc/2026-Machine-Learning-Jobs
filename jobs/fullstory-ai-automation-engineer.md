@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FullStory](https://scoutify.ai/companies/fullstory?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/fullstory/95f96318-76e8-46b7-8dd9-a74379582e6f) |
 
 ## About This Role
 
-This devops engineer position at FullStory was posted on 2026-09-11.
+This industrial automation position at FullStory was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

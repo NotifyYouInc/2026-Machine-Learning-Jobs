@@ -1,12 +1,12 @@
-# Research Scientist, Battlespace Awareness at Anduril
+# Senior Software Engineer, Robotics Tracking and Fusion at Anduril
 
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5236456007?gh_jid=5236456007) |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5236499007?gh_jid=5236499007) |
 
 ## About This Role
 
