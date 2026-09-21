@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Logic20/20](https://scoutify.ai/companies/logic2020inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | AI / LLM Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Logic2020Inc/744000149068911-consultant-ai-solutions) |
 
 ## About This Role
 
-This ai / llm engineer position at Logic20/20 was posted on 2026-09-11.
+This technology / it consulting position at Logic20/20 was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

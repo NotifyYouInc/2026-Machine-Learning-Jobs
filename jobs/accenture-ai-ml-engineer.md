@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/AI---ML-Engineer_ATCI-5349255-S1955633-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/AI---ML-Engineer_ATCI-5775336-S2069274-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-09-10.
+This technology / it consulting position at Accenture was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

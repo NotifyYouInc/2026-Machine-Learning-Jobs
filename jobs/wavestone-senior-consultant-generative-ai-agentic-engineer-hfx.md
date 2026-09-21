@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Puteaux, Île-de-France, France |
-| Category | AI / LLM Engineer |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000149001099-senior-consultant-generative-ai-agentic-engineer-hfx) |
 
 ## About This Role
 
-This ai / llm engineer position at Wavestone was posted on 2026-09-11.
+This technology / it consulting position at Wavestone was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

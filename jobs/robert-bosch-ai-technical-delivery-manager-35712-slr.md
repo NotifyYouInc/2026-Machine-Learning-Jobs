@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Campinas, São Paulo, Brazil |
-| Category | Project Manager |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149045651-ai-technical-delivery-manager-35712-slr) |
 
 ## About This Role
 
-This project manager position at Robert Bosch was posted on 2026-09-11.
+This ai / llm engineer position at Robert Bosch was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

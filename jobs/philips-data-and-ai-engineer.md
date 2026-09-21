@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Data-and-AI-Engineer_588899-1) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Data Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Data-and-AI-Engineer_590735-2) |
 
 ## About This Role
 
-This ai / llm engineer position at Philips was posted on 2026-08-11.
+This data engineer position at Philips was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

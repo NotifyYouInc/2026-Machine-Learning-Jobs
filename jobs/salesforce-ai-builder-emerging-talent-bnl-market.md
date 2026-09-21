@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/AI-Builder--Emerging-Talent---BNL-Market_JR359435-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Netherlands---Amsterdam/AI-Builder--Emerging-Talent---BNL-Market_JR358971) |
 
 ## About This Role
 
-This ai / llm engineer position at Salesforce was posted on 2026-09-08.
+This ai / llm engineer position at Salesforce was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

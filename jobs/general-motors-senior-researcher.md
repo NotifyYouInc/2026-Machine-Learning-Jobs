@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Warren, Michigan, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-Researcher_JR-202610230) |
+| Location | Shanghai, Shanghai, China |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Senior-Researcher_JR-202619395) |
 
 ## About This Role
 
-This ai / ml research position at General Motors was posted on 2026-05-13.
+This machine learning engineer position at General Motors was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

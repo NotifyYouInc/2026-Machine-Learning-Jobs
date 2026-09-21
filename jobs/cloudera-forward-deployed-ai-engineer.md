@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Japan |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | AI / LLM Engineer |
 | Posted | 2026-09-10 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Japan-Remote/Forward-Deployed-AI-Engineer_261080) |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Costa-Rica-Remote/Forward-Deployed-AI-Engineer_261310-1) |
 
 ## About This Role
 

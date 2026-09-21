@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Netherlands---Amsterdam/AI-Builder--Emerging-Talent---Danish-Market_JR341830-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Netherlands---Amsterdam/AI-Builder--Emerging-Talent---Danish-Market_JR358977) |
 
 ## About This Role
 
-This ai / llm engineer position at Salesforce was posted on 2026-05-21.
+This ai / llm engineer position at Salesforce was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
