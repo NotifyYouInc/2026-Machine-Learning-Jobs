@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Belgium |
 | Category | Machine Learning Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000148774063-machine-learning-engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000149341804-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at SIA was posted on 2026-09-10.
+This machine learning engineer position at SIA was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

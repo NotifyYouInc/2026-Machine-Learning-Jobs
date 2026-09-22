@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CHAOS Industries](https://scoutify.ai/companies/chaos-industries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5213650007) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5237013007) |
 
 ## About This Role
 
-This machine learning engineer position at CHAOS Industries was posted on 2026-08-17.
+This ai / llm engineer position at CHAOS Industries was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

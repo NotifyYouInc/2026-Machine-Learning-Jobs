@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [InMobi](https://scoutify.ai/companies/inmobi?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Mateo, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/7253268) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/8156285) |
 
 ## About This Role
 
-This ai / ml research position at InMobi was posted on 2026-03-13.
+This data scientist position at InMobi was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Plano, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000148622339-sr-ai-devops-developer-bilingual-korean-english) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000149397674-sr-ai-devops-developer-bilingual-korean-english) |
 
 ## About This Role
 
-This devops engineer position at Woongjin was posted on 2026-09-09.
+This devops engineer position at Woongjin was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

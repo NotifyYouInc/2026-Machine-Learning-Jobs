@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accesa](https://scoutify.ai/companies/accesa?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Romania |
 | Category | Data Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ACCESA/744000149050159-senior-genai-engineer-agentic-ai-databricks) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ACCESA/744000149528469-senior-genai-engineer-agentic-ai-databricks) |
 
 ## About This Role
 
-This data engineer position at Accesa was posted on 2026-09-11.
+This data engineer position at Accesa was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

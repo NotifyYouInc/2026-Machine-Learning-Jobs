@@ -5,12 +5,12 @@
 | Company | [Factored](https://scoutify.ai/companies/factored?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Not specified |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-01 |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/factored/jobs/4514928008) |
 
 ## About This Role
 
-This machine learning engineer position at Factored was posted on 2026-06-01.
+This machine learning engineer position at Factored was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

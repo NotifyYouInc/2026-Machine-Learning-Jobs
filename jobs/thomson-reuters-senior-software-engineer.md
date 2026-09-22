@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Software-Engineer_JREQ203336) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Brazil-So-Paulo-So-Paulo/Senior-Software-Engineer_JREQ203333) |
 
 ## About This Role
 
-This ai / llm engineer position at Thomson Reuters was posted on 2026-09-01.
+This ai / llm engineer position at Thomson Reuters was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

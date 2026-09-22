@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Senior-AI-ML-Engineer_R-00181240) |
+| Location | Huntsville, Alabama, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Senior-AI-ML-Engineer_R-00192218-1) |
 
 ## About This Role
 
-This machine learning engineer position at Leidos was posted on 2026-04-21.
+This ai / llm engineer position at Leidos was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Singapore, Singapore |
+| Location | Mountain View, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTg8DMCIa-YiYaa4Yw6eOJUZorFOwgoLvHyB-smIJDIEEjsA1Ny_i34-bGMVmPH6hurjFUr85Ly6vxlgqdDsgtUIxMrewdNqXvu-tnsSXPP3xPSjP31uKgTPewayQQ%3D%3D_V2&loc=SG&title=Staff+Research+Engineer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfuqUeHwTxX1jhzjD6KfnwTvGtzWQs7qDukNVvxt_5kOEjsA9yzvgv_sytVPV0QectnHCw56tDO0am6sJwmBtrH5GJ4Ao_BsRFvfFlpd6tBUKeqjs9m3n9qEmdUi8w%3D%3D_V2&loc=US&title=Staff+Research+Engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Google was posted on 2026-09-09.
+This ai / llm engineer position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

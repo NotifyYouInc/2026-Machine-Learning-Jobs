@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000143099039-senior-lead-agentic-ai-engineer-construction-engineering) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000149575149-senior-lead-agentic-ai-engineer-construction-engineering) |
 
 ## About This Role
 
-This ai / llm engineer position at IFS was posted on 2026-08-12.
+This ai / llm engineer position at IFS was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Scientist |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000149037329-senior-data-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000149077939-senior-data-scientist) |
 
 ## About This Role
 

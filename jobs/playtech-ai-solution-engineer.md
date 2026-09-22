@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Tartu, Tartu, Estonia |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000134236859-ai-solution-engineer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000149581599-ai-solution-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Playtech was posted on 2026-06-25.
+This ai / llm engineer position at Playtech was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Illinois, US |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-05 |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Applied-Machine-Learning-Engineer--All-Levels-_R27180-1) |
 
 ## About This Role
 
-This machine learning engineer position at Allstate was posted on 2026-03-05.
+This machine learning engineer position at Allstate was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

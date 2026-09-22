@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | Paris, Île-de-France, France |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000148304117-forward-deployed-engineer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000149556649-forward-deployed-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at SIA was posted on 2026-09-08.
+This ai / llm engineer position at SIA was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

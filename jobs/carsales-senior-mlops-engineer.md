@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000137361329-senior-mlops-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000149507009-senior-mlops-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at carsales was posted on 2026-07-13.
+This devops engineer position at carsales was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

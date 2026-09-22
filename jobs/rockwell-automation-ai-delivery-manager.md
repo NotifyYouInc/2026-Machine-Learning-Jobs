@@ -5,12 +5,12 @@
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-03 |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bengaluru-India/AI-Engineer_R26-4818) |
 
 ## About This Role
 
-This ai / llm engineer position at Rockwell Automation was posted on 2026-07-03.
+This ai / llm engineer position at Rockwell Automation was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

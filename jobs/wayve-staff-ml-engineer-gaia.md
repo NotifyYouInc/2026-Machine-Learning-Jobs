@@ -1,16 +1,16 @@
-# Staff ML Engineer, Gaia  at Wayve
+# Staff ML Engineer Gaia at Wayve
 
 | Field | Details |
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8610095002) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8809540002) |
 
 ## About This Role
 
-This machine learning engineer position at Wayve was posted on 2026-06-26.
+This machine learning engineer position at Wayve was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

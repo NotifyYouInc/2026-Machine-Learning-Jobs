@@ -5,12 +5,12 @@
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Carlos, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/719936c7-483f-46ef-90af-59b857c4beb2) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/6966292a-15d5-49c0-8b3a-0610aaca687e) |
 
 ## About This Role
 
-This ai / llm engineer position at Beaconai was posted on 2026-07-31.
+This ai / llm engineer position at Beaconai was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

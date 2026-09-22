@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delta Electronics](https://scoutify.ai/companies/deltaelectronics?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Helmond, North Brabant, The Netherlands |
-| Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeltaElectronics/744000138327659-nycu-internship-program-field-application-engineer-intern) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeltaElectronics/744000149527159-nycu-internship-program-field-application-engineer-intern) |
 
 ## About This Role
 
-This software engineer position at Delta Electronics was posted on 2026-07-17.
+This ai / llm engineer position at Delta Electronics was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

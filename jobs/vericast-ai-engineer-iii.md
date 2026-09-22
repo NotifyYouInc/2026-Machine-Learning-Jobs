@@ -5,12 +5,12 @@
 | Company | [Vericast](https://scoutify.ai/companies/vericast?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000145843199-ai-engineer-iii) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000149340409-ai-engineer-iii) |
 
 ## About This Role
 
-This ai / llm engineer position at Vericast was posted on 2026-08-26.
+This ai / llm engineer position at Vericast was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

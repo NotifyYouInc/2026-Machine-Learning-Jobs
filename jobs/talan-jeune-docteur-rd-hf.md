@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | AI / ML Research |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000139214820-jeune-docteur-rd-hf) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000149540844-jeune-docteur-rd-hf) |
 
 ## About This Role
 
-This ai / ml research position at Talan was posted on 2026-07-23.
+This technology / it consulting position at Talan was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

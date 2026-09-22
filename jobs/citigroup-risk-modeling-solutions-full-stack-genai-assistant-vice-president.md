@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Risk-Modeling-Solutions---Full-stack-GenAI---Assistant-Vice-President_26979851) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Risk-Modeling-Solutions---Full-stack-GenAI---Assistant-Vice-President_26985465) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-07-16.
+This ai / llm engineer position at Citigroup was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

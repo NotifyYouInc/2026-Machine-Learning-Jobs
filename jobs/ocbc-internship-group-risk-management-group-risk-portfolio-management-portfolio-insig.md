@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Analyst |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Internship--Group-Risk-Management--Group-Risk-Portfolio-Management--Portfolio-Insights---Validation--Jan-to-May-2027-_JR00010978-1) |
 
 ## About This Role
 
-This data analyst position at OCBC was posted on 2026-09-14.
+This compliance & risk management position at OCBC was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

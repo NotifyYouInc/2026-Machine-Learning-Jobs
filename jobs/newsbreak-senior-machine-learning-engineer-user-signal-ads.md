@@ -5,12 +5,12 @@
 | Company | [NewsBreak](https://scoutify.ai/companies/newsbreak?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newsbreak/jobs/4690328006) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newsbreak/jobs/4711396006) |
 
 ## About This Role
 
-This machine learning engineer position at NewsBreak was posted on 2026-06-18.
+This machine learning engineer position at NewsBreak was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

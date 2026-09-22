@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Plano, Texas, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000148869229-jr-ai-developer-bilingual-korean-english) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000149398129-jr-ai-developer-bilingual-korean-english) |
 
 ## About This Role
 
-This ai / llm engineer position at Woongjin was posted on 2026-09-10.
+This ai / llm engineer position at Woongjin was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Norfolk, Virginia, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Norfolk-VA/Artificial-Intelligence--AI--Engineer---Remote_JR-98763) |
+| Location | Virginia, US |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Remote---VA/Artificial-Intelligence--AI--Engineer---Remote_JR-99828) |
 
 ## About This Role
 
-This ai / ml research position at Sentara Healthcare was posted on 2026-05-19.
+This ai / llm engineer position at Sentara Healthcare was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

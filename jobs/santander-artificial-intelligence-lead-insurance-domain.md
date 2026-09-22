@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-01 |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madrid/Artificial-Intelligence-Lead---Insurance-Domain_Req1554435-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Santander was posted on 2026-04-01.
+This machine learning engineer position at Santander was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | AI / ML Research |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000124681029-director-mfd-ai-automation-fleet-operations) |
+| Location | Germany |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000149348049-director-mfd-ai-automation-fleet-operations) |
 
 ## About This Role
 
-This ai / ml research position at Sixt was posted on 2026-05-05.
+This ai / llm engineer position at Sixt was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

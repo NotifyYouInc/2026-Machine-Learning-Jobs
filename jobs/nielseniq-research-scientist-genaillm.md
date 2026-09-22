@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | AI / ML Research |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137490679-research-scientist-genaillm) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000149573659-research-scientist-genaillm) |
 
 ## About This Role
 
-This ai / ml research position at NielsenIQ was posted on 2026-07-13.
+This machine learning engineer position at NielsenIQ was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

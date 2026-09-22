@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674447/senior-machine-learning-engineer-proactive) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200683565/senior-machine-learning-engineer-proactive) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-07-29.
+This ai / llm engineer position at Apple was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

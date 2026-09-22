@@ -6,7 +6,7 @@
 | Location | Lisbon, Lisbon, Portugal |
 | Category | AI / LLM Engineer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000149063139-generative-ai-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000149063429-generative-ai-developer) |
 
 ## About This Role
 

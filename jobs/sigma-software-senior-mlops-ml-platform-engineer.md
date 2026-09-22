@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Machine Learning Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000148797138-senior-mlops-ml-platform-engineer) |
+| Location | Kraków, Lesser Poland, Poland |
+| Category | DevOps Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000149513558-senior-mlops-ml-platform-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Sigma Software was posted on 2026-09-10.
+This devops engineer position at Sigma Software was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
