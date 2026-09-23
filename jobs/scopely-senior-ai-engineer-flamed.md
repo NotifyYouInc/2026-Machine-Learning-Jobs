@@ -5,12 +5,12 @@
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5342333008?gh_jid=5342333008) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5342335008?gh_jid=5342335008) |
 
 ## About This Role
 
-This ai / llm engineer position at Scopely was posted on 2026-08-04.
+This ai / llm engineer position at Scopely was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

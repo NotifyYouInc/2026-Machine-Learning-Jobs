@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Switzerland |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Machine-Learning-Engineer-100---f-m-d-_r-19214-2) |
+| Location | Madrid, Madrid, Spain |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Madrid/Machine-Learning-Engineer-100---f-m-d-_r-19698-2) |
 
 ## About This Role
 
-This machine learning engineer position at Julius Baer was posted on 2026-08-13.
+This ai / llm engineer position at Julius Baer was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Germany |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000131050549-senior-ai-engineer-mfd) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000149802610-senior-ai-engineer-mfd) |
 
 ## About This Role
 
-This ai / llm engineer position at Redcare Pharmacy was posted on 2026-06-09.
+This ai / llm engineer position at Redcare Pharmacy was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

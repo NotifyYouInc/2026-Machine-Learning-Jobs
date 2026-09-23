@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Wernau, Baden-Wurttemberg, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140419439-internship-machine-learning-for-predictive-reliability-analytics-heat-pumps) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149826650-internship-machine-learning-for-predictive-reliability-analytics-heat-pumps) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-07-29.
+This machine learning engineer position at Robert Bosch was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

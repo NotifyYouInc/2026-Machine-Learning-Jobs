@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 4 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Data-Scientist--Senior-Data-Scientist--NLP-GenAI_SR-43796) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Data-Scientist--Senior-Data-Scientist--NLP-GenAI_SR-20652) |
 
 ## About This Role
 
-This data scientist position at Fractal was posted on 2026-07-07.
+This data scientist position at Fractal was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

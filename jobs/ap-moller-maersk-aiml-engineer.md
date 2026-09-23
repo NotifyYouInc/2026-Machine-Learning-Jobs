@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
-| Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Denmark-Copenhagen-1098/AI-ML-Engineer_R184132) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/AI-ML-Engineer_R194316-1) |
 
 ## About This Role
 
-This data engineer position at A.P. Moller - Maersk was posted on 2026-06-09.
+This machine learning engineer position at A.P. Moller - Maersk was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

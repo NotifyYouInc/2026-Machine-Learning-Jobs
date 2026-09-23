@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dow Jones](https://scoutify.ai/companies/dowjones?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Barcelona, Catalonia, Spain |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Spain---Barcelona/Senior-Machine-Learning-Engineer_Job_Req_54759-1) |
+| Location | New York City, New York, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Senior-Machine-Learning-Engineer_Job_Req_55214-1) |
 
 ## About This Role
 
-This machine learning engineer position at Dow Jones was posted on 2026-08-18.
+This ai / llm engineer position at Dow Jones was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

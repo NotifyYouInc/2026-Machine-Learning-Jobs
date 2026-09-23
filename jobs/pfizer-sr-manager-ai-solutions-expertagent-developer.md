@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Sr-Manager--AI-Solutions-Expert-Agent-Developer_4955795) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Sr-Manager--AI-Solutions-Expert-Agent-Developer_4964034-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Pfizer was posted on 2026-05-01.
+This ai / llm engineer position at Pfizer was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

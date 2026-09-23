@@ -1,16 +1,16 @@
-# Machine Learning Engineer, Sensing & Connectivity at Apple
+# Machine Learning Engineer - Sensing & Connectivity at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200636508/machine-learning-engineer-sensing-connectivity) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200683839/machine-learning-engineer-sensing-connectivity) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-03-27.
+This machine learning engineer position at Apple was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

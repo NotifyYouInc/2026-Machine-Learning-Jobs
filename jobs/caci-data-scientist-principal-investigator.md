@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | AI / ML Research |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Data-Scientist---Principal-Investigator_331315) |
+| Category | Data Scientist |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Data-Scientist---Principal-Investigator_331975) |
 
 ## About This Role
 
-This ai / ml research position at CACI was posted on 2026-08-31.
+This data scientist position at CACI was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sweden |
-| Category | Bioinformatics / Computational Biology |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Sweden---Gothenburg/Senior-Director--Head-of-Translational-AI-Science--CVRM-_R-251526-1) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at AstraZeneca was posted on 2026-09-15.
+This machine learning engineer position at AstraZeneca was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

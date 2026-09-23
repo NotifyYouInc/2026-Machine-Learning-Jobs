@@ -5,12 +5,12 @@
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Platform---Agentic-AI-Engineer_R2626545) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Platform---Agentic-AI-Engineer_R2626547) |
 
 ## About This Role
 
-This ai / llm engineer position at Hartford Financial Services was posted on 2026-09-04.
+This ai / llm engineer position at Hartford Financial Services was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

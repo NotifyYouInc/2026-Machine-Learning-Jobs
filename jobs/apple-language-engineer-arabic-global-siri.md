@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667639/language-engineer-arabic-global-siri) |
+| Location | Barcelona, Catalonia, Spain |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200683776/language-engineer-arabic-global-siri) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-06-16.
+This ai / llm engineer position at Apple was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

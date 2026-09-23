@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | AI / LLM Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Senior-AI-Engineer_R-289918-1) |
+| Location | Singapore, Singapore |
+| Category | Data Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Senior-AI-Engineer_R-289958) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-09-10.
+This data engineer position at Mastercard was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

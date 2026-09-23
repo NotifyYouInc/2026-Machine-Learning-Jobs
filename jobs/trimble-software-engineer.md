@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Lake Oswego, Oregon, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/India---Chennai/Software-Engineer_R55147) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer_R57754) |
 
 ## About This Role
 
-This ai / llm engineer position at Trimble was posted on 2026-05-01.
+This ai / llm engineer position at Trimble was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

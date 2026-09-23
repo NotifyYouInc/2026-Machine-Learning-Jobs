@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200672639/machine-learning-engineer-natural-language-understanding-proactive) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200683571/machine-learning-engineer-natural-language-understanding-proactive) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-07-15.
+This machine learning engineer position at Apple was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

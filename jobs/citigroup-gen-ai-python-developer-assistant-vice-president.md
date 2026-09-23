@@ -1,16 +1,16 @@
-# Gen AI Python Developer  - Assistant Vice President at Citigroup
+# Gen AI - Python Developer - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Tampa, Florida, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Gen-AI-Python-Developer----Assistant-Vice-President_26943993-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Gen-AI---Python-Developer---Assistant-Vice-President_26991736) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-03-13.
+This ai / llm engineer position at Citigroup was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

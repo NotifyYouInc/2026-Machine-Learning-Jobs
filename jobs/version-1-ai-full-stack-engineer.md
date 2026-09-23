@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000137376794-ai-full-stack-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000149799010-ai-full-stack-engineer) |
 
 ## About This Role
 
-This software engineer position at Version 1 was posted on 2026-07-13.
+This ai / llm engineer position at Version 1 was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

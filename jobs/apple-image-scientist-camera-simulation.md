@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | California, US |
+| Location | Cupertino, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673391/image-scientist-camera-simulation) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200683275/image-scientist-camera-simulation) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-07-21.
+This machine learning engineer position at Apple was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

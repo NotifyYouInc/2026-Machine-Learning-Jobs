@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lila Sciences](https://scoutify.ai/companies/lilasciences?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Bioinformatics / Computational Biology |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/lilasciences/jobs/4396760009) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Lila Sciences was posted on 2026-09-15.
+This machine learning engineer position at Lila Sciences was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

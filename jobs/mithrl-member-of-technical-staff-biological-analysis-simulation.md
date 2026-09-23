@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mithrl](https://scoutify.ai/companies/mithrl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Bioinformatics / Computational Biology |
+| Category | Machine Learning Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/mithrl/1b686d8a-8383-44cc-a18b-5a6b9c981a37) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Mithrl was posted on 2026-09-15.
+This machine learning engineer position at Mithrl was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

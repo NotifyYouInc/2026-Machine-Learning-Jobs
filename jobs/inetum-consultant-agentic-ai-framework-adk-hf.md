@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000142126004-consultant-agentic-ai-framework-adk-hf) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000149592949-consultant-agentic-ai-framework-adk-hf) |
 
 ## About This Role
 
-This ai / llm engineer position at Inetum was posted on 2026-08-07.
+This technology / it consulting position at Inetum was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

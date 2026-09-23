@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Illinois, US |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Plano/AI-Engineer_31152145-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/AI-Engineer_31162232-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Abbott was posted on 2026-06-03.
+This ai / llm engineer position at Abbott was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Athens, Attica, Greece |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000111600445-senior-ai-engineer) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000149832049-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Netcompany was posted on 2026-02-26.
+This ai / llm engineer position at Netcompany was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

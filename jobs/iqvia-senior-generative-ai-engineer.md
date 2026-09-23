@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Hesse, DE |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Madrid-Spain/Senior-Generative-AI-Engineer_R1562482) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Frankfurt-Hesse-Germany/Senior-Generative-AI-Engineer_R1553743) |
 
 ## About This Role
 
-This ai / llm engineer position at IQVIA was posted on 2026-08-07.
+This ai / llm engineer position at IQVIA was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

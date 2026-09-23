@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Data Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/AI-Platform-Engineer_R000109873-2) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/AI-Platform-Engineer_R000110180-1) |
 
 ## About This Role
 
-This data engineer position at Guardian Life was posted on 2026-08-20.
+This ai / llm engineer position at Guardian Life was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

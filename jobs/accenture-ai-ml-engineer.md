@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
-| Category | AI / LLM Engineer |
-| Posted | 2026-09-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Doha/AI---ML-Engineer_14586579-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/AI---ML-Engineer_ATCI-5478035-S2068450-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-09-13.
+This machine learning engineer position at Accenture was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
