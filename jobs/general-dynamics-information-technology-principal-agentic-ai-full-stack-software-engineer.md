@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Principal-Agentic-AI-Full-Stack-Software-Engineer_RQ226480-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Principal-Agentic-AI-Full-Stack-Software-Engineer_RQ228536-2) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-08-14.
+This software engineer position at General Dynamics Information Technology was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

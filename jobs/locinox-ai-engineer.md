@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Locinox](https://scoutify.ai/companies/locinox?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Waregem, Flanders, Belgium |
-| Category | AI / LLM Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Locinox/744000148800866-ai-engineer) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Locinox/744000150018269-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Locinox was posted on 2026-09-10.
+This embedded / firmware engineer position at Locinox was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

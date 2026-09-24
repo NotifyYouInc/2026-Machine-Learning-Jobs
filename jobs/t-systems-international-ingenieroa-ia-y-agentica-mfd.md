@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Granada, Andalusia, Spain |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000149844349-ingenieroa-ia-y-agentica-mfd) |
 
 ## About This Role
 
-This ai / llm engineer position at T-Systems International was posted on 2026-09-16.
+This software engineer position at T-Systems International was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

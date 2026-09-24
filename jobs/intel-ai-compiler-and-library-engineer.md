@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Compiler-and-Library-Engineer_JR0285836) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Compiler-and-Library-Engineer_JR0287301) |
 
 ## About This Role
 
-This machine learning engineer position at Intel was posted on 2026-07-22.
+This machine learning engineer position at Intel was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

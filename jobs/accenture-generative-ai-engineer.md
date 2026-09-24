@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Budapest, Budapest, Hungary |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bratislava/Generative-AI-Engineer_R00333406-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest-Millennium-Gardens/Generative-AI-Engineer_R00357671) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-08-24.
+This ai / llm engineer position at Accenture was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

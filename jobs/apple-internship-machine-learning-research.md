@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-09-16.
+This ai / ml research position at Apple was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

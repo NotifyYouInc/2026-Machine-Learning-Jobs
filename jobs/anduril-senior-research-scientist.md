@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5239289007?gh_jid=5239289007) |
 
 ## About This Role
 
-This machine learning engineer position at Anduril was posted on 2026-09-15.
+This ai / ml research position at Anduril was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

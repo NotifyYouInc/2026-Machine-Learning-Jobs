@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SquareTrade](https://scoutify.ai/companies/squaretrade1?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SquareTrade1/744000149707089-senior-software-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at SquareTrade was posted on 2026-09-15.
+This software engineer position at SquareTrade was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

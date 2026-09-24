@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AfterQuery](https://scoutify.ai/companies/afterquery?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/afterquery/b1794d2c-fdbf-4165-a244-9e3ccc9cc800) |
 
 ## About This Role
 
-This machine learning engineer position at AfterQuery was posted on 2026-09-15.
+This ai / ml research position at AfterQuery was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

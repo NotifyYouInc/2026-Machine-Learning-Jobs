@@ -5,12 +5,12 @@
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000146471360-senior-ai-engineer) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000150072935-senior-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Version 1 was posted on 2026-08-31.
+This ai / llm engineer position at Version 1 was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

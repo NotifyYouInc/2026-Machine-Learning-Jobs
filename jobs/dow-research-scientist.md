@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dow](https://scoutify.ai/companies/dow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Freeport, New York, United States |
+| Location | 2 locations |
 | Category | AI / ML Research |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Freeport-TX-USA/Research-Scientist_R2068106) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Freeport-TX-USA/Research-Scientist_R2068496-1) |
 
 ## About This Role
 
-This ai / ml research position at Dow was posted on 2026-08-25.
+This ai / ml research position at Dow was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

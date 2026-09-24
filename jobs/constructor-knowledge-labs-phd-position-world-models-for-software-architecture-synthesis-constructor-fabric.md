@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Constructor Knowledge Labs](https://scoutify.ai/companies/constructorknowledgelabs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bremen, City state Bremen, Germany |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/constructorknowledgelabs/jobs/4976717101) |
 
 ## About This Role
 
-This machine learning engineer position at Constructor Knowledge Labs was posted on 2026-09-15.
+This ai / ml research position at Constructor Knowledge Labs was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

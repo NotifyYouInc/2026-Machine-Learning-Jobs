@@ -1,16 +1,16 @@
-# SR AI Engineer at Micron
+# SR. AI Engineer at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/SR-AI-Engineer_JR109842) |
+| Location | Taichung, Taiwan, Taiwan |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---AATT-Taiwan/SR-AI-Engineer_JR111574) |
 
 ## About This Role
 
-This ai / llm engineer position at Micron was posted on 2026-08-31.
+This software engineer position at Micron was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Dallas/Sr-Software-Engineer---Gen-AI-_263047) |
 
 ## About This Role
 
-This machine learning engineer position at Blue Yonder was posted on 2026-09-15.
+This software engineer position at Blue Yonder was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

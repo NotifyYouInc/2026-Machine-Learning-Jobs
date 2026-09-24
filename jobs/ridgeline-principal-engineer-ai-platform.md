@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ridgeline](https://scoutify.ai/companies/ridgeline?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://boards.greenhouse.io/ridgeline/jobs/7996129003?gh_jid=7996129003) |
 
 ## About This Role
 
-This ai / llm engineer position at Ridgeline was posted on 2026-09-15.
+This software engineer position at Ridgeline was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

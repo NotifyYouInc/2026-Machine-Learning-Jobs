@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Revenue / Sales Operations |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000149607350-ai-specialist-revenue-operations-philippines-remote) |
 
 ## About This Role
 
-This revenue / sales operations position at Turnitin was posted on 2026-09-15.
+This software engineer position at Turnitin was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Binance](https://scoutify.ai/companies/binance?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Machine Learning Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.lever.co/binance/1605ad62-b3bb-4e5a-9827-b558648840e9) |
 
 ## About This Role
 
-This machine learning engineer position at Binance was posted on 2026-09-16.
+This ai / llm engineer position at Binance was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

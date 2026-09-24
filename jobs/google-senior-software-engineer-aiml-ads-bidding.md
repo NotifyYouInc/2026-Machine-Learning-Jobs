@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Mountain View, California, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/80861635387761350-senior-software-engineer-aiml-ads-bidding?sort_by=date&page=1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ4BwOu1Mdih-gE4dxsZwrEmNGX63Q5d4drvwfksaZ5FEjsA9yzvglBu1l094BSrySHU3veMXQWxV7HCtRdQ_ix8cc22zNc3kbODUXdMr9dBmo5VBzmwZvEDsLtT3g%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-10.
+This software engineer position at Google was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

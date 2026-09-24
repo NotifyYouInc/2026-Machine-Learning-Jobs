@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Reẖovot, Central District, Israel |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChennaiIND/Algorithm-Developer_R2627487) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Algorithm-Developer_R2627385-1) |
 
 ## About This Role
 
-This machine learning engineer position at Applied Materials was posted on 2026-08-28.
+This machine learning engineer position at Applied Materials was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

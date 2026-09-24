@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Northridge, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Director-Intelligent-Audio/32835) |
 
 ## About This Role
 
-This machine learning engineer position at HARMAN International was posted on 2026-09-15.
+This ai / ml research position at HARMAN International was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

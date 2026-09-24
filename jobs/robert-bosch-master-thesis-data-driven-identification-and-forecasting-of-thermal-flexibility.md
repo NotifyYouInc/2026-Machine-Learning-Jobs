@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Renningen, Baden-Wurttemberg, Germany |
-| Category | Data Scientist |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149586619-master-thesis-data-driven-identification-and-forecasting-of-thermal-flexibility-in-residential-heat-pump-systems) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149876229-master-thesis-data-driven-identification-and-forecasting-of-thermal-flexibility-in-residential-heat-pump-systems) |
 
 ## About This Role
 
-This data scientist position at Robert Bosch was posted on 2026-09-15.
+This machine learning engineer position at Robert Bosch was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

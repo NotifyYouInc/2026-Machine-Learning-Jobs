@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Louisiana State University](https://scoutify.ai/companies/louisiana-state-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Baton Rouge, Louisiana, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://lsu.wd1.myworkdayjobs.com/lsu/job/0437-Chemistry--Materials-Building/Postdoctoral-Scholar_R00120638) |
 
 ## About This Role
 
-This machine learning engineer position at Louisiana State University was posted on 2026-09-15.
+This ai / ml research position at Louisiana State University was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

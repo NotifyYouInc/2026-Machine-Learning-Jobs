@@ -5,12 +5,12 @@
 | Company | [Captivation Software](https://scoutify.ai/companies/captivation?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Maryland, US |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/captivation/jobs/5384948008) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/captivation/jobs/5426491008) |
 
 ## About This Role
 
-This machine learning engineer position at Captivation Software was posted on 2026-08-10.
+This machine learning engineer position at Captivation Software was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

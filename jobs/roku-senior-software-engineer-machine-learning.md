@@ -1,16 +1,16 @@
-# Senior Software Engineer, Machine Learning at Roku
+# Senior Software Engineer, Machine Learning  at Roku
 
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Jose, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/7418278?gh_jid=7418278) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/8208163?gh_jid=8208163) |
 
 ## About This Role
 
-This software engineer position at Roku was posted on 2026-04-23.
+This software engineer position at Roku was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

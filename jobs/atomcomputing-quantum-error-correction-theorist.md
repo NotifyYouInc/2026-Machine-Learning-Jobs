@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Atomcomputing](https://scoutify.ai/companies/atomcomputing?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Berkeley, California, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.lever.co/atomcomputing/4729bb8f-8a61-48ba-aa8b-a3066155d31f) |
 
 ## About This Role
 
-This machine learning engineer position at Atomcomputing was posted on 2026-09-15.
+This ai / ml research position at Atomcomputing was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

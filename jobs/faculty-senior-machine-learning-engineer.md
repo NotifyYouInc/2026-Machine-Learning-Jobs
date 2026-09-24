@@ -1,16 +1,16 @@
-# Senior Machine Learning Engineer  at Faculty
+# Senior Machine Learning Engineer at Faculty
 
 | Field | Details |
 |-------|---------|
 | Company | [Faculty](https://scoutify.ai/companies/faculty?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/faculty/07967907-b88f-4a1c-8a7b-adebb0f7d58b) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/faculty/1a8ccd5c-71b3-41d1-8121-eb086e428b83) |
 
 ## About This Role
 
-This machine learning engineer position at Faculty was posted on 2026-06-23.
+This machine learning engineer position at Faculty was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

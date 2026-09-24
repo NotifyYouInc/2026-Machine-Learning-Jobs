@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000149803769-staff-applications-dev-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at ServiceNow was posted on 2026-09-16.
+This software engineer position at ServiceNow was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckcdd-oip05bFuVOdDwuWBpGqqo24R4fLHPfT_TGi3f4nEjsA9yzvgooLA6GBAOsVYyDKIqiiL0NjcStSwVNVowU4RLQv86-mICo0zar5eRceEeXMygGczOCgs_HfoA%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Google was posted on 2026-09-15.
+This software engineer position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Teknor Apex](https://scoutify.ai/companies/recruiting-ultipro-com-oj105765?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Apex, North Carolina, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://recruiting.ultipro.com/tek1000tac/JobBoard/e469dd97-cdcf-4a0b-affc-cdf255040c75/OpportunityDetail?opportunityId=3ebc518c-6553-47a9-a18e-6f4d00d549ad) |
 
 ## About This Role
 
-This machine learning engineer position at Teknor Apex was posted on 2026-09-15.
+This ai / ml research position at Teknor Apex was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

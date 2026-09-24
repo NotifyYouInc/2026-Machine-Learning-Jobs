@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Auckland](https://scoutify.ai/companies/university-of-auckland?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Auckland, Auckland, New Zealand |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/theuniversityofauckland/744000149735798-postdoctoral-fellow-te-kura-matauranga-pangarau-department-of-mathematics-12-months-fixed-term) |
 
 ## About This Role
 
-This machine learning engineer position at University of Auckland was posted on 2026-09-16.
+This ai / ml research position at University of Auckland was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

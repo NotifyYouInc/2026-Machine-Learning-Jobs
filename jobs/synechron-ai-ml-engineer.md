@@ -1,16 +1,16 @@
-# AI ML Engineer at Synechron
+# AI / ML Engineer at Synechron
 
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 3 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Pune---Hinjewadi-Ascendas/AI-ML-Engineer_JR1042180-1) |
+| Location | Montréal, Quebec, Canada |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/MDC--Montreal/AI---ML-Engineer_JR1043328) |
 
 ## About This Role
 
-This machine learning engineer position at Synechron was posted on 2026-07-21.
+This ai / llm engineer position at Synechron was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

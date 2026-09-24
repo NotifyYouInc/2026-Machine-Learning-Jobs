@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Westminster, Colorado, United States |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Sr-AI-Software-Engineer_R57765) |
 
 ## About This Role
 
-This ai / llm engineer position at Trimble was posted on 2026-09-15.
+This software engineer position at Trimble was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

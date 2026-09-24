@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Daegu, Daegu, South Korea |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Daegu/VIE-R-D-Engineer---AI---Automotive-Engineering-Tools-H-F_REQ2026080792) |
 
 ## About This Role
 
-This machine learning engineer position at Valeo was posted on 2026-09-15.
+This software engineer position at Valeo was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

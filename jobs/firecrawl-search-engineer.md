@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Firecrawl](https://scoutify.ai/companies/firecrawl?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/firecrawl/762b4426-b4aa-4377-96d3-51f40c59cbf7) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/firecrawl/5a7ce67e-0b71-428a-b774-e7c05e7841b6) |
 
 ## About This Role
 
-This machine learning engineer position at Firecrawl was posted on 2026-07-12.
+This software engineer position at Firecrawl was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

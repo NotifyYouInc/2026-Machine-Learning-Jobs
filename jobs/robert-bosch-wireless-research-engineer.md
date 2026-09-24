@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146296069-wireless-research-engineer) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149910364-wireless-research-engineer) |
 
 ## About This Role
 
-This ai / ml research position at Robert Bosch was posted on 2026-08-29.
+This embedded / firmware engineer position at Robert Bosch was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

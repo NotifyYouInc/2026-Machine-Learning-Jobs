@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flow Traders](https://scoutify.ai/companies/flowtraders?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/7667941) |
 
 ## About This Role
 
-This machine learning engineer position at Flow Traders was posted on 2026-09-16.
+This ai / ml research position at Flow Traders was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/8204952) |
 
 ## About This Role
 
-This machine learning engineer position at Appian was posted on 2026-09-15.
+This software engineer position at Appian was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

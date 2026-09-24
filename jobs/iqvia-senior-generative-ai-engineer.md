@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hesse, DE |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Frankfurt-Hesse-Germany/Senior-Generative-AI-Engineer_R1553743) |
 
 ## About This Role
 
-This ai / llm engineer position at IQVIA was posted on 2026-09-16.
+This software engineer position at IQVIA was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

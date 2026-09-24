@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | India |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/Senior-Software-Engineer-AI_R2627070) |
 
 ## About This Role
 
-This ai / llm engineer position at Hartford Financial Services was posted on 2026-09-15.
+This software engineer position at Hartford Financial Services was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

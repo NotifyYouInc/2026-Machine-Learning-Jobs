@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fermilab](https://scoutify.ai/companies/fermilab?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Batavia, Illinois, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/AI-Associates_R_009869) |
 
 ## About This Role
 
-This machine learning engineer position at Fermilab was posted on 2026-09-16.
+This ai / ml research position at Fermilab was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

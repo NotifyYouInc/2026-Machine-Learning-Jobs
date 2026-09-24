@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | United Kingdom |
 | Category | AI / ML Research |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4945760101) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4975270101) |
 
 ## About This Role
 
-This ai / ml research position at Nebius was posted on 2026-08-05.
+This ai / ml research position at Nebius was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

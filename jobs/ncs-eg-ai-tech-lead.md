@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001160939-eg-ai-tech-lead) |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001417434-eg-ai-tech-lead) |
 
 ## About This Role
 
-This ai / llm engineer position at NCS was posted on 2026-06-17.
+This software engineer position at NCS was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 4 locations |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/AI-Native-Software-Engineer--Senior_R-122405) |
 
 ## About This Role
 
-This ai / llm engineer position at AT&T was posted on 2026-09-15.
+This software engineer position at AT&T was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fieldguide](https://scoutify.ai/companies/fieldguide?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/fieldguide/2554d3e4-a835-4739-b022-6058d97e2517) |
 
 ## About This Role
 
-This ai / llm engineer position at Fieldguide was posted on 2026-09-16.
+This software engineer position at Fieldguide was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

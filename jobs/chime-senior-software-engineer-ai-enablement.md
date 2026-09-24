@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chime](https://scoutify.ai/companies/chime?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://boards.greenhouse.io/chime/jobs/8788272002?gh_jid=8788272002) |
 
 ## About This Role
 
-This ai / llm engineer position at Chime was posted on 2026-09-15.
+This software engineer position at Chime was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

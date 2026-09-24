@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abnormal](https://scoutify.ai/companies/abnormal?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United Kingdom |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://abnormal.ai/careers/jobs/7995027003?gh_jid=7995027003) |
 
 ## About This Role
 
-This ai / llm engineer position at Abnormal was posted on 2026-09-16.
+This software engineer position at Abnormal was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

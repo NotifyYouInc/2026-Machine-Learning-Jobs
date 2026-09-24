@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8204585?gh_jid=8204585) |
 
 ## About This Role
 
-This machine learning engineer position at HelloFresh was posted on 2026-09-15.
+This software engineer position at HelloFresh was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

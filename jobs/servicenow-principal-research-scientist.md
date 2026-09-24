@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000149695499-principal-research-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at ServiceNow was posted on 2026-09-15.
+This ai / ml research position at ServiceNow was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/AI-Platform-Engineer---Vice-President_PT-JR042095) |
 
 ## About This Role
 
-This ai / llm engineer position at Morgan Stanley was posted on 2026-09-15.
+This software engineer position at Morgan Stanley was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

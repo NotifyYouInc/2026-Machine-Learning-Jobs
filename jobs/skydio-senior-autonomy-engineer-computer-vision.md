@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Skydio](https://scoutify.ai/companies/skydio?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | San Mateo, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Robotics Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/skydio/3fbd5cc0-36df-4d21-a88b-04e0932109d6) |
 
 ## About This Role
 
-This machine learning engineer position at Skydio was posted on 2026-09-16.
+This robotics engineer position at Skydio was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

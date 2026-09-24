@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University of Sydney](https://scoutify.ai/companies/university-of-sydney?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | 2 locations |
+| Location | Westmead, New South Wales, Australia |
 | Category | AI / ML Research |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/Darlington-Campus/Research-Fellow_0153314-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/Westmead-Campus/Research-Fellow_0156812) |
 
 ## About This Role
 
-This ai / ml research position at University of Sydney was posted on 2026-08-28.
+This ai / ml research position at University of Sydney was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200682521/sr-ml-researcher-multi-modal-reasoning) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-09-15.
+This ai / ml research position at Apple was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NextGen Federal Systems](https://scoutify.ai/companies/nextgenfed?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Aberdeen, South Dakota, United States |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.lever.co/nextgenfed/282bb8ea-e610-484b-a0cf-62963e4f6614) |
 
 ## About This Role
 
-This ai / llm engineer position at NextGen Federal Systems was posted on 2026-09-15.
+This software engineer position at NextGen Federal Systems was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

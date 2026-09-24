@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000149788949-associate-principal-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Nagarro was posted on 2026-09-16.
+This software engineer position at Nagarro was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

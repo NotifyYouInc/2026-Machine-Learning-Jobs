@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Glance](https://scoutify.ai/companies/glance?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/glance/jobs/8207128) |
 
 ## About This Role
 
-This machine learning engineer position at Glance was posted on 2026-09-16.
+This software engineer position at Glance was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

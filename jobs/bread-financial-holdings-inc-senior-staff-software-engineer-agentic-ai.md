@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bread Financial Holdings, Inc.](https://scoutify.ai/companies/bread-financial-holdings-inc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_india/job/Bangalore-India/Senior-Staff---Software-Engineer--IND-_R1013115) |
 
 ## About This Role
 
-This ai / llm engineer position at Bread Financial Holdings, Inc. was posted on 2026-09-16.
+This software engineer position at Bread Financial Holdings, Inc. was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

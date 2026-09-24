@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Macquarie University](https://scoutify.ai/companies/macquarie-university?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | North Ryde, New South Wales, Australia |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://mq.wd3.myworkdayjobs.com/careersatmq/job/Wallumattagal-Campus-Macquarie-University/Postdoctoral-Research-Associate_R000024494) |
 
 ## About This Role
 
-This machine learning engineer position at Macquarie University was posted on 2026-09-15.
+This ai / ml research position at Macquarie University was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

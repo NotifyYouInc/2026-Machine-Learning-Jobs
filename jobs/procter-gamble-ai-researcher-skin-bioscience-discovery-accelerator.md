@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-TC-BIOPOLIS/AI-Researcher---Skin-Bioscience-Discovery-Accelerator_R000159006) |
 
 ## About This Role
 
-This machine learning engineer position at Procter & Gamble was posted on 2026-09-16.
+This ai / ml research position at Procter & Gamble was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

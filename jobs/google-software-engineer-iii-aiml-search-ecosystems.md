@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Mountain View, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUQu68DpIwjjBBkVDmnyBJMdu6ybA9eHO_bbW86xLEzmEjsA9yzvggPNVkCYSECHDfjwt4ig-2B8gHbX4t72DWdxuI52JfscD5ugdwNSUUWPmkuxxjEqEV14F5VwsQ%3D%3D_V2&loc=US&title=Software+Engineer+III) |
 
 ## About This Role
 
-This ai / llm engineer position at Google was posted on 2026-09-15.
+This software engineer position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

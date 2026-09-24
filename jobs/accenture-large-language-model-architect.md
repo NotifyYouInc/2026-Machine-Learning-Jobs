@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5728068-S2067310) |
+| Location | Gurugram, Haryana, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Large-Language-Model-Architect_ATCI-5743401-S2067578) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-09-10.
+This technology / it consulting position at Accenture was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dürr Group](https://scoutify.ai/companies/ocs-cx-oj31554?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bietigheim-Bissingen, Baden-Wurttemberg, Germany |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://fa-eurk-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4089) |
 
 ## About This Role
 
-This ai / llm engineer position at Dürr Group was posted on 2026-09-16.
+This software engineer position at Dürr Group was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

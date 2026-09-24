@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Timely](https://scoutify.ai/companies/timely?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | Machine Learning Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/timely/98a7a1f6-13e7-499c-be53-728d0e86e510) |
 
 ## About This Role
 
-This machine learning engineer position at Timely was posted on 2026-09-16.
+This software engineer position at Timely was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

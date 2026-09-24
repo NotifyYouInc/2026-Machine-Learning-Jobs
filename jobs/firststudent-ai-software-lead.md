@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Firststudent](https://scoutify.ai/companies/firststudent?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cincinnati, Ohio, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://firststudent.wd1.myworkdayjobs.com/firststudent/job/CINCINNATI-OH---HEADQUARTERS/AI-Software-Lead_JR14153) |
+| Category | Software Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://firststudent.wd1.myworkdayjobs.com/firststudent/job/CINCINNATI-OH---HEADQUARTERS/AI-Software-Lead_JR16868) |
 
 ## About This Role
 
-This ai / llm engineer position at Firststudent was posted on 2026-06-04.
+This software engineer position at Firststudent was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

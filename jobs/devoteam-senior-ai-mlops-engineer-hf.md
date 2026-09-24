@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000132434125-senior-ai-mlops-engineer-hf) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000149911099-senior-ai-mlops-engineer-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-06-16.
+This devops engineer position at Devoteam was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

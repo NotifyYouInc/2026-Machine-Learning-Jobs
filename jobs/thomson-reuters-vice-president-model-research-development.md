@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Zug, Zug, Switzerland |
-| Category | Machine Learning Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Vice-President--Model-Research---Development_JREQ203570) |
 
 ## About This Role
 
-This machine learning engineer position at Thomson Reuters was posted on 2026-09-15.
+This ai / ml research position at Thomson Reuters was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

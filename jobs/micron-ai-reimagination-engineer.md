@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/AI-Reimagination-Engineer_JR112144) |
 
 ## About This Role
 
-This ai / llm engineer position at Micron was posted on 2026-09-16.
+This software engineer position at Micron was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
