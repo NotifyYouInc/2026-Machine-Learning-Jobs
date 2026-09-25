@@ -5,12 +5,12 @@
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Scientist |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000137595779-performance-optimisation-engineer-fmd-bess-ignitis-renewables) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000150292609-performance-optimisation-engineer-fmd-bess-ignitis-renewables) |
 
 ## About This Role
 
-This data scientist position at Ignitis Grupe was posted on 2026-07-14.
+This data scientist position at Ignitis Grupe was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

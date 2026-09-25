@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000148986050-ai-engineer) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000150299149-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at KPN was posted on 2026-09-11.
+This ai / llm engineer position at KPN was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

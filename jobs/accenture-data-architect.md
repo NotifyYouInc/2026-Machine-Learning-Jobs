@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Architect_ATCI-5774334-S2069528-1) |
+| Category | Data Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Architect_ATCI-5743121-S2067575-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-09-15.
+This data engineer position at Accenture was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7891045?gh_jid=7891045) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/8211486?gh_jid=8211486) |
 
 ## About This Role
 
-This machine learning engineer position at Coinbase was posted on 2026-06-10.
+This machine learning engineer position at Coinbase was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Sr-Radar-Optimization-Engineer_R-00192211) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Sr-Radar-Optimization-Engineer_R-00192266) |
 
 ## About This Role
 
-This machine learning engineer position at Leidos was posted on 2026-09-15.
+This machine learning engineer position at Leidos was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

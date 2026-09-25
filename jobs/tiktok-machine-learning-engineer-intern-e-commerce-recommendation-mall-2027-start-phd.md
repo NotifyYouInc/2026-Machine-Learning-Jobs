@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7672920375646488885/detail) |
+| Location | San Jose, California, United States |
+| Category | AI / ML Research |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7686283601340369205/detail) |
 
 ## About This Role
 
-This machine learning engineer position at TikTok was posted on 2026-08-12.
+This ai / ml research position at TikTok was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

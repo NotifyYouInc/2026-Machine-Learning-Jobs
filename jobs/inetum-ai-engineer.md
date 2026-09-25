@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Bucharest, București, Romania |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000149628804-ai-engineer) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000149838879-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Inetum was posted on 2026-09-15.
+This ai / llm engineer position at Inetum was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

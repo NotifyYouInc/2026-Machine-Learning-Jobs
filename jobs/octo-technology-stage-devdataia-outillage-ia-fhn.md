@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCTO Technology](https://scoutify.ai/companies/octotechnology?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Marcq-en-Barœul, Hauts-de-France, France |
-| Category | Machine Learning Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000147200281-stage-devdataia-outillage-ia-fhn) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000150098969-stage-devdataia-outillage-ia-fhn) |
 
 ## About This Role
 
-This machine learning engineer position at OCTO Technology was posted on 2026-09-03.
+This ai / llm engineer position at OCTO Technology was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

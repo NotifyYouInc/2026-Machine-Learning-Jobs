@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Scottsdale, Arizona, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Manager---Software-Development-Engineering_R1027926) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Manager---Software-Development-Engineering_R1018320-1) |
 
 ## About This Role
 
-This machine learning engineer position at CVS Health was posted on 2026-09-09.
+This ai / llm engineer position at CVS Health was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

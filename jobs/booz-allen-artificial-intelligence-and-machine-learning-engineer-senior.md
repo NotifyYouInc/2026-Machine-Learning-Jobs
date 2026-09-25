@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Wahiawā, Hawaii, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wahiawa-HI/Artificial-Intelligence-and-Machine-Learning-Engineer--Senior_R0245163) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wahiawa-HI/Artificial-Intelligence-and-Machine-Learning-Engineer--Senior_R0249709) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-07-23.
+This ai / llm engineer position at Booz Allen was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

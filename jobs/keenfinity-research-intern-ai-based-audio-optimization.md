@@ -5,12 +5,12 @@
 | Company | [Keenfinity](https://scoutify.ai/companies/keenfinity?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Eindhoven, North Brabant, The Netherlands |
 | Category | AI / ML Research |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000129972959-research-intern-ai-based-audio-optimization) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000150347490-research-intern-ai-based-audio-optimization) |
 
 ## About This Role
 
-This ai / ml research position at Keenfinity was posted on 2026-06-03.
+This ai / ml research position at Keenfinity was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

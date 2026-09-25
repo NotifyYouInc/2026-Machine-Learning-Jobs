@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Software Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000149681759-developpeureuse-orchestration-de-lia-sap) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000150126881-developpeureuse-orchestration-de-lia-sap) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-09-15.
+This ai / llm engineer position at Talan was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

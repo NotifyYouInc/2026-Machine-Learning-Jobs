@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xometry](https://scoutify.ai/companies/xometry?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | North Bethesda, Maryland, United States |
+| Location | Denver, Colorado, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5153005007) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5240988007) |
 
 ## About This Role
 
-This machine learning engineer position at Xometry was posted on 2026-06-02.
+This machine learning engineer position at Xometry was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

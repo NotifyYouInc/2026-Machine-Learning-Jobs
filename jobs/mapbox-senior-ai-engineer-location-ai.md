@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mapbox](https://scoutify.ai/companies/mapbox?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Germany |
-| Category | AI / LLM Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mapbox/cb999882-00a6-4b6e-9335-d1d6f183a452) |
+| Location | Helsinki, Uusimaa, Finland |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mapbox/ac536b79-8846-48b2-818d-0ac91b3c8631) |
 
 ## About This Role
 
-This ai / llm engineer position at Mapbox was posted on 2026-09-11.
+This software engineer position at Mapbox was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

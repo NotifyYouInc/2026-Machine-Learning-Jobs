@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000149681810-sap-ai-orchestration-developer) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000150124390-sap-ai-orchestration-developer) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-09-15.
+This software engineer position at Talan was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Nagpur, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5774336-S2069530) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nagpur/AI---ML-Engineer_ATCI-5355773-S1952516-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-09-15.
+This ai / llm engineer position at Accenture was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

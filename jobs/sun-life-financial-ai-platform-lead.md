@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Hong Kong |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Hunghom-Kowloon-Hong-Kong/AI-Platform-Lead_JR00121670-2) |
+| Location | Hong Kong, Hong Kong |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Hunghom-Kowloon-Hong-Kong/AI-Platform-Lead_JR00127815-1) |
 
 ## About This Role
 
-This machine learning engineer position at Sun Life Financial was posted on 2026-03-21.
+This ai / llm engineer position at Sun Life Financial was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

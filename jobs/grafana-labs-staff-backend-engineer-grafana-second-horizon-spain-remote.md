@@ -5,12 +5,12 @@
 | Company | [Grafana Labs](https://scoutify.ai/companies/grafana-labs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Spain |
 | Category | Software Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/grafanalabs/jobs/6123175004) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/grafanalabs/jobs/6200023004) |
 
 ## About This Role
 
-This software engineer position at Grafana Labs was posted on 2026-07-23.
+This software engineer position at Grafana Labs was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

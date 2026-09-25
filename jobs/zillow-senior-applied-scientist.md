@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Applied-Scientist_P749456) |
+| Category | Data Scientist |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Applied-Scientist_P751331) |
 
 ## About This Role
 
-This ai / llm engineer position at Zillow was posted on 2026-03-04.
+This data scientist position at Zillow was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

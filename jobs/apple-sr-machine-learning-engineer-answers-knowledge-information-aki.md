@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Not specified |
+| Location | Seattle, Washington, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200645592/sr-machine-learning-engineer-answers-knowledge-information-aki) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200683999/sr-machine-learning-engineer-answers-knowledge-information-aki) |
 
 ## About This Role
 
-This machine learning engineer position at Apple was posted on 2026-02-05.
+This machine learning engineer position at Apple was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

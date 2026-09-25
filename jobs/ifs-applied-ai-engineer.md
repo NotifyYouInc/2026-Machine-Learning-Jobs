@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 's-Hertogenbosch, North Brabant, The Netherlands |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000143794829-applied-ai-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000150114984-applied-ai-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at IFS was posted on 2026-08-17.
+This ai / llm engineer position at IFS was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
