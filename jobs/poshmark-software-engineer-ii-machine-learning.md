@@ -5,12 +5,12 @@
 | Company | [Poshmark](https://scoutify.ai/companies/poshmark?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Redwood City, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/poshmark/1bdf7b14-1a68-4c3b-ab64-4a3a2793b937) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/poshmark/29f36dfd-7d52-4dac-a257-9e197d390775) |
 
 ## About This Role
 
-This software engineer position at Poshmark was posted on 2026-06-02.
+This software engineer position at Poshmark was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

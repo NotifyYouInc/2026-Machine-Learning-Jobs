@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Belgium |
 | Category | Machine Learning Engineer |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000149816401-machine-learning-engineer) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000150036489-machine-learning-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at SIA was posted on 2026-09-16.
+This machine learning engineer position at SIA was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

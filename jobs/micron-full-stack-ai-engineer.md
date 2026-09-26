@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Boise, Idaho, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR108058) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR111970) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-08-13.
+This software engineer position at Micron was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

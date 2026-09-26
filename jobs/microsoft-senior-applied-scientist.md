@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Data Scientist |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556998381) |
+| Location | Vancouver, Washington, United States |
+| Category | AI / ML Research |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556999845) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-09-16.
+This ai / ml research position at Microsoft was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

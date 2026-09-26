@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10551517/sr-applied-scientist-last-mile-science) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-09-17.
+This ai / ml research position at Amazon was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

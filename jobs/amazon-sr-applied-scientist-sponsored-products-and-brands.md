@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10553014/sr-applied-scientist-sponsored-products-and-brands) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-09-18.
+This ai / ml research position at Amazon was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

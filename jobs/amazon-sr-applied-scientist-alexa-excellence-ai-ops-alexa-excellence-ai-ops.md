@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10421216/sr-applied-scientist-alexa-excellence-ai-ops-alexa-excellence-ai-ops) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10554125/sr-applied-scientist-alexa-excellence-ai-ops-alexa-excellence-ai-ops) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-15.
+This ai / ml research position at Amazon was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

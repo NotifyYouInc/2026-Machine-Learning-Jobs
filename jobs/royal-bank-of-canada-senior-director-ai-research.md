@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Director--AI-Research_R-0000173774-1) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Senior-Director--AI-Research_R-0000173774-1) |
 
 ## About This Role
 
-This ai / ml research position at Royal Bank of Canada was posted on 2026-05-24.
+This ai / ml research position at Royal Bank of Canada was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

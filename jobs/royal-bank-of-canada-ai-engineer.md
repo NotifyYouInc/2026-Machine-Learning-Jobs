@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | London, England, United Kingdom |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/AI-Engineer_R-0000175871-1) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/AI-Engineer_R-0000186716) |
 
 ## About This Role
 
-This ai / llm engineer position at Royal Bank of Canada was posted on 2026-08-04.
+This ai / llm engineer position at Royal Bank of Canada was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

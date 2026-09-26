@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Cupertino, California, United States |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200684303/senior-exercise-physiologist-health-aiml) |
 
 ## About This Role
 
-This data scientist position at Apple was posted on 2026-09-17.
+This ai / ml research position at Apple was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

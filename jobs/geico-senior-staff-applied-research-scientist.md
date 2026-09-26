@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | 3 locations |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Senior-Staff-Applied--Research-Scientist-_R0065891) |
 
 ## About This Role
 
-This data scientist position at Geico was posted on 2026-09-18.
+This ai / ml research position at Geico was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

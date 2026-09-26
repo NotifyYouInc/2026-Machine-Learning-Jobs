@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10553200/applied-scientist-speech-ai-content-reasoning-enrichment-and-localization) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-09-18.
+This ai / ml research position at Amazon was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

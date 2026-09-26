@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000143786179-senior-machine-learning-engineer-ii-fincrime) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000150418467-senior-machine-learning-engineer-ii-fincrime) |
 
 ## About This Role
 
-This machine learning engineer position at WISE was posted on 2026-08-17.
+This machine learning engineer position at WISE was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000144776409-ingenieur-ia-generative-systeme-agentic-digital-factory) |
+| Category | Software Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000150401140-ingenieur-ia-generative-systeme-agentic-digital-factory) |
 
 ## About This Role
 
-This ai / llm engineer position at Sopra Steria was posted on 2026-08-21.
+This software engineer position at Sopra Steria was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

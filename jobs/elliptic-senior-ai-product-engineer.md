@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elliptic](https://scoutify.ai/companies/elliptic?utm_source=github&utm_medium=repo&utm_campaign=ml-jobs) |
 | Location | London, England, United Kingdom |
-| Category | AI / LLM Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/elliptic/b2894201-7298-4277-bbae-6b0cf14c6c55) |
+| Category | Software Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/elliptic/0f9e1fec-0eec-41f7-a30d-88fb86bfc462) |
 
 ## About This Role
 
-This ai / llm engineer position at Elliptic was posted on 2026-06-23.
+This software engineer position at Elliptic was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
